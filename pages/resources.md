@@ -19,7 +19,7 @@ The National Library of Singapore and National Archives have over 10,000 maps an
     <td><img src="/images/thumbnail-spatialdiscovery.jpg" alt="Spatial Discovery" height="25%" /></td>
     <td>
 		<h4><a href="/resource-pages/spatialdiscovery">Spatial Discovery</a></h4><br/>
-		DSpatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps...
+		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps...
 	</td>
   </tr>
 </table>
