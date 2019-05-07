@@ -1,5 +1,5 @@
 categories:
-- category-name: media # This is the Resources name: in the case of Curiocity, it is media
+- category-name: resource-room # This is the Resources name: in the case of Curiocity, it is resource-room
 - category-name: vr-tours
 - category-name: story-maps
 - category-name: articles
