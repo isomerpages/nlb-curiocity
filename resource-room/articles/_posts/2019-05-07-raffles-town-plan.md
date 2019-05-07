@@ -5,6 +5,8 @@ permalink: /resource-room/articles/raffles-town-plan
 date: 2019-05-07
 ---
 
+![Banner for Raffles Town Plan](/images/banner-raffles-town-plan.jpg)
+
 The Raffles Town Plan, also known as the Jackson Plan, refers to [Stamford Raffles](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html)’s plan for the town of Singapore formulated in late 1822. Lieutenant [Philip Jackson](http://eresources.nlb.gov.sg/infopedia/articles/SIP_140_2005-01-20.html) drew up a plan according to Raffles’s vision and the resultant plan was published in 1828. The town plan focused on the downtown area, particularly around the [Singapore River](http://eresources.nlb.gov.sg/infopedia/articles/SIP_148_2005-02-02.html), and spanned from [Telok Ayer](http://eresources.nlb.gov.sg/infopedia/articles/SIP_656_2004-12-31.html) to the Kallang River.1 It was based on the vision that Singapore would be “a place of considerable magnitude and importance” and, as such, “an economical and proper allotment of the ground intended to form the site of the principal town [was] an object of first importance”.2
 
 ### Concept
