@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Spatial Discovery
-permalink: /resource-pages/spatialdiscovery/
+permalink: /research-resource/spatialdiscovery/
 breadcrumb: Spatial Discovery
 ---
 

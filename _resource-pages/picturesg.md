@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: PictureSG
-permalink: /resource-pages/picturesg/
+permalink: /research-resource/picturesg/
 breadcrumb: PictureSG
 ---
 
