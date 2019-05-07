@@ -11,14 +11,14 @@ The National Library of Singapore and National Archives have over 10,000 maps an
   <tr>
     <td><img src="/images/thumbnail-picturesg.jpg" alt="PictureSG" height="200px" /></td>
     <td>
-		<h4><a href="/research-resource/picturesg">PictureSG</a></h4><br/>
+		<h4><a href="/research-resource/picturesg/">PictureSG</a></h4><br/>
 		PictureSG is a collection of pictures, be it photographs or artworks, which provide information about Singapore. It contains NLB’s own pictures, pictures donated to NLB by respective donors and others contributed by our...
 	</td>
   </tr>
   <tr>
     <td><img src="/images/thumbnail-spatialdiscovery.jpg" alt="Spatial Discovery" height="200px" /></td>
     <td>
-		<h4><a href="/research-resource/spatialdiscovery">Spatial Discovery</a></h4><br/>
+		<h4><a href="/research-resource/spatialdiscovery/">Spatial Discovery</a></h4><br/>
 		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps...
 	</td>
   </tr>
