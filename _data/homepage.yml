@@ -32,7 +32,16 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
+    
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title:
+programmes-subtitle: What is Curiocity?
+programmes-description: One-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years
+programmes-more-button: More about Curiocity
+programmes-more-button-url: /resource-room/
 
+# Resources
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
