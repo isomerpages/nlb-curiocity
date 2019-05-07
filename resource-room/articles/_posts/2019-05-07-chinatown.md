@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chinatown
-permalink: /media/articles/chinatown
+permalink: /resource-room/articles/chinatown
 date: 2019-05-07
 ---
 
