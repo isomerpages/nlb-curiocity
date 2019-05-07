@@ -13,12 +13,12 @@ agency-logo: /images/logo-curiocity.png
 # Hero Banner
 hero-title: Curiocity
 hero-subtitle: Learn Singapore through maps & photographs
-hero-banner: /images/hero-banner.png
+hero-banner: /images/hero-banner-curiocity.png
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /resource-room/
     
 key-highlights:
   - title: Highlight A
