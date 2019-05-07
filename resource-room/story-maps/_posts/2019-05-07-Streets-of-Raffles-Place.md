@@ -5,7 +5,7 @@ permalink: /resource-room/story-maps/streets-of-raffles-place
 date: 2019-05-07
 ---
 
-![Banner for Streets of Raffles Place](/images/banner-streets-of-raffles-place.jpg)
+![Banner for Streets of Raffles Place Story Map](/images/banner-streets-of-raffles-place.jpg)
 
 Place names tell us much about a country – its history, its landscape, its people, its aspirations and its self-image. The study of place names, topnoymics, unlocks the myriad interlocking stories that are encoded in every street and landmark. In Singapore, the coexistance of various races, cultures, as well as its history of colonialism, nationalism and development, has given rise to a complex tapestry of place names. These are illustrated in how the streets were named in Raffles Place.
 
