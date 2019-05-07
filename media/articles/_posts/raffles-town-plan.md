@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Raffles Town Plan"
+title: Raffles Town Plan
 permalink: /media/articles/raffles-town-plan
 date: 2019-05-07
 ---

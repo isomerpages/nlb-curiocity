@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chinatown"
+title: Chinatown
 permalink: /media/articles/chinatown
 date: 2019-05-07
 ---
