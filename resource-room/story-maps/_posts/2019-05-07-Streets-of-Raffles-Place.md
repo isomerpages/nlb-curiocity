@@ -11,6 +11,6 @@ Place names tell us much about a country – its history, its landscape, its peo
 
 Take a look at some of them in this [storymap](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/raffles-place-the-streets/index.html). Alternatively, you can scan the QR code below.
 
-![QR for Streets of Raffles Place VR Tour](/images/banner-streets-of-raffles-place.jpg)
+![QR for Streets of Raffles Place VR Tour](/images/qr-streets-of-raffles-place.jpg)
 
 Image Credit Line: Singapore Street Directory and Guide, 1st Edition, 1954.
