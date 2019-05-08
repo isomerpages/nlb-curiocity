@@ -84,7 +84,7 @@ By accessing this website, you agree that Singapore law, including without limit
 
 Any dispute relating in any way to your visit to NLB DIGITAL LIBRARY or to products you purchase through NLB DIGITAL LIBRARY shall be submitted to confidential arbitration in Singapore, except that, to the extent you have in any manner violated or threatened to violate NLB DIGITAL LIBRARY’S intellectual property rights, NLB DIGITAL LIBRARY may seek injunctive or other appropriate relief in any state and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under the rules then prevailing of the Singapore International Arbitration Centre. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
 
-#### **10. Site Policies, Membership, Modification, and Severability**
+##### **10. Site Policies, Membership, Modification, and Severability**
 
 We reserve the right to make changes to our site, policies, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
 
