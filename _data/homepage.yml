@@ -19,7 +19,7 @@ hero-banner: /images/hero-banner-curiocity2.jpg
 button:
   - text: Learn More
     url: /resource-room/
-
+    
 # Info Sections
 info-sections:
   - section-title: 
@@ -40,3 +40,9 @@ info-sections:
     section-more-button: More
     section-more-button-url: /resource-room/articles/
     section-image-path: /images/banner-raffles-town-plan.jpg
+
+# Resources
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: /resource-room/
