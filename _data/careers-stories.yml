@@ -1,0 +1,24 @@
+- title: What's available?
+  name: VR Tours
+  position: 
+  # dept: Government Digital Services, Data Science Division
+  story: Ever dream about travelling back in time to see how Singapore was like? Using our rich photograph collections, we have put together the following virtual reality tours of some of the most interesting places on the island
+  img: /images/banner-fullerton-square.jpg  
+  button-text: Read more
+  button-url: /resource-room/vr-tours/
+- title: What's available?
+  name: Story Maps
+  position: 
+  # dept: Government Digital Services, Data Science Division
+  story: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps below and be amazed by the stories they embedded
+  img: /images/banner-streets-of-raffles-place.jpg 
+  button-text: Read more
+  button-url: /resource-room/story-maps/
+- title: What's available?
+  name: Articles
+  position: 
+  # dept: Government Digital Services, Data Science Division
+  story: The map collection of the National Library of Singapore and National Archives are among our most treasured materials. Learn more about them and their historical significance in these articles
+  img: /images/banner-raffles-town-plan.jpg
+  button-text: Read more
+  button-url: /resource-room/articles/

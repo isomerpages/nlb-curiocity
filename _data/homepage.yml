@@ -19,27 +19,10 @@ hero-banner: /images/hero-banner-curiocity2.jpg
 button:
   - text: Learn More
     url: /resource-room/
-    
-# Info Sections
-info-sections:
-  - section-title: 
-    section-subtitle: VR Tours
-    section-description: Ever dream about travelling back in time to see how Singapore was like? Using our rich photograph collections, we have put together the following virtual reality tours of some of the most interesting places on the island.
-    section-more-button: More
-    section-more-button-url: /resource-room/vr-tours/
-    section-image-path: /images/banner-fullerton-square.jpg  
-  - section-title: 
-    section-subtitle: Story Maps
-    section-description: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps below and be amazed by the stories they embedded
-    section-more-button: More
-    section-more-button-url: /resource-room/story-maps/
-    section-image-path: /images/banner-streets-of-raffles-place.jpg 
-  - section-title: 
-    section-subtitle: Articles
-    section-description: The map collection of the National Library of Singapore and National Archives are among our most treasured materials. Learn more about them and their historical significance in these articles.
-    section-more-button: More
-    section-more-button-url: /resource-room/articles/
-    section-image-path: /images/banner-raffles-town-plan.jpg
+
+# Careers Section - NLB uses this to feature curiocity's features
+careers-subtitle: What is Curiocity?
+careers-description: Curiocity is a one-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years.
 
 # Resources
 resources-title: Resources
