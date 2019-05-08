@@ -19,27 +19,6 @@ hero-banner: /images/hero-banner-curiocity2.jpg
 button:
   - text: Learn More
     url: /resource-room/
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-    
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title:
-programmes-subtitle: What is Curiocity?
-programmes-description: One-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years
-programmes-more-button: More about Curiocity
-programmes-more-button-url: /resource-room/
 
 # Info Sections
 info-sections:
@@ -61,9 +40,3 @@ info-sections:
     section-more-button: More
     section-more-button-url: /resource-room/articles/
     section-image-path: /images/banner-raffles-town-plan.jpg
-
-# Resources
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
