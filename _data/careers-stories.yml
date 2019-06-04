@@ -15,8 +15,8 @@
   button-text: Read more
   button-url: /resource-room/story-maps/
 - title: What's available?
-  # name: Articles
-  # position: 
+   name: Articles
+   position: 
   # dept: Government Digital Services, Data Science Division
   story: The map collection of the National Library of Singapore and National Archives are among our most treasured materials. Learn more about them and their historical significance in these articles
   img: /images/banner-raffles-town-plan.jpg
