@@ -31,8 +31,6 @@ Chinatown is Singapore’s largest Historic District and the four sub-districts 
 **Author**
 Vernon Cornelius-Takahama
 
-[^footnotes]
-
 ### References
 [^1]: Urban Redevelopment Authority (Singapore). (1995). [Outram planning area: Planning report 1995](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7494280). Singapore: Author, p. 4. (Call no.: RSING 711.4095957 SIN)
 2. Buckley, C. B. (1984). [An anecdotal history of old times in Singapore: 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) Singapore: Oxford University Press, p. 83. (Call no.: RSING 959.57 BUC-[HIS]); [Chinatown: An album of a Singapore community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3213762). (1983). Singapore: Times Books International: Archives and Oral History Dept, pp. 9–11. (Call no.: RSING 779.995957 CHI)
@@ -87,6 +85,8 @@ Vernon Cornelius-Takahama
 51. Teo, A. (1997, June 20). [The wayang lives on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970620-1.2.112). The New Paper, p. 82. Retrieved from NewspaperSG.
 52. Chinese documentary on ancient Tang dynasty premieres in UN. (2009, September 10). Xinhua’s China Economic Information Services. Retrieved from Factiva via NLB’s eResources website: [http://eresources.nlb.gov.sg/](http://eresources.nlb.gov.sg/)
 53. Yan, Q. (2014). [Ethnic Chinese business in Asia: History, culture and business enterprise](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200163412). Singapore; New Jersey: World Scientific, p. 11. (Call no.: RSEA 338.708995105 YAN)
+
+[^footnote]
 
 Further resource
 Awang Sudjai Hairul & Yusoff Khan. (1977). [Kamus Lengkap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1366170). Petaling Jaya: Pustaka Zaman, p. 426.
