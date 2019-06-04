@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: Article Footnote
 permalink: /resource-room/articles/test
 date: 2019-06-04
 ---
