@@ -31,6 +31,8 @@ Chinatown is Singapore’s largest Historic District and the four sub-districts 
 **Author**
 Vernon Cornelius-Takahama
 
+[^footnotes]
+
 ### References
 [^1]: Urban Redevelopment Authority (Singapore). (1995). [Outram planning area: Planning report 1995](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7494280). Singapore: Author, p. 4. (Call no.: RSING 711.4095957 SIN)
 2. Buckley, C. B. (1984). [An anecdotal history of old times in Singapore: 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) Singapore: Oxford University Press, p. 83. (Call no.: RSING 959.57 BUC-[HIS]); [Chinatown: An album of a Singapore community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3213762). (1983). Singapore: Times Books International: Archives and Oral History Dept, pp. 9–11. (Call no.: RSING 779.995957 CHI)
