@@ -9,6 +9,8 @@ date: 2019-05-07
 
 Since the renaming of Commercial Square as Raffles Place in 1858, Raffles Place had witnessed profound changes. This was marked by the construction of many fine two to four-storey buildings housing mercantile houses, banks and shops. By the time Singapore gained independence in 1965, Raffles Place was a prime location surrounded by some of the finest buildings.
 
+<iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html" frameborder="0" width="100%" height="800"></iframe>
+
 Find out the name and history of these buildings in this [storymap](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/raffles-place-1966/index.html){:target="_blank"}.
 
 **Image Credit Line**: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
