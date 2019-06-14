@@ -35,7 +35,8 @@ $desktop: 960px + (2 * $gap) !default;
 // Background
 .bg{
   &-primary{
-    background-color: $primary !important;
+    //background-color: $primary !important;
+	background: url('/images/banner-raffles-town-plan.jpg') no-repeat left;
   }
   &-secondary {
     background-color: $secondary !important;
