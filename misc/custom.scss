@@ -35,7 +35,9 @@ $desktop: 960px + (2 * $gap) !default;
 // Background
 .bg{
   &-primary{
-    background-color: $primary !important;
+	background-image: url("https://nlb.gov.sg/Portals/0/ScrollingImages/Digital-Fellowship-NLB-banner.jpg?ver=2019-05-17-175207-987");
+	background-repeat: repeat;
+    background-color: $primary;
   }
   &-secondary {
     background-color: $secondary !important;
