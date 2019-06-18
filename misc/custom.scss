@@ -32,12 +32,15 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+body{
+	background-image: url("https://nlb.gov.sg/Portals/0/ScrollingImages/Digital-Fellowship-NLB-banner.jpg?ver=2019-05-17-175207-987");
+	background-repeat: repeat;
+}
+
 // Background
 .bg{
   &-primary{
-	background-image: url("https://nlb.gov.sg/Portals/0/ScrollingImages/Digital-Fellowship-NLB-banner.jpg?ver=2019-05-17-175207-987");
-	background-repeat: repeat;
-    background-color: $primary;
+    background-color: $primary !important;
   }
   &-secondary {
     background-color: $secondary !important;
