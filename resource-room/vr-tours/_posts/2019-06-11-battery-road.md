@@ -16,4 +16,4 @@ Learn the colonial buildings and landmarks that once stood on Battery Road durin
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/4RomdORhJCO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-Link to [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"}
+View the VR tour in [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"}
