@@ -15,4 +15,4 @@ Find out the name and history of these buildings in this story map.
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-Link to full screen: [https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html) {:target="_blank"}
+View it in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html) {:target="_blank"}
