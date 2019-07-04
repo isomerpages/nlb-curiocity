@@ -13,4 +13,4 @@ As Singapore’s oldest commercial district, it is without a doubt that Raffles 
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/ef9-kN4w2yT/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-Link to VR Tour: [https://poly.google.com/u/1/view/ef9-kN4w2yT](https://poly.google.com/u/1/view/ef9-kN4w2yT){:target="_blank"}
+Link to full screen: [https://poly.google.com/u/1/view/ef9-kN4w2yT](https://poly.google.com/u/1/view/ef9-kN4w2yT){:target="_blank"}
