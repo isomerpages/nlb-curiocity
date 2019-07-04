@@ -15,4 +15,4 @@ Find out more about these interesting facts in this story map on the waterbodies
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kallang-water-bodies-parks-and-bridges/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-Link to full screen: [https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kallang-water-bodies-parks-and-bridges/index.html](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kallang-water-bodies-parks-and-bridges/index.html){:target="_blank"}
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kallang-water-bodies-parks-and-bridges/index.html){:target="_blank"}
