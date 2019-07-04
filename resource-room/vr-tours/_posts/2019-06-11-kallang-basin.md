@@ -15,4 +15,4 @@ Embark on the VR tour below to learn about the history of Kallang Basin.
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/ewxSopzJWHx/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-Link to VR Tour: [https://poly.google.com/u/1/view/ewxSopzJWHx](https://poly.google.com/u/1/view/ewxSopzJWHx){:target="_blank"}
+Link to full screen: [https://poly.google.com/u/1/view/ewxSopzJWHx](https://poly.google.com/u/1/view/ewxSopzJWHx){:target="_blank"}
