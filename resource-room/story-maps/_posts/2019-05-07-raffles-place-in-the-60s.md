@@ -15,4 +15,4 @@ Find out the name and history of these buildings in this storymap.
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-Link to VR Tour: [https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html){:target="_blank"}.
+Link to story map: [https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html){:target="_blank"}.
