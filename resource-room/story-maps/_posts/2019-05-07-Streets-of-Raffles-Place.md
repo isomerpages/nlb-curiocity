@@ -15,4 +15,4 @@ Take a look at some of them in this story map on the streets of Raffles Place.
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-Link to [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html){:target="_blank"}
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html){:target="_blank"}
