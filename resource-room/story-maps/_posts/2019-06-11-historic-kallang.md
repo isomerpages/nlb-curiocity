@@ -15,4 +15,4 @@ Take a look at this story map to learn about these landmarks and the newer ones 
 
 <iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/singapore-river-1966/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-Link to full screen: [https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/singapore-river-1966/index.html](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/singapore-river-1966/index.html){:target="_blank"}
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/singapore-river-1966/index.html){:target="_blank"}
