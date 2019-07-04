@@ -12,7 +12,7 @@ agency-logo: /images/logo-curiocity.png
 
 # Hero Banner
 hero-title: Curiocity
-hero-subtitle: Learn Singapore through maps & photographs
+hero-subtitle: Discover and Rediscover Singapore through maps and photographs
 hero-banner: /images/hero-banner-curiocity3.jpg
 
 #Call to Action Button
@@ -30,7 +30,7 @@ info-sections:
     section-image-path: /images/banner-vr-tours-main.jpg  
   - section-title: 
     section-subtitle: Story Maps
-    section-description: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps below and be amazed by the stories they embed.
+    section-description: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps and be amazed by the stories they embed.
     section-more-button: More
     section-more-button-url: /resource-room/story-maps/
     section-image-path: /images/banner-storymaps-main.jpg 
