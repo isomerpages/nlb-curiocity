@@ -13,6 +13,6 @@ Embark on the VR tour below to learn about the history of Kallang Basin.
 
 **Image Credit**: © Urban Redevelopment Authority. All rights reserved.
 
-<iframe width="100%" height="480px" src="https://poly.google.com/view/ewxSopzJWHx/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+<iframe width="100%" height="480px" src="https://poly.google.com/view/e1B6x8DtSt9/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-View the VR tour in [full screen](https://poly.google.com/u/1/view/ewxSopzJWHx){:target="_blank"}
+View the VR tour in [full screen](https://poly.google.com/u/2/view/e1B6x8DtSt9){:target="_blank"}
