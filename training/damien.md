@@ -23,7 +23,7 @@ Located at 9 Jurong Town Hall Road, Jurong Town Hall served as the headquarters 
 
  
 
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg)
+![img](https://seastateblog.files.wordpress.com/2017/01/jurongtownhall-feature.jpg?w=1200)
 
  
 
