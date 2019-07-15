@@ -17,8 +17,8 @@ hero-banner: /images/hero-banner-curiocity3.jpg
 
 #Call to Action Button
 button:
-  - text: Discover & rediscover now
-    url: /about/
+  - text: Start exploring
+    url: /resource-room/
 
 # Info Sections
 info-sections:
