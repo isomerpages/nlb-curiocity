@@ -1,11 +1,11 @@
 ---
 
 layout: simple-page
-permalink: /jurongtownhall/
+permalink: /jurongtownhall
 breadcrumb: Jurong Town Hall
 title: Jurong Town Hall
 
---- 
+---
 
 **Jurong Town Hall**
 
