@@ -27,8 +27,7 @@ Located at 9 Jurong Town Hall Road, Jurong Town Hall served as the headquarters 
 
  
 
-**Image credit:** Photo by Singapore Aerial and Panoramic Photography [CC BY-SA 4.0]
-Image link: https://bit.ly/2NJ4NYV 
+**Image credit:** Photo by Singapore Aerial and Panoramic Photography [CC BY-SA 4.0]Image link: https://bit.ly/2NJ4NYV 
 
  
 
@@ -37,22 +36,6 @@ Image link: https://bit.ly/2NJ4NYV
  
 
 Jurong Town Hall was designed by local firm Architects Team 3. They were the winners of an architectural design competition held in 1969 to select the design of the building. The intention of Architects Team 3’s design was to achieve a building dignified in form and character, efficient and flexible in space and function. The structure also aimed to position itself as the nucleus of Jurong estate as it sits on an 80-foot-long hill that offers a sweeping panorama of the estate below.
-
- 
-
-Click on the hotspots below to find out some of the architectural features of the building.
-
- 
-
-![Line Callout 2: Recurring angular and modular motifs](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)![Line Callout 2: External façade that was built with reinforced concrete finishing](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)![Line Callout 2: Two elongated parallel blocks connected by bridges in an H-shaped plan](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)![Line Callout 2: 50-metre-high funnel-shaped digital clock tower resembling a “mast”](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jurong_Town_Hall%2C_Singapore_-_20150611-05.jpg/800px-Jurong_Town_Hall%2C_Singapore_-_20150611-05.jpg
-
- 
-
-**Image credit:** Photo by Smuconlaw [CC BY-SA 4.0]
-
- 
-
-Image link: https://bit.ly/2xALUwb 
 
  
 
