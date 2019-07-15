@@ -42,10 +42,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-media-color {
   	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
-		}
+  		background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    -webkit-background-size: cover;
   	}
   	&-2 {
   		background-color: $media-color-two;
