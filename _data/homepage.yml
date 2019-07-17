@@ -28,12 +28,14 @@ info-sections:
     section-description: Ever dream about travelling back in time to see how Singapore was like? Using the rich photograph collections of the National Library and National Archives of Singapore, we have put together a selection of virtual reality tours of some of the most interesting places on the island.
     section-more-button-url: /resource-room/vr-tours/
     section-image-path: /images/banner-vr-tours-main.jpg
+    section-image-alt: VR Tours banner
   - section-title: Features
     section-subtitle: Story Maps
     section-description: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps and be amazed by the stories they embed.
     section-more-button: View all Story Maps
     section-more-button-url: /resource-room/story-maps/
     section-image-path: /images/banner-storymaps-main.jpg
+    section-image-alt-tag: Story Maps banner
 
 # Resources
 resources-title: Resources
