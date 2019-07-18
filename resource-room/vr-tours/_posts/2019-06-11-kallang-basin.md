@@ -9,7 +9,7 @@ date: 2019-06-11
 
 Kallang Basin is an enclosed bay where the Kallang River, Rochor River and Geylang River empty into. In the early days, its banks were lined with sawmills, oil and rice mills, abattoirs, engineering workshops and factories. Today, it forms part of the Marina Reservoir and is a popular location for water sports.
 
-Embark on this VR tour on Kallang Basin's past on your phone by scanning the QR code below or view it in [full screen](https://poly.google.com/u/2/view/e1B6x8DtSt9){:target="_blank"}.
+Embark on this VR tour on Kallang Basin's past on your phone by scanning the QR code below or view it here in [full screen](https://poly.google.com/u/2/view/e1B6x8DtSt9){:target="_blank"}.
 
 ![Image1](/images/qr-staging-kallang-vr.png) 
 
