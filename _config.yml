@@ -1,7 +1,7 @@
-title: Title
-title-abbreviated: Title
+title: National Library Board
+title-abbreviated: NLB
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
+  Curiocity is a one-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years. Using rich digital storytelling tools in the forms of Virtual Reality (VR) tours, story maps and photo-driven essays, Curiocity provides users a new and immersive experience to learn and interact with the heritage materials that are found in the collections of the National Library Board, Singapore.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -20,12 +20,11 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-# Resource Room and Pagination
-paginate: 12
-
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_resources: true
+homepage_resources: false
+homepage_programmes: false
+homepage_careers: false
 
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
@@ -41,8 +40,14 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
+  research-resource:
+    output: true
   left-nav-one:
     output: true
   left-nav-two:
     output: true
-resources_name: resource-room
+
+# Resource Room and Pagination
+resources_name: "resource-room"
+paginate: 12
+paginate_path: "/resource-room/page:num"
