@@ -6,14 +6,12 @@ date: 2019-06-11
 
 ---
 
-![Banner for Battery Road VR Tour](/images/banner-vr-tours-battery-rd.jpeg)
-
-Battery Road is located in the central business district, stretching from Fullerton Square to the junction of Bonham Street and Chulia Street. One of the earliest roads in Singapore, many warehouses were set up on Battery Road by the Singapore River after it was constructed in the 1820s. Three- or four-storey classical buildings were erected there in the late 19th and early 20th centuries, most of which were replaced by skyscrapers from the mid-20th century onwards.
-
-Learn the colonial buildings and landmarks that once stood on Battery Road during the colonial period in the VR tour below.
-
-**Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
-
 <iframe width="100%" height="480px" src="https://poly.google.com/view/4RomdORhJCO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-View the VR tour in [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"}
+Battery Road is one of Singapore's oldest roads. Stretching from Fullerton Square to the junction of Bonham Street and Chulia Street, it was once the site of many classical buildings during the 19th and early 20th centuries. Today, they have been replaced by sleek modern skyscrapers.
+
+View this VR tour on the colonial buildings of Battery Road in [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"} or on your phone by scanning the QR code below.
+
+<img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+
+**VR Tour Background Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
