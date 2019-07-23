@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heritage Bridges of Singapore River
-permalink: /resource-room/vr-tours/heritage-bridges-of-singapore-river
+permalink: /resource-room/story-maps/heritage-bridges-of-singapore-river
 date: 2019-07-23
 ---
 
