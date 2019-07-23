@@ -9,7 +9,9 @@ date: 2019-05-07
 
 As Singapore’s oldest commercial district, Raffles Place has witnessed some of the biggest changes on the island. Known as Commercial Square until 1858, Raffles Place was demarcated by Sir Stamford Raffles as a space for commercial activities in 1828. Since then, this piece of land has evolved from a swampland to become the commercial heart of Singapore.
 
-View this VR tour on Raffles Place in [full screen](https://poly.google.com/u/1/view/ef9-kN4w2yT){:target="_blank"} or on your phone by scanning the QR code below.
+Embark on this VR tour on Raffles Place to learn about its history.
+
+View this VR tour in [full screen](https://poly.google.com/u/1/view/ef9-kN4w2yT){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
 
