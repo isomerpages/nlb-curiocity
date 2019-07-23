@@ -9,9 +9,9 @@ date: 2019-05-07
 
 Fullerton Square was named after Robert Fullerton, the first governor of the Straits Settlements (1826–30). The former site of one of Singapore’s earliest fortifications, it has always been a busy thoroughfare leading to the commercial centre at Raffles Place. Throughout its history, the site also houses many iconic buildings including the Fullerton Building and the Hong Kong and Shanghai Bank.
 
-See the VR tour below to relive the grandeur of Fullerton Square of the early 1900s.
+Embark on this VR tour to relive the grandeur of Fullerton Square of the early 1900s.
 
-View this VR tour on Fullerton Square in [full screen](https://poly.google.com/u/1/view/7ZR3-woHeyf){:target="_blank"} or on your phone by scanning the QR code below.
+View this VR tour in [full screen](https://poly.google.com/u/1/view/7ZR3-woHeyf){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
 
