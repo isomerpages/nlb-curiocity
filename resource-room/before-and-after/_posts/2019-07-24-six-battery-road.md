@@ -22,7 +22,7 @@ date: 2019-07-24
 /* On screens that are 600px or less, set the height to 350px */
 @media screen and (max-width: 411px) {
 	iframe{
-		height: 350px;
+		height: 300px;
 	}
 }
 </style>
