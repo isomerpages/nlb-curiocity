@@ -4,7 +4,7 @@ title: Six Battery Road
 permalink: /resource-room/before-and-after/six-battery-road
 date: 2019-07-24
 ---
-
+<style>
 /* On screens that are 992px or less, set the height to  */
 @media screen and (max-width: 992px) {
   iframe {
@@ -18,6 +18,7 @@ date: 2019-07-24
 		height: 300px;
 	}
 }
+</style>
 
 <center><iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=7c203934-ade4-11e9-b9b8-0edaf8f81e27" style="width: 100%; overflow: auto;"></iframe></center>
 
