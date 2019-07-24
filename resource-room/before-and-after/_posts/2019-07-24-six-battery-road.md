@@ -15,7 +15,7 @@ date: 2019-07-24
 /* On screens that are 992px or less, set the height to 450px */
 @media screen and (max-width: 992px) {
   iframe {
-    height: 400px;
+    height: 420px;
   }
 }
 
