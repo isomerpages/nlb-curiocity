@@ -15,14 +15,14 @@ date: 2019-07-24
 /* On screens that are 992px or less, set the height to 450px */
 @media screen and (max-width: 992px) {
   iframe {
-    height: 450px;
+    height: 400px;
   }
 }
 
 /* On screens that are 600px or less, set the height to 350px */
 @media screen and (max-width: 411px) {
 	iframe{
-		height: 300px;
+		height: 250px;
 	}
 }
 </style>
