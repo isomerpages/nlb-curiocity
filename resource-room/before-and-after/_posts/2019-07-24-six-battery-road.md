@@ -5,21 +5,21 @@ permalink: /resource-room/before-and-after/six-battery-road
 date: 2019-07-24
 ---
 <style>
-/* On screens that are 3000px or less, set the height to 700px */
+/* On screens that are 3000px or less, set the height to 550px */
 @media screen and (max-width: 3000px) {
   iframe {
     height: 550px;
   }
 }
 
-/* On screens that are 992px or less, set the height to 500px */
+/* On screens that are 992px or less, set the height to 450px */
 @media screen and (max-width: 992px) {
   iframe {
     height: 450px;
   }
 }
 
-/* On screens that are 600px or less, set the height to 300px */
+/* On screens that are 600px or less, set the height to 350px */
 @media screen and (max-width: 411px) {
 	iframe{
 		height: 350px;
