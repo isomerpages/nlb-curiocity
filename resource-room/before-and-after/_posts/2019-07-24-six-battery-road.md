@@ -8,21 +8,21 @@ date: 2019-07-24
 /* On screens that are 3000px or less, set the height to 700px */
 @media screen and (max-width: 3000px) {
   iframe {
-    height: 600px;
+    height: 550px;
   }
 }
 
 /* On screens that are 992px or less, set the height to 500px */
 @media screen and (max-width: 992px) {
   iframe {
-    height: 400px;
+    height: 450px;
   }
 }
 
 /* On screens that are 600px or less, set the height to 300px */
 @media screen and (max-width: 411px) {
 	iframe{
-		height: 200px;
+		height: 350px;
 	}
 }
 </style>
