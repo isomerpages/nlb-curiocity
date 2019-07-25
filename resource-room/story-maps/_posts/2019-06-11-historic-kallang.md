@@ -11,4 +11,4 @@ Kallang is not only the home to Kallang River which is the longest river in Sing
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-kallang/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-kallang-historic.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-storymap-kallang-historic.png" alt="qr-code-storymap-kallang-historic" style="width:200px;" />
