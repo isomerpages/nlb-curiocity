@@ -13,6 +13,6 @@ Embark on this VR tour to relive the grandeur of Fullerton Square of the early 1
 
 View this VR tour in [full screen](https://poly.google.com/u/1/view/7ZR3-woHeyf){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-vr-fullerton.png" alt="qr-staging-kallang-vr" style="width:200px;" />
 
 **VR Tour Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
