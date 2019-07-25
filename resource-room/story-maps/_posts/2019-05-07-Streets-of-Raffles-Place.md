@@ -13,4 +13,4 @@ Take a look at some of them in this story map on the streets of Raffles Place.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-raffles-place-streets.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-storymap-raffles-place-streets.png" alt="qr-code-storymap-raffles-place-streets" style="width:200px;" />
