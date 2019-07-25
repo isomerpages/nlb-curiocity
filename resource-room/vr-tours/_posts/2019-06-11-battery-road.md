@@ -14,6 +14,6 @@ Take a look at this VR tour to learn about the buildings that once lined Battery
 
 View this VR tour in [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-vr-battery-road.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-vr-battery-road.png" alt="qr-code-vr-battery-road" style="width:200px;" />
 
 **VR Tour Background Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
