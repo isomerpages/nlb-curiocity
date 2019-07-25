@@ -11,4 +11,6 @@ For almost two centuries, Raffles Place has been the designated business distric
 
 Find out the name and history of these buildings in this story map.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html){:target="_blank"}
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/buildings-along-singapore-river/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+
+<img src="/images/qr-code-storymap-raffles-place-today.png" alt="qr-code-storymap-raffles-place-today" style="width:200px;" />
