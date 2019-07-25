@@ -36,7 +36,7 @@ info-sections:
     section-more-button-url: /resource-room/story-maps/
     section-image-path: /images/banner-storymaps-main.jpg
     section-image-alt: Story Maps banner
-   - section-title: Features
+  - section-title: Features
     section-subtitle: Before & After
     section-more-button: View all Before & After
     section-description: Journey through these before and after images of places and buildings to rediscover Singapore. You will be surprised by how much the island has changed over the decades.
