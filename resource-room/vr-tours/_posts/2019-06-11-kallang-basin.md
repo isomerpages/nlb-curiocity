@@ -12,6 +12,6 @@ Learn the changes that have taken place around the Kallang Basin in this VR tour
 
 View this VR tour in [full screen](https://poly.google.com/u/2/view/e1B6x8DtSt9){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-vr-kallang.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-vr-kallang.png" alt="qr-code-vr-kallang" style="width:200px;" />
 
 **VR Tour Background Image Credit**: © Urban Redevelopment Authority. All rights reserved.
