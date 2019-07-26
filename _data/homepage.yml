@@ -13,7 +13,7 @@ agency-logo: /images/logo-curiocity.png
 # Hero Banner
 hero-title: Curiocity
 hero-subtitle: Discover and rediscover Singapore through maps and photographs
-hero-banner: https://www.ringcentral.com/blog/wp-content/uploads/2019/05/Blog_How_to_Build_a_Great_Workplace_Experience_Social_Card_01.gif
+hero-banner: /images/hero-banner-curiocity3.jpg
 
 #Call to Action Button
 button:
@@ -36,13 +36,6 @@ info-sections:
     section-more-button-url: /resource-room/story-maps/
     section-image-path: /images/banner-storymaps-main.jpg
     section-image-alt: Story Maps banner
-  - section-title: Features
-    section-subtitle: Before & After
-    section-more-button: View all Before & After posts
-    section-description: Journey through these before and after images of places and buildings to rediscover Singapore. You will be astonished by how much the island has changed over the decades.
-    section-more-button-url: /resource-room/before-and-after/
-    section-image-path: /images/banner-before-and-after-image-1.png
-    section-image-alt: Before & After banner
 
 # Resources
 resources-title: Resources
