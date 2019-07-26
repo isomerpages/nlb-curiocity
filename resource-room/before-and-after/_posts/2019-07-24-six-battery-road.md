@@ -33,4 +33,4 @@ Six Battery Road (formerly Chartered Bank Building) was built on the site of the
 
 View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=7c203934-ade4-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-six-battery-rd.png" alt="qr-code-beforeafter-six-battery-rd" style="width:200px;" />

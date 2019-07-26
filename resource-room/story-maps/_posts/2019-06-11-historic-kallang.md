@@ -5,10 +5,10 @@ permalink: /resource-room/story-maps/historic-kallang
 date: 2019-06-11
 ---
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="664.5" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0020f826-adbe-11e9-b9b8-0edaf8f81e27"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-kallang/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-The octagonal-shaped United Overseas Bank (UOB) Plaza is another defining skyscraper of Raffles Place. It was built in 1974 on the site of Bonham Building, UOB’s former headquarters. The building originally comprised a 30-storey office tower and a five-storey podium at the base. In 1988, UOB hired Japanese architect Kenzo Tange to retrofit the tower and to design a plaza as well as a new 66-storey skyscraper next to it. The enlarged development was completed in 1992. 
+Kallang is not only the home to Kallang River which is the longest river in Singapore, but also the district where many historic landmarks including the former National Stadium, the Kallang Gasworks and the Kallang Airport were located. Learn where these landmarks were located and their history in this story map.
 
-View the story map in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0020f826-adbe-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-kallang/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-storymap-kallang-historic.png" alt="qr-code-storymap-kallang-historic" style="width:200px;" />

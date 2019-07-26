@@ -34,4 +34,4 @@ The former site of Raffles Chambers which used to house Robinsons department sto
 
 View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4826814a-ade1-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-staging-kallang-vr.png" alt="qr-staging-kallang-vr" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-one-raffles-place.png" alt="qr-beforeafter-one-raffles-place" style="width:200px;" />
