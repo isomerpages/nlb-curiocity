@@ -27,10 +27,10 @@ date: 2019-07-24
 }
 </style>
 
-<center><iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=7c203934-ade4-11e9-b9b8-0edaf8f81e27" style="width: 100%; overflow: auto;"></iframe></center>
+<center><iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9f1f89f0-b26a-11e9-b9b8-0edaf8f81e27" style="width: 100%; overflow: auto;"></iframe></center>
 
-Six Battery Road (formerly Chartered Bank Building) was built on the site of the iconic dome-roof Chartered Bank Building during the urban renewal efforts of Raffles Place after independence. Completed in 1984, the 43-storey tower has a unique exterior as it is clad with brown granite. The building was designed by the P&T architect group.
+The Chartered Bank building of the 1960s was best known for its striking dome shaped roof. Designed by Swan & Maclaren and completed in 1915 on the former site of the Dispensary building, it served as the headquarters of Chartered Bank from Battery Road. In the 1980s, the building replaced a new Chartered Bank Building. Completed in 1984, the new building has not only a 43-storey storey, but also a unique exterior that is clad with brown granite. It was designed by the P&T architect group.
 
-View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=7c203934-ade4-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9f1f89f0-b26a-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-beforeafter-six-battery-rd.png" alt="qr-code-beforeafter-six-battery-rd" style="width:200px;" />
