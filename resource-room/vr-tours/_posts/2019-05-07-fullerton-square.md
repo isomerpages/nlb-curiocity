@@ -15,4 +15,4 @@ View this VR tour in [full screen](https://poly.google.com/u/1/view/7ZR3-woHeyf)
 
 <img src="/images/qr-code-vr-fullerton.png" alt="qr-code-vr-fullerton" style="width:200px;" />
 
-**VR Tour Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
+**VR Tour Image Credit**: Scene 1: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons; Scene 2: Google Street View
