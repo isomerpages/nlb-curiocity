@@ -1,8 +1,8 @@
 ---
 layout: post
-title: One Raffles Place
-permalink: /resource-room/before-and-after/one-raffles-place
-date: 2019-07-24
+title: MYP Centre
+permalink: /resource-room/before-and-after/myp-centre
+date: 2019-07-31
 ---
 
 <style>
