@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raffles Place MRT
+title: Raffles Place MRT Station Exit A
 permalink: /resource-room/before-and-after/raffles-place-mrt
 date: 2019-07-31
 ---
