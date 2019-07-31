@@ -34,4 +34,4 @@ The Singapore Land Tower currently sits on the former site of John Little’s Bu
 
 View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=55d734da-b339-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-one-raffles-place.png" alt="qr-beforeafter-one-raffles-place" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-singapore-land-tower.png" alt="qr-beforeafter-singapore-land-tower" style="width:200px;" />
