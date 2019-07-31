@@ -2,7 +2,7 @@
 layout: post
 title: OCBC Centre
 permalink: /resource-room/before-and-after/ocbc-centre
-date: 2019-07-30
+date: 2019-07-31
 ---
 
 <style>

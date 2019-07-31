@@ -5,7 +5,7 @@ permalink: /research-resources/
 breadcrumb: Research Resources
 ---
 
-The National Library of Singapore and National Archives have over 10,000 maps and more than 1 million photographs. Find out how you can view them here.
+The National Library and National Archives of Singapore have over 10,000 maps and more than 1 million photographs. Find out how you can view them here.
 
 <table class="table-v">
   <tr>

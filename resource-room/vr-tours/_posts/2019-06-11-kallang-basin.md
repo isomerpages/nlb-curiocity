@@ -14,4 +14,4 @@ View this VR tour in [full screen](https://poly.google.com/u/2/view/e1B6x8DtSt9)
 
 <img src="/images/qr-code-vr-kallang.png" alt="qr-code-vr-kallang" style="width:200px;" />
 
-**VR Tour Background Image Credit**: © Urban Redevelopment Authority. All rights reserved.
+**VR Tour Background Image Credit**: Scene 1: © Urban Redevelopment Authority. All rights reserved; Scene 2: Google Street View

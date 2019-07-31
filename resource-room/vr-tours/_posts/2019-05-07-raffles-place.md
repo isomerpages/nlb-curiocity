@@ -15,4 +15,5 @@ View this VR tour in [full screen](https://poly.google.com/u/1/view/ef9-kN4w2yT)
 
 <img src="/images/qr-code-vr-raffles-place.png" alt="qr-code-vr-raffles-place" style="width:200px;" />
 
-**VR Tour Background Image Credit**: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons
+**VR Tour Background Image Credit**: 
+Scene 1: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons; Scene 2: Courtesy of National Archives of Singapore; Scene 3: Courtesy of National Archives of Singapore; Scene 4: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore; Scene 5: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore; Scene 6: Google Street View
