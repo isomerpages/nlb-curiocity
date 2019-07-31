@@ -34,4 +34,4 @@ The site where Exit A of Raffles Place MRT station is located today was previous
 
 View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=550b6ae0-b35b-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-raffles-place-mrt.png" alt="qr-beforeafter-one-raffles-place" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-raffles-place-mrt.png" alt="qr-beforeafter-raffles-place-mrt" style="width:200px;" />
