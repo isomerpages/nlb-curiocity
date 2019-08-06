@@ -1,6 +1,6 @@
 layout: simple-page
 title: About Curiocity
-permalink: /about/
+permalink: /example/
 breadcrumb: About Curiocity
 
 Example page.. hello
