@@ -5,9 +5,3 @@ description: Curiocity is a National Library Board website that curates the heri
 permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-sections:
-	- infobar:
-        title: Have more questions?
-        description: We want to hear your questions and feedback!
-        button: Contact Us
-        url: https://form.sg/#!/forms/govtech/5ad6f00ceccc34000fd1c135
