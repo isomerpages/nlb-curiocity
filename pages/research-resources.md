@@ -25,7 +25,7 @@ The National Library and National Archives of Singapore have over 10,000 maps an
   <tr>
     <td><img src="/images/logo-NAS.png" alt="Archives Online" /></td>
     <td>
-		<h4><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></h4><br/>
+		<strong><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></strong><br/>
 		To allow users easy access to our archival holdings, Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock.
 	</td>
   </tr>
