@@ -14,3 +14,10 @@ Take a look at some of them in this story map on the streets of Raffles Place.
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-raffles-place-streets.png" alt="qr-code-storymap-raffles-place-streets" style="width:200px;" />
+
+Notes:
+1. This story map is not a comprehensive coverage of the streets in Raffles Place.
+
+2. The base map used in this story map is the [City of Singapore]( https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f90605b3-115c-11e3-83d5-0050568939ad) (1954). 
+
+3. The references used for this story map are: Related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx) and [Roots](https://www.roots.sg/), as well as publications including [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013) and [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018).
