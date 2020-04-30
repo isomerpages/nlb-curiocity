@@ -5,7 +5,7 @@ permalink: /resource-room/story-maps/streets-of-chinatown
 date: 2020-02-13
 ---
 
-<iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/chinatown/index.html" frameborder="0" width="100%" height="800"></iframe>
+<img src="/images/storymap-image-chinatown-streets.png" alt="storymap-chinatown-streets"/>
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
