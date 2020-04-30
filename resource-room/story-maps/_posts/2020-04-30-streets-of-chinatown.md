@@ -2,7 +2,7 @@
 layout: post
 title: Streets of Chinatown
 permalink: /resource-room/story-maps/streets-of-chinatown
-date: 2020-02-13
+date: 2020-04-30
 ---
 
 <img src="/images/storymap-image-chinatown-streets.png" alt="storymap-chinatown-streets"/>
