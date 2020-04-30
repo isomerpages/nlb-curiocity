@@ -2,10 +2,10 @@
 layout: post
 title: Streets of Raffles Place
 permalink: /resource-room/story-maps/streets-of-raffles-place
-date: 2019-05-07
+date: 2020-04-27
 ---
 
-<img src="/images/storymap-images-raffles-place-streets.png" alt="storymap-raffles-place-streets"/>
+<img src="/images/storymap-image-raffles-place-streets.png" alt="storymap-raffles-place-streets"/>
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
