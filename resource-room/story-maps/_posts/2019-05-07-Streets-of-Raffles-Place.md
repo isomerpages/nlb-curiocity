@@ -5,7 +5,7 @@ permalink: /resource-room/story-maps/streets-of-raffles-place
 date: 2019-05-07
 ---
 
-<iframe src="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/1966-map-1/index.html" frameborder="0" width="100%" height="800"></iframe>
+<img src="/images/storymap-images-raffles-place-streets.png" alt="storymap-raffles-place-streets"/>
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
