@@ -2,7 +2,7 @@
 layout: post
 title: The Green and Blue of Kallang
 permalink: /resource-room/story-maps/the-green-and-blue-of-kallang
-date: 2019-06-11
+date: 2020-01-30
 ---
 
 <img src="/images/storymap-image-kallang-waterbodies-parks.png" alt="storymap-kallang-waterbodies-parks"/>
