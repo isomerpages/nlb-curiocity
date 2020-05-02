@@ -2,7 +2,7 @@
 layout: post
 title: Heritage Bridges of Singapore River
 permalink: /resource-room/story-maps/heritage-bridges-of-singapore-river
-date: 2019-07-23
+date: 2020-01-15
 ---
 
 <img src="/images/storymap-image-singapore-river-bridges.png" alt="storymap-singapore-river-bridges"/>
