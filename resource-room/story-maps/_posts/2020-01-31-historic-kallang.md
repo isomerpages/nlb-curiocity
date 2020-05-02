@@ -2,7 +2,7 @@
 layout: post
 title: Historic Kallang
 permalink: /resource-room/story-maps/historic-kallang
-date: 2019-06-11
+date: 2020-01-31
 ---
 
 <img src="/images/storymap-image-historic-kallang.png" alt="storymap-historic-kallang"/>
