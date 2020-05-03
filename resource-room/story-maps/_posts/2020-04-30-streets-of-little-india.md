@@ -9,7 +9,7 @@ date: 2020-04-30
 
 The name of a place is a marker of identity – it can tell us a lot about that place, such as its history, culture and development. As its name suggests, Little India is an ethnic enclave for the Indian community in Singapore, yet what do the road names, like “Serangoon Road” and “Kerbau Road” mean? 
 
-Take a look at some of them in this story map of the streets of Little India and uncover the myriad interlocking stories encoded in the streets there.
+Take a look at some of them in this story map on the streets of Little India and uncover the myriad interlocking stories encoded in the streets there.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/little-india-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
