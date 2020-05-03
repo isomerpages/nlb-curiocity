@@ -5,7 +5,7 @@ permalink: /resource-room/before-and-after/raffles-place-mrt
 date: 2020-03-15
 ---
 
-<img src="/images/before-after-image-raffles-place-mrt station.jpg" alt="before-after-image-raffles-place-mrt"/>
+<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="before-after-image-raffles-place-mrt"/>
 
 The site where Exit A of Raffles Place MRT station is located today was previously occupied by the Mercantile Bank Chambers. Constructed in the late 1920s to replace an even earlier premises of the now defunct Mercantile Bank, the building was best known for its Doric order columns and roof. It was designed by Keys and Dowdeswell, the same architecture firm behind Fullerton Building. In 1984, the Mercantile Bank Chambers was demolished to make way for the Raffles Place MRT station. 
 
