@@ -4,7 +4,7 @@ title: Six Battery Road
 permalink: /resource-room/before-and-after/six-battery-road
 date: 2020-04-02
 ---
-<img src="/images/before-after-image-six-battery-road.jpg" alt="before-after-image-six-battery-road"/>
+<img src="/images/before-after-image-six-battery-road.png" alt="before-after-image-six-battery-road"/>
 
 Six Battery Road currently sits on the former site of the old Chartered Bank building. Best known for its striking dome shaped roof, the old Chartered Bank building was designed by Swan & Maclaren and completed in 1915 on the former site of the Dispensary building. It served as the headquarters of Chartered Bank after it moved into Raffles Place from Battery Road. In the 1980s, the building replaced a new Chartered Bank Building which is now known as Six Battery Road. Completed in 1984, the new building has not only a 43-storey storey, but also a unique exterior that is clad with brown granite. It was designed by the P&T architect group.
 
