@@ -9,7 +9,7 @@ date: 2020-04-30
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
-Take a look at some of them in this story map on the streets of Chinatown
+Find out in this story map on the streets of Chinatown and uncover the myriad interlocking stories encoded in the streets there.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/chinatown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
