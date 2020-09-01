@@ -5,7 +5,7 @@ permalink: /resource-room/story-maps/fort-canning
 date: 2020-08-30
 ---
 
-<img src="/images/storymap-image-fort-canning.JPG" alt="storymap-fort-canning"/>
+<img src="/images/storymap-image-fort-canning.png" alt="storymap-fort-canning"/>
 
 Fort Canning Hill, formerly known as Bukit Larangan (Malay for “Forbidden Hill”) and Government Hill, is one of the most historic landmarks in Singapore. It housed many facilities and buildings including a military command centre and the Governor’s House. It also bore witness to many key historic events particularly Lieutenant-General Arthur Percival’s crucial decision to surrender to the Japanese. Today, the hill is known to many as Fort Canning Park.
 
