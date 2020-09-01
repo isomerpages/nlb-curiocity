@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Landmarks of Little India
+title: Historical Landmarks of Little India
 permalink: /resource-room/story-maps/landmarks-of-little-india
 date: 2020-04-29
 ---
