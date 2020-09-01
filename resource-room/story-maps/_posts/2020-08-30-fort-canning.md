@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secrets of Fort Canning
+title: The Historic Fort Canning Hill
 permalink: /resource-room/story-maps/fort-canning
 date: 2020-08-30
 ---
