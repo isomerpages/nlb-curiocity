@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Landmarks of Chinatown
+title: Historical Landmarks of Chinatown
 permalink: /resource-room/story-maps/landmarks-of-chinatown
 date: 2020-04-29
 ---
