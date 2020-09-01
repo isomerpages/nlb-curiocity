@@ -11,7 +11,7 @@ Fort Canning Hill, formerly known as Bukit Larangan (Malay for “Forbidden Hill
 
 Take a trip back in time in this story map to learn more about the history of the iconic buildings and sites on this important hill.
 
-View the story map in [full screen]( https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/fort-canning/draft.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/fort-canning/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-fort-canning.png" alt="qr-code-storymap-fort-canning" style="width:200px;" />
 
