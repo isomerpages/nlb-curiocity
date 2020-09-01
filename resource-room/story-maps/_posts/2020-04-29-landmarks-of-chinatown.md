@@ -5,7 +5,7 @@ permalink: /resource-room/story-maps/landmarks-of-chinatown
 date: 2020-04-29
 ---
 
-<img src="/images/storymap-image-chinatown-landmarks.png" alt="storymap-chinatown-landmarks"/>
+<img src="/images/storymap-image-chinatown-landmarks.PNG" alt="storymap-chinatown-landmarks"/>
 
 Chinatown is the largest historic district in Singapore gazetted for conservation. Possessing buildings of great historic significance and architectural value, it was identified by Sir Stamford Raffles as an enclave for the Chinese community. 
 
