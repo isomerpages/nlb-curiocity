@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Landmarks of Kampong Glam
+title: Historical Landmarks of Kampong Glam
 permalink: /resource-room/story-maps/landmarks-of-kampong-glam
 date: 2020-04-29
 ---
