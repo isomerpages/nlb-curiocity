@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our First Reserves
+title: Our First Nature Reserves
 permalink: /resource-room/story-maps/nature-reserves-first
 date: 2020-09-05
 ---
