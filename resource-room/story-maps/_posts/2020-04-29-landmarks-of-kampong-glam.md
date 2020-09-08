@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Landmarks of Kampong Glam
+title: Historical Landmarks of Kampong Glam
 permalink: /resource-room/story-maps/landmarks-of-kampong-glam
 date: 2020-04-29
 ---
 
-<img src="/images/storymap-image-kampong-glam-landmarks.png" alt="storymap-kampong-glam-landmarks"/>
+<img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="storymap-kampong-glam-landmarks"/>
 
 The Kampong Glam conservation area, bounded by Ophir Road, Victoria Street, Jalan Sultan and Beach Road, is a rich heritage site. Once the residence of the Bugis, Arab, Javanese and Boyanese communities as well as traders from other ethnic communities, it houses many buildings and sites that are imbued with their stories. 
 
