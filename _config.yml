@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://curiocity.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Analytics
-google_analytics: UA-50449401-25
+google-analytics: UA-50449401-25
 
 # Build settings
 markdown: kramdown
