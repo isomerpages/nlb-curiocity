@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Bank of China and Maybank Tower
+title: 'Bank of China and Maybank Tower'
 permalink: /resource-room/before-and-after/boc-maybank-tower
-date: 2020-03-20
+date: 2020-03-20T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-bank-of-china.png" alt="before-after-image-bank-of-china-maybank"/>
 
