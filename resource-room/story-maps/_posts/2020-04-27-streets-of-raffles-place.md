@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Streets of Raffles Place
+title: 'Streets of Raffles Place'
 permalink: /resource-room/story-maps/streets-of-raffles-place
-date: 2020-04-27
+date: 2020-04-27T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-raffles-place-streets.png" alt="storymap-raffles-place-streets"/>
 
