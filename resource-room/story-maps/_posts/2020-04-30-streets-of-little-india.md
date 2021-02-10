@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Streets of Little India
+title: 'Streets of Little India'
 permalink: /resource-room/story-maps/streets-of-little-india
-date: 2020-04-30
+date: 2020-04-30T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-little-india-streets.png" alt="storymap-little-india-streets"/>
 
