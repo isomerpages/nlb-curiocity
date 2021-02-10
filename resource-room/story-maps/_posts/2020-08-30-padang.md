@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Historic Padang
+title: 'The Historic Padang'
 permalink: /resource-room/story-maps/padang
-date: 2020-08-30
+date: 2020-08-30T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-padang.png" alt="storymap-padang"/>
 
