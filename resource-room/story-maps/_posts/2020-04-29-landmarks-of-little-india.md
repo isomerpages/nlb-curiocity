@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Historical Landmarks of Little India
+title: 'Historical Landmarks of Little India'
 permalink: /resource-room/story-maps/landmarks-of-little-india
-date: 2020-04-29
+date: 2020-04-29T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-little-india-landmarks.PNG" alt="storymap-little-india-landmarks"/>
 
