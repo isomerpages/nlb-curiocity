@@ -1,49 +1,60 @@
-title: National Library Board
-title-abbreviated: NLB
-description: >- # this means to ignore newlines until "baseurl:"
-  Curiocity is a one-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years. Using rich digital storytelling tools in the forms of Virtual Reality (VR) tours, story maps and photo-driven essays, Curiocity provides users a new and immersive experience to learn and interact with the heritage materials that are found in the collections of the National Library Board, Singapore.
-url: "https://curiocity.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Analytics
+title: 'National Library Board'
+description: 'Curiocity is a one-stop portal that curates and highlights heritage-related content the National Library of Singapore has created over the years. Using rich digital storytelling tools in the forms of Virtual Reality (VR) tours, story maps and photo-driven essays, Curiocity provides users a new and immersive experience to learn and interact with the heritage materials that are found in the collections of the National Library Board, Singapore.'
+url: 'https://curiocity.nlb.gov.sg'
 google-analytics: UA-50449401-25
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: false
-homepage_programmes: false
-homepage_careers: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  research-resource:
-    output: true
-  left-nav-one:
-    output: true
-  left-nav-two:
-    output: true
-
-# Resource Room and Pagination
-resources_name: "resource-room"
+    research-resource:
+        output: true
+    left-nav-one:
+        output: true
+    left-nav-two:
+        output: true
+resources_name: resource-room
 paginate: 12
-paginate_path: "/resource-room/page:num"
+paginate_path: '/resource-room/page:num'
+favicon: /images/favicon-nlb.ico
+google_analytics: GTM-MSDQBB3
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+
+colors:
+    primary-color: '#BA0C2F'
+    secondary-color: '#BA0C2F'
+    media-colors:
+        - title: media-color-one
+          color: '#BA0C2F'
+        - title: media-color-two
+          color: '#8E0628'
+        - title: media-color-three
+          color: '#BA0C2F'
+        - title: media-color-four
+          color: '#9D2235'
+        - title: media-color-five
+          color: '#BA0C2F'

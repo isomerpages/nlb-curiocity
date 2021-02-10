@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Fullerton Square
+title: 'Fullerton Square'
 permalink: /resource-room/vr-tours/fullerton-square
-date: 2020-03-01
+date: 2020-03-01T00:00:00.000Z
+
 ---
+
 
 <img src="/images/vr-tour-image-fullerton-square.png" alt="vr-tour-image-fullerton-square"/>
 

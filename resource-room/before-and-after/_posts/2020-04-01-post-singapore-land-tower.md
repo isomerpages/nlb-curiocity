@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Singapore Land Tower
+title: 'Singapore Land Tower'
 permalink: /resource-room/before-and-after/singapore-land-tower
-date: 2020-04-01
+date: 2020-04-01T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-singapore-land-tower.png" alt="before-after-image-singapore-land-tower"/>
 

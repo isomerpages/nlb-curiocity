@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Raffles Place
+title: 'Raffles Place'
 permalink: /resource-room/vr-tours/raffles-place
-date: 2020-04-01
+date: 2020-04-01T00:00:00.000Z
+
 ---
+
 
 <img src="/images/vr-tour-image-raffles-place.png" alt="vr-tour-image-raffles-place"/>
 

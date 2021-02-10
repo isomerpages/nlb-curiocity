@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Raffles Place Today
+title: 'Raffles Place Today'
 permalink: /resource-room/story-maps/raffles-place-today
-date: 2020-01-15
+date: 2020-01-15T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-raffles-place-today.png" alt="storymap-raffles-place-today"/>
 

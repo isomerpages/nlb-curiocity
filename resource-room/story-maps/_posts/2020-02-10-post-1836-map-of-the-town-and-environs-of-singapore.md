@@ -1,9 +1,10 @@
 ---
-layout: post
-title: 1836 Map of the Town and Environs of Singapore
+title: '1836 Map of the Town and Environs of Singapore'
 permalink: /resource-room/story-maps/1836-town-and-environs-singapore-map
-date: 2020-02-10
+date: 2020-02-10T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-1836-coleman-map.png" alt="storymap-1836-coleman-map"/>
 

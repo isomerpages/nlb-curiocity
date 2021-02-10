@@ -1,17 +1,19 @@
 ---
-layout: post
-title: Bank of China and Maybank Tower
-permalink: /resource-room/before-and-after/boc-maybank-tower
-date: 2020-03-20
+title: 'UOB Plaza'
+permalink: /resource-room/before-and-after/uob-plaza
+date: 2020-03-15T00:00:00.000Z
+
 ---
 
-<img src="/images/before-after-image-bank-of-china.png" alt="before-after-image-bank-of-china-maybank"/>
 
-The angular Bank of China building and the Malayan Bank Chambers (former Whiteway Laidlaw Building) were among the tallest buildings in 1960s Fullerton Square. Serving as the headquarters of Bank of China and Maybank respectively, they underwent a major redevelopment in the late 1990s. In 1999, a new 37-storey tower with a similar facade was built to incorporate the original Bank of China building, while the Malayan Bank Chambers was replaced by a sleek 32-storey tower designed by SYL Architects.
+<img src="/images/before-after-image-uob-tower.png" alt="before-after-image-uob-tower"/>
 
-View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=df507012-b264-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-boc-maybank.png" alt="qr-beforeafter-boc-maybank-tower" style="width:200px;" />
+The octagon-shaped United Overseas Bank (UOB) Plaza is one of the most defining skyscrapers in Raffles Place. Built in 1974 on the site of Bonham Building, UOB’s former headquarters, the building originally comprised a 30-storey office tower and a five-storey podium at the base. In 1988, UOB hired Japanese architect Kenzo Tange to retrofit the tower and to design a plaza as well as a new 66-storey skyscraper next to it. The enlarged development was completed in 1992.   
+
+View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=78ae9fbe-b32c-11e9-b9b8-0edaf8f81e27){:target="_blank"} or on your mobile device by scanning the QR code below.
+
+<img src="/images/qr-code-beforeafter-uob-plaza.png" alt="qr-code-beforeafter-uob-plaza" style="width:200px;" />
 
 Note:
 

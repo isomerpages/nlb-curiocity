@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Historic Kallang
+title: 'Historic Kallang'
 permalink: /resource-room/story-maps/historic-kallang
-date: 2020-01-31
+date: 2020-01-31T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-historic-kallang.png" alt="storymap-historic-kallang"/>
 
