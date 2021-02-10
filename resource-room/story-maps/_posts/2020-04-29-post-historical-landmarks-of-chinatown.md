@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Historical Landmarks of Chinatown
+title: 'Historical Landmarks of Chinatown'
 permalink: /resource-room/story-maps/landmarks-of-chinatown
-date: 2020-04-29
+date: 2020-04-29T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-chinatown-landmarks.PNG" alt="storymap-chinatown-landmarks"/>
 

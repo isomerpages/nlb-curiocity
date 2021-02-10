@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Historic Fort Canning Hill
+title: 'The Historic Fort Canning Hill'
 permalink: /resource-room/story-maps/fort-canning
-date: 2020-08-30
+date: 2020-08-30T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-fort-canning.png" alt="storymap-fort-canning"/>
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: MYP Centre
+title: 'MYP Centre'
 permalink: /resource-room/before-and-after/myp-centre
-date: 2020-03-20
+date: 2020-03-20T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-myp-centre.png" alt="before-after-image-myp-centre"/>
 

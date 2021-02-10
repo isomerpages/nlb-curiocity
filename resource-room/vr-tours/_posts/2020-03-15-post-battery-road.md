@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Battery Road
+title: 'Battery Road'
 permalink: /resource-room/vr-tours/battery-road
-date: 2020-03-15
+date: 2020-03-15T00:00:00.000Z
 
 ---
+
 
 <img src="/images/vr-tour-image-battery-road.png" alt="vr-tour-image-battery-road"/>
 

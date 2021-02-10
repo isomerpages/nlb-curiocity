@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Jurong in the 80s
+title: 'Jurong in the 80s'
 permalink: /resource-room/story-maps/jurong
-date: 2020-08-30
+date: 2020-08-30T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-jurong.png" alt="storymap-jurong"/>
 

@@ -1,16 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: VR Tours
-  url: /resource-room/vr-tours/
-- title: Story Maps
-  url: /resource-room/story-maps/
-- title: Before & After
-  url: /resource-room/before-and-after/
-- title: Research Resources
-  url: /research-resources/
-- title: About Us
-  url: /about/
+logo: /images/logo-curiocity.png
+links:
+    - title: 'VR Tours'
+      url: /resource-room/vr-tours/
+    - title: 'Story Maps'
+      url: /resource-room/story-maps/
+    - title: 'Before & After'
+      url: /resource-room/before-and-after/
+    - title: 'Research Resources'
+      url: /research-resources/
+    - title: 'About Us'
+      url: /about/

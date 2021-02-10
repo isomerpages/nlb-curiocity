@@ -1,23 +1,23 @@
 ---
-layout: post
-title: Historical Landmarks of Kampong Glam
-permalink: /resource-room/story-maps/landmarks-of-kampong-glam
-date: 2020-04-29
+title: 'Streets of Kampong Glam'
+permalink: /resource-room/story-maps/streets-of-kampong-glam
+date: 2020-04-30T00:00:00.000Z
+
 ---
 
-<img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="storymap-kampong-glam-landmarks"/>
 
-The Kampong Glam conservation area, bounded by Ophir Road, Victoria Street, Jalan Sultan and Beach Road, is a rich heritage site. Once the residence of the Bugis, Arab, Javanese and Boyanese communities as well as traders from other ethnic communities, it houses many buildings and sites that are imbued with their stories. 
+<img src="/images/storymap-image-kampong-glam-streets.png" alt="storymap-kampong-glam-streets"/>
 
-In this story map, learn more about the history of these iconic landmarks, and immerse yourself in Kampong Glam’s old-world charm.
+The name of a place is a marker of identity – it can tell us a lot about that place, such as its history, culture and development. As its name suggests, Kampong Glam (or Kampong Gelam) is an ethnic enclave for the Malay community in Singapore, yet what do the road names, like “Arab Street” and “Jalan Sultan” mean? 
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kampong-glam-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+Find out in this story map on the streets of Kampaong Glam and uncover the myriad interlocking stories encoded in the streets there.
 
-<img src="/images/qr-code-storymap-kampomg-glam-landmarks.png" alt="qr-code-storymap-kampong-glam-landmarks" style="width:200px;" />
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kampong-glam-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
+<img src="/images/qr-code-storymap-kampong-glam-streets.png" alt="qr-code-storymap-kampong-glam-streets" style="width:200px;" />
 
 Notes:
-1. This story map does not show a comprehensive coverage of the historic landmarks found in Kampong Glam.
+1. This story map does not show a comprehensive coverage of the streets in Kampong Glam.
 
 2. The title of the base map used in this story map is the [New Singapore Street Map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f7db6648-115c-11e3-83d5-0050568939ad) (1930s)
 

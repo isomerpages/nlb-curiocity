@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Our First Nature Reserves
+title: 'Our First Nature Reserves'
 permalink: /resource-room/story-maps/nature-reserves-first
-date: 2020-09-05
+date: 2020-09-05T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-first-nature-reserves.PNG" alt="storymap- first-nature-reserves"/>
 

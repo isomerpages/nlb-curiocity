@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Kallang Basin
+title: 'Kallang Basin'
 permalink: /resource-room/vr-tours/kallang-basin
-date: 2020-03-10
+date: 2020-03-10T00:00:00.000Z
+
 ---
+
 
 <img src="/images/vr-tour-image-kallang-basin.png" alt="vr-tour-image-kallang-basin"/>
 

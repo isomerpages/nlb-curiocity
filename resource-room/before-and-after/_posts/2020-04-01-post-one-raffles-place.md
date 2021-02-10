@@ -1,9 +1,10 @@
 ---
-layout: post
-title: One Raffles Place
+title: 'One Raffles Place'
 permalink: /resource-room/before-and-after/one-raffles-place
-date: 2020-04-01
+date: 2020-04-01T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place"/>
 
