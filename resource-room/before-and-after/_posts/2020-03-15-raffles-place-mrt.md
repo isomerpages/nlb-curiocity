@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Raffles Place MRT Station Exit A
+title: 'Raffles Place MRT Station Exit A'
 permalink: /resource-room/before-and-after/raffles-place-mrt
-date: 2020-03-15
+date: 2020-03-15T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-raffles-place-mrt-station.png" alt="before-after-image-raffles-place-mrt"/>
 
