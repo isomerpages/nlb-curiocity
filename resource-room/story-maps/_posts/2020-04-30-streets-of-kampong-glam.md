@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Streets of Kampong Glam
+title: 'Streets of Kampong Glam'
 permalink: /resource-room/story-maps/streets-of-kampong-glam
-date: 2020-04-30
+date: 2020-04-30T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-kampong-glam-streets.png" alt="storymap-kampong-glam-streets"/>
 
