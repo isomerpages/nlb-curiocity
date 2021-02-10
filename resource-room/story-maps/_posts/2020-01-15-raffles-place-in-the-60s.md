@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Raffles Place in the 60s
+title: 'Raffles Place in the 60s'
 permalink: /resource-room/story-maps/raffles-place-in-the-60s
-date: 2020-01-15
+date: 2020-01-15T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-raffles-place-sixties.png" alt="storymap-raffles-place-sixties"/>
 
