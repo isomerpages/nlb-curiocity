@@ -1,9 +1,10 @@
 ---
-layout: post
-title: OCBC Centre
+title: 'OCBC Centre'
 permalink: /resource-room/before-and-after/ocbc-centre
-date: 2020-03-06
+date: 2020-03-06T00:00:00.000Z
+
 ---
+
 
 <img src="/images/before-after-image-ocbc-centre.png" alt="before-after-ocbc-centre"/>
 
