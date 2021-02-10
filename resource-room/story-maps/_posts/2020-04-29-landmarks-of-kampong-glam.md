@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Historical Landmarks of Kampong Glam
+title: 'Historical Landmarks of Kampong Glam'
 permalink: /resource-room/story-maps/landmarks-of-kampong-glam
-date: 2020-04-29
+date: 2020-04-29T00:00:00.000Z
+
 ---
+
 
 <img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="storymap-kampong-glam-landmarks"/>
 
