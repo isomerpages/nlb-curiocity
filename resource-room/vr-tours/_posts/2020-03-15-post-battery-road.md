@@ -12,13 +12,13 @@ Battery Road is one of Singapore's oldest roads. Stretching from Fullerton Squar
 
 Take a look at this VR tour to learn about the buildings that once lined Battery Road.
 
-View this VR tour in [full screen](https://poly.google.com/u/1/view/4RomdORhJCO){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://roundme.com/tour/704733/view/2220569/){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-battery-road.png" alt="qr-code-vr-battery-road" style="width:200px;" />
 
 Notes: 
 
-1. The photographs used in the VR tour are selected from [PictureSG]( https://eresources.nlb.gov.sg/pictures) and the [photograph database of the National Archives of Singapore]( https://www.nas.gov.sg/archivesonline/photographs/)
+1. The photographs used in the VR tour are selected from [PictureSG]( https://eresources.nlb.gov.sg/pictures) and the [photograph database of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/)
 
 2. VR Tour Background Image Credit: Scene 1: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons; Scene 2: Google Street View
 
