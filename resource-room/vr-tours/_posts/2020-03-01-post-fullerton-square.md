@@ -12,7 +12,7 @@ Fullerton Square was named after Robert Fullerton, the first governor of the Str
 
 Embark on this VR tour to relive the grandeur of Fullerton Square of the early 1900s.
 
-View this VR tour in [full screen](https://poly.google.com/u/1/view/7ZR3-woHeyf){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://roundme.com/tour/704722/view/2220555){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-fullerton.png" alt="qr-code-vr-fullerton" style="width:200px;" />
 
