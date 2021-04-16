@@ -14,7 +14,7 @@ Embark on this VR tour to relive the grandeur of Fullerton Square of the early 1
 
 View this VR tour in [full screen](https://roundme.com/tour/704722/view/2220555){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-vr-fullerton.png" alt="qr-code-vr-fullerton" style="width:200px;" />
+<img src="/images/qr-code-vr-fullerton-square.png" alt="qr-code-vr-fullerton-square" style="width:200px;" />
 
 Notes: 
 
