@@ -14,7 +14,7 @@ Join us in walking down memory lane as we explore the heritage of Queenstown thr
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-raffles-place-60s.png" alt="qr-code-storymap-raffles-place-60s" style="width:200px;" />
+<img src="/images/qr-code-storymap-queenstown-first-satellite-town.png" alt="qr-code-storymap-queenstown-first-satellite-town" style="width:200px;" />
 
 Notes:
 
