@@ -12,11 +12,11 @@ In central Singapore lies a vibrant and bustling housing estate known as Toa Pay
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/toa-payoh/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-queenstown-first-satellite-town.png" alt="qr-code-storymap-queenstown-first-satellite-town" style="width:200px;" />
+<img src="/images/qr-code-storymap-toa-payoh-first-housing-estate-by-hdb.png" alt="qr-code-storymap-toa-payoh-first-housing-estate-by-hdb" style="width:200px;" />
 
 Notes:
 
-1. This story map does not show a comprehensive coverage of the historical buildings and landmarks in Queenstown.
+1. This story map does not show a comprehensive coverage of the historical buildings and landmarks in Toa Payoh.
 
 2. The title of the base map used in this story map is the [“Singapore Road Map - South West”](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0d2de4-115c-11e3-83d5-0050568939ad) (1984).
 
