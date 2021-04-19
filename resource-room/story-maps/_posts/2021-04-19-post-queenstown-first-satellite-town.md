@@ -8,11 +8,11 @@ date: 2021-04-19T00:00:00.000Z
 
 <img src="/images/storymap-image-raffles-place-sixties.png" alt="storymap-raffles-place-sixties"/>
 
-Initially known as Commercial Square, Raffles Place has undergone many changes since it was demarcated as a commercial district in the 1822 Singapore Town Plan. During the colonial period, Raffles Place witnessed the construction of a series of architecturally beautiful buildings that housed mercantile companies, banks and shops. By the time Singapore gained independence in 1965, Raffles Place had become a prime location surrounded by some of the finest looking buildings in the country. 
+Development of Queenstown first began in 1952 by the Singapore Improvement Trust (SIT), and it was named as such to commemorate the coronation of Queen Elizabeth II. Formerly a swampy valley, it was developed into Singapore’s first satellite town, and holds many of Singapore’s firsts including the first branch library, the first neighbourhood sports complex and the first polyclinic. Today, Queenstown is filled with mementos of the past and there is a historical landmark at every turn. 
 
-Find out the name and history of these buildings in this story map.
+Join us in walking down memory lane as we explore the heritage of Queenstown through this storymap.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/mapbox/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-raffles-place-60s.png" alt="qr-code-storymap-raffles-place-60s" style="width:200px;" />
 
