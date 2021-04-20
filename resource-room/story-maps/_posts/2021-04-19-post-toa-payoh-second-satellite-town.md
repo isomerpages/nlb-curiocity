@@ -1,6 +1,6 @@
 ---
-title: 'Toa Payoh: First Housing Estate by HDB'
-permalink: /resource-room/story-maps/toa-payoh-first-housing-estate-by-hdb
+title: 'Toa Payoh: The Second Satellite Town'
+permalink: /resource-room/story-maps/toa-payoh-second-satellite-town
 date: 2021-04-19T00:00:00.000Z
 
 ---
