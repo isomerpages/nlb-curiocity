@@ -6,7 +6,7 @@ date: 2021-04-19T00:00:00.000Z
 ---
 
 
-<img src="/images/storymap-image-storymap-image-toa-payoh.JPG" alt="storymap-image-toa-payoh"/>
+<img src="/images/storymap-image-toa-payoh.JPG" alt="storymap-image-toa-payoh"/>
 
 In central Singapore lies a vibrant and bustling housing estate known as Toa Payoh. Brimming with iconic landmarks and historical sites, it was the second satellite town to be built after Queenstown but the first to be conceived and developed by the Housing Development Board (HDB). Since the first batch of residents moved into the estate in 1969, Toa Payoh has not only grown considerably, but played host to many significant events such as the South East Asian Peninsular (SEAP) Games in 1973, and visits by Queen Elizabeth II in 1972 and 2006. Find out more about Toa Payoh in this story map.
 
