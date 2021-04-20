@@ -6,7 +6,7 @@ date: 2021-04-19T00:00:00.000Z
 ---
 
 
-<img src="/images/storymap-image-raffles-place-sixties.png" alt="storymap-raffles-place-sixties"/>
+<img src="/images/storymap-image-queenstown.JPG" alt="storymap-image-queenstown"/>
 
 Development of Queenstown first began in 1952 by the Singapore Improvement Trust (SIT), and it was named as such to commemorate the coronation of Queen Elizabeth II. Formerly a swampy valley, it was developed into Singapore’s first satellite town, and holds many of Singapore’s firsts including the first branch library, the first neighbourhood sports complex and the first polyclinic. Today, Queenstown is filled with mementos of the past and there is a historical landmark at every turn. 
 
