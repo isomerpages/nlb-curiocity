@@ -12,7 +12,7 @@ As Singapore’s oldest commercial district, Raffles Place has witnessed some of
 
 Embark on this VR tour on Raffles Place to learn about its history.
 
-View this VR tour in [full screen](https://poly.google.com/u/1/view/ef9-kN4w2yT){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://roundme.com/tour/703159/view/2215722/){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-raffles-place.png" alt="qr-code-vr-raffles-place" style="width:200px;" />
 

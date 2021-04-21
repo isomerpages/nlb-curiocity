@@ -12,7 +12,7 @@ Kallang Basin is an enclosed bay where the Kallang River, Rochor River and Geyla
 
 Learn the changes that have taken place around the Kallang Basin in this VR tour.
 
-View this VR tour in [full screen](https://poly.google.com/view/ewxSopzJWHx){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://roundme.com/tour/704735/view/2220574){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-kallang-basin.png" alt="qr-code-vr-kallang-basin" style="width:200px;" />
 
