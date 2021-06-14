@@ -1,6 +1,6 @@
 ---
 title: The History of Orchard Road
-permalink: /resource-room/story-maps/tampines
+permalink: /resource-room/story-maps/orchard-road
 date: 2021-06-13T00:00:00.000Z
 
 ---
