@@ -1,5 +1,5 @@
 ---
-title: ‘Bras Basah and Its Schools’
+title: Bras Basah and Its Schools
 permalink: /resource-room/story-maps/bras-basah-schools
 date: 2021-06-13T00:00:00.000Z
 
