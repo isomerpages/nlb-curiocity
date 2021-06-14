@@ -8,7 +8,7 @@ date: 2021-06-13T00:00:00.000Z
 
 <img src="/images/storymap-image-tampines.png" alt="storymap-tampines"/>
 
-Reclaimed from plantations and forest reserve, Ang Mo Kio was planned and developed into a full-fledged residential town in the 1970s. The name Ang Mo Kio, or ‘red-haired man’s bridge’, is believed to reference colonial surveyor J. T. Thomson who constructed a nearby bridge over the Kallang River.  The seventh satellite town built by the Housing and Development Board, Ang Mo Kio was first housing estate to be designed in metric dimensions and was home to Singapore’s first town councils. 
+Tampines used to be home to many villages, farms and plantations. Stretching from the 6th milestone of Serangoon Road (where Kovan stands today) to Changi Road, it played an important role in Singapore’s urban redevelopment with sand from its quarries being used in many construction projects across the country. In the 1980s, Tampines transformed from a rural area into a modern satellite town. With its construction beginning in 1979, Tampines New Town was the first town in Singapore to be developed on a precinct concept–one which was aimed at promoting a spirit of neighbourliness and a sense of belonging among residents through thoughtful design and imaginative architecture. In fact, it was here in Tampines that the Housing and Development Board (HDB) first introduced features such as angled and curved blocks, pitched roofs, round balconies and roof-top gardens.
 
 Join us as we explore the heritage of one of Singapore’s most quintessential housing estates through this story map.
 
