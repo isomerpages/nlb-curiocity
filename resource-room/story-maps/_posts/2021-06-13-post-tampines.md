@@ -18,7 +18,7 @@ View the story map in [full screen]( https://uploads.knightlab.com/storymapjs/04
 
 Notes:
 
-1. This story map does not show a comprehensive coverage of the places of interest Tampines.
+1. This story map does not show a comprehensive coverage of the places of interest in Tampines.
 
 2. The title of the base map used in this story map is [“Singapore. Tampines”](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb73b6c5-115c-11e3-83d5-0050568939ad) (1992).
 
