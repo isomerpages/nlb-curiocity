@@ -12,7 +12,7 @@ Tampines used to be home to many villages, farms and plantations. Stretching fro
 
 Join us as we explore the heritage of one of Singapore’s most quintessential housing estates through this story map.
 
-View the story map in [full screen]( https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/tampines/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/tampines/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-tampines.png" alt="qr-code-storymap-tampines" style="width:200px;" />
 
