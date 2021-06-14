@@ -11,7 +11,7 @@ Bras Basah is one of Singapore’s oldest districts. With a name derived from th
 
 Take a trip back in time in this story map to learn more about the schools that were established in Bras Basah during the colonial period.
 
-View the story map in [full screen]( https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-bras-basah-schools.png" alt="qr-code-storymap-bras-basah-schools" style="width:200px;" />
 
