@@ -1,5 +1,5 @@
 ---
-title: ‘Streets of Bras Basah’
+title: Streets of Bras Basah
 permalink: /resource-room/story-maps/bras-basah-streets
 date: 2021-06-13T00:00:00.000Z
 
