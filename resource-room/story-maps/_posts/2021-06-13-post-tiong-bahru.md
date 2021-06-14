@@ -1,6 +1,6 @@
 ---
 title: Tiong Bahru: The First Housing Estate
-permalink: /resource-room/story-maps/tampines
+permalink: /resource-room/story-maps/tiong-bahru
 date: 2021-06-13T00:00:00.000Z
 
 ---
