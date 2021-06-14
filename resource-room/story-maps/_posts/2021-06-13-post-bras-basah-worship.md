@@ -1,5 +1,5 @@
 ---
-title: ‘Bras Basah and Its Places of Worship’
+title: Bras Basah and Its Places of Worship
 permalink: /resource-room/story-maps/bras-basah-worship
 date: 2021-06-13T00:00:00.000Z
 
