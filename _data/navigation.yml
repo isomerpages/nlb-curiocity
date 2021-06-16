@@ -1,9 +1,9 @@
 logo: /images/logo-curiocity.png
 links:
-    - title: 'VR Tours'
-      url: /resource-room/vr-tours/
     - title: 'Story Maps'
       url: /resource-room/story-maps/
+    - title: 'VR Tours'
+      url: /resource-room/vr-tours/
     - title: 'Before & After'
       url: /resource-room/before-and-after/
     - title: 'Research Resources'
