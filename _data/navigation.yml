@@ -10,8 +10,3 @@ links:
       url: /research-resources/
     - title: 'About Us'
       url: /about/
-    - title: 'Story Maps'
-      url: /resource-room/story-maps/
-      sub-links:
-        - title: 'Story Maps: Places'
-          url: /research-resources/story-maps/places
