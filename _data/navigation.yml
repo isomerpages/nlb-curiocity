@@ -10,3 +10,8 @@ links:
       url: /research-resources/
     - title: 'About Us'
       url: /about/
+ - title: 'Story Maps'
+    url: /events/
+    sublinks:
+    - title: Places
+      url: /events/design-thinking/
