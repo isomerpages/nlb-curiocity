@@ -11,7 +11,7 @@ links:
     - title: 'About Us'
       url: /about/
  - title: 'Story Maps'
-    url: /events/
+    url: /resource-room/story-maps/
     sublinks:
     - title: Places
-      url: /events/design-thinking/
+      url: /resource-room/story-maps/places
