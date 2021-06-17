@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - story-maps/.keep
-      - places.md
+      - our-heartland.md
       - test.md
