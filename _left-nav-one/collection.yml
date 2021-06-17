@@ -2,5 +2,5 @@ collections:
   left-nav-one:
     output: true
     order:
-      - sub-page-a.md
+      - story-maps.md
       - sub-page-b.md
