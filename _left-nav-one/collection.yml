@@ -4,3 +4,4 @@ collections:
     order:
       - story-maps/.keep
       - visualise-singapore.md
+      - test.md
