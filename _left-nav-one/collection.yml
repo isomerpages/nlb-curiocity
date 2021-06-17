@@ -2,5 +2,6 @@ collections:
   left-nav-one:
     output: true
     order:
+      - places/.keep
       - story-maps.md
       - visualise-singapore.md
