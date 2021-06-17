@@ -4,3 +4,4 @@ collections:
     order:
       - sub-page-a.md
       - sub-page-b.md
+      - example-title.md
