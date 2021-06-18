@@ -2,6 +2,7 @@ collections:
   story-maps:
     output: true
     order:
+      - central-region/.keep
       - housing-estates.md
       - conservation-areas.md
       - downtown-core.md
