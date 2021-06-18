@@ -2,6 +2,5 @@ collections:
   left-nav-one:
     output: true
     order:
-      - our-conservation-areas.md
       - our-downtown-core.md
       - old-maps-of-singapore.md
