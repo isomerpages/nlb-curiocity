@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - places/.keep
-      - places/central.md
+      - places/north-east.md
       - stories-from-maps.md
       - central-area.md
