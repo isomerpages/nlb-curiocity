@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - story-maps/.keep
-      - story-maps/example-title.md
       - our-heartland.md
       - our-conservation-areas.md
       - our-downtown-core.md
