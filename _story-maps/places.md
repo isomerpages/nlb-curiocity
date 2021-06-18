@@ -1,4 +1,5 @@
 ---
 title: Places
-permalink: /story-maps/permalink
+permalink: /story-maps/places
 ---
+
