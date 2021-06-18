@@ -2,5 +2,4 @@ collections:
   story-maps:
     output: true
     order:
-      - housing-estates/.keep
       - housing-estates.md
