@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - conservation-areas/.keep
+      - conservation-areas/conservation-areas.md
       - downtown-core.md
       - housing-estates.md
       - ang-mo-kio.md
