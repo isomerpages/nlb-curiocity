@@ -2,4 +2,4 @@ collections:
   story-maps:
     output: true
     order:
-      - downtown-core.md
+      - central-area.md
