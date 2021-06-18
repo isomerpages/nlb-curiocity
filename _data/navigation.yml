@@ -13,7 +13,7 @@ links:
   - title: Story Maps
     collection: story-maps
   - title: Maps
-    url: /permalink
+    url: https://curiocity.nlb.gov.sg/maps
     sublinks:
       - title: Places
         url: /permalink
