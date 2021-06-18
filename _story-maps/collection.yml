@@ -2,6 +2,6 @@ collections:
   story-maps:
     output: true
     order:
-      - topical.md
+      - our-downtown-core.md
       - collection.md
       - our-heartland.md
