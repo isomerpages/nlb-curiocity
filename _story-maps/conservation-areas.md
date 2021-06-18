@@ -1,6 +1,7 @@
 ---
 title: Conservation Areas
-permalink: /story-maps/our-conservation-areas
+permalink: /story-maps/conservation-areas
 ---
+
 
 
