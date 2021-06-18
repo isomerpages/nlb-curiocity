@@ -1,5 +1,6 @@
 ---
 title: Places
-permalink: /story-maps/places
+permalink: /story-maps/central
 third_nav_title: North East
 ---
+
