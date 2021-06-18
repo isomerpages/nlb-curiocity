@@ -1,6 +1,7 @@
 ---
 title: Downtown Core
-permalink: /story-maps/our-downtown-core
+permalink: /story-maps/downtown-core
 ---
+
 
 
