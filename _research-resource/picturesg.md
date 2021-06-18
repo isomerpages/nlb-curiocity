@@ -1,8 +1,9 @@
 ---
-title: "'PictureSG'"
+title: PictureSG
 permalink: /research-resource/picturesg/
 breadcrumb: PictureSG
 ---
+
 
 
 
