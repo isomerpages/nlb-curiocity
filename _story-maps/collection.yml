@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - places.md
+      - events.md
