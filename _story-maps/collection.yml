@@ -1,5 +1,0 @@
-collections:
-  story-maps:
-    output: true
-    order:
-      - housing-estates.md
