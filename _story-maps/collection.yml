@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - our-heartland/.keep
-      - places.md
       - topical.md
       - collection.md
