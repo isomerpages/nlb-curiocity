@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - our-downtown-core.md
-      - collection.md
+      - our-conservation-areas.md
       - our-heartland.md
