@@ -2,5 +2,5 @@ collections:
   story-maps:
     output: true
     order:
-      - central-area.md
       - stories-from-maps.md
+      - central-area.md
