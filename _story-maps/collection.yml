@@ -2,6 +2,5 @@ collections:
   story-maps:
     output: true
     order:
-      - our-heartland/.keep
       - topical.md
       - collection.md
