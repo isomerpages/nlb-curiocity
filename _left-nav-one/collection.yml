@@ -1,5 +1,4 @@
 collections:
   left-nav-one:
     output: true
-    order:
-      - old-maps-of-singapore.md
+    order: []
