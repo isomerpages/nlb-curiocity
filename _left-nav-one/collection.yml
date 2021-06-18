@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - story-maps/.keep
-      - our-heartland.md
       - our-conservation-areas.md
       - our-downtown-core.md
       - old-maps-of-singapore.md
