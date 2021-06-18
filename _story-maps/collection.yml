@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - central-area.md
+      - story-maps.md
