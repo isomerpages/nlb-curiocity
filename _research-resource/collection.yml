@@ -2,5 +2,5 @@ collections:
   research-resource:
     output: true
     order:
-      - picturesg.md
+      - picture-sg.md
       - spatial-discovery.md
