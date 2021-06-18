@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - central-region/.keep
-      - central-region/housing-estates.md
       - conservation-areas.md
       - downtown-core.md
