@@ -1,4 +1,5 @@
 collections:
   maps:
     output: true
-    order: []
+    order:
+      - ang-mo-kio.md
