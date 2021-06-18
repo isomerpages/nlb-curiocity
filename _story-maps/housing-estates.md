@@ -1,7 +1,8 @@
 ---
 title: Housing Estates
-permalink: /story-maps/our-heartland
+permalink: /story-maps/housing-estates
 ---
+
 
 
 The heartland, when referring to the planning subdivisions of Singapore, refers to the HDB (Housing Development Board) estates such as Jurong, Toa Payoh or Woodlands. 
