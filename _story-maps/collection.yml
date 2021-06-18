@@ -4,5 +4,5 @@ collections:
     order:
       - stories-from-maps.md
       - places/.keep
-      - places/north-east.md
       - places/central-area.md
+      - places/north-east.md
