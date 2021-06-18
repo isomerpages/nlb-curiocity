@@ -2,8 +2,6 @@ collections:
   story-maps:
     output: true
     order:
-      - housing-estates/.keep
-      - housing-estates/ang-mo-kio.md
       - conservation-areas.md
       - downtown-core.md
       - housing-estates.md
