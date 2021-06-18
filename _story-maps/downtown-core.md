@@ -2,4 +2,4 @@
 title: Downtown Core
 permalink: /downtown-core
 ---
-The Downtown Core Planning Area is the historical and economic heart of Singapore. Covering the Central Business District (CDB), City Hall, Bugis and Marina Centre Zones, 
+The Central Area, also called the City Area, and informally The City, is the city centre of Singapore. Located in the south-eastern part of the Central Region, the Central Area consists of eleven constituent planning areas, the Downtown Core, Marina East, Marina South, the Museum Planning Area, Newton, Orchard, Outram, River Valley, Rochor, the Singapore River and Straits View, as defined by the Urban Redevelopment Authority. 
