@@ -1,4 +1,5 @@
 collections:
   story-maps:
     output: true
-    order: []
+    order:
+      - downtown-core.md
