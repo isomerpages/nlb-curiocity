@@ -2,7 +2,7 @@ collections:
   story-maps:
     output: true
     order:
-      - north-east/.keep
-      - north-east/central.md
+      - places/.keep
+      - places/central.md
       - stories-from-maps.md
       - central-area.md
