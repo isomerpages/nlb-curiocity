@@ -12,3 +12,10 @@ links:
     url: /about/
   - title: Story Maps
     collection: story-maps
+  - title: Maps
+    url: /permalink
+    sublinks:
+      - title: Places
+        url: /permalink
+      - title: Collection
+        url: /permalink
