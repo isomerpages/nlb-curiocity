@@ -1,6 +1,7 @@
 ---
 title: Explore Our Story Maps
-permalink: /story-maps/stories-from-maps
+permalink: /story-maps/explore-story-maps
 ---
+
 
 
