@@ -15,4 +15,4 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 <center> See the list of key milestones on our digital journey towards today's GovTech, where we continue to deliver high quality public service to citizens and businesses alike. </center>
 
-<!-- Refer to _data/our-story-map.yml to edit Our Journey & Milestones content -->
+<!-- Refer to our-story-maps.yaml to edit Our Journey & Milestones content -->
