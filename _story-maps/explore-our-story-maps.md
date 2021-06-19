@@ -9,3 +9,9 @@ To help you navigate through our collection of Story Maps, we have categorised t
 * Our Housing Estates
 * The Central Area
 * Maps of Singapore
+
+#### **<center>Explore our Story Maps</center>**
+
+<center> See the list of key milestones on our digital journey towards today's GovTech, where we continue to deliver high quality public service to citizens and businesses alike. </center>
+
+<!-- Refer to our-story-maps.yaml to edit Our Journey & Milestones content -->
