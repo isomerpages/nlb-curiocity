@@ -11,5 +11,5 @@ To help you navigate through our collection of Story Maps, we have categorised t
 	Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singapore River, Marina South, Marina East, Straits View,  Rochor, Orchard and Downtown Core, the Central Area is both the economic and historic heart of Singapore. Having a mix of both modern and heritage buildings, this area creates a unique cityscape that attests us to our vibrant and plural history, as well as our economic progress from colonial outpost to a thriving global financial and business hub.
 	
 
-* [The Heartland](/story-maps/our-housing-estates/central-region)
+* [The Heartland](/story-maps/the-heartland/central-region)
 * Maps of Singapore
