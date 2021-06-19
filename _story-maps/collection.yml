@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - explore-our-story-maps.md
-      - places/.keep
-      - places/central-area.md
-      - places/north-east.md
+      - our-housing-estates/.keep
+      - our-housing-estates/central-area.md
+      - our-housing-estates/north-east.md
