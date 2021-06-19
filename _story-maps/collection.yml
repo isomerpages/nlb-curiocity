@@ -2,7 +2,6 @@ collections:
   story-maps:
     output: true
     order:
-      - maps-of-singapore/.keep
       - explore-our-story-maps.md
       - our-housing-estates/.keep
       - our-housing-estates/central-region.md
