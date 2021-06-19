@@ -1,8 +1,9 @@
 ---
 title: Central Region
-permalink: /story-maps/housing-estates/central-region
+permalink: /story-maps/our-housing-estates/central-region
 third_nav_title: Our Housing Estates
 ---
+
 
 
 
