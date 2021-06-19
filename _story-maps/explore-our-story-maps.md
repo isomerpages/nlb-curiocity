@@ -15,4 +15,5 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 	'Heartland' refers to areas beyond the city centre, outside of the Central Area. Populated mostly by public housing, they are self-sufficient housing estates completed with amenities ranging from schools, shops, markets, cinemas, stadiums, shopping malls and places of worship. 
 
+
 * Maps of Singapore
