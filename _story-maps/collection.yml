@@ -2,7 +2,6 @@ collections:
   story-maps:
     output: true
     order:
-      - the-central-area/.keep
       - explore-our-story-maps.md
       - our-housing-estates/.keep
       - our-housing-estates/central-region.md
@@ -10,3 +9,4 @@ collections:
       - our-housing-estates/north-east-region.md
       - our-housing-estates/north-region.md
       - our-housing-estates/west-region.md
+      - the-central-area/.keep
