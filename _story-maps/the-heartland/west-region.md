@@ -1,5 +1,6 @@
 ---
 title: West Region
-permalink: /story-maps/our-housing-estates/west-region
+permalink: /story-maps/the-heartland/west-region
 third_nav_title: The Heartland
 ---
+
