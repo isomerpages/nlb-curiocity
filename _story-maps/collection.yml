@@ -6,9 +6,9 @@ collections:
       - the-central-area/.keep
       - the-central-area/downtown-core.md
       - the-central-area/our-journey.md
-      - our-housing-estates/.keep
-      - our-housing-estates/central-region.md
-      - our-housing-estates/east-region.md
-      - our-housing-estates/north-east-region.md
-      - our-housing-estates/north-region.md
-      - our-housing-estates/west-region.md
+      - the-heartland/.keep
+      - the-heartland/central-region.md
+      - the-heartland/east-region.md
+      - the-heartland/north-east-region.md
+      - the-heartland/north-region.md
+      - the-heartland/west-region.md
