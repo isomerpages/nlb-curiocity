@@ -6,6 +6,6 @@ The Story Maps here tell the incredible stories that are embedded in the map col
 
 To help you navigate through our collection of Story Maps, we have categorised them into the following topics:
 
-* Our Housing Estates
+* [Our Housing Estates](/story-maps/our-housing-estates/central-region)
 * The Central Area
 * Maps of Singapore
