@@ -1,6 +1,7 @@
 ---
 title: East Region
-permalink: /story-maps/our-housing-estates/east-region
+permalink: /story-maps/the-heartland/east-region
 third_nav_title: The Heartland
 ---
+
 
