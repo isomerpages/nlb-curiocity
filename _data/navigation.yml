@@ -12,8 +12,10 @@ links:
     url: /about/
   - title: Story Maps
     collection: story-maps
-  - title: Menu Title
-    url: /permalink
+  - title: test
+    url: /story-maps/explore-story-maps
     sublinks:
+      - title: Submenu Title
+        url: /permalink
       - title: Submenu Title
         url: /permalink
