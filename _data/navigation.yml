@@ -11,9 +11,11 @@ links:
   - title: About Us
     url: /about/
   - title: Story Maps
-    collection: story-maps
-  - title: Story Maps 2
     url: /story-maps/explore
     sublinks:
-      - title: Central Area
+      - title: The Central Area
         url: /story-maps/central-area
+      - title: The Conservation Areas
+        url: /story-maps/conservation-areas
+      - title: The Heartland
+        url: /story-maps/heartland
