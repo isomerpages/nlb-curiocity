@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - the-central-area/.keep
-      - the-central-area/the-central-area.md
       - explore-our-story-maps.md
