@@ -11,9 +11,9 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps in this area.
 |
 
-| **<font size=5> Conservation Areas </font>** |  | 
+| **<font size=5> Historic Districts </font>** |  | 
 | -------- | -------- | 
-| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:500px;" />      | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about them [here](/story-maps/heartland){:target="_blank"}.
 |
 
 | **<font size=5> The Heartland </font>** |  | 
