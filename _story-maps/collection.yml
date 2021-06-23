@@ -1,0 +1,4 @@
+collections:
+  story-maps:
+    output: true
+    order: []
