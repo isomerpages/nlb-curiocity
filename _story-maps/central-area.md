@@ -1,6 +1,7 @@
 ---
 title: Central Area
-permalink: /story-maps/central-asia
+permalink: /story-maps/central-area
 ---
+
 
 
