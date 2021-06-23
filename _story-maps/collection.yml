@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - explore-our-story-maps.md
-      - central-area.md
+      - the-central-area.md
       - the-heartland.md
       - the-map-collection.md
