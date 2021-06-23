@@ -12,8 +12,8 @@ links:
     url: /about/
   - title: Story Maps
     collection: story-maps
-  - title: Menu Title
-    url: /permalink
+  - title: Story Maps 2
+    url: /story-maps/explore
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Central Area
+        url: /story-maps/central-area
