@@ -6,9 +6,9 @@ The Story Maps here tell the incredible stories that are embedded in the map col
 
 To help you navigate through our collection of Story Maps, we have categorised them into the following areas.
 
-| **[The Central Area](/story-maps/central-asia){:target="_blank"} ** |  | 
+| **[The Central Area](/story-maps/central-asia)**  |  | 
 | -------- | -------- | 
-| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Comprising 11 Planning Areas including Singapore River, Orchard and Downtown Core, its cityscape of both modern skyscrapers and heritage buildings is a narrative of Singapore’s progress from a colonial outpost to a global financial and business hub.   | 
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Comprising 11 Planning Areas including Singapore River, Orchard and Downtown Core, its cityscape of both modern skyscrapers and heritage buildings is a narrative of Singapore’s progress from a colonial outpost to a global financial and business hub.   | **
 
 | **The Heartland** |  | 
 | -------- | -------- | 
@@ -17,3 +17,4 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | **Explore Our Maps** |  | 
 | -------- | -------- | 
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
+
