@@ -1,4 +1,5 @@
 collections:
   visualise-singapore:
     output: true
-    order: []
+    order:
+      - singapore-through-different-lenses.md
