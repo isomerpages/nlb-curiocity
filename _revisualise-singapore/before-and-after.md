@@ -1,4 +1,5 @@
 ---
 title: Before and After
-permalink: /visualise-singapore/before-and-after
+permalink: /revisualise-singapore/before-and-after
 ---
+
