@@ -8,7 +8,7 @@ Learn more about this part of Singapore using the story maps below.
 
 
 
-| **Bras Basah** | | 
+| **<p><font size="5">Bras Basah</font></p>** | | 
 | -------- | -------- |
 | <img src="/images/storymap-image-bras-basah-schools.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about Bras Basah and its connection with the earliest schools of Singapore in this [story map](/resource-room/story-maps/bras-basah-schools) |
 | <img src="/images/storymap-image-bras-basah-worship.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about Bras Basah and the oldest places of worship there in this [story map](/resource-room/story-maps/bras-basah-schools) |
