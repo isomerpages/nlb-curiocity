@@ -14,6 +14,6 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | -------- | -------- | 
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:600px;" />   | 'Heartland' refers to areas beyond the city centre, outside of the Central Area. Populated mostly by public housing, they are self-sufficient housing estates completed with amenities ranging from schools, shops, markets, cinemas, stadiums, shopping malls and places of worship. It is also the part of the island where most of its parks and greenery were located.       | 
 
-| **Explore Our Maps** |  | 
+| **The Map Collection** |  | 
 | -------- | -------- | 
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
