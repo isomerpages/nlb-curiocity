@@ -14,13 +14,6 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | -------- | -------- | 
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:600px;" />   | 'Heartland' refers to areas beyond the city centre, outside of the Central Area. Populated mostly by public housing, they are self-sufficient housing estates completed with amenities ranging from schools, shops, markets, cinemas, stadiums, shopping malls and places of worship. It is also the part of the island where most of its parks and greenery were located.       | 
 
-| **Beyond the Boundaries** |  | 
+| **Explore Our Maps** |  | 
 | -------- | -------- | 
-| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:600px;" />      | Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singapore River, Marina South, Marina East, Straits View,  Rochor, Orchard and Downtown Core, the Central Area is both the economic and historic heart of Singapore. Having a mix of both modern and heritage buildings, this area creates a unique cityscape that attests us to our vibrant and plural history, as well as our economic progress from colonial outpost to a thriving global financial and business hub.       | 
-
-
-
-
-
-
-
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
