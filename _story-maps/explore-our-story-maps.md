@@ -13,7 +13,7 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 | **<font size=5> Historic Districts </font>** |  | 
 | -------- | -------- | 
-| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about them [here](/story-maps/heartland){:target="_blank"}.
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about them [here](/story-maps/historic-districts){:target="_blank"}.
 |
 
 | **<font size=5> The Heartland </font>** |  | 
