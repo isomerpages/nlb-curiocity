@@ -2,5 +2,5 @@ collections:
   story-maps:
     output: true
     order:
-      - the-central-area/.keep
       - explore-our-story-maps.md
+      - the-central-area/.keep
