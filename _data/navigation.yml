@@ -20,4 +20,9 @@ links:
       - title: The Heartland
         url: /story-maps/heartland
   - title: Visualise Singapore
-    collection: visualise-singapore
+    url: /visualise-singapore/introduction
+    sublinks:
+      - title: VR Tours
+        url: /visualise-singapore/vr-tours
+      - title: Before and After
+        url: /visualise-singapore/before-and-after
