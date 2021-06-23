@@ -1,4 +1,5 @@
 ---
 title: The Map Collection
-permalink: /story-maps/explore
+permalink: /story-maps/map-collection
 ---
+
