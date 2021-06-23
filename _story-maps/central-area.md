@@ -10,12 +10,10 @@ Learn more about this part of Singapore using the story maps below.
 
 | **Bras Basah** | | 
 | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)     | Learn about Bras Basah and its connection with the earliest schools of Singapore in this story map |
+| ![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)     | Learn about Bras Basah and its connection with the earliest schools of Singapore in this[ story map](/resource-room/story-maps/bras-basah-schools) |
 
 | Bras Basah | 
 | -------- | 
 | Bras Basah and its colonial schools     |
 | Bras Basah and its colonial schools     |
 | Bras Basah and its colonial schools     |
-
-
