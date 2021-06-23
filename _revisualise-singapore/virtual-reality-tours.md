@@ -1,5 +1,6 @@
 ---
 title: Virtual Reality Tours
-permalink: /visualise-singapore/vr-tours
+permalink: /revisualise-singapore/vr-tours
 ---
+
 
