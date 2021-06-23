@@ -18,4 +18,14 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | -------- | -------- | 
 | <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:950px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
 
-<font size="5">[The Central Area](https://curiocity.nlb.gov.sg/resource-room/vr-tours/)</font>
+| [**The Central Area**](https://curiocity.nlb.gov.sg/resource-room/vr-tours/) |  | 
+| -------- | -------- | 
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:950px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
+
+| [The Central Area](https://curiocity.nlb.gov.sg/resource-room/vr-tours/) |  | 
+| -------- | -------- | 
+| <img src="/images/banner-green-and-blue-of-kallang.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:950px;" />      | Explore this section to see the stories that are embedded in the map collection of the National Library and National Archives of Singapore. Through maps including topographic maps, survey maps, general maps, aviation maps and hydrographic charts, you will be amazed by the amount of physical transformation Singapore experienced over the centuries.    |
+
+[**The Central Area**](https://curiocity.nlb.gov.sg/resource-room/vr-tours/)
+
+# The central asia
