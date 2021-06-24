@@ -19,12 +19,10 @@ links:
         url: /story-maps/historic-districts
       - title: The Heartland
         url: /story-maps/heartland
-  - title: Revisualise Singapore
-    url: /revisualise-singapore/introduction
+  - title: Singapore Revisualised
+    url: /singapore-revisualised/introduction
     sublinks:
       - title: VR Tours
         url: /revisualise-singapore/vr-tours
       - title: Before and After
         url: /revisualise-singapore/before-and-after
-  - title: Intangible Heritage
-    collection: intangible-heritage
