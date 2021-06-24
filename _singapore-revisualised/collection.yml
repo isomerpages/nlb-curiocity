@@ -1,5 +1,5 @@
 collections:
-  revisualise-singapore:
+  singapore-revisualised:
     output: true
     order:
       - singapore-through-different-lenses.md
