@@ -20,3 +20,8 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | -------- | -------- | 
 | <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
 |
+
+| **<font size=5> Green and Blue </font>** |  | 
+| -------- | -------- | 
+| <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
+|
