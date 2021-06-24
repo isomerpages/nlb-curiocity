@@ -1,4 +1,5 @@
 collections:
   sensing-singapore:
     output: true
-    order: []
+    order:
+      - sensing-singapore.md
