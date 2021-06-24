@@ -2,4 +2,4 @@ collections:
   sensing-the-city:
     output: true
     order:
-      - sensing-the-city.md
+      - singapore-through-your-senses.md
