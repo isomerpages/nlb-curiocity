@@ -1,5 +1,5 @@
 collections:
-  sensing-singapore:
+  sensing-the-city:
     output: true
     order:
       - sensing-the-city.md
