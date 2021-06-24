@@ -2,4 +2,4 @@ collections:
   sensing-singapore:
     output: true
     order:
-      - sensing-singapore.md
+      - sensing-the-city.md
