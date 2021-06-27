@@ -8,7 +8,7 @@ In Curiocity, we have put up the following story maps to join the effort to brin
 
 | **<font size="5">Nature Spaces</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about how our first nature reserves were created in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-first-nature-reserves.PNG" alt="first-nature-reserves" style="width:650px;" />     | Learn about how our first nature reserves were created in this [story map](/resource-room/story-maps/nature-reserves-first){:target="_blank"}  |
 | <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out where some of our nature reserves and nature areas are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
 | 
 
