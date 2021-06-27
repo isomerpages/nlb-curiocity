@@ -14,4 +14,4 @@ In Curiocity, we have put up the following story maps to join the effort to brin
 | **<font size="5">Islands</font>** | | 
 | -------- | -------- |
 | <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
-| 
+|
