@@ -28,6 +28,6 @@ Learn more about this part of Singapore using the story maps below.
 
 | **<font size="5">Kallang</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-padang.png" alt="storymap-padang" style="width:650px;" />     | Find out why the Padang is such an important space in Singapore's history in this [story map](/resource-room/story-maps/padang){:target="_blank"}  |
-| <img src="/images/storymap-image-fort-canning.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the history of Fort Canning Hill in this [story map](/resource-room/story-maps/fort-canning){:target="_blank"}  
+| <img src="/images/storymap-image-padang.png" alt="storymap-padang" style="width:650px;" />     | Learn about the history of Kallang in this [story map](/resource-room/story-maps/padang){:target="_blank"}  |
+| <img src="/images/storymap-image-fort-canning.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about how Kallang was transformed into one of the greenest places on the island in this [story map](/resource-room/story-maps/fort-canning){:target="_blank"}  
 |
