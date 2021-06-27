@@ -22,6 +22,6 @@ Learn more about this part of Singapore using the story maps below.
 
 | **<font size="5">City Hall</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-padang.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out why the Padang is such an important space in Singapore's history in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-padang.png" alt="storymap-padang" style="width:650px;" />     | Find out why the Padang is such an important space in Singapore's history in this [story map](/resource-room/story-maps/padang){:target="_blank"}  |
 | <img src="/images/storymap-image-fort-canning.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the history of Fort Canning Hill in this [story map](/resource-room/story-maps/streets-of-raffles-place){:target="_blank"}  
 |
