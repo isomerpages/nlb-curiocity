@@ -9,10 +9,10 @@ In Curiocity, we have put up the following story maps to join the effort to brin
 | **<font size="5">Our Nature Spaces</font>** | | 
 | -------- | -------- |
 | <img src="/images/storymap-image-first-nature-reserves.PNG" alt="first-nature-reserves" style="width:650px;" />     | Learn about how our first nature reserves were created in this [story map](/resource-room/story-maps/nature-reserves-first){:target="_blank"}  |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out where some of our nature reserves and nature areas are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-nature-reserves-today.JPG" alt="nature-reserves-today" style="width:650px;" />     | Find out where some of our today's nature reserves and nature areas are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
 | 
 
 | **<font size="5">Our Islands</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | There are many islands around Singapore. Find out where they are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-islands.JPG" alt="storymap-islands" style="width:650px;" />     | There are many islands around Singapore. Find out where they are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
 |
