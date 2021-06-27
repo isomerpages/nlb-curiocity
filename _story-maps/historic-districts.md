@@ -8,9 +8,9 @@ Find out more about our Historic Districts through these story maps.
 
 
 
-| **<font size="5">Raffles Place</font>** | | 
+| **<font size="5">Chinatown</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-chinatown-landmarks.PNG" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
 | <img src="/images/storymap-image-raffles-place-today.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the buildings and skyscrapers of today's Raffles Place in this [story map](/resource-room/story-maps/raffles-place-today){:target="_blank"}  |
 | <img src="/images/storymap-image-raffles-place-streets.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the history of the streets in Raffles Place in this [story map](/resource-room/story-maps/streets-of-raffles-place){:target="_blank"}  
 |
