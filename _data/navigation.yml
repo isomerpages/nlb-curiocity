@@ -1,16 +1,6 @@
 logo: /images/logo-curiocity.png
 links:
   - title: Story Maps
-    url: /resource-room/story-maps/
-  - title: VR Tours
-    url: /resource-room/vr-tours/
-  - title: Before & After
-    url: /resource-room/before-and-after/
-  - title: Research Resources
-    url: /research-resources/
-  - title: About Us
-    url: /about/
-  - title: Story Maps
     url: /story-maps/explore
     sublinks:
       - title: Central Area
@@ -30,3 +20,5 @@ links:
         url: /singapore-revisualised/before-and-after
   - title: Research Resources
     url: /research-resources/
+  - title: About Us
+    url: /about/
