@@ -11,13 +11,13 @@ links:
         url: /story-maps/heartland
       - title: Green and Blue
         url: /story-maps/green-and-blue
-  - title: Singapore Revisualised
-    url: /singapore-revisualised/introduction
+  - title: Singapore Visualised
+    url: /singapore-visualised/introduction
     sublinks:
       - title: VR Tours
-        url: /singapore-revisualised/vr-tours
+        url: /singapore-visualised/vr-tours
       - title: Before and After
-        url: /singapore-revisualised/before-and-after
+        url: /singapore-visualised/before-and-after
   - title: Research Resources
     url: /research-resources/
   - title: About Us
