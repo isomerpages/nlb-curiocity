@@ -29,7 +29,7 @@ sections:
       description: Take a journey through Ang Mo Kio and learn about its history in
         this story map.
       url: /resource-room/story-maps/ang-mo-kio
-      image: /images/banner-storymaps-main.jpg
+      image: /images/banner-green-and-blue-of-kallang.jpg
       alt: Story Maps banner
       button: View Story Map
   - infopic:
@@ -41,14 +41,8 @@ sections:
         virtual reality tours of some of the most interesting places on the
         island.
       url: /resource-room/vr-tours/battery-road
-      image: /images/banner-vr-tours-main.jpg
+      image: /images/banner-battery-road.jpg
       alt: VR Tours banner
       button: View VR Tour
-  - infopic:
-      title: History of Orchard Road
-      subtitle: Latest Story Map
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 notification: "\n"
 ---
