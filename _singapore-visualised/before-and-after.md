@@ -4,23 +4,12 @@ permalink: /singapore-visualised/before-and-after
 ---
 Journey through these before and after images of places and buildings around Singapore. You will be astonished by how much the island has changed over the decades.
 
+ **<font size=5> Raffles Place </font>**
+ 
+| | | |
+| -------- | -------- | -------- |
+| <img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:600px;" /> Six Battery Road    | <img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:250px;" />  Singapore Land Tower   | <img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place" style="width:600px;" /> One Raffles Place    |
+| <img src="/images/before-after-image-myp-centre.png" alt="myp-centre" style="width:520px;" /> MYP Centre    | <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />  Bank of China and Maybank Tower  | <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:600px;" /> UOB Plaza    |
+| <img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:520px;" /> Raffles Place MRT Station Exit A    | <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />  OCBC Centre  |     |
 
-| **<font size=5> Central Area </font>** |  | 
-| -------- | -------- | 
-| <img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
-|
 
-| **<font size=5> Historic Districts </font>** |  | 
-| -------- | -------- | 
-| <img src="/images/story-maps-landing-historic-areas.jpg" alt="historic-districts" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/story-maps/historic-districts){:target="_blank"}.
-|
-
-| **<font size=5> The Heartland </font>** |  | 
-| -------- | -------- | 
-| <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
-|
-
-| **<font size=5> Green and Blue </font>** |  | 
-| -------- | -------- | 
-| <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
-|
