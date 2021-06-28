@@ -25,7 +25,7 @@ sections:
           url: /singapore-visualised/before-and-after
   - infopic:
       title: A Journey through Ang Mo Kio
-      subtitle: Latest addition
+      subtitle: Latest Story Map
       description: Take a journey through Ang Mo Kio and learn about its history in
         this story map.
       url: /resource-room/story-maps/ang-mo-kio
@@ -33,8 +33,8 @@ sections:
       alt: Story Maps banner
       button: View Story Map
   - infopic:
-      title: Historic Tour of Battery Road
-      subtitle: Latest Addition
+      title: A Historic Tour of Battery Road
+      subtitle: Latest VR Tour
       description: Ever dream about travelling back in time to see how Singapore was
         like? Using the rich photograph collections of the National Library and
         National Archives of Singapore, we have put together a selection of
