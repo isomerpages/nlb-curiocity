@@ -6,10 +6,10 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 
 | **<font size=5> VR Tours</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
+| <img src="/images/landing-singapore-revisualised-vr-tours.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/singapore-visualised/vr-tours){:target="_blank"}  to view the story maps of this area and discover its history.
 |
 
 | **<font size=5> Before & After</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-historic-areas.jpg" alt="historic-districts" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/story-maps/historic-districts){:target="_blank"}.
+| <img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/singapore-visualised/before-and-after){:target="_blank"}.
 |
