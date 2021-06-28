@@ -12,21 +12,29 @@ sections:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
       background: /images/hero-banner-curiocity3.jpg
-      button: Start exploring
       url: /resource-room/
+      key_highlights:
+        - title: Explore our story maps
+          description: Read the stories in our maps
+          url: ""
+        - title: View our VR tours
+          description: Travel back in time
+          url: ""
+        - title: See Before & After images
+          description: Observe changes in places
+          url: ""
   - infopic:
-      title: Explore Our Story Maps
-      subtitle: Features
-      description: If a picture is worth a thousand words, then a map must be worth a
-        million. Take a look at these story maps and be amazed by the stories
-        they embed.
+      title: A Journey through Ang Mo Kio
+      subtitle: Latest addition
+      description: Take a journey through Ang Mo Kio and learn about its history in
+        this story map.
       url: /resource-room/story-maps/
       image: /images/banner-storymaps-main.jpg
       alt: Story Maps banner
-      button: View all Story Maps
+      button: View Story Map
   - infopic:
-      title: VR Tours
-      subtitle: Features
+      title: Historic Tour of Battery Road
+      subtitle: Latest Addition
       description: Ever dream about travelling back in time to see how Singapore was
         like? Using the rich photograph collections of the National Library and
         National Archives of Singapore, we have put together a selection of
@@ -35,16 +43,6 @@ sections:
       url: /resource-room/vr-tours/
       image: /images/banner-vr-tours-main.jpg
       alt: VR Tours banner
-      button: View all VR Tours
-  - infopic:
-      title: Before & After
-      subtitle: Features
-      description: Journey through these before and after images of places and
-        buildings to rediscover Singapore. You will be astonished by how much
-        the island has changed over the decades.
-      url: /resource-room/before-and-after/
-      image: /images/banner-before-and-after-image-1.png
-      alt: Before & After banner
-      button: View all Before & After posts
+      button: View VR Tour
 notification: "\n"
 ---
