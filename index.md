@@ -16,19 +16,19 @@ sections:
       key_highlights:
         - title: Explore our story maps
           description: Read the stories in our maps
-          url: ""
+          url: /story-maps/explore
         - title: View our VR tours
           description: Travel back in time
-          url: ""
+          url: /singapore-visualised/vr-tours
         - title: See Before & After images
           description: Observe changes in places
-          url: ""
+          url: /singapore-visualised/before-and-after
   - infopic:
       title: A Journey through Ang Mo Kio
       subtitle: Latest addition
       description: Take a journey through Ang Mo Kio and learn about its history in
         this story map.
-      url: /resource-room/story-maps/
+      url: /resource-room/story-maps/ang-mo-kio
       image: /images/banner-storymaps-main.jpg
       alt: Story Maps banner
       button: View Story Map
@@ -40,7 +40,7 @@ sections:
         National Archives of Singapore, we have put together a selection of
         virtual reality tours of some of the most interesting places on the
         island.
-      url: /resource-room/vr-tours/
+      url: /resource-room/vr-tours/battery-road
       image: /images/banner-vr-tours-main.jpg
       alt: VR Tours banner
       button: View VR Tour
