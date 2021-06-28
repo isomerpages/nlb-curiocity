@@ -15,7 +15,7 @@ sections:
       button: Start exploring
       url: /resource-room/
   - infopic:
-      title: Story Maps
+      title: Explore Our Story Maps
       subtitle: Features
       description: If a picture is worth a thousand words, then a map must be worth a
         million. Take a look at these story maps and be amazed by the stories
