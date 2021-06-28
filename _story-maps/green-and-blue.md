@@ -14,5 +14,5 @@ In Curiocity, we have put up the following story maps to join the effort to brin
 
 | **<font size="5">Our Islands</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-islands-paradise.JPG" alt="storymap-islands" style="width:650px;" />     | There are many islands around Singapore. Find out where they are in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-islands-paradise.JPG" alt="storymap-islands" style="width:650px;" />     | There are many islands around Singapore. Find out where they are in this [story map](/resource-room/story-maps/islands-paradise){:target="_blank"}  |
 |
