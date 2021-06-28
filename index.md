@@ -44,5 +44,11 @@ sections:
       image: /images/banner-vr-tours-main.jpg
       alt: VR Tours banner
       button: View VR Tour
+  - infopic:
+      title: History of Orchard Road
+      subtitle: Latest Story Map
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 notification: "\n"
 ---
