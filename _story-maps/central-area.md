@@ -31,3 +31,8 @@ Learn more about this part of Singapore using the story maps below.
 | <img src="/images/storymap-image-historic-kallang.png" alt="historic-kallang" style="width:800px;" />     | Learn about the history of Kallang in this [story map](/resource-room/story-maps/historic-kallang){:target="_blank"}  |
 | <img src="/images/storymap-image-kallang-waterbodies-parks.png" alt="kallang-green-blue" style="width:650px;" />     | Learn about how Kallang was transformed into one of the greenest places on the island in this [story map](/resource-room/story-maps/the-green-and-blue-of-kallang){:target="_blank"}  
 |
+
+| **<font size="5">Orchard</font>** | | 
+| -------- | -------- |
+| <img src="/images/storymap-image-orchard-road.png" alt="orchard-rd-history" style="width:450px;" />     | Learn about the history of Orchard Road in this [story map](/resource-room/story-maps/orchard-road){:target="_blank"}  |
+| 
