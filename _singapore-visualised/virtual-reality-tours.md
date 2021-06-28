@@ -2,26 +2,25 @@
 title: Virtual Reality Tours
 permalink: /singapore-visualised/vr-tours
 ---
-
 Ever dream about travelling back in time to see how Singapore was like? Using the rich photograph collections of the National Library and National Archives of Singapore, we have put together a selection of virtual reality tours of some of the most interesting places on the island.
 
 
 | **<font size=5> Raffles Place</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
+| <img src="/images/vr-tour-image-raffles-place.png" alt="central-area" style="width:500px;" />   | See how the transformation of Raffles Place in this [VR tour](/resource-room/vr-tours/raffles-place){:target="_blank"} .
 |
 
 | **<font size=5> Battery Road</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-historic-areas.jpg" alt="historic-districts" style="width:500px;" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/story-maps/historic-districts){:target="_blank"}.
+| <img src="/images/vr-tour-image-battery-road.png" alt="historic-districts" style="width:600px;" />      | Learn about the buildings that once stood in Battery Road in this [VR tour](/resource-room/vr-tours/battery-road){:target="_blank"}.
 |
 
 | **<font size=5> Fullerton</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
+| <img src="/images/vr-tour-image-fullerton-square.png" alt="heartland" style="width:500px;" />   | Find out how Fullerton was like in the early 1900s in this [VR tour](/resource-room/vr-tours/fullerton-square){:target="_blank"} .
 |
 
 | **<font size=5> Kallang</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-heartland.jpg" alt="heartland" style="width:500px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
+| <img src="/images/vr-tour-image-kallang-basin.png" alt="heartland" style="width:500px;" />   | Take an aerial trip over Kallang during the 1970s using this [VR tour](/resource-room/vr-tours/kallang-basin){:target="_blank"} .
 |
