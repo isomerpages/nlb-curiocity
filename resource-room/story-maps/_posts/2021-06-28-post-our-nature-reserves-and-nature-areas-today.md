@@ -14,7 +14,7 @@ Discover what lies within some of these nature areas in this story map.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-islands.png" alt="qr-code-storymap-islands" style="width:200px;" />
+<img src="/images/qr-code-storymap-nature-reserves.png" alt="qr-code-storymap-islands" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of the nature areas in Singapore.
