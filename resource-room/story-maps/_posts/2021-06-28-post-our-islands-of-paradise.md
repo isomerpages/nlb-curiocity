@@ -12,7 +12,7 @@ Discover some of our offshore islands around Singapore in this story map.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-islands-of-paradise/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-bridges-singapore-river.png" alt="qr-code-storymap-bridges-singapore-river" style="width:200px;" />
+<img src="/images/qr-code-storymap-islands.png" alt="qr-code-storymap-islands" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of the bridges found along Singapore River.
