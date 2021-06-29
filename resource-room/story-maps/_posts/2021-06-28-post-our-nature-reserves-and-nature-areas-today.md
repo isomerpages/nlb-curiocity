@@ -6,9 +6,11 @@ layout: post
 ---
 <img src="/images/storymap-image-nature-reserves-areas-today.JPG" alt="storymap-nature-reserves-today"/>
 
-Off the shores of Singapore's main island lie dozens of little hidden slices of paradise, namely our offshore islands. Awaiting a short distance from the city are scenic areas of rustic charm, delicate ecological habitats and troves of cultural treasures - our very own Islands of Paradise. 
+Singapore’s beginning with nature reserves goes all the way back to the 1880s, when the then-Singapore Botanical Gardens Superintendent Nathaniel Cantley proposed that select areas of land around the island to be set up as forest reserves in 1882. 
 
-Discover some of our offshore islands around Singapore in this story map.
+Today, Singapore has four nature areas comprising the four main nature reserves – Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve – as well as 20 other areas that are subject to administrative safeguards under the Parks and Waterbodies Plan. The four nature reserves are protected under the Parks and Trees Act.
+
+Discover what lies within some of these nature areas in this story map.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
