@@ -8,7 +8,7 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 | **<font size=5> Central Area </font>** |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:500px;" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
+| <img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:500px; height:50px" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
 |
 
 | **<font size=5> Historic Districts </font>** |  | 
