@@ -3,8 +3,6 @@ title: Before & After
 permalink: /singapore-visualised/before-and-after
 ---
 Journey through these before and after images of places and buildings around Singapore. You will be astonished by how much the island has changed over the decades.
-
- **<font size=5> Raffles Place </font>**
  
 | **<font size=5> Raffles Place</font>** | | |
 | -------- | -------- | -------- |
