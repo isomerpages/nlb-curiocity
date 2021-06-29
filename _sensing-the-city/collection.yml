@@ -1,0 +1,6 @@
+collections:
+  sensing-the-city:
+    output: true
+    order:
+      - experiencing-singapore-through-our-senses.md
+      - tasting-singapore.md

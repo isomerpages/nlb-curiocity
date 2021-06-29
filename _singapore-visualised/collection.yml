@@ -1,0 +1,7 @@
+collections:
+  singapore-visualised:
+    output: true
+    order:
+      - singapore-through-different-lenses.md
+      - virtual-reality-tours.md
+      - before-and-after.md

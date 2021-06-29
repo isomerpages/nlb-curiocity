@@ -1,11 +1,23 @@
 logo: /images/logo-curiocity.png
 links:
   - title: Story Maps
-    url: /resource-room/story-maps/
-  - title: VR Tours
-    url: /resource-room/vr-tours/
-  - title: Before & After
-    url: /resource-room/before-and-after/
+    url: /story-maps/explore
+    sublinks:
+      - title: Central Area
+        url: /story-maps/central-area
+      - title: Historic Districts
+        url: /story-maps/historic-districts
+      - title: The Heartland
+        url: /story-maps/heartland
+      - title: Green and Blue
+        url: /story-maps/green-and-blue
+  - title: Singapore Visualised
+    url: /singapore-visualised/introduction
+    sublinks:
+      - title: VR Tours
+        url: /singapore-visualised/vr-tours
+      - title: Before & After
+        url: /singapore-visualised/before-and-after
   - title: Research Resources
     url: /research-resources/
   - title: About Us

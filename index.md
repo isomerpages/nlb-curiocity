@@ -12,39 +12,45 @@ sections:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
       background: /images/hero-banner-curiocity3.jpg
-      button: Start exploring
       url: /resource-room/
+      key_highlights:
+        - title: Explore our story maps
+          description: Read the stories in our maps
+          url: /story-maps/explore
+        - title: View our VR tours
+          description: Travel back in time
+          url: /singapore-visualised/vr-tours
+        - title: See Before & After images
+          description: Observe changes in places
+          url: /singapore-visualised/before-and-after
   - infopic:
-      title: Story Maps
-      subtitle: Features
-      description: If a picture is worth a thousand words, then a map must be worth a
-        million. Take a look at these story maps and be amazed by the stories
-        they embed.
-      url: /resource-room/story-maps/
-      image: /images/banner-storymaps-main.jpg
+      title: A Journey through Ang Mo Kio
+      subtitle: Latest Story Map
+      description: Take a journey through Ang Mo Kio and learn about its history in
+        this story map.
+      url: /resource-room/story-maps/ang-mo-kio
+      image: /images/banner-ang-mo-kio-storymap.jpg
       alt: Story Maps banner
-      button: View all Story Maps
+      button: View Story Map
   - infopic:
-      title: VR Tours
-      subtitle: Features
+      title: A Historic Tour of Battery Road
+      subtitle: Latest VR Tour
       description: Ever dream about travelling back in time to see how Singapore was
         like? Using the rich photograph collections of the National Library and
         National Archives of Singapore, we have put together a selection of
         virtual reality tours of some of the most interesting places on the
         island.
-      url: /resource-room/vr-tours/
-      image: /images/banner-vr-tours-main.jpg
+      url: /resource-room/vr-tours/battery-road
+      image: /images/banner-battery-road.jpg
       alt: VR Tours banner
-      button: View all VR Tours
+      button: View VR Tour
   - infopic:
-      title: Before & After
-      subtitle: Features
-      description: Journey through these before and after images of places and
-        buildings to rediscover Singapore. You will be astonished by how much
-        the island has changed over the decades.
-      url: /resource-room/before-and-after/
-      image: /images/banner-before-and-after-image-1.png
-      alt: Before & After banner
-      button: View all Before & After posts
+      title: History of Orchard Road
+      subtitle: Latest Story Map
+      description: Learn about the history of Orchard Road in this story map.
+      button: View Story Map
+      url: /resource-room/story-maps/orchard-road
+      image: /images/banner-orchard-storymap.jpg
+      alt: Image alt text
 notification: "\n"
 ---

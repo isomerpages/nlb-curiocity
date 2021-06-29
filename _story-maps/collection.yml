@@ -1,0 +1,9 @@
+collections:
+  story-maps:
+    output: true
+    order:
+      - explore-our-story-maps.md
+      - central-area.md
+      - historic-districts.md
+      - the-heartland.md
+      - green-and-blue.md
