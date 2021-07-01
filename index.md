@@ -29,7 +29,7 @@ sections:
       description: Take a journey through Ang Mo Kio and learn about its history in
         this story map.
       url: /resource-room/story-maps/ang-mo-kio
-      image: /images/banner-ang-mo-kio-storymap.jpg
+      image: /images/banner-ang-mo-kio-storymap1.jpg
       alt: Story Maps banner
       button: View Story Map
   - infopic:
