@@ -7,5 +7,5 @@ Curiocity is a National Library Board website that curates the heritage material
 
 Image Credit:
 1. Banner Image in the homepage: ©2021 Urban Redevelopment Authority
-2. Images used in the homepage: Photo by Wirbel1980 via Wikicommons [CC BY-SA 3.0]; Courtesy of National Archives of Singapore
-3. Images used under "Explore Our Story Maps": Photo by chensiyuan via Wikicommons [CC BY-SA 4.0]; Photo by Erwin Soo via Wikicommons [CC BY-SA 2.0]; Photo by William Cho via Wikicommons [CC BY-SA 2.0]; Photo by chensiyuan via Wikicommons [CC BY-SA 4.0]
+2. Images used in the homepage: Photo by Wirbel1980 via Wiki Commons [CC BY-SA 3.0]; Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library via Wikimedia Commons; Courtesy of National Archives of Singapore
+3. Images used under "Explore Our Story Maps": Photo by chensiyuan via Wikicommons [CC BY-SA 4.0]; Photo by Erwin Soo via Wiki Commons [CC BY-SA 2.0]; Photo by William Cho via Wiki Commons [CC BY-SA 2.0]; Photo by chensiyuan via Wiki Commons [CC BY-SA 4.0]
