@@ -2,13 +2,10 @@
 title: A Journey through Ang Mo Kio
 permalink: /resource-room/story-maps/ang-mo-kio
 date: 2021-06-13T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-ang-mo-kio.png" alt="storymap-ang-mo-kio"/>
 
-Reclaimed from plantations and forest reserve, Ang Mo Kio was planned and developed into a full-fledged residential town in the 1970s. The name Ang Mo Kio, or ‘red-haired man’s bridge’, is believed to reference colonial surveyor J. T. Thomson who constructed a nearby bridge over the Kallang River.  The seventh satellite town built by the Housing and Development Board, Ang Mo Kio was first housing estate to be designed in metric dimensions and was home to Singapore’s first town councils. 
+Ang Mo Kio was planned and developed into a full-fledged residential town in the 1970s. The name Ang Mo Kio, or ‘red-haired man’s bridge’, is believed to reference colonial surveyor J. T. Thomson who constructed a nearby bridge over the Kallang River.  The seventh satellite town built by the Housing and Development Board, Ang Mo Kio was first housing estate to be designed in metric dimensions and was home to Singapore’s first town councils. 
 
 Join us as we explore the heritage of one of Singapore’s most quintessential housing estates through this story map.
 
