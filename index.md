@@ -41,7 +41,7 @@ sections:
         virtual reality tours of some of the most interesting places on the
         island.
       url: /resource-room/vr-tours/battery-road
-      image: /images/banner-battery-road.jpg
+      image: /images/banner-battery-road1.jpg
       alt: VR Tours banner
       button: View VR Tour
   - infopic:
@@ -50,7 +50,7 @@ sections:
       description: Learn about the history of Orchard Road in this story map.
       button: View Story Map
       url: /resource-room/story-maps/orchard-road
-      image: /images/banner-orchard-storymap.jpg
+      image: /images/banner-orchard-storymap1.jpg
       alt: Image alt text
 notification: "\n"
 ---
