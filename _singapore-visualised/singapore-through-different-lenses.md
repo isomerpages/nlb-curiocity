@@ -6,7 +6,7 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 
 | **<font size=5> VR Tours</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/landing-singapore-revisualised-vr-tours.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Travel back in time and see the physical transformation of Singapore with these [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"} .
+| <img src="/images/landing-singapore-revisualised-vr-tours1.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Travel back in time and see the physical transformation of Singapore with these [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"} .
 |
 
 | **<font size=5> Before & After</font>** |  | 
