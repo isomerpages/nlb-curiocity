@@ -16,7 +16,7 @@ Find out more about our Historic Districts through these story maps.
 
 | **<font size="5">Kampong Glam</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="kampong-glam-landmarks" style="width:650px;" />     |  Learn the history of some of Kampong Glam's oldest buildings in this in this [story map](/resource-room/story-maps/landmarks-of-kampong-glam){:target="_blank"}  |
+| <img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="kampong-glam-landmarks" style="width:650px;" />     | Learn the history of some of Kampong Glam's oldest buildings in this in this [story map](/resource-room/story-maps/landmarks-of-kampong-glam){:target="_blank"}  |
 | <img src="/images/storymap-image-kampong-glam-streets.png" alt="kampong-glam-streets" style="width:650px;" />     | Find out the history behind some of the streets of  Kampong Glam in this [story map](/resource-room/story-maps/streets-of-kampong-glam){:target="_blank"}  
 |
 
