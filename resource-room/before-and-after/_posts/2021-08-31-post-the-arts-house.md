@@ -10,7 +10,7 @@ The Arts House (also known as the Old Parliament House) is where the Singapore P
 
 View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b42f957e-0a33-11ec-abb7-b9a7ff2ee17c){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-before-after-arts-house.png" alt="qr-code-before-after-arts-house" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-arts-house.png" alt="qr-code-before-after-arts-house" style="width:200px;" />
 
 Note:
 
