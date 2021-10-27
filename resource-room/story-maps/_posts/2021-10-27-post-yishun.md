@@ -24,9 +24,9 @@ Notes:
 
 3. This story map used related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following sources:
 
-Thulaja, N. R. (2016). Yishun New Town. Singapore Infopedia. Singapore: National Library Board. https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html 
+Thulaja, N. R. (2016). Yishun New Town. Singapore Infopedia. Singapore: National Library Board. [https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html) 
 
-Hong, W. E. I., and Goh, S. C. J., Lim, W. J. G., and Leong, G. (2018). “Yishun: Between the Odd and Ordinary.” *MuseSG* 2(1). https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story 
+Hong, W. E. I., and Goh, S. C. J., Lim, W. J. G., and Leong, G. (2018). “Yishun: Between the Odd and Ordinary.” *MuseSG* 2(1). [https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story](https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story ) 
 
-*A pictorial history of Nee Soon Community*. (1987). Singapore: Oral History Department, National Archives of Singapore; The Grassroots Organisations of Nee Soon Constituency. http://www.nlb.gov.sg/biblio/200063229 
+*A pictorial history of Nee Soon Community*. (1987). Singapore: Oral History Department, National Archives of Singapore; The Grassroots Organisations of Nee Soon Constituency. [http://www.nlb.gov.sg/biblio/200063229](http://www.nlb.gov.sg/biblio/200063229 ) 
 
