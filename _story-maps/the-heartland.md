@@ -34,3 +34,9 @@ permalink: /story-maps/heartland
 | -------- | -------- |
 | <img src="/images/storymap-image-toa-payoh.JPG" alt="toa-payoh-journey" style="width:750px;" />     | Journey through Toa Payoh and learn about the history of our second satellite town in this [story map](/resource-room/story-maps/toa-payoh-second-satellite-town){:target="_blank"} |
 |
+
+| **<font size="5">Yishun</font>**                             |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="/images/storymap-image-yishun.png" alt="yishun" style="width:750px;" /> | Learn about how Yishun developed in this [story map](/resource-room/story-maps/2021-10-27-post-yishun){:target="_blank"} |
+
+|
