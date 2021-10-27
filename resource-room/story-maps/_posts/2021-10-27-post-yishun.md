@@ -1,4 +1,10 @@
-<img src="/images/storymap-image-yishun.png" alt="storymap-yishun"/>
+---
+title: 'Yishun'
+permalink: /resource-room/story-maps/yishun
+
+---
+
+<img src="/images/storymap-image-yishun.png" alt="storymap-image-yishun"/>
 
 [Yishun](https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html) is an area in the northeast of Singapore. Prior to the colonial period, Yishun used to be inhabited by the indigenous nomadic boat-dwellers known as Orang Seletar – descendants of the [orang ](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html)[laut](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html)[ ](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html)or “sea people” who lived in boats and made a living as fishermen. The town is named after [Lim Nee Soon](https://eresources.nlb.gov.sg/infopedia/articles/SIP_526__2009-01-07.html), a prominent businessman during the colonial period. The Yishun area was used to grow [gambier](https://eresources.nlb.gov.sg/infopedia/articles/SIP_337_2005-01-03.html) and pepper, and later, rubber and [pineapple](https://eresources.nlb.gov.sg/infopedia/articles/SIP_206_2005-01-09.html), but these crops declined in popularity as most planters shifted to Johor. The [Chinese village settlements in the north](https://eresources.nlb.gov.sg/infopedia/articles/SIP_385_2011-01-07.html)--Mandai Tekong Village, Nee Soon Village, Hup Choon Kek Village, Heng Leh Pah Village, Bah Soon Pah Village and Chye Kay Village--developed to support the plantations. The development of Yishun New Town, a planned modern suburban satellite town with public housing and associated amenities, began in 1976 and the residents of the villages in the area were resettled in various areas of Singapore up until 1983. In the mid to late 2010s, Yishun began to develop a unique and [sensational urban reputation for having odd and unusual happenings](https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story) but in many ways it is like many other satellite towns. 
 
