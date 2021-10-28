@@ -17,7 +17,7 @@ permalink: /story-maps/heartland
 
 | **<font size="5">Queenstown</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-queenstown.JPG" alt="queenstown-journey" style="width:550px;" />     | Find out how Queenstown was developed as our first satellite town in this [story map](/resource-room/story-maps/queenstown-first-satellite-town){:target="_blank"}  |
+| <img src="/images/storymap-image-queenstown.JPG" alt="queenstown-journey" style="width:600px;" />     | Find out how Queenstown was developed as our first satellite town in this [story map](/resource-room/story-maps/queenstown-first-satellite-town){:target="_blank"}  |
 | 
 
 | **<font size="5">Tampines</font>** | |
