@@ -27,7 +27,7 @@ permalink: /story-maps/heartland
 
 | **<font size="5">Tampines</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-tampines.png" alt="tampines-journey" style="width:750px;" />     | Journey through Tampines to learn about its history in this [story map](/resource-room/story-maps/tampines){:target="_blank"}  |
+| <img src="/images/storymap-image-tampines.png" alt="tampines-journey" style="width:650px;" />     | Journey through Tampines to learn about its history in this [story map](/resource-room/story-maps/tampines){:target="_blank"}  |
 | 
 
 | **<font size="5">Tiong Bahru</font>** | |
