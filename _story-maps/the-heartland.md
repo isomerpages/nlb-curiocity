@@ -40,4 +40,8 @@ permalink: /story-maps/heartland
 | <img src="/images/storymap-image-yishun.png" alt="yishun" style="width:500px;" /> | Learn about how Yishun developed in this [story map](/resource-room/story-maps/yishun){:target="_blank"} |
 
 |
+| **<font size="5">Yishun trial</font>**                             |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <div style ="width"500px"><img src="/images/storymap-image-yishun.png" alt="yishun" style="width:500px;" /></div> | Learn about how Yishun developed in this [story map](/resource-room/story-maps/yishun){:target="_blank"} |
 
+|
