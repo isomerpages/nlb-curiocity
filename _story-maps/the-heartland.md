@@ -47,7 +47,7 @@ permalink: /story-maps/heartland
 
 <table>
   <tr>
-    <th><font size="5">Yishun</font></th>
+    <th><p><p style="font-size:25px;"><b>Yishun</b></p></th>
     <th></th>
   <tr>
     <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" /></td>
