@@ -15,6 +15,11 @@ permalink: /story-maps/heartland
 | <img src="/images/storymap-image-jurong.png" alt="jurong-80s" style="width:500px;" />     | Learn about how Jurong was like in the 1980s in this [story map](/resource-room/story-maps/jurong){:target="_blank"}  |
 | 
 
+| **<font size="5">Punggol</font>** | |
+| -------- | -------- |
+| <img src="/images/storymap-image-punggol.png" alt="historical-punggol" style="width:500px;" />     | Learn about the history and transformation of Punggol in this [story map](/resource-room/story-maps/punggol){:target="_blank"}  |
+| 
+
 | **<font size="5">Queenstown</font>** | |
 | -------- | -------- |
 | <img src="/images/storymap-image-queenstown.JPG" alt="queenstown-journey" style="width:500px;" />     | Find out how Queenstown was developed as our first satellite town in this [story map](/resource-room/story-maps/queenstown-first-satellite-town){:target="_blank"}  |
