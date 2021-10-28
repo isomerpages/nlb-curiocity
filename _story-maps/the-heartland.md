@@ -52,7 +52,7 @@ permalink: /story-maps/heartland
   </tr>
   <tr>
     <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" /></td>
-    <td>Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun</td>
+    <td>Take a journey through this [story map](/resource-room/story-maps/yishun)](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun</td>
   </tr>
   </tr>
 </table>
