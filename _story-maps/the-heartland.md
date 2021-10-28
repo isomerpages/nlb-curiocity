@@ -44,3 +44,14 @@ permalink: /story-maps/heartland
 | -------- | -------- |
 | <img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" />   | Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.|
 |
+
+<table>
+  <tr>
+    <th><p><p style="font-size:25px;"><b>Yishun</b></p></th>
+    <th></th>
+  <tr>
+    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" /></td>
+    <td>Take a journey through this <a href="/resource-room/story-maps/yishun">story map</a> to learn about the history of Yishun</td>
+  </tr>
+  </tr>
+</table>
