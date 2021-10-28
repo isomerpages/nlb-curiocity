@@ -19,14 +19,8 @@ View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f
 Notes:
 
 1. This story map does not show a comprehensive coverage of the buildings and landmarks of Yishun.
-
 2. The title of the base map used in this story map is Open Street Maps.
-
-3. This story map used related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following sources:
-
-Thulaja, N. R. (2016). Yishun New Town. Singapore Infopedia. Singapore: National Library Board. [https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_363_2005-01-18.html) 
-
-Hong, W. E. I., and Goh, S. C. J., Lim, W. J. G., and Leong, G. (2018). “Yishun: Between the Odd and Ordinary.” *MuseSG* 2(1). [https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story](https://www.roots.gov.sg/stories-landing/stories/yishun-the-odd-and-ordinary/story ) 
-
-*A pictorial history of Nee Soon Community*. (1987). Singapore: Oral History Department, National Archives of Singapore; The Grassroots Organisations of Nee Soon Constituency. [http://www.nlb.gov.sg/biblio/200063229](http://www.nlb.gov.sg/biblio/200063229 ) 
-
+3. This story map used related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following sources: *[A pictorial history of Nee Soon Community](http://www.nlb.gov.sg/biblio/200063229)* (1987) and *[The Development of Nee Soon Community](https://eresources.nlb.gov.sg/printheritage/detail/42d4dfc3-9cbc-4f38-b8ee-5ca1346f4eb7.aspx 
+   )* (1987), and *[Yishun Sembawang: A Heritage Trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14311322
+   )* (2010).
+4. This story map was made by Foo Shu Tieng, Grace Ho, Roslinda Rahman, and Damien Wang.
