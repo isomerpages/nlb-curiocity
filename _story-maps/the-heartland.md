@@ -47,7 +47,7 @@ permalink: /story-maps/heartland
 
 <table>
   <tr>
-    <th><b><font size="5">Yishun</font><b></th>
+    <th><font size="5"><b>Yishun<b></font></th>
     <th></th>
   </tr>
   <tr>
