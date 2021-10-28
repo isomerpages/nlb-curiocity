@@ -17,7 +17,7 @@ permalink: /story-maps/heartland
 
 | **<font size="5">Punggol</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-punggol.png" alt="historical-punggol" style="width:500px;" />     | Learn about the history and transformation of Punggol in this [story map](/resource-room/story-maps/punggol){:target="_blank"}  |
+| <img src="/images/storymap-image-punggol.jpg" alt="historical-punggol" style="width:500px;" />     | Learn about the history and transformation of Punggol in this [story map](/resource-room/story-maps/punggol){:target="_blank"}  |
 | 
 
 | **<font size="5">Queenstown</font>** | |
