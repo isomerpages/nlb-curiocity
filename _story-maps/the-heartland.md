@@ -38,13 +38,4 @@ permalink: /story-maps/heartland
 | **<font size="5">Yishun</font>**                             |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="/images/storymap-image-yishun.png" alt="yishun" style="width:500px;" /> | Learn about how Yishun developed in this [story map](/resource-room/story-maps/yishun){:target="_blank"} |
-
-
-<table>
-<tr>
-<td width="500">**<font size="5">Yishun</font>** </td>
-<td></td>
-<tr>
-<td width="500"><img src="/images/storymap-image-yishun.png" alt="yishun"/></td>
-<td>Learn about how Yishun developed in this [story map](/resource-room/story-maps/yishun){:target="_blank"}</td>
-</table>
+|
