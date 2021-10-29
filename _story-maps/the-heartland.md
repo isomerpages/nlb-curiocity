@@ -71,7 +71,7 @@ permalink: /story-maps/heartland
 
 <table class="table-v">
   <tr>
-    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px" alt="PictureSG" /></td>
+    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width=1000px" alt="PictureSG" /></td>
     <td>
 		<strong><a href="https://eresources.nlb.gov.sg/pictures" target="_blank">Yishun</a></strong><br/>
 		Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.
