@@ -6,8 +6,9 @@ The Curiocity festival aims to promote Singapore history and proliferate NLB’s
 
 # **Night Festival Map**
 
-Pull your socks up and get your phones ready. It's time to explore our festival.
+Pull your socks up and get your phones ready. Use the map below to explore our festival.
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
+Download a copy here.
 # **Civic District Story Map**
