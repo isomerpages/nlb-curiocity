@@ -45,24 +45,50 @@ permalink: /story-maps/heartland
 | <img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" />   | Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.|
 |
 
-<table>
+<table class="table-v">
   <tr>
-    <th><p><p style="font-size:25px;"><b>Toa Payoh</b></p></th>
-    <th></th>
-  <tr>
-    <td><img src="/images/storymap-image-toa-payoh.JPG" alt="toa-payoh-yishun" style="width:500px;" /></td>
-    <td>Journey through Toa Payoh and learn about the history of our second satellite town in this story map <a href="/resource-room/story-maps/toa-payoh-second-satellite-town">story map</a> to learn about the history of Yishun</td>
+    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px" alt="PictureSG" /></td>
+    <td>
+		<strong><a href="https://eresources.nlb.gov.sg/pictures" target="_blank">Yishun</a></strong><br/>
+		Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.
+	</td>
   </tr>
+  <tr>
+    <td><img src="/images/logo-spatialdiscovery.png" alt="Spatial Discovery" /></td>
+    <td>
+		<strong><a href="http://search.nlb.gov.sg/spatialdiscovery" target="_blank">Spatial Discovery</a></strong><br/>
+		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps collection. At present, there are over 3,500 high resolution geo-referenced maps in Spatial Discovery. More maps will be made available when digitization and geo-referencing are completed.
+	</td>
+  </tr>
+  <tr>
+    <td><img src="/images/logo-NAS.png" alt="Archives Online" /></td>
+    <td>
+		<strong><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></strong><br/>
+		To allow users easy access to our archival holdings, Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock.
+	</td>
   </tr>
 </table>
 
-<table>
+<table class="table-v">
   <tr>
-		<th><p><p style="font-size:25px;"><b>Yishun</b></p></th>
-    <th></th>
-  <tr>
-    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" /></td>
-    <td>Take a journey through this <a href="/resource-room/story-maps/yishun">story map</a> to learn about the history of Yishun</td>
+    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px" alt="PictureSG" /></td>
+    <td>
+		<strong><a href="https://eresources.nlb.gov.sg/pictures" target="_blank">Yishun</a></strong><br/>
+		Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.
+	</td>
   </tr>
+  <tr>
+    <td><img src="/images/logo-spatialdiscovery.png" alt="Spatial Discovery" /></td>
+    <td>
+		<strong><a href="http://search.nlb.gov.sg/spatialdiscovery" target="_blank">Spatial Discovery</a></strong><br/>
+		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps collection. At present, there are over 3,500 high resolution geo-referenced maps in Spatial Discovery. More maps will be made available when digitization and geo-referencing are completed.
+	</td>
+  </tr>
+  <tr>
+    <td><img src="/images/logo-NAS.png" alt="Archives Online" /></td>
+    <td>
+		<strong><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></strong><br/>
+		To allow users easy access to our archival holdings, Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock.
+	</td>
   </tr>
 </table>
