@@ -27,17 +27,17 @@ permalink: /story-maps/heartland
 
 | **<font size="5">Tampines</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-tampines.png" alt="tampines-journey" style="width:650px;" />     | Journey through Tampines to learn about its history in this [story map](/resource-room/story-maps/tampines){:target="_blank"}  |
+| <img src="/images/storymap-image-tampines.png" alt="tampines-journey" style="width:500px;" />     | Journey through this [story map](/resource-room/story-maps/tampines){:target="_blank"}  to learn more about Tampines.|
 | 
 
 | **<font size="5">Tiong Bahru</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-tiong-bahru.png" alt="tiong-bahru-journey" style="width:750px;" />    | See how Tiong Bahru was developed as our first public housing estate in this [story map](/resource-room/story-maps/tiong-bahru){:target="_blank"}  |
+| <img src="/images/storymap-image-tiong-bahru.png" alt="tiong-bahru-journey" style="width:500px;" />    | Learn more about our first public housing estate in this [story map](/resource-room/story-maps/tiong-bahru){:target="_blank"}  |
 | 
 
 | **<font size="5">Toa Payoh</font>** | |
 | -------- | -------- |
-| <img src="/images/storymap-image-toa-payoh.JPG" alt="toa-payoh-journey" style="width:750px;" />   | Journey through Toa Payoh and learn about the history of our second satellite town in this [story map](/resource-room/story-maps/toa-payoh-second-satellite-town){:target="_blank"} |
+| <img src="/images/storymap-image-toa-payoh.JPG" alt="toa-payoh-journey" style="width:500px;" />   | Journey through this [story map](/resource-room/story-maps/toa-payoh-second-satellite-town){:target="_blank"}  to learn more about our second satellite town. |
 |
 
 | **<font size="5">Yishun</font>** | |
