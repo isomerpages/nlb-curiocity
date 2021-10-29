@@ -6,5 +6,6 @@ The Curiocity festival aims to promote Singapore history and proliferate NLB’s
 
 # Night Festival Map
 
-![Alt text for image on Isomer site](/images/sample_light_map.jpg)
+Pull your socks up and get your phones ready. It's time to explore our festival.
 
+![Alt text for image on Isomer site](/images/sample_light_map.jpg)
