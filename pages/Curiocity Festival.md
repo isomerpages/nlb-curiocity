@@ -18,6 +18,8 @@ ___
 
 ### **Civic District Story Map**
 
+![Alt text for image on Isomer site](/images/storymap-image-padang.png)
+
 If you are at the Civic District, we have prepared a story map to guide you through the visual installations there. You can also use the story map to find out more about the majestic buildings in the Civic District.
 
 Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){:target="_blank"} to access the story map.
