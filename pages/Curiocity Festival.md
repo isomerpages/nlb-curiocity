@@ -16,7 +16,7 @@ Pull your socks up and get your phones ready. Use the map below to explore our f
 
 Not big enough? Scan the QR code below or download a copy here.
 
-___
+________
 
 ### **Civic District Story Map**
 
@@ -26,6 +26,6 @@ If you are at the Civic District, we have prepared a story map to guide you thro
 
 Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){:target="_blank"} to access the story map.
 
-___
+_____
 
 ### **Programmes**
