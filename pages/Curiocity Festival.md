@@ -14,7 +14,7 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
-Is the map not big enough? Click [here](/files/sample-light-map.pdf){:target='_blank} to download a copy.
+Is the map not big enough? Click [here](/files/sample-light-map.pdf) to download a copy.
 
 ________
 
