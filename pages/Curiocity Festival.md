@@ -13,7 +13,7 @@ Pull your socks up and get your phones ready. Use the map below to explore our f
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
-Download a copy here.
+Not big enough? Scan the QR code below or download a copy here.
 ___
 
 ### **Civic District Story Map**
