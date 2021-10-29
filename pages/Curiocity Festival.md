@@ -10,11 +10,11 @@ ___
 
 ### **Night Festival Map**
 
-Pull your socks up and get your phones ready. Use the map below to explore our festival.
+Pull your socks up and get your phones ready. Use the map below to explore this year's Light to Night Festival.
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
-Not big enough? Scan the QR code below or download a copy here.
+Is the map not big enough? Click [Example Filename](/files/sample-light-map.pdf){:target='_blank} to download a copy.
 
 ________
 
