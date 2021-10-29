@@ -18,7 +18,6 @@ Download a copy here.
 
 If you are at the civic district, we have prepared a story map to guide you through the visual installations there. You can also use the story map to find out more about the majestic buildings in the Civic District.
 
-Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){target} to access the story map.
+Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){:target="_blank"} to access the story map.
 
 ### **Programmes**
-
