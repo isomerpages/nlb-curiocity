@@ -21,7 +21,7 @@ To help you navigate through our collection of Story Maps, we have categorised t
 | [<img src="/images/story-maps-landing-heartland1.jpg" alt="heartland" style="width:650px"/>](/story-maps/heartland)   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
 |
 
-| **<font size=5> Green and Blue </font>** |  | 
+| [**<font size=5> Green and Blue </font>**](/story-maps/green-and-blue){:target="_blank"} |  | 
 | -------- | -------- | 
 | [<img src="/images/story-maps-landing-green-and-blue1.jpg" alt="heartland" style="width:650px;" />](/story-maps/green-and-blue)   | Singapore is known all the world over as the 'Garden City'. Find out more about the green and blue spaces that gave Singapore this reputation [here](/story-maps/green-and-blue){:target="_blank"} .
 |
