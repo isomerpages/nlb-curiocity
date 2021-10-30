@@ -34,9 +34,21 @@ Interested to find out more about the Civic District? Check out the programmes t
 
 | **January 2022** | | |
 | -------- | -------- | -------- |
-| 15 January     | Fireside Chat: Whither the Digital Frontier – Tame or Game?    | Venue: Zoom     |
-| 20 January     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room     |
+| 15 January     | Light to Night Festival: Traces and Echoes    | Venue: Zoom     |
+| 20 January     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room, 8-10pm (Click here to register)     |
 | 30 January     | Fireside Chat: Whither the Digital Frontier – Tame or Game?     | Venue: Zoom     |
 
+| **February 2022** | | |
+| -------- | -------- | -------- |
+| 15 February     | Light to Night Festival: Traces and Echoes    | Venue: Zoom     |
+| 20 February     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room     |
+| 30 February     | Fireside Chat: Whither the Digital Frontier – Tame or Game?     | Venue: Zoom     |
 
+
+
+|  **January 2022** | | | |
+| -------- | -------- | -------- | -------- |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
 
