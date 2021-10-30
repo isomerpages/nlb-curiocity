@@ -4,7 +4,7 @@ permalink: /singapore-visualised/before-and-after
 ---
 Journey through these before and after images of places and buildings around Singapore. You will be astonished by how much the island has changed over the decades.
 
-Click the name of the buildings or images to learn more about the building.
+Click the name of the building or image to learn more about the building.
  
 | [**<font size=5> Six Battery Road</font>**](/resource-room/before-and-after/six-battery-road){:target="_blank"} | 
 |-------- | 
