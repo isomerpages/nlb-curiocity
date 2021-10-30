@@ -32,28 +32,8 @@ _____
 
 Interested to find out more about the Civic District? Check out the programmes that we have lined up for you online and at various venues below.
 
-| **January 2022** | | |
-| -------- | -------- | -------- |
-| 15 January     | Light to Night Festival: Traces and Echoes    | Venue: Zoom     |
-| 20 January     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room, 8-10pm (Click here to register)     |
-| 30 January     | Fireside Chat: Whither the Digital Frontier – Tame or Game?     | Venue: Zoom     |
-
-| **February 2022** | | |
-| -------- | -------- | -------- |
-| 15 February     | Light to Night Festival: Traces and Echoes    | Venue: Zoom     |
-| 20 February     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room     |
-| 30 February     | Fireside Chat: Whither the Digital Frontier – Tame or Game?     | Venue: Zoom     |
-
-
-
-|  **January 2022** | | | |
-| -------- | -------- | -------- | -------- |
-| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
-| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: National Library Building, Imagination Room Level 5 (5 to 7pm)     | Click here to register     |
-| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
-
 |  **January 2022** | | | | |
 | -------- | -------- | -------- | -------- | -------- |
-| 15 January     | Librarian's World: Empire, Architecture, and the Public Works Department     | Venue: Zoom     |Time: 5 to 7pm    | Click here to register |
-| 15 January     | Histories: Architect, Surveyor and Statesman: Legacy of George Coleman      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click here to register |
-| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click here to register |
+| 15 January     | Librarian's World: Empire, Architecture, and the Public Works Department     | Venue: Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+| 15 January     | Histories: Architect, Surveyor and Statesman: Legacy of George Coleman      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
