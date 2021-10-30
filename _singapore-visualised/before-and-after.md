@@ -12,7 +12,7 @@ Journey through these before and after images of places and buildings around Sin
 |
 
 | **<font size=5> Six Battery Road</font>** | 
-|: --------: | 
+|:--------: | 
 | [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/six-battery-road) Six Battery Road| 
 
 | **<font size=5> Singapore Land Tower</font>** | 
