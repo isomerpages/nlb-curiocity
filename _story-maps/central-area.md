@@ -10,14 +10,13 @@ Learn more about this part of Singapore using the story maps below.
 | -------- | 
 | [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](/resource-room/story-maps/raffles-place-in-the-60s) | 
 | [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today) | 
-| [![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place) | 
+| [![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place) |
 
-| **<font size="5">Raffles Place</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-today){:target="_blank"}  |
-| <img src="/images/storymap-image-raffles-place-today.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the buildings and skyscrapers of today's Raffles Place in this [story map](/resource-room/story-maps/raffles-place-today){:target="_blank"}  |
-| <img src="/images/storymap-image-raffles-place-streets.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out the history behind the streets of Raffles Place in this [story map](/resource-room/story-maps/streets-of-raffles-place){:target="_blank"}  
-|
+|**<font size="5">Bras Basah</font>**| 
+| -------- | 
+| [![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools) | 
+| [![Raffles Place Worship Story Map](/images/storymap-image-bras-basah-worship.png)](/resource-room/story-maps/bras-basah-worship) | 
+| [![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets) | 
 
 | **<font size="5">Bras Basah</font>** | | 
 | -------- | -------- |
