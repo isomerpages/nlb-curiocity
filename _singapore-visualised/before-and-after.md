@@ -14,4 +14,4 @@ Journey through these before and after images of places and buildings around Sin
 | **<font size=5> Raffles Place</font>** | | 
 | :--------: | :--------: | 
 | [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/six-battery-road)| [Six Battery Road](/resource-room/before-and-after/six-battery-road){:target="_blank"}     | 
-<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />|  [Singapore Land Tower](/resource-room/before-and-after/singapore-land-tower){:target="_blank"}    |
+[<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />](/resource-room/before-and-after/singapore-land-tower)|  [Singapore Land Tower](/resource-room/before-and-after/singapore-land-tower){:target="_blank"}    |
