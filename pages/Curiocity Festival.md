@@ -51,3 +51,9 @@ Interested to find out more about the Civic District? Check out the programmes t
 | 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
 | 15 January     | Light to Night Festival: Traces and Echoes     | Venue: National Library Building, Imagination Room Level 5 (5 to 7pm)     | Click here to register     |
 | 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom (5 to 7pm)     | Click here to register     |
+
+|  **January 2022** | | | | |
+| -------- | -------- | -------- | -------- | -------- |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom     |Time: 5 to 7pm    | Click here to register |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom     |Time: 5 to 7pm    | Click here to register |
+| 15 January     | Light to Night Festival: Traces and Echoes     | Venue: Zoom     |Time: 5 to 7pm    | Click here to register |
