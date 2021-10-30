@@ -45,50 +45,7 @@ permalink: /story-maps/heartland
 | <img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" />   | Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.|
 |
 
-<table class="table-v">
-  <tr>
-    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px" alt="PictureSG" /></td>
-    <td>
-		<strong><a href="https://eresources.nlb.gov.sg/pictures" target="_blank">Yishun</a></strong><br/>
-		Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/logo-spatialdiscovery.png" alt="Spatial Discovery" /></td>
-    <td>
-		<strong><a href="http://search.nlb.gov.sg/spatialdiscovery" target="_blank">Spatial Discovery</a></strong><br/>
-		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps collection. At present, there are over 3,500 high resolution geo-referenced maps in Spatial Discovery. More maps will be made available when digitization and geo-referencing are completed.
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/logo-NAS.png" alt="Archives Online" /></td>
-    <td>
-		<strong><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></strong><br/>
-		To allow users easy access to our archival holdings, Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock.
-	</td>
-  </tr>
-</table>
+| [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.JPG)](/resource-room/story-maps/toa-payoh-second-satellite-town) | Journey through this [story map](/resource-room/story-maps/toa-payoh-second-satellite-town){:target="_blank"}  to learn more about our second satellite town. |
 
-<table class="table-v">
-  <tr>
-    <td><img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width=1000px" alt="PictureSG" /></td>
-    <td>
-		<strong><a href="https://eresources.nlb.gov.sg/pictures" target="_blank">Yishun</a></strong><br/>
-		Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/logo-spatialdiscovery.png" alt="Spatial Discovery" /></td>
-    <td>
-		<strong><a href="http://search.nlb.gov.sg/spatialdiscovery" target="_blank">Spatial Discovery</a></strong><br/>
-		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps & Building Plans database and National Library’s Rare Maps collection. At present, there are over 3,500 high resolution geo-referenced maps in Spatial Discovery. More maps will be made available when digitization and geo-referencing are completed.
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/images/logo-NAS.png" alt="Archives Online" /></td>
-    <td>
-		<strong><a href="http://www.nas.gov.sg/archivesonline/" target="_blank">Archives Online</a></strong><br/>
-		To allow users easy access to our archival holdings, Archives Online is designed to allow users to seamlessly search information across NAS' various independent databases and view selected photographs, maps and plans, listen to oral history interview samplers and watch snippets of audio-visual recordings, round the clock.
-	</td>
-  </tr>
-</table>
+| [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbugs2/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
+| [![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)](/events/bookbugs2/glossary) |
