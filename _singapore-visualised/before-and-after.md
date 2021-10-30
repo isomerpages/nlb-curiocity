@@ -3,6 +3,8 @@ title: Before & After
 permalink: /singapore-visualised/before-and-after
 ---
 Journey through these before and after images of places and buildings around Singapore. You will be astonished by how much the island has changed over the decades.
+
+Click the name of the buildings or images to learn more about the building.
  
 | [**<font size=5> Six Battery Road</font>**](/resource-room/before-and-after/six-battery-road){:target="_blank"} | 
 |-------- | 
@@ -34,4 +36,4 @@ Journey through these before and after images of places and buildings around Sin
 
 | [**<font size=5>OCBC Centre</font>**](/resource-room/before-and-after/ocbc-centre){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-ocbc-centre.png" alt="ocbc-centre" style="width:500px" />](/resource-room/before-and-after/ocbc-centre)| 
+| [<img src="/images/before-after-image-ocbc-centre.png" alt="ocbc-centre" style="width:500px" />](/resource-room/before-and-after/ocbc-centre)|
