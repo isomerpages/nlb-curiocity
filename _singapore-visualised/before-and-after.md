@@ -11,10 +11,10 @@ Journey through these before and after images of places and buildings around Sin
 | <img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:600px" /> [Raffles Place MRT Station Exit A](/resource-room/before-and-after/raffles-place-mrt){:target="_blank"}     | <img src="/images/before-after-image-ocbc-centre.png" alt="heartland" style="width:100px; height:170px" />  [OCBC Centre](/resource-room/before-and-after/ocbc-centre){:target="_blank"}   | 
 |
 
-| **<font size=5> Six Battery Road</font>** | 
+| [**<font size=5> Six Battery Road</font>**]((/resource-room/before-and-after/six-battery-road){:target="_blank"} ) | 
 | -------- | 
 | [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/six-battery-road)| 
 
 | **<font size=5> Singapore Land Tower</font>** | 
 | -------- | 
-[<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />](/resource-room/before-and-after/singapore-land-tower)| 
+[<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />](/resource-room/before-and-after/singapore-land-tower)|
