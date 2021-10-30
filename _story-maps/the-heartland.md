@@ -45,7 +45,7 @@ permalink: /story-maps/heartland
 | <img src="/images/storymap-image-yishun.png" alt="toa-payoh-yishun" style="width:500px;" />   | Take a journey through this [story map](/resource-room/story-maps/yishun){:target="_blank"}  to learn about the history of Yishun.|
 |
 
-| [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.JPG)](/resource-room/story-maps/toa-payoh-second-satellite-town) | [![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru.png)](/resource-room/story-maps/tiong-bahru) | [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) | 
+| [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.JPG)](/resource-room/story-maps/toa-payoh-second-satellite-town) | [![Tampines Story Map](/images/storymap-image-tampines.png)](/resource-room/story-maps/tampines) | [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) | 
 
 
 | [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbugs2/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
