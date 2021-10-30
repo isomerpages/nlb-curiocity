@@ -6,9 +6,15 @@ Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singap
 
 Learn more about this part of Singapore using the story maps below.
 
+|**<font size="5">Raffles Place</font>**| 
+| -------- | 
+| [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](/resource-room/story-maps/raffles-place-in-the-60s) | 
+| [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today) | 
+| [![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place) | 
+
 | **<font size="5">Raffles Place</font>** | | 
 | -------- | -------- |
-| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-in-the-60s){:target="_blank"}  |
+| <img src="/images/storymap-image-raffles-place-sixties.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | See how Raffles was like in the 1960s in this [story map](/resource-room/story-maps/raffles-place-today){:target="_blank"}  |
 | <img src="/images/storymap-image-raffles-place-today.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the buildings and skyscrapers of today's Raffles Place in this [story map](/resource-room/story-maps/raffles-place-today){:target="_blank"}  |
 | <img src="/images/storymap-image-raffles-place-streets.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out the history behind the streets of Raffles Place in this [story map](/resource-room/story-maps/streets-of-raffles-place){:target="_blank"}  
 |
@@ -35,4 +41,4 @@ Learn more about this part of Singapore using the story maps below.
 | **<font size="5">Orchard</font>** | | 
 | -------- | -------- |
 | <img src="/images/storymap-image-orchard-road.png" alt="orchard-rd-history" style="width:450px;" />     | Learn about the history of Orchard Road in this [story map](/resource-room/story-maps/orchard-road){:target="_blank"}  |
-| 
+|
