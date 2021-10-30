@@ -28,7 +28,7 @@ Click the name of the building or image to learn more about the building.
 
 | [**<font size=5> Raffles Place MRT Station Exit A</font>**](/resource-room/before-and-after/raffles-place-mrt-station-exit-A){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-raffles-place-mrt-station-exit-A.png" alt="raffles-place-mrt-station-exit-A" style="width:500px" />](/resource-room/before-and-after/raffles-place-mrt-station-exit-A)| 
+| [<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:500px" />](/resource-room/before-and-after/raffles-place-mrt-station)| 
 
 | [**<font size=5> UOB Tower</font>**](/resource-room/before-and-after/uob-tower){:target="_blank"} | 
 |-------- | 
