@@ -30,4 +30,13 @@ _____
 
 #### **Programmes**
 
-At the National Library, we have put up a suite of programmes 
+Interested to find out more about the Civic District? Check out the programmes that we have lined up for you online and at various venues below.
+
+| **January 2022** | | |
+| -------- | -------- | -------- |
+| 15 January     | Fireside Chat: Whither the Digital Frontier – Tame or Game?    | Venue: Zoom     |
+| 20 January     |Fireside Chat: Whither the Digital Frontier – Tame or Game?   | Venue: National Library, Imagination Room     |
+| 30 January     | Fireside Chat: Whither the Digital Frontier – Tame or Game?     | Venue: Zoom     |
+
+
+
