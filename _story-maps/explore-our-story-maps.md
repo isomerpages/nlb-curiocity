@@ -23,5 +23,5 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 | **<font size=5> Green and Blue </font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/story-maps-landing-green-and-blue1.jpg" alt="heartland" style="width:650px;" />](/story-maps/green-and-blue)   | Singapore is known all the world over as the 'Garden City'. This is thanks to its lush greenery, and countless beautiful parks and gardens. Learn more about these nature spaces through the story maps [here](/story-maps/green-and-blue){:target="_blank"} .
+| [<img src="/images/story-maps-landing-green-and-blue1.jpg" alt="heartland" style="width:650px;" />](/story-maps/green-and-blue)   | Singapore is known all the world over as the 'Garden City'. This is thanks to its lush greenery, and countless beautiful parks and gardens. Learn more about these spaces through the story maps [here](/story-maps/green-and-blue){:target="_blank"} .
 |
