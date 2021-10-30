@@ -18,24 +18,15 @@ Learn more about this part of Singapore using the story maps below.
 | [![Raffles Place Worship Story Map](/images/storymap-image-bras-basah-worship.png)](/resource-room/story-maps/bras-basah-worship) | 
 | [![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets) | 
 
-| **<font size="5">Bras Basah</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-bras-basah-schools.png" alt="qr-code-storymap-bridges-singapore-river" style="width:800px;" />     | Learn about Bras Basah and its connection with the earliest schools of Singapore in this [story map](/resource-room/story-maps/bras-basah-schools){:target="_blank"}  |
-| <img src="/images/storymap-image-bras-basah-worship.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Find out where are some of the oldest places of worship in Bras Basah in this [story map](/resource-room/story-maps/bras-basah-worship){:target="_blank"}  |
-| <img src="/images/storymap-image-bras-basah-streets.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about Bras Basah and the history of its streets in this [story map](/resource-room/story-maps/resource-room/story-maps/bras-basah-streets){:target="_blank"}  
-|
+|**<font size="5">City Hall</font>**| 
+| -------- | 
+| [![Padang Story Map](/images/storymap-image-padang.png)](/resource-room/story-maps/padang) | 
+| [![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) | 
 
-| **<font size="5">City Hall</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-padang.png" alt="storymap-padang" style="width:800px;" />     | Find out why the Padang is such an important space in Singapore's history in this [story map](/resource-room/story-maps/padang){:target="_blank"}  |
-| <img src="/images/storymap-image-fort-canning.png" alt="qr-code-storymap-bridges-singapore-river" style="width:650px;" />     | Learn about the history of Fort Canning Hill in this [story map](/resource-room/story-maps/fort-canning){:target="_blank"}  
-|
-
-| **<font size="5">Kallang</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-historic-kallang.png" alt="historic-kallang" style="width:800px;" />     | Learn about the history of Kallang in this [story map](/resource-room/story-maps/historic-kallang){:target="_blank"}  |
-| <img src="/images/storymap-image-kallang-waterbodies-parks.png" alt="kallang-green-blue" style="width:650px;" />     | Learn about how Kallang was transformed into one of the greenest places on the island in this [story map](/resource-room/story-maps/the-green-and-blue-of-kallang){:target="_blank"}  
-|
+|**<font size="5">Kallang</font>**| 
+| -------- | 
+| [![Historic Kallang Story Map](/images/storymap-image-historic-kallang.png)](/resource-room/story-maps/historic-kallang) | 
+| [![Kallang Waterbodies Story Map](/images/storymap-image-kallang-waterbodies-parks.png)](/resource-room/story-maps/the-green-and-blue-of-kallang) | 
 
 | **<font size="5">Orchard</font>** | | 
 | -------- | -------- |
