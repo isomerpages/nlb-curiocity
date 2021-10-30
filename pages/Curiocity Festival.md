@@ -8,7 +8,7 @@ Through collaborations with various partners, this inaugural edition has a thema
 
 ___
 
-### **Night Festival Map**
+#### **Light to Night Festival 2022 Map**
 
 Pull your socks up and get your phones ready. Use the map below to explore this year's Light to Night Festival.
 
@@ -18,7 +18,7 @@ Is the map not big enough? Click [here](/files/sample-light-map.pdf) to download
 
 ________
 
-### **Civic District Story Map**
+#### **Civic District Story Map**
 
 ![Alt text for image on Isomer site](/images/storymap-image-padang.png)
 
@@ -28,4 +28,4 @@ Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd2
 
 _____
 
-### **Programmes**
+#### **Programmes**
