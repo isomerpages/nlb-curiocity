@@ -37,3 +37,12 @@ Interested to find out more about the Civic District? Check out the programmes t
 | 15 January     | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Venue: Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
 | 25 January     | Histories: *Architect, Surveyor and Statesman: Legacy of George Coleman*      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
 | 30 January     | *Light to Night Festival: Traces and Echoes*     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+
+
+#### January 2022
+
+| | | | | |
+| -------- | -------- | -------- | -------- | -------- |
+| **15 Jan**    | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Venue: Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+| **25 Jan**     | Histories: *Architect, Surveyor and Statesman: Legacy of George Coleman*      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+| **30 Jan**     | *Light to Night Festival: Traces and Echoes*     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
