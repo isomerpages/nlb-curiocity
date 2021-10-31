@@ -6,27 +6,21 @@ The Historic Districts of Chinatown, Kampong Glam, Little India and Boat Quay ar
 
 Find out more about our Historic Districts through these story maps.
 
+|**<font size="5">Chinatown</font>**| 
+| -------- | 
+| [![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown-landmarks.PNG)](/resource-room/story-maps/landmarks-of-chinatown) | 
+| [![Chinatown-Streets Story Map](/images/storymap-image-chinatown-streets.png)](/resource-room/story-maps/streets-of-chinatown) | 
 
+|**<font size="5">Kampong Glam</font>**| 
+| -------- | 
+| [![Kampong-Glam-Landmarks Story Map](/images/storymap-image-kampong-glam-landmarks.PNG)](/resource-room/story-maps/landmarks-of-kampong-glam) | 
+| [![Kampong-Glam-Streets Story Map](/images/storymap-image-kampong-glam-streets.png)](/resource-room/story-maps/streets-of-kampong-glam) | 
 
-| **<font size="5">Chinatown</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-chinatown-landmarks.PNG" alt="chinatown-landmarks" style="width:650px;" />     | Learn the history of some of Chinatown's oldest buildings in this [story map](/resource-room/story-maps/landmarks-of-chinatown){:target="_blank"}  |
-| <img src="/images/storymap-image-chinatown-streets.png" alt="chinatown-streets" style="width:650px;" />     | Find out the history behind some of the streets of Chinatown in this [story map](/resource-room/story-maps/streets-of-chinatown){:target="_blank"}  
-|
+|**<font size="5">Little India</font>**| 
+| -------- | 
+| [![Little-India-Landmarks Story Map](/images/storymap-image-little-india-landmarks.PNG)](/resource-room/story-maps/landmarks-of-little-india) | 
+| [![Little-India-Streets Story Map](/images/storymap-image-little-india-streets.png)](/resource-room/story-maps/streets-of-little-india) | 
 
-| **<font size="5">Kampong Glam</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-kampong-glam-landmarks.PNG" alt="kampong-glam-landmarks" style="width:650px;" />     | Learn the history of some of Kampong Glam's oldest buildings in this in this [story map](/resource-room/story-maps/landmarks-of-kampong-glam){:target="_blank"}  |
-| <img src="/images/storymap-image-kampong-glam-streets.png" alt="kampong-glam-streets" style="width:650px;" />     | Find out the history behind some of the streets of  Kampong Glam in this [story map](/resource-room/story-maps/streets-of-kampong-glam){:target="_blank"}  
-|
-
-| **<font size="5">Little India</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-little-india-landmarks.PNG" alt="little-india-landmarks" style="width:650px;" />     | Learn the history of some of Little India's oldest buildings in this [story map](/resource-room/story-maps/landmarks-of-little-india){:target="_blank"}  |
-| <img src="/images/storymap-image-little-india-streets.png" alt="little-india-streets" style="width:650px;" />     | Find out the history behind some of the streets of Little India in this [story map](/resource-room/story-maps/streets-of-little-india){:target="_blank"}  
-|
-
-| **<font size="5">Boat Quay</font>** | | 
-| -------- | -------- |
-| <img src="/images/storymap-image-singapore-river-bridges.png" alt="bridges-singapore-river" style="width:650px;" />     | Learn the history of the bridges of Singapore River in this [story map](/resource-room/story-maps/heritage-bridges-of-singapore-river){:target="_blank"}  
-|
+|**<font size="5">Boat Quay</font>**| 
+| -------- | 
+| [![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river) | 
