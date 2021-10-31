@@ -30,4 +30,4 @@ Learn more about this part of Singapore using the story maps below.
 
 |**<font size="5">Orchard</font>**| 
 | -------- | 
-| [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road) | 
+| [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road) |
