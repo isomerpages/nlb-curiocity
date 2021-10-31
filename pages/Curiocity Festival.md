@@ -39,7 +39,7 @@ Interested to find out more about the Civic District? Check out the programmes t
 | 30 January     | *Light to Night Festival: Traces and Echoes*     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
 
 
-#### January 2022
+##### **January 2022**
 
 | | | | | |
 | -------- | -------- | -------- | -------- | -------- |
