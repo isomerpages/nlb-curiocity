@@ -2,12 +2,12 @@ collections:
   events:
     output: true
     order:
-      - Treasure Hunt/Rules & FAQ.md
-      - Treasure Hunt/Prizes.md
-      - Treasure Hunt/Sign Up.md
-      - Treasure Hunt/Code Submission.md
-      - Treasure Hunt/Treasure Map.md
-      - Treasure Hunt/Introduction.md
       - Treasure Hunt/.keep
+      - Treasure Hunt/Introduction.md
+      - Treasure Hunt/Treasure Map.md
+      - Treasure Hunt/Code Submission.md
+      - Treasure Hunt/Sign Up.md
+      - Treasure Hunt/Prizes.md
+      - Treasure Hunt/Rules & FAQ.md
       - Curiocity Festival.md
       - Curiocity Showcase.md
