@@ -20,5 +20,7 @@ links:
         url: /singapore-visualised/before-and-after
   - title: Research Resources
     url: /research-resources/
+  - title: Events
+    collection: events
   - title: About Us
     url: /about/
