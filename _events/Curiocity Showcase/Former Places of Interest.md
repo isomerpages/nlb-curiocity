@@ -11,3 +11,12 @@ The story map below shows where these schools were once located in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
 
+#### **Former Places of Entertainment**
+
+Besides schools, there were also many recreation spaces including playing fields in Bras Basah during the colonial period. Its prime location also gave rise to a conglomeration of entertainment sites including cinemas, hotels, clubs and cafes. Frequented by the British as well as locals from the more well-to-do and educated strata of the society, these establishments were located in splendid colonial buildings designed some of the best architectural firms at the time.
+
+#### **Places of Worship**
+
+Because of its central location and close proximity with the enclaves of the main ethnic groups including Chinese, Malay, Indians and Europeans, one could also find numerous places of worship in the district. Take a look at the story map below to find out more about these places.
+
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)](resource-room/story-maps/bras-basah-worship)
