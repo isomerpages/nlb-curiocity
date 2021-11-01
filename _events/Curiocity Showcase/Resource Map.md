@@ -5,7 +5,7 @@ third_nav_title: Curiocity Showcase
 ---
 The map below geo-tagged the various resources this digital story used to narrate the transformation of Bras Basah.
 
-![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.png)
+[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.png)](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html)
 
 | |  |  | | |
 | :--------: | :--------: | :--------: |  :--------: | :--------: |
