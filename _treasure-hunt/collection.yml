@@ -2,6 +2,7 @@ collections:
   treasure-hunt:
     output: true
     order:
+      - Prizes.md
       - Treasure Hunt Map.md
       - Rules & FAQ.md
       - Code Submission.md
