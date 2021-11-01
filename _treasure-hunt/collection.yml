@@ -2,4 +2,5 @@ collections:
   treasure-hunt:
     output: true
     order:
+      - Code Submission.md
       - Introduction.md
