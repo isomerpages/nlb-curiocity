@@ -1,0 +1,5 @@
+---
+title: Sign Up
+permalink: /events/Treasure-Hunt/sign-up
+third_nav_title: Treasure Hunt
+---
