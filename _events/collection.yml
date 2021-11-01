@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Treasure Hunt/Code Submission.md
       - Treasure Hunt/Treasure Map.md
       - Treasure Hunt/Introduction.md
       - Treasure Hunt/.keep
