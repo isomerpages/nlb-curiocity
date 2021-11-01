@@ -26,6 +26,6 @@ Because of its central location and close proximity with the enclaves of the mai
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)](resource-room/story-maps/bras-basah-worship)
 
-| |  |  | |
-| :--------: | :--------: | :--------: |  :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
+| |  |  | | |
+| :--------: | :--------: | :--------: |  :--------: | :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-icon-intro.png)](/events/Curiocity-Showcase/bras-basah) | [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
