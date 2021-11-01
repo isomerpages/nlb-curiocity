@@ -6,3 +6,10 @@ third_nav_title: Curiocity Showcase
 Take this journey for an exciting roundup on how Bras Basah have changed since the colonial period.
 
 ![Alt text for image on Isomer site](/images/sample-bb-landing-banner.png)
+
+
+
+| |  |  | |
+| :--------: | :--------: | :--------: |  :--------: |
+| Text     | Text     | Text     | Text     |
+
