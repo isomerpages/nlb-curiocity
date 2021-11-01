@@ -11,5 +11,4 @@ Take this journey for an exciting roundup on how Bras Basah have changed since t
 
 | |  |  | |
 | :--------: | :--------: | :--------: |  :--------: |
-| Text     | Text     | Text     | Text     |
-
+| ![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)    | Text     | Text     | Text     |
