@@ -7,11 +7,7 @@ third_nav_title: Treasure Hunt
 
 Ahoy, matey! Welcome to the inaugural season of the NLB Treasure Hunt! 
 
-Are ye brave enough to test your History-IQ with our map-based quizzes?
-
-Ay, we have rewards beyond your wildest imagination waiting for ye. 
-
-That's right! Swashbuckling, sword-swinging, deck-swabbing, boot-strapping booty just for ye.
+Are ye brave enough to test your History-IQ with our map-based quizzes? Ay, we have rewards beyond your wildest imagination waiting for ye. That's right! Swashbuckling, sword-swinging, deck-swabbing, boot-strapping booty just for ye.
 
 Yo-ho-ho! Find the booty or it's Davey Jones's Locker for ye! Savvy?
 
