@@ -28,6 +28,6 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 | -------- | 
 [<img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place" style="width:500px" />](/resource-room/before-and-after/one-raffles-place)|
 
-| |  |  | |
-| :--------: | :--------: | :--------: |  :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
+| |  |  | | |
+| :--------: | :--------: | :--------: |  :--------: | :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-icon-intro.png)](/events/Curiocity-Showcase/bras-basah) | [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
