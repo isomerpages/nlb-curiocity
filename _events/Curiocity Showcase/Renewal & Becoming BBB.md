@@ -15,3 +15,7 @@ Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop it into a heritage, arts and learning enclave. To this end, the districts were branded as a single Bras Basah.Bugis (BBB) precinct. Guided by a development master plan, buildings in the areas including former schools grounds, cinemas and bookstores were redeveloped as offices, shopping centres and hotels. Some were conserved and repurposed as museums and cultural and heritage spaces.
 
 The sliders below show the remarkable transformation that Bras Basah underwent since the 1980s.
+
+| |  |  | |
+| :--------: | :--------: | :--------: |  :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
