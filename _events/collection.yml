@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Treasure Hunt/Treasure Hunt.md
+      - Treasure Hunt/Introduction.md
       - Treasure Hunt/.keep
       - Curiocity Festival.md
       - Curiocity Showcase.md
