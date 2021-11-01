@@ -45,7 +45,7 @@ sections:
       alt: VR Tours banner
       button: View VR Tour
   - infopic:
-      title: History of Orchard Road
+      title: "Orchard Road: More than Just a Shopping District"
       subtitle: Latest Story Map
       description: Learn about the history of Orchard Road in this story map.
       button: View Story Map
