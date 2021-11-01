@@ -3,17 +3,17 @@ title: Introduction
 permalink: /events/introduction
 third_nav_title: Treasure Hunt
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/sample-treasure-hunt-landing-page-cover.jpg)
 
--------
-Ahoy, matey!
+Ahoy, matey! Welcome to the inaugural season of the NLB Treasure Hunt! 
 
-Are ye brave enough to test your Geo-IQ with these map-based quizzes?
+Are ye brave enough to test your History-IQ with our map-based quizzes?
 
-Ay, is it fame, glory, and riches ye be seeking? We offer a reward beyond your wildest imagination...that's right -- a certificate suitable for framin'!
+Ay, we have rewards beyond your wildest imagination waiting for ye. 
+
+That's right! Swashbuckling, sword-swinging, deck-swabbing, boot-strapping booty just for ye.
+
+Yo-ho-ho! Find the booty or it's Davey Jones's Locker for ye! Savvy?
 
 |  |  |  |  |  |  |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
