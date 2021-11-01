@@ -15,10 +15,13 @@ The story map below shows where these schools were once located in Bras Basah.
 
 Besides schools, there were also many recreation spaces including playing fields in Bras Basah during the colonial period. Its prime location also gave rise to a conglomeration of entertainment sites including cinemas, hotels, clubs and cafes. Frequented by the British as well as locals from the more well-to-do and educated strata of the society, these establishments were located in splendid colonial buildings designed some of the best architectural firms at the time.
 
+(*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
+
 #### **A District of Books, Too**
 
 Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road which houses today’s Bras Basah Complex was identifiable with two rows of shophouses, famous for such services.
 
+(*Note: To insert some images as seen in ArcGIS sample)
 
 #### **Places of Worship**
 
