@@ -25,3 +25,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 Because of its central location and close proximity with the enclaves of the main ethnic groups including Chinese, Malay, Indians and Europeans, one could also find numerous places of worship in the district. Take a look at the story map below to find out more about these places.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)](resource-room/story-maps/bras-basah-worship)
+
+| |  |  | |
+| :--------: | :--------: | :--------: |  :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
