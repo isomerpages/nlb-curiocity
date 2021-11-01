@@ -2,9 +2,9 @@ collections:
   treasure-hunt:
     output: true
     order:
+      - Introduction.md
+      - Treasure Hunt Map.md
+      - Code Submission.md
       - Sign Up.md
       - Prizes.md
-      - Treasure Hunt Map.md
       - Rules & FAQ.md
-      - Code Submission.md
-      - Introduction.md
