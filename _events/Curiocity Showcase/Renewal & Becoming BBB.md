@@ -16,6 +16,8 @@ By the late 1980s, the Bras Basah and Bugis districts had developed a new shine 
 
 The sliders below show the remarkable transformation that Bras Basah underwent since the 1980s.
 
+(*Note: These are samples. Will create a series of before and after images for buildings in Bras Basah)
+
 | [**<font size=5> Six Battery Road</font>**](/resource-room/before-and-after/six-battery-road){:target="_blank"} | 
 |-------- | 
 | [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/six-battery-road)| 
