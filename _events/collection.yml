@@ -2,12 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Curiocity Showcase/.keep
-      - Curiocity Showcase/Transformation of Bras Basah.md
-      - Curiocity Showcase/Oldest District.md
-      - Curiocity Showcase/Former Places of Interest.md
-      - Curiocity Showcase/Renewal & Becoming BBB.md
-      - Curiocity Showcase/Resource Map.md
       - Curiocity Festival.md
       - Treasure Hunt/.keep
       - Treasure Hunt/Introduction.md
@@ -16,3 +10,9 @@ collections:
       - Treasure Hunt/Sign Up.md
       - Treasure Hunt/Prizes.md
       - Treasure Hunt/Rules & FAQ.md
+      - Curiocity Showcase/.keep
+      - Curiocity Showcase/Transformation of Bras Basah.md
+      - Curiocity Showcase/Oldest District.md
+      - Curiocity Showcase/Former Places of Interest.md
+      - Curiocity Showcase/Renewal & Becoming BBB.md
+      - Curiocity Showcase/Resource Map.md
