@@ -6,22 +6,22 @@ The Story Maps here tell the incredible stories that are embedded in the map col
 
 To help you navigate through our collection of Story Maps, we have categorised them into the following areas.
 
-| **<font size=5> Central Area </font>** |  | 
+| [**<font size=5> Central Area </font>**](/story-maps/central-area){:target="_blank"}  |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-central-area1.jpg" alt="central-area" style="width:650px" />   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
+| [<img src="/images/story-maps-landing-central-area1.jpg" alt="central-area" style="width:650px" />](/story-maps/central-area)   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
 |
 
-| **<font size=5> Historic Districts </font>** |  | 
+| [**<font size=5> Historic Districts </font>**](/story-maps/historic-districts){:target="_blank"} |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-historic-areas1.jpg" alt="historic-districts" style="width:650px" />      | The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/story-maps/historic-districts){:target="_blank"}.
+| [<img src="/images/story-maps-landing-historic-areas1.jpg" alt="historic-districts" style="width:650px" />](/story-maps/historic-districts)| The historic districts of Boat Quay, Chinatown, Kampong Glam and Little India are among the oldest places in Singapore. Find out more about their history [here](/story-maps/historic-districts){:target="_blank"}.
 |
 
-| **<font size=5> The Heartland </font>** |  | 
+| [**<font size=5> The Heartland </font>**](/story-maps/heartland){:target="_blank"}  |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-heartland1.jpg" alt="heartland" style="width:650px" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
+| [<img src="/images/story-maps-landing-heartland1.jpg" alt="heartland" style="width:650px"/>](/story-maps/heartland)   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/heartland){:target="_blank"}  and be amazed by the stories within.
 |
 
-| **<font size=5> Green and Blue </font>** |  | 
+| [**<font size=5> Green and Blue </font>**](/story-maps/green-and-blue){:target="_blank"} |  | 
 | -------- | -------- | 
-| <img src="/images/story-maps-landing-green-and-blue1.jpg" alt="heartland" style="width:650px;" />   | 'Heartland' refers, in general, to the housing estates beyond the city centre. You can view our story maps of these estates [here](/story-maps/green-and-blue){:target="_blank"}  and be amazed by the stories within.
+| [<img src="/images/story-maps-landing-green-and-blue1.jpg" alt="heartland" style="width:650px;" />](/story-maps/green-and-blue)   | Singapore is known all the world over as the 'Garden City'. Find out more about the green and blue spaces that gave Singapore this reputation [here](/story-maps/green-and-blue){:target="_blank"} .
 |
