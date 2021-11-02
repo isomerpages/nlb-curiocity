@@ -23,7 +23,7 @@ The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living represe
 | [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
 
 <details>
-<summary><font size=5> Six Battery Road</font></summary>
+<summary><span style="font-weight: 700; font-size: 22px; font-style: normal; color:red">History of Bras Basah</span></summary>
 <br>
-This is how you dropdown.
+XXX
 </details>
