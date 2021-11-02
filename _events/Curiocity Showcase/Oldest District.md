@@ -7,7 +7,7 @@ The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living represe
 
 #### **Story Map on the History of Bras Basah**
 
-[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets)
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
 
 #### **Transformation of Bras Basah Told through the Maps in Spatial Discovery**
 
