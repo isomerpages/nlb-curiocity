@@ -28,7 +28,7 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 
 | [**<font size=5> One Raffles Place</font>**](/resource-room/before-and-after/one-raffles-place){:target="_blank"} | 
 | -------- | 
-[<img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place" style="width:500px" />](/resource-room/before-and-after/one-raffles-place)|
+[<img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place" style="width:500px" />](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=76aaf0c4-b268-11e9-b9b8-0edaf8f81e27)|
 
 | |  |  | | 
 | :--------: | :--------: | :--------: |  :--------: |
