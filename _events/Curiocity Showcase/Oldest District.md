@@ -25,7 +25,11 @@ The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living represe
 <details>
 <summary><span style="font-weight: 700; font-size: 24px; font-style: normal; color:#BA0C2F">History of Bras Basah</span></summary>
 
+ Hello
+	
 ![Alt text for image on Isomer site](/images/banner-ang-mo-kio-storymap.jpg)
+
+Bye
 	
 </details>
 
