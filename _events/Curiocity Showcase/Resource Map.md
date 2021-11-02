@@ -9,11 +9,21 @@ The map below geo-tagged the various resources this digital story used to narrat
 
 [![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.png)](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html)
 
-#### **Learning Bras Basah On-the-Go**
+#### **Memories on Bras Basah**
 
-Short of time? The videos below provide you a quick way to explore the history of Bras Basah.
+Below are a selection of videos produced by the National Heritage Board, the Urban Redevelopment Authority and independent content makers to help us understand and remember Bras Basah.
+
+**"Bras Basah Complex: City of Books" by National Museum of Singapore**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**"Bras Basah Complex" by Today**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IuYscnoiEpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**"A Second-Hand Book Seller" by the National Heritage Board**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h79B_znIkzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | |  |  | | 
 | :--------: | :--------: | :--------: |  :--------: |
