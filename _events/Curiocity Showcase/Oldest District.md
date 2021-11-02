@@ -37,11 +37,10 @@ paragraph line 3</p>
 	
 	
 <details>
-<summary><span style="font-weight: 700; font-size: 24px; font-style: normal; color:#BA0C2F">History of Bras Basah</span></summary>
+<summary><span style="font-weight: 500; font-size: 12px; font-style: normal; color:#BA0C2F">History of Bras Basah</span></summary>
 <p>
 	
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
 	
 </p>
 </details>
-
