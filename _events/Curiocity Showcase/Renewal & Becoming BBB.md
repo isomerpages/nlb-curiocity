@@ -24,7 +24,7 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 
 | [**<font size=5> Singapore Land Tower</font>**](/resource-room/before-and-after/singapore-land-tower){:target="_blank"} | 
 | -------- | 
-[<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />](/resource-room/before-and-after/singapore-land-tower)|
+[<img src="/images/before-after-image-singapore-land-tower.png" alt="singapore-land-tower" style="width:500px" />](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=55d734da-b339-11e9-b9b8-0edaf8f81e27)|
 
 | [**<font size=5> One Raffles Place</font>**](/resource-room/before-and-after/one-raffles-place){:target="_blank"} | 
 | -------- | 
