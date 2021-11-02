@@ -9,7 +9,7 @@ Bras Basah was marked out by Sir Stamford Raffles as the European part of Singap
 
 The story map below shows where these schools were once located in Bras Basah.
 
-[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
 #### **Former Places of Entertainment**
 
