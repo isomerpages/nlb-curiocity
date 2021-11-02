@@ -30,8 +30,11 @@ The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living represe
 </details>
 
 <details><summary>Hello</summary>
-
+\
 Note the **double enter** or else Markdown won't work!
 ![test photo](https://www.bing.com/th?id=AMMS_04305b7650b93826972c03802545215f&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
-
+\
 </details>
+
+sdadasda\
+asdasd
