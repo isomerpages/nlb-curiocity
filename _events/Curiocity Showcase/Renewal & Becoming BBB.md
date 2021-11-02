@@ -20,7 +20,7 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 
 | [**<font size=5> Six Battery Road</font>**](/resource-room/before-and-after/six-battery-road){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/six-battery-road)| 
+| [<img src="/images/before-after-image-six-battery-road.png" alt="six-battery-road" style="width:500px" />](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9f1f89f0-b26a-11e9-b9b8-0edaf8f81e27)| 
 
 | [**<font size=5> Singapore Land Tower</font>**](/resource-room/before-and-after/singapore-land-tower){:target="_blank"} | 
 | -------- | 
