@@ -23,7 +23,7 @@ The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living represe
 | [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
 
 <details>
-<summary><span style="font-weight: 700; font-size: 25px; font-style: normal; color:#BA0C2F">History of Bras Basah</span></summary>
+<summary><span style="font-weight: 700; font-size: 24px; font-style: normal; color:#BA0C2F">History of Bras Basah</span></summary>
 
 ![Alt text for image on Isomer site](/images/banner-ang-mo-kio-storymap.jpg)
 	
