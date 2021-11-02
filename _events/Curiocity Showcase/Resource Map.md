@@ -25,6 +25,10 @@ Below are a selection of videos produced by the National Heritage Board, the Urb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h79B_znIkzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+"*The Song We Sang*: Xin Yao Reunion @ Bras Basah Complex" by 我们唱着的歌The Songs We Sang
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JsZPwyLfzvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 | |  |  | | 
 | :--------: | :--------: | :--------: |  :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
