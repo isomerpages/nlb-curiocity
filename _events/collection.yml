@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - This Year's Events.md
       - Curiocity Showcase/.keep
       - Curiocity Showcase/Transformation of Bras Basah.md
       - Curiocity Showcase/Oldest District.md
