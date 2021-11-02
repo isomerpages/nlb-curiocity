@@ -42,8 +42,6 @@ paragraph line 3</p>
 	
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
 	
-	</p>
+</p>
 </details>
 
-sdadasda\
-asdasd
