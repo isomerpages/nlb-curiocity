@@ -46,11 +46,11 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 
 The time graph below provides a historical overview on the history of Bras Basah.
 
-|      |      |
+|   asdd   |    asdsa  |
 | ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
+|    asdas  |   asda   |
+|    adas  |  adsa    |
+|  asd    |    adsa  |
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah" means “beras basah” or “wet rice” in Malay. The <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23/">Straits Times Weekly</a> (1892) explains the story behind it.</span></summary>
