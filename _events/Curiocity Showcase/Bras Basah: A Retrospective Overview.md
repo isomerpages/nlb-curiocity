@@ -35,7 +35,6 @@ The map above by Lt. Jackson's shows Bras Basah Road was known as Church Street 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | Bras Basah was a district thriving with activities in the 1900s. This continued after the war. The land use pattern in Bras Basah during this period is captured in these maps. | 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | After Singapore achieved Indepdencen, Bras Basah would undergo a renewal programme which saw buildings being either conserved or redeveloped. These are captured in these maps. |
 
-From the earlier maps, 
 
 The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
