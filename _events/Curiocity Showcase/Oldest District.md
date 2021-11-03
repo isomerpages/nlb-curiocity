@@ -8,25 +8,24 @@ third_nav_title: Curiocity Showcase
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html) 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html), it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html) (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
 
 The time graph below provides a historical overview on the history of Bras Basah.
-<p>
 
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"?</span></summary>
-<p>
-	
-<p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a>  (1892) explains:</p>
-<p>
-	
-<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.</span>
-
-</p>
-</details>
 
 #### **Early Maps on Bras Basah**
 
 The development of Bras Basah can also be seen in the earliest maps of Singapore which are available digitally in [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/), a one-stop platform for users to explore, find and interact with maps related information across the National Archives of Singapore and National Library collections.
 
 Below are a curated selection of maps from Spatial Discovery that show the transformaton of Bras Basah from the colonial to the present.
+
+<p>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"?</span></summary>
+<p>
+<p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a>  (1892) explains:</p>
+<p>
+<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.</span>
+</p>
+</details>
+<p>
 
 | |  | 
 | -------- | -------- | 
@@ -41,4 +40,4 @@ The history of Bras Basah can also be told through the streets that criss crosse
 
 #### **Early Paintings of Bras Basah and Its Vicinity**
 
-The history of Bras Basah can also be told through the streets that criss-crossed the district. 
+The history of Bras Basah can also be told through the streets that criss-crossed the district.
