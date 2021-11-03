@@ -8,6 +8,21 @@ third_nav_title: Curiocity Showcase
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html) 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html), it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html) (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
 
 The time graph below provides a historical overview on the history of Bras Basah.
+<p>
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"?</span></summary>
+<p>
+	
+<p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a> explains:</p>
+<p>
+	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">Mention Bras Basah Complex and the very memories of my childhood days come naturally to my mind. You see, Bras Basah Complex is a significant place during my primary and secondary school days: twenty over years now and I still remember visiting the various book stores in Bras Basah Complex frequently, especially every November or December during my primary and secondary school days to buy new textbooks for the new year. Though it was then possible to buy new textbooks for the new school year from the school bookstores, somehow or rather, I prefer to visit Bras Basah Complex to buy these new textbooks due to the unrivalled experience of purchasing the textbooks from the complex. I mean which place in Singapore would allow you to enjoy the full realm of textbooks-buying experience apart from Brash Basah Complex? Buying my textbooks from the various bookstores in Bras Basah Complex was really a visual feast as I laid my eyes on the hundreds of new textbooks in the bookstores. I could even go so far as to say that the whole experience was also an olfactory one as I literally smelt the crispy pages of new textbooks!</span>
+
+<p>From the <a href="https://www.w3.org/">Singapore Memory Project</a></p>
+
+</p>
+</details>
 
 #### **Early Maps on Bras Basah**
 
@@ -28,7 +43,7 @@ The history of Bras Basah can also be told through the streets that criss crosse
 
 #### **Early Paintings of Bras Basah and Its Vicinity**
 
-The history of Bras Basah can also be told through the streets that criss crossed the district. 
+The history of Bras Basah can also be told through the streets that criss-crossed the district. 
 
 
 <details>
