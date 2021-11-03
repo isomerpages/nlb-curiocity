@@ -17,7 +17,7 @@ The time graph below provides a historical overview on the history of Bras Basah
 <p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a> explains:</p>
 <p>
 	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">Mention Bras Basah Complex and the very memories of my childhood days come naturally to my mind. You see, Bras Basah Complex is a significant place during my primary and secondary school days: twenty over years now and I still remember visiting the various book stores in Bras Basah Complex frequently, especially every November or December during my primary and secondary school days to buy new textbooks for the new year. Though it was then possible to buy new textbooks for the new school year from the school bookstores, somehow or rather, I prefer to visit Bras Basah Complex to buy these new textbooks due to the unrivalled experience of purchasing the textbooks from the complex. I mean which place in Singapore would allow you to enjoy the full realm of textbooks-buying experience apart from Brash Basah Complex? Buying my textbooks from the various bookstores in Bras Basah Complex was really a visual feast as I laid my eyes on the hundreds of new textbooks in the bookstores. I could even go so far as to say that the whole experience was also an olfactory one as I literally smelt the crispy pages of new textbooks!</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">What is know as </span>
 
 <p>From the <a href="https://www.w3.org/">Singapore Memory Project</a></p>
 
