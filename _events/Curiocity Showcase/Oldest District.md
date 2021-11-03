@@ -9,8 +9,7 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 
 #### **Early Maps on Bras Basah**
 
-The development of Bras Basah can be seen in the earliest maps of Singapore which are available digitally in [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/), a one-stop platform for users to explore, find and interact with maps related information across the National Archives of Singapore and National Library collections.
-
+The development of Bras Basah can be seen in the earliest maps of Singapore which are available in [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/).
 Below are a curated selection of maps from Spatial Discovery that show the transformaton of Bras Basah from the colonial to the present.
 
 |  |  | 
@@ -20,12 +19,9 @@ Below are a curated selection of maps from Spatial Discovery that show the trans
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | Bras Basah was a district thriving with activities in the 1900s. This continued after the war. The land use pattern in Bras Basah during this period is captured in these maps. | 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | After Singapore achieved Indepdencen, Bras Basah would undergo a renewal programme which saw buildings being either conserved or redeveloped. These are captured in these maps. |
 
+The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
-
-| |  
-| -------- | 
-| [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html) 
-The history of Bras Basah can also be told through the streets that criss crossed the district. |
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html) 
 		
 
 
