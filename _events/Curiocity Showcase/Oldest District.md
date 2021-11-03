@@ -14,12 +14,10 @@ The time graph below provides a historical overview on the history of Bras Basah
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"?</span></summary>
 <p>
 	
-<p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a> explains:</p>
+<p>Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a>  (1892) explains:</p>
 <p>
 	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">What is know as </span>
-
-<p>From the <a href="https://www.w3.org/">Singapore Memory Project</a></p>
+<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.</span>
 
 </p>
 </details>
