@@ -43,14 +43,15 @@ Bras Basah Road is a transliteration of the Malay words “beras basah” or “
 </details>
 
 <details>
-<summary><span style="font-weight: 700; font-size: 24px; font-style: normal; color:#BA0C2F">My memory of Bras Basah Complex</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"?</span></summary>
 <p>
-	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">Mention Bras Basah Complex and the very memories of my childhood days come naturally to my mind. You see, Bras Basah Complex is a significant place during my primary and secondary school days: twenty over years now and I still remember visiting the various book stores in Bras Basah Complex frequently, especially every November or December during my primary and secondary school days to buy new textbooks for the new year. Though it was then possible to buy new textbooks for the new school year from the school bookstores, somehow or rather, I prefer to visit Bras Basah Complex to buy these new textbooks due to the unrivalled experience of purchasing the textbooks from the complex. I mean which place in Singapore would allow you to enjoy the full realm of textbooks-buying experience apart from Brash Basah Complex? Buying my textbooks from the various bookstores in Bras Basah Complex was really a visual feast as I laid my eyes on the hundreds of new textbooks in the bookstores. I could even go so far as to say that the whole experience was also an olfactory one as I literally smelt the crispy pages of new textbooks!</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color#black">Bras Basah Road is a transliteration of the Malay words “beras basah” or “wet rice”. But what does that mean? The extract below from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a>  (1892) explains:</span>
+<p>	
+<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.</span>
 
 <p>From the <a href="https://www.w3.org/">Singapore Memory Project</a></p>
 
 </p>
 </details>
 
-	
+asdakdjaskdjasldjlkasdjaskdlkasldjaslkdjashdlkashdliashdlkas
