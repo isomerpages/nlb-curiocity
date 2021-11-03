@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - This Year's Events.md
+      - Curiocity Showcase/Memories.md
       - Curiocity Showcase/.keep
       - "Curiocity Showcase/Bras Basah: A Retrospective Overview.md"
       - Curiocity Showcase/Former Places of Interest.md
