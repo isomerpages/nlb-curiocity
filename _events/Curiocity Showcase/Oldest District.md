@@ -11,7 +11,6 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 <summary><span style="font-weight: 600; font-size: 20px; font-style: normal; color:black">Why "Bras Basah"? This extract from the <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23">Straits Times Weekly</a>  (1892) explains.</span></summary>
 <p>
 <span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.</span>
-</p?>
 </details>
 	
 #### **Early Maps on Bras Basah**
