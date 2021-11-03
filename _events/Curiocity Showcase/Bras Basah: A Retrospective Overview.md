@@ -21,8 +21,8 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 
 |**1828 Map of the Town of Singapore** |
 |:-----:|
-![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)
-The map above by Lt. Jackson's shows Bras Basah Road was known as Church Street and Selegy Street in the 1820s.| 
+|![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
+|The map above by Lt. Jackson's shows Bras Basah Road was known as Church Street and Selegy Street in the 1820s.| 
 
 
 |  |  
