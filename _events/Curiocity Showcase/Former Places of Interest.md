@@ -17,9 +17,9 @@ Besides schools, there were also many recreation spaces including playing fields
 
 (*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
 
-#### **A District of Books, Too**
+#### **A District of Books and Knowledge, Too**
 
-Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road which houses today’s Bras Basah Complex was identifiable with two rows of shophouses, famous for such services.
+Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road which houses today’s Bras Basah Complex was identifiable with two rows of shophouses, famous for such services. Together with other education institutions in the area such as schools, the National Museum and the National Library, the Bras Basah area was a place of knowledge and learning. 
 
 (*Note: To insert some images as seen in ArcGIS sample)
 
