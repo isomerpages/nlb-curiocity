@@ -25,6 +25,8 @@ The development of Bras Basah over the past two centuries is recorded in the map
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | Bras Basah was a district thriving with activities in the 1900s. This continued after the war. The land use pattern in Bras Basah during this period is captured in these maps. | 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | After Singapore achieved Indepdencen, Bras Basah would undergo a renewal programme which saw buildings being either conserved or redeveloped. These are captured in these maps. |
 
+From the earlier maps, 
+
 The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html) 
@@ -44,31 +46,3 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 #### **Tracking the History of Bras Basah**
 
 The time graph below provides a historical overview on the history of Bras Basah.
-
-|   asdd   |    asdsa  |
-| ---- | ---- |
-|    asdas  |   asda   |
-|    adas  |  adsa    |
-|  asd    |    adsa  |
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah" means “beras basah” or “wet rice” in Malay. The <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920216-1.2.23/">Straits Times Weekly</a> (1892) explains the story behind it.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">What is known as “decayed rice” is, as a matter of fact, rare now. At one time when rice was brought to Singapore in sailing vessels, it was no uncommon thing for it to become saturated and rotten, and in this state it smelled abominably. So much was this the case that it had by law to be unloaded from the ships to a spot out of the then town and hence Brasssbassa (bras basah) Road got its name.	</span>
-	
-> This place is very good
->
-> [sfsdfs]: 
->
-> 
-
-	
-</details>
-
-> This place is very good
->
-> [sfsdfs]: 
->
-
-asndaajdkasdjasasdlsajkdjsalksajdkja
-aldjlakjdsa
