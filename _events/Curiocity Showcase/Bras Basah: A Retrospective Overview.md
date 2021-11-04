@@ -37,8 +37,9 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)|
 | From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
-<br>
 
+| | 
+|--------| 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah"? This <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51">1899 newspaper article</a> explains.</span></summary>
 <br>
