@@ -30,7 +30,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
+| ![Alt text for image on Isomer site](/images/sample-bb-map-1846.png)|
 |By the mid-1800s, Bras Basah was already with activities with rows of shophouses and roads criss-crossing the district. This can be seen in this [1846 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by John Turnbull Thomson.|
 
 | | 
