@@ -14,6 +14,8 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 	
 </details>
 
+_____
+
 #### **Early Maps on Bras Basah**
 
 The development of Bras Basah during its early days is recorded in the Maps Collection of the National Archives of Singapore. Scroll through some of them below. You can also click on the maps to overlay them with today's map using the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/) platform.
@@ -38,14 +40,16 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)|
 | From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
 
-| | 
-|--------| 
+_____
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah"? This <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51">1899 newspaper article</a> explains.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward.</span>
 	
 </details>
+
+_____
 
 #### **Bras Basah and Its Streets**
 
