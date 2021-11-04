@@ -13,8 +13,7 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">What does "Bras Basah" mean? The <a href="https://m.facebook.com/urban.explorers.of.singapore/posts/1838715229511033">Urban Explorers of Singapore</a> explains.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899
-">"The name “Bras Basah” has existed since the early 1800s. In old maps, it was also spelt as “Brass Bassa”...The name “Bras Basah” itself is a mistranscription of the Malay term “beras basah” (“wet rice”). Such mistranscriptions arise when non-native Malay speakers anglicise names based on what is verbally heard...Speaking of rice, Singapore in the old days had paddy fields...Wet harvested rice from these paddy fields (which practised wet-rice cultivation) would have been transported along Selegie Road and then dried on patches of undeveloped land around Sungai Bras Basah. (Drying is critical after harvesting a rice crop because it reduces grain moisture content to a safe level for storage.) This scenario eventually gave birth to the toponym “Bras Basah” for the area." </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The name “Bras Basah” has existed since the early 1800s. In old maps, it was also spelt as “Brass Bassa”...The name “Bras Basah” itself is a mistranscription of the Malay term “beras basah” (“wet rice”). Such mistranscriptions arise when non-native Malay speakers anglicise names based on what is verbally heard...Speaking of rice, Singapore in the old days had paddy fields...Wet harvested rice from these paddy fields (which practised wet-rice cultivation) would have been transported along Selegie Road and then dried on patches of undeveloped land around Sungai Bras Basah. (Drying is critical after harvesting a rice crop because it reduces grain moisture content to a safe level for storage.) This scenario eventually gave birth to the toponym “Bras Basah” for the area." </span>
 	
 </details>
 
@@ -49,7 +48,7 @@ _____
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah"? This <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51">1899 newspaper article</a> explains.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
 	
 </details>
 
