@@ -68,4 +68,4 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 
 #### **Tracking the History of Bras Basah**
 
-The time graph below provides a historical overview on the history of Bras Basah.
+The map below provides a geo-based overview of resources related to Bras Basah during this period.
