@@ -73,6 +73,3 @@ The history of Bras Basah can also be told through the streets that criss crosse
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html) 
 
-#### **Tracking the History of Bras Basah**
-
-The map below provides a geo-based overview of resources related to Bras Basah during this period.
