@@ -60,9 +60,11 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 
 ![Alt text for image on Isomer site](/images/painting-1.jpg)
 
-![Alt text for image on Isomer site](/images/painting-1.jpg)
+![Alt text for image on Isomer site](/images/painting-2.jpg)
 
-![Alt text for image on Isomer site](/images/painting-1.jpg)
+![Alt text for image on Isomer site](/images/painting-3.jpg)
+
+![Alt text for image on Isomer site](/images/painting-4.jpg)
 
 #### **Tracking the History of Bras Basah**
 
