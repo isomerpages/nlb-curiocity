@@ -18,16 +18,16 @@ links:
         url: /singapore-visualised/vr-tours
       - title: Before & After
         url: /singapore-visualised/before-and-after
-  - title: Research Resources
-    url: /research-resources/
   - title: Events
     url: /events/overview
     sublinks:
       - title: Curiocity Showcase
-        url: /events/Curiocity-Showcase/bras-basah/overview
+        url: /events/curiocity-showcase/bras-basah/first-100
       - title: Curiocity Festival
         url: /events/curiocity-festival
       - title: NLB Treasure Hunt
         url: /events/treasure-hunt/introduction
+  - title: Research Resources
+    url: /research-resources/
   - title: About Us
     url: /about/
