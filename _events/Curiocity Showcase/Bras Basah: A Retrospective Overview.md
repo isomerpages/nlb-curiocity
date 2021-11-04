@@ -33,40 +33,18 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
 |By the mid-1800s, Bras Basah was already with activities with rows of shophouses and roads criss-crossing the district. This can be seen in this [1846 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by John Turnbull Thomson.|
 
-
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
-| This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+| From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah"? This <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51">1899 newspaper article</a> explains.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: italic; color:#353839">The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward.</span>
+	
+</details>
 
-[1828 Map of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad) |
-| :----------------------------------------------------------: |
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) |
-| This map by Lt. Philip Jackson shows Bras Basah Road was known as Church Street and Selegy Street in the 1820s. |
-
-|**1828 Map of the Town of Singapore** |
-|:-----:|
-|![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
-|This map by Lt. Philip Jackson shows Bras Basah Road was known as Church Street and Selegy Street in the 1820s.| 
-
-|**1828 Map of the Town of Singapore** |
-|:-----:|
-|![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
-|By the mid-1800s, Bras Basah had developed quite considerably with new buildings including | 
-
-
-
-|  |  
-| -------- | 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) In the maps produced from the 1830s to 1880s, Bras Basah Road was spelt “Brass Bassa Road”. It was only after the 1890s that they began labeling the road as the name we know today.  | 
-
-
-
-
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | Bras Basah was a district thriving with activities in the 1900s. This continued after the war. The land use pattern in Bras Basah during this period is captured in these maps. | 
-
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png) | After Singapore achieved Indepdencen, Bras Basah would undergo a renewal programme which saw buildings being either conserved or redeveloped. These are captured in these maps. |
 
 
 The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
