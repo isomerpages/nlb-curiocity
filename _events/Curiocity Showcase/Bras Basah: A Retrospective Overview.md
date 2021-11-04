@@ -20,7 +20,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
+| ![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 | | 
@@ -35,7 +35,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
+| ![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)|
 | From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
 <br>
 
