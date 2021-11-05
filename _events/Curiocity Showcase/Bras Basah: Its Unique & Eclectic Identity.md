@@ -43,6 +43,17 @@ The story map below shows where these schools were once located in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
+_____
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read a traveler's account of Bras Basah during the 1920s.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
+	
+</details>
+
+_____
+
 #### **Places of Worship**
 
 Because of its central location and close proximity with the enclaves of the main ethnic groups including Chinese, Malay, Indians and Europeans, one could also find numerous places of worship in the district. Take a look at the story map below to find out more about these places.
