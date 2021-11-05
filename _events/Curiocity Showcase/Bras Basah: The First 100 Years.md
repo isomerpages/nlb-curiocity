@@ -131,4 +131,4 @@ _____
 
 The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
-[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
+[![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
