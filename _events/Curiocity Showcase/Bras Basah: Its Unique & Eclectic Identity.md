@@ -4,7 +4,6 @@ permalink: /events/Curiocity-Showcase/unique-bras-basah
 third_nav_title: Curiocity Showcase
 description: ""
 ---
-
 #### **Schools of Bras Basah**
 
 Bras Basah was marked out by Sir Stamford Raffles as the European part of Singapore Town and had served as the suburb to the busy city centre which wrapped itself around Commercial Square (now known as Raffles Place). As a result of its central location, the Bras Basah area was considered an ideal location for the establishment of schools to the ever-growing multicultural communities that have sprung up along with the development of Singapore.
