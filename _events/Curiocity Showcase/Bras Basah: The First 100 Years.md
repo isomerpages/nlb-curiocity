@@ -82,7 +82,7 @@ The history of Bras Basah is also captured in the early prints of Singapore. Dra
 | | 
 |:--------:| 
 |![Alt text for image on Isomer site](/images/painting-5.jpg)|
-|This [1828 map](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This 1851 [oil painting](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} by John Turnbull Thomson shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church .  |
 
 _____
 
