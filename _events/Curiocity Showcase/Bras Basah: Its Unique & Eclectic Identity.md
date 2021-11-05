@@ -4,6 +4,8 @@ permalink: /events/Curiocity-Showcase/unique-bras-basah
 third_nav_title: Curiocity Showcase
 description: ""
 ---
+![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)
+
 Given the close proximity of Bras Basah to the town centre, it is no surprise area was considered an ideal location for the establishment of entertainment places, schools and other public buildings and spaces to the ever-growing multicultural communities that have sprung up along with the development of Singapore.
 
 #### **Former Places of Entertainment**
