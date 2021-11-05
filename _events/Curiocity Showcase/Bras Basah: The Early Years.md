@@ -123,7 +123,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a profitable business in Singapore during the early 1900s with many well-known firms and photography studios including G.R. Lambert & Co. engaging in it. Click to read how the book, Twentieth Century Impression of British Malaya (1908), describes the lucrativeness.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a profitable business in Singapore during the early 1900s with many well-known firms and photography studios including G.R. Lambert & Co. engaging in it. Click to read how the book, Twentieth Century Impression of British Malaya (1908), describes the lucrativeness of the industry.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lamber has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
 	
