@@ -67,7 +67,7 @@ The history of Bras Basah is also captured in the early prints of Singapore. Dra
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-2.jpg)|
-|This 1846 lithograph, [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. |
+|This 1846 coloured lithograph, titled [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. |
 
 | | 
 |:--------:| 
@@ -77,12 +77,12 @@ The history of Bras Basah is also captured in the early prints of Singapore. Dra
 | | 
 |:--------:| 
 |![Alt text for image on Isomer site](/images/painting-4.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This 1852 [tinted lithograph](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St. Andrew's Church and Raffles Institution. |
 
 | | 
 |:--------:| 
 |![Alt text for image on Isomer site](/images/painting-5.jpg)|
-|This 1851 [oil painting](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} by John Turnbull Thomson shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church .  |
+|This 1851 [oil painting](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} by John Turnbull Thomson shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church whose spiral can be seen at the far-right.  |
 
 _____
 
