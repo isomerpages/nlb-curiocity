@@ -4,9 +4,11 @@ permalink: /events/Curiocity-Showcase/unique-bras-basah
 third_nav_title: Curiocity Showcase
 description: ""
 ---
+Given the close proximity of Bras Basah to the town centre, it is no surprise that it was teeming with activities. 
+
 #### **Former Places of Entertainment**
 
-Besides schools, there were also many recreation spaces including playing fields in Bras Basah during the colonial period. Its prime location also gave rise to a conglomeration of entertainment sites including cinemas, hotels, clubs and cafes. Frequented by the British as well as locals from the more well-to-do and educated strata of the society, these establishments were located in splendid colonial buildings designed some of the best architectural firms at the time.
+There were also many recreation spaces including playing fields in Bras Basah during the colonial period. Its prime location also gave rise to a conglomeration of entertainment sites including cinemas, hotels, clubs and cafes. Frequented by the British as well as the locals, these establishments were located in splendid colonial buildings designed some of the best architectural firms at the time.
 
 (*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
 
