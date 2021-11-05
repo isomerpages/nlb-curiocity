@@ -66,7 +66,7 @@ During the 19th century, much of Singapore's early growth and progress including
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/painting-3.jpg)|
+| [![Alt text for image on Isomer site](/images/painting-3.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
 |This 1861 [coloured lithograph](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by W. Gray. It gives a panoramc view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the Right. Buildings including St Andrew's Cathedral, Raffles Institution and others like the Court House can all be seen clearly. |
 
 | | 
