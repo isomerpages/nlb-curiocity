@@ -98,22 +98,22 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/postcard-1.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"} This postcard shows the junction of Bras Basah Road and Bencoolen Street, where the remains of the administrative block of the former Convict Gaol can be seen on the right. |
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/postcard-2.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1193647){:target="_blank"} shows St. Joseph’s Institution (SJI) at Bras Basah Road in the early 1900s.SJI was an English medium school for boys established by the Brothers of the Christian Schools, a teaching order under the aegis of the De LaSalle Brothers. |
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/postcard-3.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|Originally known as the Singapore Institution, Raffles Institution was originally located in Bras Basah as shown in this late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1046090){:target="_blank"} |
 
 | | 
 |:--------:| 
 |![Alt text for image on Isomer site](/images/postcard-4.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|With a history that dates back to 1843 the Church of Good Shepherd shown in this late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"} is the oldest Roman Catholic church in Singapore.|
 
 
 _____
