@@ -97,12 +97,12 @@ _____
 
 #### **Depiction of Early Bras Basah in Postcards**
 
-The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of postcards that quickly gain popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
+The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of picture postcards that quickly gained popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/postcard-1.jpg)|
-|This late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"} This postcard shows the junction of Bras Basah Road and Bencoolen Street, where the remains of the administrative block of the former Convict Gaol can be seen on the right. |
+|This early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"} This postcard shows the junction of Bras Basah Road and Bencoolen Street, where the remains of the administrative block of the former Convict Gaol can be seen on the right. |
 
 | | 
 |:--------:| 
@@ -112,20 +112,20 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/postcard-3.jpg)|
-|Originally known as the Singapore Institution, Raffles Institution was originally located in Bras Basah as shown in this late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1046090){:target="_blank"} |
+|Originally known as the Singapore Institution, Raffles Institution was originally located in Bras Basah as shown in early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1046090){:target="_blank"} |
 
 | | 
 |:--------:| 
 |![Alt text for image on Isomer site](/images/postcard-4.jpg)|
-|With a history that dates back to 1843 the Church of Good Shepherd shown in this late 1800s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"} is the oldest Roman Catholic church in Singapore.|
+|With a history that dates back to 1843 the Church of Good Shepherd shown in this early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"} is the oldest Roman Catholic church in Singapore.|
 
 
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read more on the role of postcards in the visual history of Singapore.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a profitable business in Singapore during the early 1900s with many well-known firms and photography studios including G.R. Lambert & Co. engaging in it. Click to read how the book, Twentieth Century Impression of British Malaya (1908), describes the lucrativeness.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lamber has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
 	
 </details>
 
