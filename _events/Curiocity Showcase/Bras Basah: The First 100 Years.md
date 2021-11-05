@@ -91,7 +91,7 @@ _____
 
 _____
 
-#### **Early Postcards on Bras Basah **
+#### **Early Postcards on Bras Basah**
 
 The history of Bras Basah is also captured in the early paintings of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
 
@@ -125,6 +125,7 @@ _____
 	
 </details>
 
+_____
 
 #### **Bras Basah and Its Streets**
 
