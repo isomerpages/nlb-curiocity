@@ -57,7 +57,7 @@ _____
 
 #### **Depiction of Early Bras Basah in Prints**
 
-The history of Bras Basah is also captured in the early prints of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
+During the 19th century, much of Singapore's early growth and progress including those in Bras Basah was recorded in topographical prints. Usually published in the accounts of scientific voyages, travel books or bound folios, they form an historically significant and visually pleasing source of information on the settlement's history.
 
 | | 
 |:--------:| 
