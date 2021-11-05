@@ -25,22 +25,22 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)|
+| [![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)|
+| [![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)|
 |This [1839 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by George Coleman shows the labelling of Bras Basah Road as "Bras Bassa Road". Also visible are the former grounds of Raffles Institution and a handful of churches including St Jospeh's, St Andrew's and the Armenian Church.|
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1846.png)|
+| [![Alt text for image on Isomer site](/images/sample-bb-map-1846.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)|
 |By the mid-1800s, Bras Basah was already with activities with rows of shophouses and roads criss-crossing the district. This can be seen in this [1846 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by John Turnbull Thomson.|
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)|
+| [![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad)|
 | From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
 
 _____
