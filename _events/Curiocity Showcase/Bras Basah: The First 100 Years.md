@@ -97,7 +97,7 @@ _____
 
 #### **Early Postcards on Bras Basah**
 
-The history of Bras Basah is also captured in the early paintings of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
+The history of Bras Basah and its vicinity is also captured in the early paintings of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
 
 | | 
 |:--------:| 
@@ -133,6 +133,6 @@ _____
 
 #### **Bras Basah and Its Streets**
 
-The history of Bras Basah can also be told through the streets that criss crossed the district. Click the story map below to find out more.
+The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
 [![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
