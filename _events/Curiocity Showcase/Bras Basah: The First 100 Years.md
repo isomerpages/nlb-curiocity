@@ -87,7 +87,7 @@ During the 19th century, much of Singapore's early growth and progress including
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is John Turnbull Thomson? Click here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is John Turnbull Thomson? Click to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
@@ -123,7 +123,7 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is John Turnbull Thomson? Click here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read more on the role of postcards in the visual history of Singapore.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
