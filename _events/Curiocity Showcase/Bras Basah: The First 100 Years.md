@@ -72,7 +72,7 @@ The history of Bras Basah is also captured in the early prints of Singapore. Dra
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-3.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This 1861 [coloured lithograph](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by W. Gray. It gives a panoramc view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the Right. Buildings including St Andrew's Cathedral, Raffles Institution and others like the Court House can all be seen clearly. |
 
 | | 
 |:--------:| 
