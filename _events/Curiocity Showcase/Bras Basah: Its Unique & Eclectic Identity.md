@@ -56,7 +56,7 @@ _____
 
 _____
 
-#### **Places of Worship**
+#### **A Multicultural Identity**
 
 Because of its central location and close proximity with the enclaves of the main ethnic groups including Chinese, Malay, Indians and Europeans, one could also find numerous places of worship in the district. Take a look at the story map below to find out more about these places.
 
