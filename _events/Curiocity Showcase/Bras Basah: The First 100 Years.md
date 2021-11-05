@@ -97,22 +97,22 @@ The history of Bras Basah is also captured in the early paintings of Singapore. 
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/painting-1.jpg)|
+| ![Alt text for image on Isomer site](/images/postcard-1.jpg)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/painting-2.jpg)|
+| ![Alt text for image on Isomer site](/images/postcard-2.jpg)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 | | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/painting-3.jpg)|
+| ![Alt text for image on Isomer site](/images/postcard-3.jpg)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 | | 
 |:--------:| 
-|![Alt text for image on Isomer site](/images/painting-4.jpg)|
+|![Alt text for image on Isomer site](/images/postcard-4.jpg)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 
 
