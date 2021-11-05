@@ -55,19 +55,19 @@ _____
 _____
 
 
-#### **Early Paintings of Bras Basah and Its Vicinity**
+#### **Depiction of Early Bras Basah in Prints**
 
-The history of Bras Basah is also captured in the early paintings of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
+The history of Bras Basah is also captured in the early prints of Singapore. Drawn by renowned personalities, these paintings from the Collection of the National Museum of Singapore are available in Roots.
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-1.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This 1837 lithograph, [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church.   |
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-2.jpg)|
-|This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
+|This 1846 lithograph, [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. |
 
 | | 
 |:--------:| 
