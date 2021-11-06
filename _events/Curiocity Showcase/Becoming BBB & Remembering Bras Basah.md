@@ -35,3 +35,7 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 Remembering Book Stores
 
 https://www.todayonline.com/big-read/big-read-run-down-not-out-old-iconic-shopping-centres-find-way-sporeans-hearts
+
+irememberbookstores
+
+http://www.chouscfoundation.org/events/i-remember-gallery-roving-exhibition/
