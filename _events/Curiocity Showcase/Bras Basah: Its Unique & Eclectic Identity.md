@@ -59,6 +59,8 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)
 
+##### **Bras Basah Complex**
+
 ##### **The Library**
 
 
