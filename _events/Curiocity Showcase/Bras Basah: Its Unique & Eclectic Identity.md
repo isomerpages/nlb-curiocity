@@ -49,16 +49,12 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 ![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)
 
+**The Library**
 
 
-
-(*Note: To insert some images as seen in ArcGIS sample)
-
-**Bookstores**
 
 **Book Collection**
 
-**The Library**
 
 **Schools of Bras Basah**
 
