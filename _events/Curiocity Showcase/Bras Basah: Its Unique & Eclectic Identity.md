@@ -43,7 +43,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 [![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad)
 
-![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)
+[![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad)
 
 [![Alt text for image on Isomer site](/images/bb-mph-building-old-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b8ff4acd-1162-11e3-83d5-0050568939ad)
 
