@@ -45,6 +45,10 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 ![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)
 
+![Alt text for image on Isomer site](/images/bb-mph-building-old-2.jpg)
+
+![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)
+
 
 
 
