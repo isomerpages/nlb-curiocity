@@ -53,6 +53,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Popular Book Company and the Shanghai Book Company. 
 
+[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398)
 
 ##### **The Library**
 
