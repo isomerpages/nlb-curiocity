@@ -87,12 +87,13 @@ _____
             <th>Layer 1</th>
             <th>Layer 2</th>
             <th>Layer 3</th>
-					<th>Layer 3</th>
+												<th>Layer 4</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td colspan=3>L1 Name</td>
+            <td colspan=4><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext">
+</td>
         </tr>
         <tr>
             <td rowspan=3>L3 Name B</td>
