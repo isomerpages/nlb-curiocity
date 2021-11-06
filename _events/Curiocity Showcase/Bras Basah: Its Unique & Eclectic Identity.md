@@ -33,8 +33,11 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 **Bookstores along Bras Basah Road**
 
+![Alt text for image on Isomer site](/images/bb-bookstores-1.png)
 
+![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)
 
+![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)
 
 
 (*Note: To insert some images as seen in ArcGIS sample)
@@ -78,27 +81,3 @@ _____
 </details>
 
 _____
-
-
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-												<th>Layer 4</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan=4><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext">
-</td>
-        </tr>
-        <tr>
-            <td rowspan=3; colspan=2><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext"></td>
-					<td rowspan=3; colspan=2><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext"></td>
-        </tr>
-        
-    </tbody>
-</table>
