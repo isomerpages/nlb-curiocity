@@ -55,6 +55,10 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 [![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398)
 
+[![Alt text for image on Isomer site](/images/bb-shanghai-book-comapny-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013)
+
+[![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)
+
 ##### **The Library**
 
 
