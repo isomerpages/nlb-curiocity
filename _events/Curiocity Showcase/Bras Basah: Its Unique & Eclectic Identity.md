@@ -96,14 +96,9 @@ _____
 </td>
         </tr>
         <tr>
-            <td rowspan=3>L3 Name B</td>
+            <td rowspan=3; colspan=2><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext"></td>
+					<td rowspan=3; colspan=2><img src="/images/storymap-image-bras-basah-worship.png" alt="alternatetext"></td>
         </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
+        
     </tbody>
 </table>
