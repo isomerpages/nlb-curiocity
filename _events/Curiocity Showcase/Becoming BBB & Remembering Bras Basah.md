@@ -4,8 +4,6 @@ permalink: /events/Curiocity-Showcase/bras-basah/become-bbb
 third_nav_title: Curiocity Showcase
 description: ""
 ---
-
-
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas and nightlife of Bugis Street. But like other inner city areas, the streets were congested and housing overcrowded with poor sanitation. To address these issues, the government started to embark on a programme to renew the central built-up area. Residents in the area were relocated to improved public housing, while the ubiquitous but dilapidated were demolished.
 
 |  |
@@ -33,3 +31,7 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 | -------- | 
 [<img src="/images/before-after-image-one-raffles-place.png" alt="one-raffles-place" style="width:500px" />](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=76aaf0c4-b268-11e9-b9b8-0edaf8f81e27)|
 
+
+Remembering Book Stores
+
+https://www.todayonline.com/big-read/big-read-run-down-not-out-old-iconic-shopping-centres-find-way-sporeans-hearts
