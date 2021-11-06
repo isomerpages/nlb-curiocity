@@ -39,6 +39,14 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 ![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)
 
+Methodist Publishing House
+
+![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)
+
+![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)
+
+
+
 
 (*Note: To insert some images as seen in ArcGIS sample)
 
