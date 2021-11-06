@@ -39,3 +39,7 @@ https://www.todayonline.com/big-read/big-read-run-down-not-out-old-iconic-shoppi
 irememberbookstores
 
 http://www.chouscfoundation.org/events/i-remember-gallery-roving-exhibition/
+
+legacy lives on
+
+http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19871107-1.2.14.3
