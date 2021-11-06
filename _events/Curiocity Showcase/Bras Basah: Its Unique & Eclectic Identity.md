@@ -29,7 +29,7 @@ _____
 
 #### **A District of Books and Knowledge, Too**
 
-Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and its surrounding areas used to housed many shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH),  Together with other establishments in the area such as the National Museum and the National Library, the Bras Basah area was a place of knowledge and learning. 
+Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to housed shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH) and Shanghai Book Company. Together with other similar establishments in the area such as the National Museum and the National Library, the Bras Basah area was a place of knowledge and learning. 
 
 ##### **Bookstores along Bras Basah Road**
 
