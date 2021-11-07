@@ -144,4 +144,15 @@ Standing there, the world grew, bit by bit, seemed different with each fresh van
 	
 </details>
 
+> Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
+> 
+> Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
+> 
+> And the bookshops full of stuff: Penguin New writing to Palgrave’s G-Treasury; Q’s Oxford Anthology, a blue spine among mouldy issues of The Wide World where imperial dreams, the White man’s burden trudged across Asia and Africa, up Ruwenzori’s mist and moon, then down The Brahmaputra. Mainly first-hand accounts, direct, unshorn, marching against superstition. Plain narratives rising in majesty, in power, art. No cute theory of the Other. Only them natives.
+> 
+> And the Rendezvous after school; affordable. The man with the mole, ladle in hand, presided, holding the extra spoonful, balanced fate, deciding if he liked you. Two doors away Simon Ong’s Family shop of fishing tackle, Winchester torches,
+> Knives of Solingen steel. Outside, a Woodsville tram, full of St Andrew boys, swings around the corner, tires squealing.
+> 
+> Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.
+
 _____
