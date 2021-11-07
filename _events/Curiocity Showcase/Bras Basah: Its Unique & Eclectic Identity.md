@@ -80,7 +80,9 @@ The family-run restaurant has been operating there since the 1930s and has been 
 
 Today, it is still located there within the premises of Hotel Rendezvous, the occupant of these shophouses which have been conserved by the Urban Redevelopment Authority (URA) in the late 1990s. In fact, so memorable was the presence of the restaurant that the hotel named itself after it.
 
-Stamford Cafe
+**Stamford Cafe**
+
+The Stamford Cafe was one of the places to go for good Western Food especially during the 1950s and 1960s. Located at...
 
 Chicken Rice
 
