@@ -54,7 +54,7 @@ Take a look at these bookstores through the photo essay below.
 |**<font size=4>Shanghai Book Company and Popular Bookstore</font>**| 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398)|
-|Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Popular Book Company and the Shanghai Book Company. ([Roots.sg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+|Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Popular Book Company and the Shanghai Book Company. ([National Heritage Board via Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 | [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building)|
