@@ -70,6 +70,8 @@ The story map below shows where these schools were once located in Bras Basah.
 
 #### **A Place for Food, Too**
 
+Other than being a place for entertainment and recreation, as well as books and learning, Bras Basah was also known...
+
 **The "Rendezvous" Shophouses**
 
 Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios, bookshops and coffeshops. The most famous of them was Rendezvous (also known as Hock Lock Kee) Nasi Padang Restaurant. 
