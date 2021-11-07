@@ -88,17 +88,13 @@ Today, it is still located there within the premises of Hotel Rendezvous, the oc
 
 The Stamford Cafe was one of the places to go for good Western Food especially during the 1950s and 1960s. Located at...
 
-Chicken Rice
+**Long Bar and the Singapore Sling**
 
-Long Bar and Singapore Sling
+**Hainanese Chicken Rice and Coffee**
 
-The Hainanese Food
+**Magnolia Milk Bar**
 
-Capitol Theatre
-
-Magnolia Milk Bar
-
-Red House
+**Red House**
 
 
 
