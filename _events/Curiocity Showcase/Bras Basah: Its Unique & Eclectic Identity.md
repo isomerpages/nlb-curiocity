@@ -125,7 +125,7 @@ Because of its central location and close proximity with the enclaves of the mai
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-worship/index.html)
 
 _____
-<p>With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>.</p>
+With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>.
 
 
 > Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
