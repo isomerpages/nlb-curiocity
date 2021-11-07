@@ -127,9 +127,56 @@ Because of its central location and close proximity with the enclaves of the mai
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read a traveler's account of Bras Basah during the 1920s.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 made available via the Singapore Memory Project portal. Click to read the poem.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
+By a row of old shophouses, since sadly slain,
+A special road began. A point of colonial
+Confluence: Dhoby Ghaut, the YWCA with
+Manicured tennis lawns for memsahibs who
+Then took tea and scones. Across a Shell kiosk
+Where Papa parked his Austin Seven, then off
+To Hock Hoe’s for piston rods and Radex
+
+Think of the names: Dhoby Ghaut, Prinsep St,
+The three Cathays, a name the Lokes made
+Famous: resplendent building, our tallest then;
+Fantastic camera shop; and that popular Store
+Where Rudy’s wife, petite, temporarily demure,
+Quietly assessed her customers as she held her
+Intelligence above show-cases. Two doors away,
+Heng, increasingly called Mr, sold German cameras
+To Japanese sailors, was en route to a partnership.
+
+And the bookshops full of stuff: Penguin New 
+Writing to Palgrave’s G-Treasury; Q’s Oxford 
+Anthology, a blue spine among mouldy issues 
+Of The Wide World where imperial dreams, 
+The White man’s burden trudged across Asia and
+Africa, up Ruwenzori’s mist and moon, then down
+The Brahmaputra. Mainly first-hand accounts, 
+Direct, unshorn, marching against superstition.
+Plain narratives rising in majesty, in power, art.
+No cute theory of the Other. Only them natives.
+
+And the Rendezvous after school; affordable.
+The man with the mole, ladle in hand, presided,
+Holding the extra spoonful, balanced fate,deciding
+If he liked you. Two doors away Simon Ong’s
+Family shop of fishing tackle, Winchester torches,
+Knives of Solingen steel. Outside, a Woodsville tram,
+Full of St Andrew boys, swings around the corner,
+Tires squealing.
+
+       Standing there, the world grew,
+Bit by bit, seemed different with each fresh vantage
+Shift in weather; hormonal stir, sweet unknowing;
+An ache that knew no words; a quickly passing mouth.
+As eyes caught more lit with sensuous guilt, when 
+Curves beneath Convent uniforms heaved and turned
+With the mind’s proposal, the rainbow’s ripening,
+As thoughts fingered image, each chance encounter.
+Experience became a word as Life cease to be simple.</span>
 	
 </details>
 
