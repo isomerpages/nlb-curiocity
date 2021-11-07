@@ -61,6 +61,10 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 **Bras Basah Complex**
 
+Bras Basah Complex was known as书城 (shu cheng, meaning “City of Books” in Mandarin) as the complex is famed for its numerous bookstores. It is also known as 百胜楼 (bai sheng lou in Mandarin). The complex consists of two blocks of 21-storey flats above a 4- & 5-storey office and shopping podium.
+
+It was built by the Housing and Development Board and was completed in 1979.  It was home to many bookstores which used to operate at North Bridge Road and Bras Basah Road areas. Today, it still serves as a one-stop centre for educational books and art materials. Bras Basah Complex was also a popular venue for Singapore xinyao singers to launch and promote their albums in the 1980s.
+
 **The Schools**
 
 The story map below shows where these schools were once located in Bras Basah.
