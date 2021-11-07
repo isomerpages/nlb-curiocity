@@ -65,9 +65,9 @@ Bras Basah Complex was known as书城 (shu cheng, meaning “City of Books” in
 
 It was built by the Housing and Development Board and was completed in 1979.  It was home to many bookstores which used to operate at North Bridge Road and Bras Basah Road areas. Today, it still serves as a one-stop centre for educational books and art materials. Bras Basah Complex was also a popular venue for Singapore xinyao singers to launch and promote their albums in the 1980s.
 
-**The Schools**
+**The Schools of Bras Basah**
 
-The story map below shows where these schools were once located in Bras Basah.
+The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
