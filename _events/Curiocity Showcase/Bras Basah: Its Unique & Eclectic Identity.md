@@ -27,11 +27,11 @@ _____
 
 
 
-**A Place of Books**
+#### **A Place for Books**
 
-Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to housed shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore.
+Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore.
 
-**Bookstores along Bras Basah Road**
+**Bookshops along Bras Basah Road**
 
 [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)
 
