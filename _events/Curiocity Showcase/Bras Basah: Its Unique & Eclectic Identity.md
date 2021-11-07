@@ -84,6 +84,8 @@ Stamford Cafe
 
 Chicken Rice
 
+A&W
+
 
 
 _____
