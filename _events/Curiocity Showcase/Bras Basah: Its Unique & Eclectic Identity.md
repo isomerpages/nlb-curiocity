@@ -78,7 +78,7 @@ Other than being a place for entertainment and recreation, as well as books and 
 
 **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
-Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios,  sport equipment shops, bookshops and coffeshops. The most famous of them was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant. 
+Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios,  sport equipment shops, bookshops and coffe shops. The most famous of them was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant. 
 
 The family-run restaurant has been operating there since the 1930s and has been considered as one of Singapore's finest Nasi Padang restaurant. It was a popular haunt for both expatriates and locals since the pre-war period. 
 
