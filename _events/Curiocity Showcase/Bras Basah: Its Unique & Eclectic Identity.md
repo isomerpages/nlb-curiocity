@@ -33,7 +33,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 Take a look at these bookstores through the photo essay below.
 
-|**<p style="text-align: left;">Bookshops1 along Bras Basah Road</p>**| 
+|**<font size=4>Bookshops along Bras Basah Road</font>**| 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
