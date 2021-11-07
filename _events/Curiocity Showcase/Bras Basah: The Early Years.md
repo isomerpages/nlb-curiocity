@@ -11,9 +11,9 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">What does "Bras Basah" mean? The <a href="https://m.facebook.com/urban.explorers.of.singapore/posts/1838715229511033">Urban Explorers of Singapore</a> explains.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click to read how Victor Savage and Brenda Yeoh (2013) explain in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850">book</a>.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The name “Bras Basah” has existed since the early 1800s. In old maps, it was also spelt as “Brass Bassa”...The name “Bras Basah” itself is a mistranscription of the Malay term “beras basah” (“wet rice”). Such mistranscriptions arise when non-native Malay speakers anglicise names based on what is verbally heard...Speaking of rice, Singapore in the old days had paddy fields...Wet harvested rice from these paddy fields (which practised wet-rice cultivation) would have been transported along Selegie Road and then dried on patches of undeveloped land around Sungai Bras Basah. (Drying is critical after harvesting a rice crop because it reduces grain moisture content to a safe level for storage.) This scenario eventually gave birth to the toponym “Bras Basah” for the area." </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice." (Savage & Yeoh, 2013, p. 47) </span>
 	
 </details>
 
@@ -141,3 +141,6 @@ _____
 The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
 [![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
+
+
+The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice (Savage & Yeoh, 2013, p. 47).
