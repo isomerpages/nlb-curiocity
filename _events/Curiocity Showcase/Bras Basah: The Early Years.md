@@ -13,7 +13,7 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click to read how Victor Savage and Brenda Yeoh (2013) explain in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850">book</a>.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice." (Savage & Yeoh, 2013, p. 47) </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
 </details>
 
