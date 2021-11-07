@@ -129,7 +129,9 @@ _____
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>. Click to read the poem.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex.
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
+	
+Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
 
 Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
 
