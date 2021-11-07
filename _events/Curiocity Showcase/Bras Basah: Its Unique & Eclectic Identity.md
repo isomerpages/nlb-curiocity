@@ -127,6 +127,7 @@ Because of its central location and close proximity with the enclaves of the mai
 _____
 With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>.
 
+<span style="font-weight: 400; font-size: 15px; font-style: normal; color:#778899">
 
 > Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
 >
@@ -139,4 +140,5 @@ With a myriad of places for entertainment, recreation, books and food, Bras Basa
 > 
 > Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.
 
+	</span>
 _____
