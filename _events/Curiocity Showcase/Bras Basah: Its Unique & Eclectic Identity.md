@@ -10,7 +10,9 @@ Given the close proximity of Bras Basah to the town centre and ever-growing mult
 
 #### **Former Places of Entertainment**
 
-There were many places of recreation and entertainment in Bras Basah in the past. Ranging from cinemas and hotels to clubs and restaurants, they were frequented by people of all ages. Further, many of these establishments were in splendid colonial buildings designed the best architectural firms of the time.
+There were many places of recreation and entertainment in Bras Basah in the past. Ranging from cinemas and hotels to clubs and restaurants, they were frequented by people of all ages. Further, many of these establishments were located in splendid colonial buildings designed the best architectural firms of the time. 
+
+Click the story map below to see some of these places.
 
 (*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
 
