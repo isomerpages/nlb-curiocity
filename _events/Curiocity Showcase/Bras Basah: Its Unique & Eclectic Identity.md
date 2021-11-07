@@ -125,13 +125,10 @@ Because of its central location and close proximity with the enclaves of the mai
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-worship.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-worship/index.html)
 
 _____
+<p>With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>.</p>
 
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>. Click to read the poem.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
 	
-Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
+Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex.
 
 Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
 
@@ -144,6 +141,8 @@ Standing there, the world grew, bit by bit, seemed different with each fresh van
 	
 </details>
 
+
+
 > Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex. 
 > 
 > Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
@@ -154,5 +153,23 @@ Standing there, the world grew, bit by bit, seemed different with each fresh van
 > Knives of Solingen steel. Outside, a Woodsville tram, full of St Andrew boys, swings around the corner, tires squealing.
 > 
 > Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>. Click to read the poem.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
+	
+<p>Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex.</p>
+
+Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
+
+And the bookshops full of stuff: Penguin New writing to Palgrave’s G-Treasury; Q’s Oxford Anthology, a blue spine among mouldy issues of The Wide World where imperial dreams, the White man’s burden trudged across Asia and Africa, up Ruwenzori’s mist and moon, then down The Brahmaputra. Mainly first-hand accounts, direct, unshorn, marching against superstition. Plain narratives rising in majesty, in power, art. No cute theory of the Other. Only them natives.
+
+And the Rendezvous after school; affordable. The man with the mole, ladle in hand, presided, holding the extra spoonful, balanced fate, deciding if he liked you. Two doors away Simon Ong’s Family shop of fishing tackle, Winchester torches,
+Knives of Solingen steel. Outside, a Woodsville tram, full of St Andrew boys, swings around the corner, tires squealing.
+
+Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.</span>
+	
+</details>
 
 _____
