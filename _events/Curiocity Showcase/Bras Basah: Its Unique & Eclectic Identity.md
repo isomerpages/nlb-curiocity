@@ -119,7 +119,7 @@ _____
 _____
 With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 which is available in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>.
 
-Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex.
+<font size="4">Where the first Rendezvous brooded by a row of old shophouses, since sadly slain, a special road began. A point of colonial Confluence: Dhoby Ghaut, the YWCA with manicured tennis lawns for memsahibs who then took tea and scones. Across a Shell kiosk where Papa parked his Austin Seven, then off to Hock Hoe’s for piston rods and Radex.</font>
 
 Think of the names: Dhoby Ghaut, Prinsep St, the three Cathays, a name the Lokes made famous: resplendent building, our tallest then; fantastic camera shop; and that popular Store where Rudy’s wife, petite, temporarily demure, quietly assessed her customers as she held her intelligence above show-cases. Two doors away, Heng, increasingly called Mr, sold German cameras to Japanese sailors, was en route to a partnership.
 
@@ -127,6 +127,6 @@ And the bookshops full of stuff: Penguin New writing to Palgrave’s G-Treasury;
 
 And the Rendezvous after school; affordable. The man with the mole, ladle in hand, presided, holding the extra spoonful, balanced fate, deciding if he liked you. Two doors away Simon Ong’s Family shop of fishing tackle, Winchester torches, Knives of Solingen steel. Outside, a Woodsville tram, full of St Andrew boys, swings around the corner, tires squealing.
 
-Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.
+Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.</font>
 
 _____
