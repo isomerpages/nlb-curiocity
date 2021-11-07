@@ -72,7 +72,7 @@ It was built by the Housing and Development Board and was completed in 1979.  It
 
 The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
 
-[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
 
 #### **A Place for Food, Too**
