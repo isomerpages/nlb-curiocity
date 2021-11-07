@@ -130,3 +130,28 @@ And the Rendezvous after school; affordable. The man with the mole, ladle in han
 Standing there, the world grew, bit by bit, seemed different with each fresh vantage shift in weather; hormonal stir, sweet unknowing; an ache that knew no words; a quickly passing mouth. As eyes caught more lit with sensuous guilt, when curves beneath Convent uniforms heaved and turned with the mind’s proposal, the rainbow’s ripening, as thoughts fingered image, each chance encounter. Experience became a word as Life cease to be simple.</font>
 
 _____
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read a traveler's account of Bras Basah during the 1920s.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
+	
+	
+Lambert has maintained a high reputation for artistic portraiture, and of landscapes
+
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+They have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.
+	
+</span>
+	
+</details>
