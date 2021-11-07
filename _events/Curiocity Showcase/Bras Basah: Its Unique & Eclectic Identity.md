@@ -74,7 +74,7 @@ The students that usually thronged the bookshops along Bras Basah Road and Victo
 
 #### **A Place for Food, Too**
 
-Other than being a place for entertainment and recreation, as well as books and learning, Bras Basah was also well-known for its restaurants and cafes. 
+Other than being a place for entertainment and recreation, as well as books and learning, Bras Basah was also well-known for its restaurants, coffee shops and cafes. Patronised by students and residents staying nearby, 
 
 **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
