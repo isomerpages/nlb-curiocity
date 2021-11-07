@@ -127,7 +127,7 @@ Because of its central location and close proximity with the enclaves of the mai
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 made available via the Singapore Memory Project portal. Click to read the poem.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">With a myriad of places for entertainment, recreation, books and food, Bras Basah was definitely a lively and bustling district full of activities in the past. This was vividly described by renowned local poet and academic Edwin Thumboo in his poem on Bras Basah in 1953 made available via the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project portal</a>. Click to read the poem.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
 By a row of old shophouses, since sadly slain,
