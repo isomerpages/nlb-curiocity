@@ -6,13 +6,11 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)
 
-Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they continued to be popular during the nation-building years.
+Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they remained popular during the nation-building years.
 
 #### **Former Places of Entertainment and Recreation**
 
-There were many places of recreation and entertainment in Bras Basah in the past. Ranging from cinemas and hotels to clubs and restaurants, they were frequented by people of all ages. Further, many of these establishments were located in splendid colonial buildings designed the best architectural firms of the time. 
-
-Click the story map below to see some of these places.
+Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. Click the story map below to see some of these places.
 
 (*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
 
