@@ -63,7 +63,7 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 ##### **The "Rendezvous" Shophouses**
 
-
+Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios, bookshops and coffeshops. The most famous of them was Rendezvous (also known as Hock Lock Kee) Nasi Padang Restaurant. The family-run restaurant has been operating there since the 1930s and has been considered as one of Singapore's finest Nasi Padang restaurant. It was a popular haunt for both expatriates and locals since the pre-war period. Today, it is still located there within the premises of Hotel Rendezvous, the occupant of these shophouses which have been conserved by the Urban Redevelopment Authority (URA) in the late 1990s. In fact, so memorable was the presence of the restaurant that the hotel named itself after it.
 
 
 
