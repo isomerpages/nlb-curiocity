@@ -12,7 +12,7 @@ Given the close proximity of Bras Basah to the town centre and ever-growing mult
 
 Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. Click the story map below to see some of these places.
 
-(*Note: To create story map on entertainment places in old Bras Basah similar to the ArcGIS sample)
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html)
 
 _____
 
