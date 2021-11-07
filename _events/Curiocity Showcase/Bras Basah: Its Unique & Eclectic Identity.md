@@ -131,6 +131,6 @@ _____
 
 _____
 
-|**<span style="font-weight: 700; font-size: 20px; font-style: normal; text-align: centre; color:#889900">Raffles</span>**| 
+|**<span style="font-weight: 700; font-size: 20px; font-style: normal; text-align: left; color:#889900">Raffles</span>**| 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
