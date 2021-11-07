@@ -92,6 +92,10 @@ The Hainanese Food
 
 Capitol Theatre
 
+Magnolia Milk Bar
+
+Red House
+
 
 
 _____
