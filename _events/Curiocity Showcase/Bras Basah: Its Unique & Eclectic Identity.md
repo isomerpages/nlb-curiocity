@@ -8,7 +8,7 @@ description: ""
 
 Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they continued to be popular during the nation-building years.
 
-#### **Former Places of Entertainment**
+#### **Former Places of Entertainment and Recreation**
 
 There were many places of recreation and entertainment in Bras Basah in the past. Ranging from cinemas and hotels to clubs and restaurants, they were frequented by people of all ages. Further, many of these establishments were located in splendid colonial buildings designed the best architectural firms of the time. 
 
@@ -29,7 +29,7 @@ _____
 
 
 
-#### **A District of Books and Knowledge, Too**
+#### **A Place of Books and Food, Too**
 
 Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to housed shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore. Together with other similar establishments in the area such as the National Museum and the National Library, the Bras Basah area was a place of knowledge and learning. 
 
@@ -63,14 +63,15 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 ##### **Bras Basah Complex**
 
-##### **The Library**
+##### **The "Rendezvous" Shophouses**
 
 
 
-**Book Collection**
 
 
-**Schools of Bras Basah**
+
+
+##### **The Schools**
 
 The story map below shows where these schools were once located in Bras Basah.
 
