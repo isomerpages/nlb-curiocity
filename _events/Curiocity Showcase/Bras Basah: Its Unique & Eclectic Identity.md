@@ -96,6 +96,8 @@ The Stamford Cafe was one of the places to go for good Western Food especially d
 
 **Red House**
 
+**Jack's Place**
+
 
 
 _____
