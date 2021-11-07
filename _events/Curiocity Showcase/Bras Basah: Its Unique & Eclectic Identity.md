@@ -86,6 +86,8 @@ The Stamford Cafe was one of the places to go for good Western Food especially d
 
 Chicken Rice
 
+Long Bar and Singapore Sling
+
 A&W
 
 
