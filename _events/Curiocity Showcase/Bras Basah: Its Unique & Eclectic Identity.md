@@ -90,6 +90,8 @@ Long Bar and Singapore Sling
 
 The Hainanese Food
 
+Capitol Theatre
+
 
 
 _____
