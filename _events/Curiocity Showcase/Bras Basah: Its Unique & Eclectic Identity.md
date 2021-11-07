@@ -6,7 +6,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)
 
-Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they remained popular during the nation-building years.
+Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they remained popular in the nation-building years.
 
 #### **Former Places of Entertainment and Recreation**
 
@@ -27,11 +27,11 @@ _____
 
 
 
-#### **A Place of Books and Food, Too**
+**A Place of Books**
 
-Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to housed shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore. Together with other similar establishments in the area such as the National Museum and the National Library, the Bras Basah area was a place of knowledge and learning. 
+Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to housed shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore.
 
-##### **Bookstores along Bras Basah Road**
+**Bookstores along Bras Basah Road**
 
 [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)
 
@@ -39,7 +39,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)
 
-##### **Methodist Publishing House**
+**Methodist Publishing House**
 
 [![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad)
 
@@ -49,7 +49,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building)
 
-##### **Shanghai Book Company and Popular Bookstore**
+**Shanghai Book Company and Popular Bookstore**
 
 Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Popular Book Company and the Shanghai Book Company. 
 
@@ -59,21 +59,28 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)
 
-##### **Bras Basah Complex**
+**Bras Basah Complex**
 
-##### **The "Rendezvous" Shophouses**
-
-Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios, bookshops and coffeshops. The most famous of them was Rendezvous (also known as Hock Lock Kee) Nasi Padang Restaurant. The family-run restaurant has been operating there since the 1930s and has been considered as one of Singapore's finest Nasi Padang restaurant. It was a popular haunt for both expatriates and locals since the pre-war period. Today, it is still located there within the premises of Hotel Rendezvous, the occupant of these shophouses which have been conserved by the Urban Redevelopment Authority (URA) in the late 1990s. In fact, so memorable was the presence of the restaurant that the hotel named itself after it.
-
-
-
-
-
-##### **The Schools**
+**The Schools**
 
 The story map below shows where these schools were once located in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
+
+
+#### **A Place for Food, Too**
+
+**The "Rendezvous" Shophouses**
+
+Constructed during the early 1900s, these shophouses were located at the corner of Bras Basah Road and Prinsep Street. They were once occupied by a string of businesses that included a hotel, photography studios, bookshops and coffeshops. The most famous of them was Rendezvous (also known as Hock Lock Kee) Nasi Padang Restaurant. 
+
+The family-run restaurant has been operating there since the 1930s and has been considered as one of Singapore's finest Nasi Padang restaurant. It was a popular haunt for both expatriates and locals since the pre-war period. 
+
+Today, it is still located there within the premises of Hotel Rendezvous, the occupant of these shophouses which have been conserved by the Urban Redevelopment Authority (URA) in the late 1990s. In fact, so memorable was the presence of the restaurant that the hotel named itself after it.
+
+
+
+
 
 _____
 
