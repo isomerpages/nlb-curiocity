@@ -26,7 +26,7 @@ Take a look at these bookstores through the photo essay below.
 | [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad)|
 | Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908.  |
 | [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building)|
-|The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation.
+|The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation.|
 
 
 |**<font size=4>Shanghai Book Company and Popular Bookstore</font>**| 
@@ -67,5 +67,3 @@ The National Museum
 |The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. |
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. |
-
-
