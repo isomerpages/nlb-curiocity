@@ -56,25 +56,16 @@ Today, the building still serves as a one-stop centre for educational books and 
 
 The National Library
 
-
-
 The National Museum
 
 
-**Bookshops along Bras Basah**
-
-[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)
-<p style="font-size:110%; text-align:center">This is a paragraph.</p>
-
-The bookstores along Bras Basah Road thrived as a popular haunt for students.
-
-
-
-| | 
-|:--------:| 
+|**<font size=4>Bookshops along Bras Basah Road</font>**| 
+|:--------| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |The bookstores along Bras Basah Road thrived as a popular haunt for students. |
-| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
+| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)(/center)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
 |The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. |
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. |
+
+
