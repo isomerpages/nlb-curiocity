@@ -16,10 +16,12 @@ The story map below lays out some of these places in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFjv7I2bFRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how The Straits Times describes the opening of the Capitol Theatre.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim, the author of the award-winning blog The Long and Winding Roads, describes the entertainment scene in Bras Basah during the 1970s when he was a student studying there.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
 	
@@ -74,7 +76,9 @@ It was built by the Housing and Development Board and was completed in 1979.  It
 
 The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
 
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zu8gc238pHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### **A Place for Food, Too**
