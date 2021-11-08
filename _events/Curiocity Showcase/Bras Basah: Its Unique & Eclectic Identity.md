@@ -78,6 +78,10 @@ Take a look at these bookstores through the photo essay below.
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu in North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbrak of WWII. After the war, Popular resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
 
+**The Schools of Bras Basah**
+
+The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
+
 **Bras Basah Complex**
 
 Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
@@ -87,14 +91,6 @@ Located along Bain Street, the complex was built by the Housing and Development 
 Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**The Schools of Bras Basah**
-
-The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zu8gc238pHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### **A Place for Food, Too**
