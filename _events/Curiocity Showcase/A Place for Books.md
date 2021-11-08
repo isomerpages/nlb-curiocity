@@ -38,13 +38,13 @@ Take a look at these bookstores through the photo essay below.
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu in North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbrak of WWII. After the war, Popular resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
 
-**The Schools of Bras Basah**
+#### **The Schools of Bras Basah**
 
 The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
-**Bras Basah Complex**
+#### **Bras Basah Complex**
 
 Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
 
