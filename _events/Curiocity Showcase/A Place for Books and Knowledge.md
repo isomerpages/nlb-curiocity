@@ -53,3 +53,22 @@ Located along Bain Street, the complex was built by the Housing and Development 
 Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The National Library
+
+
+
+The National Museum
+
+
+
+##### **Bookshops along Bras Basah**
+
+|| 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+|The bookstores along Bras Basah Road thrived as a popular haunt for students. |
+| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
+|The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. |
+| [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+|Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. |
