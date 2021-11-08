@@ -43,6 +43,8 @@ Other than being a place for entertainment and recreation, as well as books and 
 
 Below is a photo essay that highlights some of these eating places.
 
+---
+
 **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
 The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and Prinsep Street was once occupied by a stretch of shophouses. Constructed during the early 1900s, they were known for their businesses which included a hotel, photography studios,  sport equipment shops, bookshops and coffe shops. The most famous of them, however, was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant. 
