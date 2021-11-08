@@ -131,7 +131,9 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 Opening first in 1937 as the Creameries Milk Bar in Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/))
 
-Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers.
+[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)
+
+Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))
 
 The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up.
 
