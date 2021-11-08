@@ -17,6 +17,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. |
 
+----
 
 **Methodist Publishing House**
 
@@ -31,6 +32,7 @@ The Methodist Publishing House (MPH) story spans more than 100 years of printing
 | [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building)|
 |MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation.|
 
+----
 
 **Shanghai Book Company and Popular Bookstore**
 
@@ -55,11 +57,15 @@ The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu along North B
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |Today, its flagship store is located at Bras Basah Complex. |
 
+-----
+
 #### **The Schools of Bras Basah**
 
 The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
+
+----
 
 #### **Bras Basah Complex**
 
@@ -70,6 +76,8 @@ Located along Bain Street, the complex was built by the Housing and Development 
 Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
 
 The National Library
 
