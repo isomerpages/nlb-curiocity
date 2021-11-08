@@ -83,7 +83,9 @@ The snack bar was owned by the supermarket chain Cold Storage. During its heyday
 
 [![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)
 
-The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. This bakery was a popular breakfast haunt among Singaporeans living in the eastern part of Singapore, especially for its signature cakes and curry puffs. It was established in 1925 and located at 75 East Coast Road. It was closed on 23 March 2003 after the shophouse where it was occupying was deemed as unsafe. 
+The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the corner of Bras Basah Road and Victoria Street opposite CHIJ (present day CHIJMES). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))
+
+This bakery was a popular breakfast haunt among Singaporeans living in the eastern part of Singapore, especially for its signature cakes and curry puffs. It was established in 1925 and located at 75 East Coast Road. It was closed on 23 March 2003 after the shophouse where it was occupying was deemed as unsafe. 
 
 **Jack's Place**
 
