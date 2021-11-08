@@ -78,9 +78,6 @@ Take a look at these bookstores through the photo essay below.
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu in North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbrak of WWII. After the war, Popular resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
 
-Established in 1925, it is one of the oldest bookstores in Singapore. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008.
-
-
 **Bras Basah Complex**
 
 As for the bookstores along Bras Basah Road, many of them had moved to a building known as Bras Basah Complex beside the library.
