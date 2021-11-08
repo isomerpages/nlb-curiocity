@@ -127,6 +127,12 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 **Magnolia Milk Bar**
 
+The Magnolia Milk Bar, which was owned by supermarket chain Cold Storage, served its house brand ice cream, Magnolia, in all forms, as well as sandwiches, hot dogs and hamburgers. 
+
+It’s actually an update of the old Magnolia Snack Bar, a popular haunt that used to have branches all over Singapore, including the iconic Capitol Building in the ’60s
+
+Before Starbucks and Coffee Bean, Singapore used to have Magnolia Snack Bars! The first Magnolia Snack Bar opened its doors at the old Capitol Building in the late ’60s, serving ice creams, milkshakes and cakes. The Magnolia Snack Bar was a hit with Singaporeans both young and old, for social gatherings and post-movie bites.
+
 **Red House**
 
 **Jack's Place**
