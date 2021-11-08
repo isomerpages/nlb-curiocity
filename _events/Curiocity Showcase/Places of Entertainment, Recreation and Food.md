@@ -81,7 +81,7 @@ The snack bar was owned by the supermarket chain Cold Storage. During its heyday
 
 **Red House**
 
-[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad)
+[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939add)
 
 The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the junction of Bras Basah Road and Victoria Street opposite CHIJ (present day CHIJMES) which is shown in the photograph above. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad))
 
