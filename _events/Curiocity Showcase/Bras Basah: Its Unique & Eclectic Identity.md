@@ -6,7 +6,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)
 
-Given the close proximity of Bras Basah to the town centre and the ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they remained popular even up to this day.
+Given the close proximity of Bras Basah to the town centre and the ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, those that are still around continue to be popular even up to this day.
 
 #### **Places of Entertainment and Recreation**
 
