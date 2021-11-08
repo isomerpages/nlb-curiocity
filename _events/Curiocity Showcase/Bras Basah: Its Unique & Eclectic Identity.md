@@ -80,11 +80,11 @@ Take a look at these bookstores through the photo essay below.
 
 **Bras Basah Complex**
 
-As for the bookstores along Bras Basah Road, many of them had moved to a building known as Bras Basah Complex beside the library.
+Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
 
-Bras Basah Complex was known as书城 (shu cheng, meaning “City of Books” in Mandarin) as the complex is famed for its numerous bookstores. It is also known as 百胜楼 (bai sheng lou in Mandarin). The complex consists of two blocks of 21-storey flats above a 4- & 5-storey office and shopping podium.
+Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium.
 
-It was built by the Housing and Development Board and was completed in 1979.  It was home to many bookstores which used to operate at North Bridge Road and Bras Basah Road areas. Today, it still serves as a one-stop centre for educational books and art materials. Bras Basah Complex was also a popular venue for Singapore xinyao singers to launch and promote their albums in the 1980s.
+Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
 **The Schools of Bras Basah**
 
