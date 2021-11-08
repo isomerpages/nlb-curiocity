@@ -61,7 +61,15 @@ The National Library
 The National Museum
 
 
-##### **Bookshops along Bras Basah**
+**Bookshops along Bras Basah**
+
+[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)
+<p style="font-size:110%; text-align:center">This is a paragraph.</p>
+
+The bookstores along Bras Basah Road thrived as a popular haunt for students.
+
+
+
 | | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
