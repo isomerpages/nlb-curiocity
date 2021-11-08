@@ -135,6 +135,8 @@ The snack bar was owned by the supermarket chain Cold Storage. During its heyday
 
 **Red House**
 
+[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)
+
 **Jack's Place**
 
 
