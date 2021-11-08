@@ -175,8 +175,7 @@ They have one of the finest collections in the East, comprising about three thou
 	
 </details>
 
-
-
+Bookshops along Bras Basah Road
 
 |**<font size=4>Bookshops along Bras Basah Road</font>**| 
 |:---| 
