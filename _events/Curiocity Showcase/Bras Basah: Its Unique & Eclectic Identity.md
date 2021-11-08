@@ -22,6 +22,10 @@ Besides the story map, these entertainment and recreation spaces were also featu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Old Singapore and Raffles Hotel in 1961**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bl1XQ2ipBJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Singapore in 1975**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
