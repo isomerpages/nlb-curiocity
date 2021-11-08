@@ -18,6 +18,8 @@ The story map below lays out some of these places in Bras Basah.
 
 Besides the story map, these entertainment and recreation spaces were also featured in audiovisual materials from the past which are available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464) and author of the award-winning blog, The Long Winding Road, [Jerome Lim](https://thelongnwindingroad.wordpress.com/).
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
