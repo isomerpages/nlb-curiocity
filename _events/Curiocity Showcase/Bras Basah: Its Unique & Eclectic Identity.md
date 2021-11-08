@@ -8,9 +8,9 @@ description: ""
 
 Given the close proximity of Bras Basah to the town centre and ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, they remained popular in the nation-building years.
 
-#### **Former Places of Entertainment and Recreation**
+#### **Places of Entertainment and Recreation**
 
-Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. Click the story map below to see some of these places.
+Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these places are no longer around, some still remain and are frequented by people from the current generation. The story map below lays out some of these places.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html)
 
