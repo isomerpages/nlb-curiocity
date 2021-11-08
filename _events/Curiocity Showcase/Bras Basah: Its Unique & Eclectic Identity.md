@@ -117,6 +117,14 @@ The Stamford Cafe was one of the places to go for good Western Food especially d
 
 **Long Bar and the Singapore Sling**
 
+The Long Bar in Raffles Hotel was among the oldest establishments in the Bras Basah area.  With a history as old as the hotel itself, it was a popular haunt among plantation owners and was known as the ‘Rendezvous of Planters’. 
+
+During its early days, it was not a formal bar, but rather tables placed next to another in the Cad Alley wing of the hotel facing Bras Basah Road for visitors to mingle and relax with drinks and snacks.
+
+The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by bartender Ngiam Tong Boon.
+
+
+
 **Hainanese Chicken Rice and Coffee**
 
 **Magnolia Milk Bar**
