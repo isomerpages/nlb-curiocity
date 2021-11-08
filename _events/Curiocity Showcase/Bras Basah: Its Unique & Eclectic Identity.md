@@ -174,3 +174,11 @@ They have one of the finest collections in the East, comprising about three thou
 </span>
 	
 </details>
+
+
+
+
+|**<font size=4>Bookshops along Bras Basah Road</font>**| 
+|:---| 
+|<p align="center">[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)</p>|
+|<p align="center"><font size=3> This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s.</font></p> |
