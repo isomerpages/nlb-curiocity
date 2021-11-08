@@ -45,4 +45,6 @@ The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu along North B
 | | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
-|After the war, Popular resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
+|After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
+| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
+|Today, its flagship store is located at Bras Basah Complex. |
