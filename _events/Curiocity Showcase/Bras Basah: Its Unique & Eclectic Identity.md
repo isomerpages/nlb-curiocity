@@ -4,7 +4,7 @@ permalink: /events/Curiocity-Showcase/unique-bras-basah
 third_nav_title: Curiocity Showcase
 description: ""
 ---
-![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)
+(![Alt text for image on Isomer site](/images/bb-aerial-1970s.png)) 
 
 Given the close proximity of Bras Basah to the town centre and the ever-growing multicultural communities that have taken roots within, it is no surprise that the area was considered an ideal location for the establishment of not only recreation and entertainment places, but also schools, retail shops, restaurants and places of worship. Although many of these establishments were created during the pre-war period, those that are still around continue to be popular even up to this day.
 
@@ -127,7 +127,9 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 **Magnolia Snack Bar**
 
-Opening first in 1937 as the Creameries Milk Bar in Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
+[![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)
+
+Opening first in 1937 as the Creameries Milk Bar in Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/))
 
 Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers.
 
