@@ -86,6 +86,8 @@ Located along Bain Street, the complex was built by the Housing and Development 
 
 Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **The Schools of Bras Basah**
 
 The students that usually thronged the bookshops along Bras Basah Road and Victoria Street were those story map below shows where these schools were once located in Bras Basah.
