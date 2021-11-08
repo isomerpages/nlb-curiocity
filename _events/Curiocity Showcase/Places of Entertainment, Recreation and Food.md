@@ -68,9 +68,9 @@ The Stamford Cafe was one of the places to go for good Western Food especially d
 
 **Long Bar and the Singapore Sling**
 
-The Long Bar in Raffles Hotel was among the oldest establishments in the Bras Basah area.  With a history as old as the hotel itself, it was a popular haunt among plantation owners and was known as the ‘Rendezvous of Planters’. 
+The Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area.  With a history as old as the hotel itself, it was a popular haunt among plantation owners and was known as the ‘Rendezvous of Planters’ during its early days.
 
-During its early days, it was not a formal bar, but rather tables placed next to another in the Cad Alley wing of the hotel facing Bras Basah Road for visitors to mingle and relax with drinks and snacks.
+During its early years, it was not a formal bar, but rather tables placed next to another in the Cad Alley wing of the hotel facing Bras Basah Road for visitors to mingle and relax with drinks and snacks.
 
 The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by the hotel's bartender Ngiam Tong Boon. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.
 
@@ -78,15 +78,17 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 **Magnolia Snack Bar**
 
-[![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)
+Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
 
-Opening first in 1937 as the Creameries Milk Bar in Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/))
+|  |
+|:---:|
+| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)|
+|Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/))|
 
-[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)
-
-Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))
-
-The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up.
+|  |
+|:---:|
+|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
+|The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))|
 
 **Red House**
 
