@@ -16,7 +16,7 @@ The story map below lays out some of these places in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html)
 
-Besides the story map, these entertainment and recreation spaces were also featured in historical materials from the past which are available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464) and author of the award-winning blog, The Long Winding Road, [Jerome Lim](https://thelongnwindingroad.wordpress.com/).
+Besides the story map, these entertainment and recreation spaces were also featured in historical audiovisual materials from the past available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464). Watch some of them below.
 
 **Cathay Cinema in 1951**
 
