@@ -123,8 +123,6 @@ During its early days, it was not a formal bar, but rather tables placed next to
 
 The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by the hotel's bartender Ngiam Tong Boon. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.
 
-
-
 **Hainanese Chicken Rice and Coffee**
 
 **Magnolia Milk Bar**
