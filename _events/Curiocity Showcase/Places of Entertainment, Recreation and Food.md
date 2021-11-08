@@ -4,7 +4,7 @@ permalink: /events/showcase/bb-entertain-recreate-food
 description: ""
 third_nav_title: Curiocity Showcase
 ---
-
+##### **A Place for Entertainment and Recreation**
 
 Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While some of these places are no longer around, many still remain and are frequented by people from the current generation. 
 
@@ -25,7 +25,6 @@ Besides the story map, these entertainment and recreation spaces were also featu
 **Singapore in 1975**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 _____
 
