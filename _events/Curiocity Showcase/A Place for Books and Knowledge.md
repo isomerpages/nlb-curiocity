@@ -43,9 +43,6 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-comapny-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013)|
 | In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. |
 
-Union Book Company
-
-
 
 **POPULAR Bookstore**
 
