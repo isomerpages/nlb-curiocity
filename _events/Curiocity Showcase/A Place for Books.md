@@ -4,6 +4,7 @@ permalink: /events/showcase/bb-books
 description: ""
 third_nav_title: Curiocity Showcase
 ---
+#### **Bookstores Along Bras Basah Road**
 
 Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company and Popular Bookstore.
 
