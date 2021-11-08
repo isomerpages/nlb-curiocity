@@ -82,7 +82,7 @@ Take a look at these bookstores through the photo essay below.
 
 The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
 
-![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
 **Bras Basah Complex**
 
