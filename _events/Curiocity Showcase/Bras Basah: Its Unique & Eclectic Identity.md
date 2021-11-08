@@ -135,13 +135,13 @@ Opening first in 1937 as the Creameries Milk Bar in Capitol building, the Magnol
 
 Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))
 
-
-
 The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up.
 
 **Red House**
 
 [![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)
+
+The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. This bakery was a popular breakfast haunt among Singaporeans living in the eastern part of Singapore, especially for its signature cakes and curry puffs. It was established in 1925 and located at 75 East Coast Road. It was closed on 23 March 2003 after the shophouse where it was occupying was deemed as unsafe. 
 
 **Jack's Place**
 
