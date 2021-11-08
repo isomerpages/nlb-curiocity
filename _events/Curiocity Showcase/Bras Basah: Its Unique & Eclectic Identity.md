@@ -121,7 +121,7 @@ The Long Bar in Raffles Hotel was among the oldest establishments in the Bras Ba
 
 During its early days, it was not a formal bar, but rather tables placed next to another in the Cad Alley wing of the hotel facing Bras Basah Road for visitors to mingle and relax with drinks and snacks.
 
-The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by bartender Ngiam Tong Boon.
+The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by the hotel's bartender Ngiam Tong Boon. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies to consume it in the public.
 
 
 
