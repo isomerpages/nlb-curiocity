@@ -16,13 +16,13 @@ The story map below lays out some of these places in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html)
 
-Besides the story map, these entertainment and recreation spaces were also featured in audiovisual materials from the past which are available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464) and author of the award-winning blog, The Long Winding Road, [Jerome Lim](https://thelongnwindingroad.wordpress.com/).
+Besides the story map, these entertainment and recreation spaces were also featured in historical materials from the past which are available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464) and author of the award-winning blog, The Long Winding Road, [Jerome Lim](https://thelongnwindingroad.wordpress.com/).
 
-
+**Cathay Cinema in 1951**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+**Singapore in 1975**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ Besides the story map, these entertainment and recreation spaces were also featu
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim, the author of the award-winning blog The Long and Winding Roads, describes the entertainment scene in Bras Basah during the 1970s when he was a student studying there.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim describes his days transversing the various entertainment places in Bras Basah as a student.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
 	
