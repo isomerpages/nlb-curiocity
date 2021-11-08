@@ -62,9 +62,13 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad)|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it.|
 
+----
+
 **Stamford Cafe**
 
 The Stamford Cafe was one of the places to go for good Western Food especially during the 1950s and 1960s. Located at...
+
+----
 
 **Long Bar and the Singapore Sling**
 
@@ -74,7 +78,11 @@ During its early years, it was not a formal bar, but rather tables placed next t
 
 The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail by the hotel's bartender Ngiam Tong Boon. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.
 
+----
+
 **Hainanese Chicken Rice and Coffee**
+
+----
 
 **Magnolia Snack Bar**
 
@@ -90,15 +98,23 @@ Opened as the Creameries Milk Bar in 1937 within the premises of Capitol buildin
 |[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))|
 
+----
+
 **Red House**
 
-[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939add)
+The Red House Bakery is a popular reference to a relict confectionery shop known as Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES. 
 
-The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the junction of Bras Basah Road and Victoria Street opposite CHIJ (present day CHIJMES) which is shown in the photograph above. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad))
+|  |
+|:---:|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939add)|
+A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad))|
 
-[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)
+|  |
+|:---:|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
+|This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))|
 
-This bakery (left) was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))
+----
 
 **Jack's Place**
 
