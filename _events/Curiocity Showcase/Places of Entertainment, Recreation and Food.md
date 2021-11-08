@@ -81,11 +81,13 @@ The snack bar was owned by the supermarket chain Cold Storage. During its heyday
 
 **Red House**
 
+[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad)
+
+The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the junction of Bras Basah Road and Victoria Street opposite CHIJ (present day CHIJMES) which is shown in the photograph above. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad))
+
 [![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)
 
-The Red House Bakery is a popular reference to a relict confectionery shop, Katong Bakery & Confectionery. As the name implies, it was from Katong but had another branch at the corner of Bras Basah Road and Victoria Street opposite CHIJ (present day CHIJMES). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))
-
-This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs.
+This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))
 
 **Jack's Place**
 
