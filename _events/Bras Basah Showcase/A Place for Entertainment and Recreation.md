@@ -43,12 +43,6 @@ As many of Singapore's first cinemas were located within and near Bras Basah dur
 
 The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
-**RJubilee Theatre and Raffles Hotel**
-
-Jubilee hall today
-
-https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
-
 **Cathay Building**
 
 Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was used to house the Cathay cinema, Cathay Hotel and Cathay Restaurant. Upon its full completion in August 1941, its 83.5m tall tower is considered as Singapore’s first skyscraper and tallest building. The building had an auditorium in front. Completed earlier than the tower in 1939, it was where the cinema was located.
@@ -67,12 +61,6 @@ Designed by architectural firm Palmer and Turner, Odeon was officially opened by
 
 The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953.
 
-**Rex Cinema**
-
-Theatre Royal
-
-Diamond Theatre
-
 **Capitol Theatre**
 
 The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html), located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
@@ -86,3 +74,15 @@ The Capitol had a large projection room, which was located below the balcony and
 **Victoria Theatre**
 
 https://www.roots.gov.sg/stories-landing/stories/cinemas-over-the-years/story
+
+**Jubilee Theatre and Raffles Hotel**
+
+Jubilee hall today
+
+https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
+
+**Rex Cinema**
+
+Theatre Royal
+
+Diamond Theatre
