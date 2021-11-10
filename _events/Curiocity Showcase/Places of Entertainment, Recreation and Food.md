@@ -86,6 +86,10 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 As the Hainanese chicken rice dish is said to have taken root in areas like Middle Roada and Purvis Street during the 1930s and 1940s, Bras Basah could be seen as the place of origins for the beloved delicacy. 
 
+The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area.
+
+In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively.
+
 However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).
 
 ----
