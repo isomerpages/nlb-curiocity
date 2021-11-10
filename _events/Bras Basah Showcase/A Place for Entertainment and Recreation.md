@@ -43,7 +43,7 @@ As many of Singapore's first cinemas were located within and near Bras Basah dur
 
 The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
-**Raffles Hotel and Jubilee Theatre**
+**RJubilee Theatre and Raffles Hotel**
 
 Jubilee hall today
 
@@ -60,6 +60,12 @@ The 1,300-seat cinema was among the main highlight of the building. Not only it 
 The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show.
 
 **Odeon Theatre**
+
+The Odeon Cinema was built in 1953 at the junction of North Bridge Road and Cashin Street, where Odeon Tower and K. H. Kea Building are now situated. It was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. 
+
+Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter.
+
+The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953.
 
 **Rex Cinema**
 
