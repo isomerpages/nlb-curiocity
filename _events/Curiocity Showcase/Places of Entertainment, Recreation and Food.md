@@ -90,13 +90,22 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 
 **Hainanese Chicken Rice**
 
-As the Hainanese chicken rice dish is said to have taken root in areas like Middle Roada and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origins for the beloved delicacy. 
+As the Hainanese chicken rice dish is said to have taken root in areas like Middle Roada and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origins for the beloved delicacy.
 
-The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area.
+| | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+|The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area.|
 
-In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively.
+| | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+|In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively.|
 
-However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).
+| | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+|However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).|
 
 Want to learn more about the Hainanese Chicken Rice? Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
 
