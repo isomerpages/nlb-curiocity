@@ -86,6 +86,8 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 As the Hainanese chicken rice dish is said to have taken root in areas like Middle Roada and Purvis Street during the 1930s and 1940s, Bras Basah could be seen as the place of origins for the beloved delicacy. 
 
+However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).
+
 ----
 
 **Magnolia Snack Bar**
