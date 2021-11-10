@@ -72,12 +72,12 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 
 |  |
 | :--------: |
-|  |
+| [https://www.nas.gov.sg/archivesonline/photographs/record-details/b0432eee-1161-11e3-83d5-0050568939ad] |
 |  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
 
 |  |
 | :--------: |
-|  |
+| [https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad] |
 |  The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. |
 
 **Capitol Theatre**
