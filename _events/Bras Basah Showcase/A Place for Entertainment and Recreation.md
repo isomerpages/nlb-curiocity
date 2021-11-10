@@ -72,12 +72,12 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 
 |  |
 | :--------: |
-| [https://www.nas.gov.sg/archivesonline/photographs/record-details/b0432eee-1161-11e3-83d5-0050568939ad] |
+| [![Alt text for image on Isomer site](/images/sample-bb-odeon-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b0432eee-1161-11e3-83d5-0050568939ad) |
 |  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
 
 |  |
 | :--------: |
-| [https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad] |
+| [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
 |  The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. |
 
 **Capitol Theatre**
@@ -86,17 +86,17 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 
 |  |
 | :--------: |
-| [https://www.nas.gov.sg/archivesonline/photographs/record-details/066b3aa0-1162-11e3-83d5-0050568939ad] |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)]([https://www.nas.gov.sg/archivesonline/photographs/record-details/066b3aa0-1162-11e3-83d5-0050568939ad) |
 |  Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan. |
 
 |  |
 | :--------: |
-|  |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. |
 
 |  |
 | :--------: |
-|  |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Special sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company. |
 
 **Victoria Theatre**
