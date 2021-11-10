@@ -65,7 +65,10 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 |   |
 | The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
 
-| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show. |
+|  |
+| :--------: |
+|  |
+|  The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show. |
 
 **Odeon Theatre**
 
