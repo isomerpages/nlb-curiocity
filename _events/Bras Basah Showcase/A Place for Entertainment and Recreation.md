@@ -52,18 +52,18 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 
 |  |
 | :--------: |
-| ![Alt text for image on Isomer site](/images/sample-bb-cathay-1.jpg)[https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad]  |
+| [![Alt text for image on Isomer site](/images/sample-bb-cathay-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad)  |
 | Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
 
 
 |  |
 | :--------: |
-|  [https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/cathay-building] |
+|  [![Alt text for image on Isomer site](/images/sample-bb-cathay-2.jpg)](https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/cathay-building) |
 | The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
 
 |  |
 | :--------: |
-| [https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg] |
+| [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
 |  The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers' directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. |
 
 **Odeon Theatre**
