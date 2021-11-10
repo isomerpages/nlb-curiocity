@@ -75,7 +75,7 @@ Diamond Theatre
 
 **Capitol Theatre**
 
-The Capitol Theatre, located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
+The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html), located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
 Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan.
 
