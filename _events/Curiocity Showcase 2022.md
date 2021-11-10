@@ -14,7 +14,7 @@ ___
 
 #### **Showcase Map**
 
-Pull your socks up and get your phones ready. Use the map below to explore this year's Curiocity Showcase. Click [here](/files/sample-light-map.pdf) to download a copy.
+Pull your socks up and get your phones ready. Use the map below to explore this year's Curiocity Showcase (click [here](/files/sample-light-map.pdf) to download a copy). Hope to see you there!
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
@@ -41,7 +41,7 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 
 **SATELLITE ACTIVATION #3 TITLE**
 <br>**14 January - 3 February 2022**
-<br>**ESPLANADE PARK (Queen Elizabeth Walk)**
+<br>**Esplanade Park (Queen Elizabeth Walk)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
 ________
@@ -58,7 +58,7 @@ _____
 
 #### **Programmes**
 
-Interested to find out more? Check out the programmes that we have lined up for you online and at various venues below.
+Interested to learn more? Check out the programmes that we have lined up for you online and at various venues below. 
 
 ##### **January 2022**
 
