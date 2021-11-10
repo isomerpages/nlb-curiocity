@@ -162,7 +162,7 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 |  |
 |:---:|
-|https://www.pinterest.com/pin/546413367275494712/ |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/) |
 |Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s.|
 
 Today, these Bras Bash street hawkers had been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the video by digital video publisher Our Grandfather Story below to learn about the Indian rojak dish that was gave Waterloo Street its fodd heritage trademark.
