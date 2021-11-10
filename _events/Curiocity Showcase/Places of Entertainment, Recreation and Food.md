@@ -64,6 +64,8 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad)|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it.|
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ----
 
 **Long Bar and the Singapore Sling**
