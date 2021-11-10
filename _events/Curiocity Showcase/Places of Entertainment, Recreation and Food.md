@@ -151,16 +151,14 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 |  |
 |:---:|
-|https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
 |A 1963 photograph showing a back alley occupied by street hawkers.|
 
 
 |  |
 |:---:|
-|https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad) |
 |The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with Malay and Javanese hawkers selling not only food like satay, but also crafts and curios. As for the latter, one could find Chinese hawkers selling cooked food and a variety of products such as food stuffs, vegetables and apparel.|
-
-https://www.pinterest.com/pin/546413367275494712/
 
 |  |
 |:---:|
