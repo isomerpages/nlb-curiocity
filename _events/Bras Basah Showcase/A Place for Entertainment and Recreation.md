@@ -83,7 +83,11 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
-|  Due to its prime location, the Odeon became a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, St Nicholas and Catholic High
+|  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. |
+
+cinemas were badly hit by the emergence of videos and rampant video piracy. Consequently, t accumulated a S$6 million overdraft. As a result of low cinema attendance and high property prices, the Odeon was sold to United Overseas Land in July 1984.
+
+On 30 June 1984, Odeon screened its last film, Breakdance. The building was subsequently demolished.14
 
 where Odeon Tower and K. H. Kea Building are now situated
 
