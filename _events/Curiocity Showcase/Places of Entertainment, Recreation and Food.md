@@ -131,6 +131,8 @@ The street hawkers of old Bras Basah could be found in places such as Middle Str
 
 Waterloo Street was another place in Bras Basah where street hawkers set up their stalls. Famous for its Indian rojak, the stalls that used to operate there were generations old, some with their origins stretching as far back as the late 1800s.
 
+Today, these Bras Bash street hawkers had been relocated to proper hawker centres. 
+
 
 
 Watch the Channel NewsAsia documentary below to learn about our hawker centres came about.
