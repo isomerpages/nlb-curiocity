@@ -55,29 +55,50 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 |   |
 | Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.  |
 
-Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.
+|  |
+| :--------: |
+|   |
+| Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
 
-The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls.
+|  |
+| :--------: |
+|   |
+| The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
 
-The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show.
+| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show. |
 
 **Odeon Theatre**
 
 The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html) was built in 1953 at the junction of North Bridge Road and Cashin Street, where Odeon Tower and K. H. Kea Building are now situated. It was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. 
 
-Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter.
+|  |
+| :--------: |
+|  |
+|  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
 
-The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953.
+|  |
+| :--------: |
+|  |
+|  The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. |
 
 **Capitol Theatre**
 
 The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html), located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
-Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan.
+|  |
+| :--------: |
+|  |
+|  Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan. |
 
-At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. 
+|  |
+| :--------: |
+|  |
+|  At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. |
 
-The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Special sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company.
+|  |
+| :--------: |
+|  |
+|  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Special sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company. |
 
 **Victoria Theatre**
 
