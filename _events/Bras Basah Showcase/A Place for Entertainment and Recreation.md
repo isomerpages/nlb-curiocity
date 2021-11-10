@@ -52,7 +52,7 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 
 |  |
 | :--------: |
-| [https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad]  |
+| ![Alt text for image on Isomer site](/images/sample-bb-cathay-1.jpg)[https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad]  |
 | Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
 
 
