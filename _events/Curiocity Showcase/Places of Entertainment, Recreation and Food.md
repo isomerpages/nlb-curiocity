@@ -123,7 +123,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 **Street Hawkers**
 
-During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade 
+During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad
 
