@@ -61,7 +61,7 @@ The cinema opened on 3 October 1939 with the premiere of London Film Productions
 
 **Odeon Theatre**
 
-The Odeon Cinema was built in 1953 at the junction of North Bridge Road and Cashin Street, where Odeon Tower and K. H. Kea Building are now situated. It was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. 
+The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html) was built in 1953 at the junction of North Bridge Road and Cashin Street, where Odeon Tower and K. H. Kea Building are now situated. It was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. 
 
 Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter.
 
