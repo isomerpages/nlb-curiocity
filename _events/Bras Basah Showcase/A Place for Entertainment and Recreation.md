@@ -86,7 +86,7 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 
 |  |
 | :--------: |
-|  |
+| [https://www.nas.gov.sg/archivesonline/photographs/record-details/066b3aa0-1162-11e3-83d5-0050568939ad] |
 |  Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan. |
 
 |  |
