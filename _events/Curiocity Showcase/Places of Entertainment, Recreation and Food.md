@@ -104,7 +104,7 @@ As the Hainanese chicken rice dish is said to have taken root in areas like Midd
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad)   |
 |However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).|
 
 Want to learn more about the Hainanese Chicken Rice? Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
