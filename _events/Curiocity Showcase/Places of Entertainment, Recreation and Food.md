@@ -121,6 +121,14 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 **Jack's Place**
 
 
+**Waterloo Street Hawkers**
+
+
+
+
+Watch the Channel NewsAsia documentary below to learn about our hawker centres came about.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olFF85IYv0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____
 
