@@ -72,7 +72,10 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 The Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area.  Sharing a history with the hotel itself, it was a popular haunt among plantation owners during the early 1900s and was commonly referred to as the ‘Rendezvous of Planters’ at the time.
 
-Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks.
+| | 
+|:--------:| 
+|   |
+|Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks.|
 
 The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.
 
