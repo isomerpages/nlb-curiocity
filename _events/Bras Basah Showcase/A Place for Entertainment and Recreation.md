@@ -102,7 +102,7 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
-|  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Special sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company. |
+|  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Today, Capitol Building, along with its surrounding buildings including the former Stamford House, is now part of the mixed-use redevelopment, Capitol Singapore, after it was conserved as a historical landmark. |
 
 **Victoria Theatre**
 
