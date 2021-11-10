@@ -82,7 +82,9 @@ The bar is most well-known as the birthplace of the Singapore Sling which is an 
 
 ----
 
-**Hainanese Chicken Rice and Coffee**
+**Hainanese Chicken Rice**
+
+As the Hainanese chicken rice dish is said to have taken root in areas like Middle Roada and Purvis Street during the 1930s and 1940s, Bras Basah could be seen as the place of origins for the beloved delicacy. 
 
 ----
 
