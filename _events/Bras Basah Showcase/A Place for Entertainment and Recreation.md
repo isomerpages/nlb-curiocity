@@ -73,7 +73,15 @@ Theatre Royal
 
 Diamond Theatre
 
-**The Capitol**
+**Capitol Theatre**
+
+The Capitol Theatre, located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
+
+Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan.
+
+At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. 
+
+The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Special sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company.
 
 **Victoria Theatre**
 
