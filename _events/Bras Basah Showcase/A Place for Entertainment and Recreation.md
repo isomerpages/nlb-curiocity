@@ -64,21 +64,28 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
-| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers' directed by Zoltan Korda. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
+| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ "The Four Feathers" directed by Zoltan Korda. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
 
 **Odeon Theatre**
 
-The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html) was built in 1953 at the junction of North Bridge Road and Cashin Street, where Odeon Tower and K. H. Kea Building are now situated. It was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. 
+The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html) was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, during the nation-building years, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
 
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b0432eee-1161-11e3-83d5-0050568939ad) |
-|  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of The Snows of Kilimanjaro, starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
+|  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of "The Snows of Kilimanjaro", starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
 
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
 |  The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. |
+
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
+|  Due to its prime location, the Odeon became a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, St Nicholas and Catholic High
+
+where Odeon Tower and K. H. Kea Building are now situated
 
 **Capitol Theatre**
 
