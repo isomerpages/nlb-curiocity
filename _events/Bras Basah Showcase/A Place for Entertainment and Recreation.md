@@ -48,12 +48,7 @@ The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
 **Cathay Building**
 
-Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was used to house the Cathay cinema, Cathay Hotel and Cathay Restaurant. Upon its full completion in August 1941, its 83.5m tall tower is considered as Singapore’s first skyscraper and tallest building. The building had an auditorium in front. Completed earlier than the tower in 1939, it was where the cinema was located.
-
-|  |
-| :--------: |
-|   |
-| Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.  |
+Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was used to house the Cathay cinema, Cathay Hotel and Cathay Restaurant. Upon its full completion in August 1941, its 83.5m tall tower is considered as Singapore’s first skyscraper and tallest building. The building had an auditorium in front. Completed earlier than the tower in 1939, it was where the cinema was located. |
 
 |  |
 | :--------: |
