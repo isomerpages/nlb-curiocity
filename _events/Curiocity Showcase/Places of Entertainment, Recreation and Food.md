@@ -128,7 +128,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 Watch the Channel NewsAsia documentary below to learn about our hawker centres came about.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/olFF85IYv0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____
 
