@@ -37,11 +37,25 @@ _____
 
 _____
 
+#### **Cinemas in Bras Basah**
+
 **Raffles Hotel and Jubilee Theatre**
 
+Jubilee hall today
 
+https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
 
 **Cathay Building**
+
+Located at 2 Handy Road, Cathay Building was used to house the Cathay cinema, Cathay Hotel and Cathay Restaurant. Upon its full completion in August 1941, its 83.5m tall tower is considered as Singapore’s first skyscraper and tallest building. The building had an auditorium in front. Completed earlier than the tower in 1939, it was where the cinema was located.
+
+Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.
+
+The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls.
+
+The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the 9.15 pm show included then Colonial Secretary Alexander Small and Lady Small. To add pomp to the occasion, the band from the 2nd battalion of the Royal Regiment (North Lancashire) played before the start of the show.
+
+
 
 **Odeon Theatre**
 
