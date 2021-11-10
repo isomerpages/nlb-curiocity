@@ -3,23 +3,46 @@ title: Curiocity Showcase 2022
 permalink: /events/curiocityshowcase2022
 description: ""
 ---
+#### **Curiocity: Places & Perspectives**
+Looking at our modern and futuristic cityscape today, it is easy to forget that Singapore was once home to quiet fishing villages and lush forests. And as we’ve changed, so has our cityscape. By spotlighting places known for entertainment and relaxation, particularly in downtown Singapore, Curiocity gives us an opportunity to look back and examine our history of spaces and ask what we might have gained or lost and what we can learn from them.
 
+*Curiocity: Places & Perspectives* is a showcase that enables Singapore collections from the National Library Board and its partners to be accessible outside of the libraries and archives in new ways. Accessible in varied formats both in-person and online, Curiocity invites you to be inspired to discover, learn and engage with our island’s history.
 
-
-
-##### **The Curiocity Festival aims to promote Singapore history and proliferate NLB’s collections outside of the libraries and archives, where people can access them physically, digitally or via our programmes.**
-
-Through collaborations with various partners, this inaugural edition has a thematic focus on places and perspectives, and is held in partnership with the Light to Night Festival 2022.
+Presented in partnership with the Light to Night Festival 2022, Curiocity will be held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022).
 
 ___
 
-#### **Light to Night Festival 2022 Map**
+#### **Showcase Map**
 
-Pull your socks up and get your phones ready. Use the map below to explore this year's Light to Night Festival.
+Pull your socks up and get your phones ready. Use the map below to explore this year's Curiocity Showcase. Click [here](/files/sample-light-map.pdf) to download a copy.
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
-Click [here](/files/sample-light-map.pdf) to download a copy.
+
+**MAIN SHOWCASE TITLE**
+<br>**3 January - 3 February 2022**
+<br>**National Library Building (Plaza, level 1)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+**LIGHT INSTALLATION  TITLE**
+<br>**14 January - 3 February 2022**
+<br>**National Library Building (Plaza, level 1)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+**SATELLITE ACTIVATION #1 TITLE**
+<br>**14 January - 3 February 2022**
+<br>**Asian Civilisations Museum (level 2)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+**SATELLITE ACTIVATION #2 TITLE**
+<br>**14 January - 3 February 2022**
+<br>**The Arts House (Playden, level 2)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+**SATELLITE ACTIVATION #3 TITLE**
+<br>**14 January - 3 February 2022**
+<br>**ESPLANADE PARK (Queen Elizabeth Walk)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
 ________
 
@@ -35,7 +58,7 @@ _____
 
 #### **Programmes**
 
-Interested to find out more about the Civic District? Check out the programmes that we have lined up for you online and at various venues below.
+Interested to find out more? Check out the programmes that we have lined up for you online and at various venues below.
 
 ##### **January 2022**
 
