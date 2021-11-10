@@ -127,7 +127,7 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad
 
-Waterloo Street was once well-known for its Indian street hawkers. Some of the stalls were decades old, passed down by the hawkers’ fathers and grandfathers who had already operated there before the Second World War. 
+Waterloo Street was once well-known for its Indian street hawkers. The stalls that lined the street up till the late 1970s were generations old, with their origins stretching as far back as the late 1800s. 
 
 
 
