@@ -37,9 +37,9 @@ _____
 
 _____
 
-**Raffles Hotel**
+**Raffles Hotel and Jubilee Theatre**
 
-Jubilee Theatre
+
 
 **Cathay Building**
 
