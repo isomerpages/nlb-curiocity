@@ -129,7 +129,7 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-1
 
 The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with Malay and Javanese hawkers selling not only food like satay, but also crafts and curios. As for the latter, one could find Chinese hawkers selling cooked food and a variety of products such as food stuffs, vegetables and apparel.
 
-Waterloo Street was once well-known for its Indian street hawkers. The stalls that used to lined the street up till the late 1970s were generations old, with their origins stretching as far back as the late 1800s.
+Waterloo Street was another place in Bras Basah where street hawkers set up their stalls. Famous for its Indian rojak, the stalls that used to operate there were generations old, some with their origins stretching as far back as the late 1800s.
 
 
 
