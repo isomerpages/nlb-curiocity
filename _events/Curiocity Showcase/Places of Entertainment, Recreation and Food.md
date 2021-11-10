@@ -125,9 +125,15 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad 
+
+A 1963 photograph showing a back alley occupied by street hawkers.
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad 
 
 The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with Malay and Javanese hawkers selling not only food like satay, but also crafts and curios. As for the latter, one could find Chinese hawkers selling cooked food and a variety of products such as food stuffs, vegetables and apparel.
+
+https://www.pinterest.com/pin/546413367275494712/
 
 Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s.
 
