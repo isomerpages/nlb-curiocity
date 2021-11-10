@@ -48,7 +48,7 @@ The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
 **Cathay Building**
 
-Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time of its opening. 
+Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time. 
 
 |  |
 | :--------: |
@@ -64,7 +64,7 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
-| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ "The Four Feathers" directed by Zoltan Korda. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
+| The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
 
 **Odeon Theatre**
 
@@ -85,15 +85,9 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
 |  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. |
 
-cinemas were badly hit by the emergence of videos and rampant video piracy. Consequently, t accumulated a S$6 million overdraft. As a result of low cinema attendance and high property prices, the Odeon was sold to United Overseas Land in July 1984.
-
-On 30 June 1984, Odeon screened its last film, Breakdance. The building was subsequently demolished.14
-
-where Odeon Tower and K. H. Kea Building are now situated
-
 **Capitol Theatre**
 
-The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html), located at the junction of Stamford Road and North Bridge Road, opened in 1930.  It was considered one of the finest cinemas of that era. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
+The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html), located at the junction of Stamford Road and North Bridge Road, was opened in 1930.  It was considered one of the finest cinemas of the time. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
 |  |
 | :--------: |
