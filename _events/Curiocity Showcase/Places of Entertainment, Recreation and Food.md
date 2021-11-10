@@ -121,7 +121,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 **Jack's Place**
 
 
-**Street Hawkers**
+**Street Hawkers of Old Bras Basah**
 
 During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
 
@@ -132,8 +132,6 @@ The street hawkers of old Bras Basah could be found in places such as Middle Str
 Waterloo Street was another place in Bras Basah where street hawkers set up their stalls. Famous for its Indian rojak, the stalls that used to operate there were generations old, some with their origins stretching as far back as the late 1800s.
 
 Today, these Bras Bash street hawkers had been relocated to proper hawker centres. 
-
-
 
 Watch the Channel NewsAsia documentary below to learn about our hawker centres came about.
 
