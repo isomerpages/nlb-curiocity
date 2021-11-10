@@ -48,23 +48,23 @@ The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
 **Cathay Building**
 
-Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was used to house the Cathay cinema, Cathay Hotel and Cathay Restaurant. Upon its full completion in August 1941, its 83.5m tall tower is considered as Singapore’s first skyscraper and tallest building. The building had an auditorium in front. Completed earlier than the tower in 1939, it was where the cinema was located. 
+Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time of its opening. 
 
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad)  |
-| Cathay Building was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
+| Cathay Building was used to house a cinema, hotel and restaurant. It was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
 
 
 |  |
 | :--------: |
 |  [![Alt text for image on Isomer site](/images/sample-bb-cathay-2.jpg)](https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/cathay-building) |
-| The 1,300-seat cinema was among the main highlight of the building. Not only it was the first fully air-conditioned public facility at the time, it had plush armchairs and generous space, featuring broad aisles between rows of seats as well as box seats for distinguished guests. Like the cinema, the proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
+| The 1,300-seat cinema was located in the cineplex and was among the main highlights of the building. Not only it was the first fully air-conditioned public facility at the time, it had modern facilities including plush armchairs, broad aisles between rows of seats as well as box seats for distinguished guests. The proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
 
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
-|  The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers' directed by Zoltan Korda, which was originally banned in Singapore. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. |
+| The cinema opened on 3 October 1939 with the premiere of London Film Productions’ The Four Feathers' directed by Zoltan Korda. Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
 
 **Odeon Theatre**
 
