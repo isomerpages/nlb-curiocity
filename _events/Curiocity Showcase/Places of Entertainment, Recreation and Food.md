@@ -92,6 +92,10 @@ In fact, the around Bras Basah was a Hainanese enclave. Other than the presence 
 
 However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops).
 
+Want to learn more about the Hainanese Chicken Rice? Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ----
 
 **Magnolia Snack Bar**
