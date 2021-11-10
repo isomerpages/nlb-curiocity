@@ -37,20 +37,22 @@ _____
 
 _____
 
-Raffles Hotel
+**Raffles Hotel**
 
 Jubilee Theatre
 
-Cathay Building
+**Cathay Building**
 
-Odeon Theatre
+**Odeon Theatre**
 
-Rex Cinema
+**Rex Cinema**
 
-Threatre Royal
+Theatre Royal
 
 Diamond Theatre
 
-The Capitol
+**The Capitol**
 
-Victoria Theatre
+**Victoria Theatre**
+
+https://www.roots.gov.sg/stories-landing/stories/cinemas-over-the-years/story
