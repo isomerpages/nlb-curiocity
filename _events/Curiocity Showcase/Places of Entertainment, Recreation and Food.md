@@ -4,7 +4,7 @@ permalink: /events/showcase/bb-entertain-recreate-food
 description: ""
 third_nav_title: Curiocity Showcase
 ---
-##### **A Place for Entertainment and Recreation**
+#### **A Place for Entertainment and Recreation**
 
 Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While some of these places are no longer around, many still remain and are frequented by people from the current generation. 
 
@@ -66,12 +66,6 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 ----
 
-**Stamford Cafe**
-
-The Stamford Cafe was one of the places to go for good Western Food especially during the 1950s and 1960s. Located at...
-
-----
-
 **Long Bar and the Singapore Sling**
 
 The Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area.  Sharing a history with the hotel itself, it was a popular haunt among plantation owners during the early 1900s and was commonly referred to as the ‘Rendezvous of Planters’ at the time.
@@ -129,9 +123,6 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))|
 
 ----
-
-**Jack's Place**
-
 
 **Street Hawkers of Old Bras Basah**
 
