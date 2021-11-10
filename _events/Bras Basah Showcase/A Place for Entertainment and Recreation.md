@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/entertainment
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 #### **A Place for Entertainment and Recreation**
 
 Ranging from cinemas and hotels to clubs and cultural institutions, Bras Basah was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While some of these places are no longer around, many still remain and are frequented by people from the current generation. 
@@ -37,3 +36,21 @@ _____
 </details>
 
 _____
+
+Raffles Hotel
+
+Jubilee Theatre
+
+Cathay Building
+
+Odeon Theatre
+
+Rex Cinema
+
+Threatre Royal
+
+Diamond Theatre
+
+The Capitol
+
+Victoria Theatre
