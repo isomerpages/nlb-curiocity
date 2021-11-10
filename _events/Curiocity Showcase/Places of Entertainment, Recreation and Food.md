@@ -94,12 +94,12 @@ As the Hainanese chicken rice dish is said to have taken root in areas like Midd
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+| ![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)(https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
 |The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area.|
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad)   |
 |In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively.|
 
 | | 
