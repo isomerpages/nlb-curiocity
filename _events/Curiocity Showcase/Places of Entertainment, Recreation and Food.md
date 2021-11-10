@@ -74,10 +74,13 @@ The Long Bar in Raffles Hotel was among the oldest food establishments in the Br
 
 | | 
 |:--------:| 
-|   |
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
 |Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks.|
 
-The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.
+| | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)   |
+|The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.|
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMFOB2sSJLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
