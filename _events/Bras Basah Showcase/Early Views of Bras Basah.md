@@ -27,19 +27,10 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)|
 |This [1839 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by George Coleman shows the labelling of Bras Basah Road as "Bras Bassa Road". Also visible are the former grounds of Raffles Institution and a handful of churches including St Jospeh's, St Andrew's and the Armenian Church.|
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1846.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)|
 |By the mid-1800s, Bras Basah was already with activities with rows of shophouses and roads criss-crossing the district. This can be seen in this [1846 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by John Turnbull Thomson.|
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad)|
 | From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. |
 
@@ -62,25 +53,13 @@ During the 19th century, much of Singapore's early growth and progress including
 | | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/painting-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad)|
-|This 1837 lithograph, [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church.   |
-
-| | 
-|:--------:| 
+| This 1837 lithograph, [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church.  |
 | [![Alt text for image on Isomer site](/images/painting-3.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
 |This 1861 [coloured lithograph](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by W. Gray. It gives a panoramc view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the Right. Buildings including St Andrew's Cathedral, Raffles Institution and others like the Court House can all be seen clearly. |
-
-| | 
-|:--------:| 
 |[![Alt text for image on Isomer site](/images/painting-4.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
 |This 1852 [tinted lithograph](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St. Andrew's Church and Raffles Institution. |
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/painting-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad)|
 |This 1846 coloured lithograph, titled [View of Singapore from Government Hill](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"}, by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. |
-
-| | 
-|:--------:| 
 |[![Alt text for image on Isomer site](/images/painting-5.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1052004)|
 |This 1851 [oil painting](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church whose spiral can be seen at the far-right.  |
 
@@ -103,24 +82,12 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/postcard-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1073598)|
 |This early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"} This postcard shows the junction of Bras Basah Road and Bencoolen Street, where the remains of the administrative block of the former Convict Gaol can be seen on the right. |
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/postcard-2.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1193647)|
 |This early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1193647){:target="_blank"} shows St. Joseph’s Institution (SJI) at Bras Basah Road in the early 1900s.SJI was an English medium school for boys established by the Brothers of the Christian Schools, a teaching order under the aegis of the De LaSalle Brothers. |
-
-| | 
-|:--------:| 
 | [![Alt text for image on Isomer site](/images/postcard-3.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1046090)|
 |Originally known as the Singapore Institution, Raffles Institution was originally located in Bras Basah as shown in early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1046090){:target="_blank"} |
-
-| | 
-|:--------:| 
 |[![Alt text for image on Isomer site](/images/postcard-4.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1120868)|
 |With a history that dates back to 1843 the Church of Good Shepherd shown in this early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"} is the oldest Roman Catholic church in Singapore.|
-
-| | 
-|:--------:| 
 |[![Alt text for image on Isomer site](/images/postcard-5.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5b7d64c-1161-11e3-83d5-0050568939ad)|
 |This early 1900s [postcard](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5b7d64c-1161-11e3-83d5-0050568939ad){:target="_blank"} shows a stretch of Bras Basah Road.|
 
