@@ -12,7 +12,7 @@ To address these issues, the government led by the Urban Redevelopment Authority
 
 [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
 
-
+[![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
 
 
 
