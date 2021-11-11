@@ -131,8 +131,12 @@ Jubilee hall today
 https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
 
 
-Theatre Royal
+Royal Theatre
+
+After WWII, Yongle Yuan became Royal Theatre
 
 Diamond Theatre
+
+After WWII, Tongle Yuan became Diamond Theatres 
 
 An Introduction To The Culture And History Of The Teochews In Singapore. p. 131.
