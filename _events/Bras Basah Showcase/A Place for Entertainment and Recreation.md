@@ -104,7 +104,15 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Today, Capitol Building, along with its surrounding buildings including the former Stamford House, is now part of the mixed-use redevelopment, Capitol Singapore, after it was conserved as a historical landmark. |
 
-**Rex Cinema**
+**Rex Cinemas**
+
+Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
+
+First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out.
+
+The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its businessa with a stall  opposite the Rex.
+
+By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use.
 
 **Victoria Theatre**
 
