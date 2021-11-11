@@ -142,7 +142,7 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad) |
 |  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. |
 
 |  |
