@@ -38,19 +38,23 @@ The Methodist Publishing House (MPH) story spans more than 100 years of printing
 
 Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Shanghai Book Company.
 
-| | 
+|  | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398)|
 |Established in 1925, Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [National Heritage Board via Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/bb-shanghai-book-comapny-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013)|
+
+|  | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/bb-shanghai-book-comapny-2.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013)|
 | In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. |
 
+-----
 
 **POPULAR Book Store**
 
 The first POPULAR book store was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
 
-| | 
+|  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
