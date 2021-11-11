@@ -97,11 +97,11 @@ The former National Library Building was located at 91 Stamford Road. It was off
 
 |  | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars) |
+| [![Alt text for image on Isomer site](/images/bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars) |
 | The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. |
-| [![Alt text for image on Isomer site](/images/bb-bb-library-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/bb-library-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad) |
 | The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. |
-| [![Alt text for image on Isomer site](/images/bb-bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg) |
+| [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg) |
 | In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. |
 
 **The National Museum**
