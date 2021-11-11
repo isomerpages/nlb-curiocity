@@ -97,7 +97,7 @@ The former National Library Building was located at 91 Stamford Road. It was off
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg) |
+| [![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars) |
 | The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. |
 | ![Alt text for image on Isomer site](/images/bb-bb-library-2.jpg) |
 | The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. |
