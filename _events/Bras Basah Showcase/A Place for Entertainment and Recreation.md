@@ -100,7 +100,7 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b41338a9-1161-11e3-83d5-0050568939ad) |
 |  At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. |
 
 |  |
