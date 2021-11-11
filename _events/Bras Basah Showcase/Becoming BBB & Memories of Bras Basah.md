@@ -6,7 +6,13 @@ description: ""
 ---
 #### **Becoming Bras Basah.Bugis**
 
-Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas and nightlife of Bugis Street. But like other inner city areas, the streets were congested and housing overcrowded with poor sanitation. To address these issues, the government started to embark on a programme to renew the central built-up area. Residents in the area were relocated to improved public housing, while the ubiquitous but dilapidated were demolished.
+Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested, housing overcrowded with poor sanition, and its colonial era shophouses in dilapidated condition. 
+
+To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. 
+
+Residents in the area were relocated to improved public housing, while the ubiquitous but dilapidated were demolished.
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)
 
 |  |
 | :--------: | 
@@ -66,3 +72,5 @@ http://www.chouscfoundation.org/events/i-remember-gallery-roving-exhibition/
 legacy lives on
 
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19871107-1.2.14.3
+
+annual report 1989
