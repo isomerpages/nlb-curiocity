@@ -8,7 +8,7 @@ third_nav_title: Bras Basah Showcase
 
 Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company, Union Book Company and Popular Bookstore. Take a look at them through the photo essay below.
 
-| | 
+|    | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |The bookstores along Bras Basah Road thrived as a popular haunt for students. |
@@ -23,7 +23,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 The Methodist Publishing House (MPH) story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
 
-| | 
+|   | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad)|
 |Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908.|
