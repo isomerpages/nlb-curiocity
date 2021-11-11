@@ -39,10 +39,9 @@ _____
 
 #### **Cinemas in Bras Basah**
 
-As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could also be considered as a place for cinemas, movies and blockbusters.
+As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could also be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
-The photo essay below lays out seven most iconic cinemas of Bras Basah.
-
+-----
 
 **Cathay Building**
 
