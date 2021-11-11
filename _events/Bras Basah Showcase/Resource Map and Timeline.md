@@ -4,9 +4,6 @@ permalink: /events/bb-showcase/resource-map
 third_nav_title: Bras Basah Showcase
 description: ""
 ---
-
-
-
 #### **Tracking the History of Bras Basah**
 
 The map below provides a geo-based overview of resources related to Bras Basah during this period.
