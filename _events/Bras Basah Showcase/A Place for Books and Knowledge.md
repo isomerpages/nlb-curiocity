@@ -109,4 +109,3 @@ The former National Library Building was located at 91 Stamford Road. It was off
 With its wide facade and large dome, the National Museum of Singapore has been a prominent landmark on Stamford Road for over a century. It is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
 
 The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution).
-
