@@ -152,7 +152,7 @@ Opened in the 1930s beside Raffles Hotel, Jubilee Theatre (光华大戏院) was 
 
 The theatre was later demolished to make way for the extension of Raffles Hotel. Raffles Hotel’s Victorian-styled theatre playhouse Jubilee Hall is named after this popular cinema of the early days.
 
-Theatre Royal Theatre and Diamond Theatre
+**Royal Theatre and Diamond Theatre**
 
 After WWII, Yongle Yuan became Royal Theatre
 
