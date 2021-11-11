@@ -108,21 +108,39 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 
 Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
 
-First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out.
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out. |
 
-The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its businessa with a stall  opposite the Rex.
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its businessa with a stall  opposite the Rex. |
 
-By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use.
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. |
 
 **Victoria Theatre**
 
 The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. Historically, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
 
-The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. 
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. |
 
-As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. 
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. |
 
-Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014.
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+|  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. |
 
 **Jubilee Theatre and Raffles Hotel**
 
