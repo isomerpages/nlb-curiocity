@@ -166,7 +166,7 @@ The theatre was later demolished to make way for the extension of Raffles Hotel.
 
 **Royal Theatre and Diamond Theatre**
 
-After WWII, Yongle Yuan became Royal Theatre
+
 
 Diamond Theatre
 
@@ -174,9 +174,7 @@ Diamond Theatre specialised in Tamil Movies. It was a $250,000 joint venture bet
 
 In the fifties, Diamond Theatre was plagued by fire hazards, which cost it hundreds of thousands in damages and restoration. Out-competed by other cinemas by the mid-seventies, Diamond Theatre finally ended its business in November 1977, after three decades. The land that it occupied was acquired by the government, and the building was demolished two years later for the building of Blanco Court Resettlement Centre.
 
-After WWII, Tongle Yuan became Diamond Theatres 
-
-An Introduction To The Culture And History Of The Teochews In Singapore. p. 131.
+https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080615-1.2.83
 
 https://remembersingapore.org/2012/08/02/singapore-cinemas-history/
 
