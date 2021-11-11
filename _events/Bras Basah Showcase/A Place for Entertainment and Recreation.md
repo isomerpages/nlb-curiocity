@@ -116,6 +116,18 @@ By the 1980s, a dwindling cinema business forced the Rex to close its doors. The
 
 **Victoria Theatre**
 
+The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905, and joined by a clock tower.
+
+The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The former was designed by municipal engineer John Bennett, while the latter by colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren.
+
+
+
+Historically, both were used for functions ranging from public events and political meetings to musical and stage performances. The space has undergone a series of renovations over the years, the most recent being a four-year restoration led by W Architects, following which the VTCH was reopened to the public in July 2014
+
+
+
+
+
 https://www.roots.gov.sg/stories-landing/stories/cinemas-over-the-years/story
 
 **Jubilee Theatre and Raffles Hotel**
