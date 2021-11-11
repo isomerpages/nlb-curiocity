@@ -134,3 +134,5 @@ https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubi
 Theatre Royal
 
 Diamond Theatre
+
+An Introduction To The Culture And History Of The Teochews In Singapore. p. 131.
