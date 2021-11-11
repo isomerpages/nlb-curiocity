@@ -137,17 +137,17 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg)] |
 |  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. |
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)] |
 |  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. |
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-victoria-3.jpg)](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg) |
 |  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. |
 
 -------
