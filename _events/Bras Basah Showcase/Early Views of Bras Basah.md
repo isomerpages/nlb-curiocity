@@ -4,10 +4,6 @@ permalink: /events/bb-showcase/early-bb
 third_nav_title: Bras Basah Showcase
 description: ""
 ---
-
-
-
-
 ![Alt text for image on Isomer site](/images/painting-4.jpg)
 
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html) 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html), it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html) (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
@@ -145,6 +141,3 @@ _____
 The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
 [![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html)
-
-
-The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice (Savage & Yeoh, 2013, p. 47).
