@@ -43,8 +43,6 @@ As many of Singapore's first cinemas were located within and near Bras Basah dur
 
 The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
-----
-
 
 **Cathay Building**
 
