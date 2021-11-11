@@ -89,4 +89,7 @@ The total floor area of the new building was 101,500 sq ft. The ground floor com
 
 In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU.
 
-The National Museum
+**The National Museum**
+
+With its wide facade and large dome, the National Museum of Singapore has been a prominent landmark on Stamford Road for over a century. It is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
+
