@@ -10,9 +10,13 @@ Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with 
 
 To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. 
 
+![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)
+
+
+
 Residents in the area were relocated to improved public housing, while the ubiquitous but dilapidated were demolished.
 
-![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)
+
 
 |  |
 | :--------: | 
