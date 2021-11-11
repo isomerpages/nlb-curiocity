@@ -124,12 +124,6 @@ As for the Memorial Hall, it built to commemorate Queen Victoria. It was designe
 
 Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014.
 
-
-
-
-
-https://www.roots.gov.sg/stories-landing/stories/cinemas-over-the-years/story
-
 **Jubilee Theatre and Raffles Hotel**
 
 Jubilee hall today
