@@ -4,8 +4,6 @@ permalink: /events/bb-showcase/books
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
-
 #### **Bookstores Along Bras Basah Road**
 
 Mention Bras Basah Road to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as North Bridge Road and Stamford Road used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company, Union Book Company and Popular Bookstore. Take a look at them through the photo essay below.
@@ -81,6 +79,14 @@ Today, the building still serves as a one-stop centre for educational books and 
 
 ----
 
-The National Library
+**The National Library**
+
+The former National Library Building was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
+
+The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s.
+
+The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room.
+
+In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU.
 
 The National Museum
