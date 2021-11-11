@@ -116,7 +116,7 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along 
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
+| [![Alt text for image on Isomer site](/images/sample-bb-rex-1.jpg)] |
 |  First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out. |
 
 |  |
