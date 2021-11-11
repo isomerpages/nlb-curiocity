@@ -54,15 +54,8 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad)  |
 | Cathay Building was used to house a cinema, hotel and restaurant. It was designed by Scottish architect Frank Wilmin Brewer of Arbenz and Brewer, and was commissioned by Mrs Loke Yew née Lim Cheng Kim and her son Loke Wan Tho, who established the cinema arm of the Loke business by establishing Associated Theatres in 1935, the predecessor of Cathay Organisation.|
-
-
-|  |
-| :--------: |
 |  [![Alt text for image on Isomer site](/images/sample-bb-cathay-2.jpg)](https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/cathay-building) |
 | The 1,300-seat cinema was located in the cineplex and was among the main highlights of the building. Not only it was the first fully air-conditioned public facility at the time, it had modern facilities including plush armchairs, broad aisles between rows of seats as well as box seats for distinguished guests. The proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
 
@@ -76,14 +69,8 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b0432eee-1161-11e3-83d5-0050568939ad) |
 |  Designed by architectural firm Palmer and Turner, Odeon was officially opened by then Commissioner-General for Southeast Asia Malcolm MacDonald at the charity premiere of "The Snows of Kilimanjaro", starring Gregory Peck, Susan Hayward and Ava Gardner in June 1953. Among those present were Twentieth Century Fox’s stars Constance Smith and Jeffrey Hunter. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
 |  The air-conditioned Odeon Cinema screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d416d7e6-1161-11e3-83d5-0050568939ad) |
 |  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. |
 
@@ -97,14 +84,8 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)]([https://www.nas.gov.sg/archivesonline/photographs/record-details/066b3aa0-1162-11e3-83d5-0050568939ad) |
 |  Spanning more than 2,100 sq m, the Capitol Theatre had a neoclassical architecture designed by British architects P. H. Keys and F. Dowdeswell. They drew inspiration from the Roxy Theatre in New York, replicating its seating arrangements, lighting and general plan. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b41338a9-1161-11e3-83d5-0050568939ad) |
 |  At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in the Far East. The theatre could accommodate at least 1,600, with 1,100 seated on the ground floor. Another 500 seats were available at the circle that could be accessed via lifts or staircases. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Plaza_and_Capitol_Theatre,_Capitol_Piazza,_Singapore_-_20150917.jpg) |
 |  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Today, Capitol Building, along with its surrounding buildings including the former Stamford House, is now part of the mixed-use redevelopment, Capitol Singapore, after it was conserved as a historical landmark. |
 
@@ -118,14 +99,8 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along 
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/afb7dba3-1161-11e3-83d5-0050568939ad) |
 |  First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/97104dec-1162-11e3-83d5-0050568939ad) |
 |  The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its businessa with a stall  opposite the Rex. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-3.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas) |
 |  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. |
 
@@ -139,14 +114,8 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg)] |
 |  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad) |
 |  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. |
-
-|  |
-| :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-3.jpg)](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg) |
 |  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. |
 
