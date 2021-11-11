@@ -34,9 +34,9 @@ The Methodist Publishing House (MPH) story spans more than 100 years of printing
 
 ----
 
-**Shanghai Book Company and Popular Bookstore**
+**Shanghai Book Company**
 
-Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Popular Book Company and the Shanghai Book Company.
+Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Shanghai Book Company.
 
 | | 
 |:--------:| 
@@ -46,9 +46,9 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 | In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. |
 
 
-**POPULAR Bookstore**
+**POPULAR Book Store**
 
-The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
+The first POPULAR book store was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
 
 | | 
 |:--------:| 
