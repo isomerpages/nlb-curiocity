@@ -116,13 +116,13 @@ By the 1980s, a dwindling cinema business forced the Rex to close its doors. The
 
 **Victoria Theatre**
 
-The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905, and joined by a clock tower.
+The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. Historically, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
 
-The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The former was designed by municipal engineer John Bennett, while the latter by colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren.
+The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. 
 
+As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. 
 
-
-Historically, both were used for functions ranging from public events and political meetings to musical and stage performances. The space has undergone a series of renovations over the years, the most recent being a four-year restoration led by W Architects, following which the VTCH was reopened to the public in July 2014
+Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014.
 
 
 
