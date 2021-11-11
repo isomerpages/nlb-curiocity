@@ -66,6 +66,8 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
 
+----
+
 **Odeon Theatre**
 
 The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html) was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, during the nation-building years, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
@@ -84,6 +86,8 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
 |  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. |
+
+-----
 
 **Capitol Theatre**
 
@@ -104,6 +108,8 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Today, Capitol Building, along with its surrounding buildings including the former Stamford House, is now part of the mixed-use redevelopment, Capitol Singapore, after it was conserved as a historical landmark. |
 
+-------
+
 **Rex Cinemas**
 
 Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
@@ -122,6 +128,8 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along 
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. |
+
+------
 
 **Victoria Theatre**
 
@@ -142,6 +150,8 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)] |
 |  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. |
 
+-------
+
 **Jubilee Theatre and Raffles Hotel**
 
 Jubilee hall today
@@ -151,6 +161,8 @@ https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubi
 Opened in the 1930s beside Raffles Hotel, Jubilee Theatre (光华大戏院) was hugely popular in its early days. It was bought by Goh Eng Wah in 1966, two years before he established Eng Wah Theatres Organisation Pte Ltd.
 
 The theatre was later demolished to make way for the extension of Raffles Hotel. Raffles Hotel’s Victorian-styled theatre playhouse Jubilee Hall is named after this popular cinema of the early days.
+
+--------
 
 **Royal Theatre and Diamond Theatre**
 
