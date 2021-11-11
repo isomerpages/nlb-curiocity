@@ -167,3 +167,5 @@ After WWII, Tongle Yuan became Diamond Theatres
 An Introduction To The Culture And History Of The Teochews In Singapore. p. 131.
 
 https://remembersingapore.org/2012/08/02/singapore-cinemas-history/
+
+https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/
