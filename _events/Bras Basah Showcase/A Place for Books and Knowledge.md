@@ -54,7 +54,7 @@ The first POPULAR book store was set up in 1936 by Mr Chou Sing Chu along North 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
-| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
+| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |Today, its flagship store is located at Bras Basah Complex. |
 
 -----
@@ -73,13 +73,13 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 |  | 
 |:--------:| 
-|   |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
 | Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. |
 
 |  | 
 |:--------:| 
-|   |
-|Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
+| Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -91,11 +91,20 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 The former National Library Building was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
 
-The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s.
+|  | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg) |
+| The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. |
 
-The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room.
+|  | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg) |
+| The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. |
 
-In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU.
+|  | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-bb-library-1.jpg) |
+| In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. |
 
 **The National Museum**
 
