@@ -6,9 +6,9 @@ third_nav_title: Bras Basah Showcase
 ---
 #### **A Place for Food**
 
-Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think.
+Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
 
-Below is a photo essay that highlights some of these eating places.
+-----
 
 **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
