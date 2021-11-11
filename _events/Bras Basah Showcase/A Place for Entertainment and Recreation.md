@@ -84,7 +84,7 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/sample-bb-odeon-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d416d7e6-1161-11e3-83d5-0050568939ad) |
 |  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. |
 
 -----
