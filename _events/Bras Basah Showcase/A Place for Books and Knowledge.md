@@ -21,7 +21,7 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 
 **Methodist Publishing House**
 
-The Methodist Publishing House (MPH) story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
+The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html) story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
 
 |   | 
 |:--------:| 
