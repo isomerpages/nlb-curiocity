@@ -93,7 +93,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 **The National Library**
 
-The former National Library Building was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
+The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
 
 |  | 
 |:--------:| 
