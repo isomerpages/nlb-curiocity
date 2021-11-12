@@ -120,5 +120,5 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 
 |    | 
 |:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-museum-3.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+|[![Alt text for image on Isomer site](/images/bb-museum-4.png)](https://www.roots.gov.sg/Collection-Landing/listing/1062247)|
 | Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Photo via Roots) |
