@@ -45,7 +45,7 @@ annual report 1989
 
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click to read how the Twentieth Century Impression of British Malaya (1908) describes the studio's turnover.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">W</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
 <br>By a row of old shophouses, since sadly slain,
