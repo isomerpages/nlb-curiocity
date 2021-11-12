@@ -22,12 +22,6 @@ legacy lives on
 
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19871107-1.2.14.3
 
-annual report 1989
-
-**Little Red Bricks**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Place Poem
 
