@@ -4,27 +4,6 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Remembering Bras Basah
 ---
-
-
-#### **Memories on Bras Basah**
-
-Below are a selection of videos produced by the National Heritage Board, the Urban Redevelopment Authority and independent content makers to help us understand and remember Bras Basah.
-
-
-
-Remembering Book Stores
-
-https://www.todayonline.com/big-read/big-read-run-down-not-out-old-iconic-shopping-centres-find-way-sporeans-hearts
-
-irememberbookstores
-
-http://www.chouscfoundation.org/events/i-remember-gallery-roving-exhibition/
-
-legacy lives on
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19871107-1.2.14.3
-
-
 Place Poem
 
 <details>
