@@ -108,8 +108,14 @@ The former National Library Building was located at 91 Stamford Road. It was off
 
 With its wide facade and large dome, the [National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html) has been a prominent landmark on Stamford Road for over a century. Gazetted as a national monument on 14 February 1992, it is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
 
-The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) before moving to the Town Hall (present-day Victoria Theatre) in 1862.
+|    | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+| The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) before moving to the Town Hall (present-day Victoria Theatre) in 1862. |
 
-In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present site in 1887.
+In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level.
 
-Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history.
+|    | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+| Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. |
