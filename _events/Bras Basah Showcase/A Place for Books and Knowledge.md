@@ -11,11 +11,11 @@ Mention Bras Basah Road to a Singaporean who lived through the 1970s and “book
 |    | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
-|The bookstores along Bras Basah Road thrived as a popular haunt for students. |
+|The bookstores along Bras Basah Road thrived as a popular haunt for students. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)) |
 | [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
-|The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. |
+|The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)) |
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
-|Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. |
+|Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)) |
 
 ----
 
