@@ -41,7 +41,7 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 |  | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398)|
-|Established in 1925, Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [National Heritage Board via Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+|Established in 1925, Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398)) |
 
 |  | 
 |:--------:| 
