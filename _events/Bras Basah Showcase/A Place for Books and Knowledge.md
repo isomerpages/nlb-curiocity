@@ -104,6 +104,10 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 | [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg) |
 | In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg))|
 
+**Little Red Bricks**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **The National Museum**
 
 With its wide facade and large dome, the [National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html) has been a prominent landmark on Stamford Road for over a century. Gazetted as a national monument on 14 February 1992, it is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
