@@ -42,7 +42,7 @@ annual report 1989
 **Little Red Bricks**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1954)</span></summary>
