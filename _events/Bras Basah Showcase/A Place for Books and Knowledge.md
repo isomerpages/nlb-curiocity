@@ -110,6 +110,6 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 
 The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) before moving to the Town Hall (present-day Victoria Theatre) in 1862.
 
-In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to a proper building along Stamford Road which is the National Museum’s current site in 1887.
+In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present site in 1887.
 
-Intially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was seperated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history.
+Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history.
