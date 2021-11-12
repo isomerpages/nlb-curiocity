@@ -50,9 +50,9 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 
 -----
 
-**POPULAR Book Store**
+**POPULAR Bookstore**
 
-The first POPULAR book store was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
+The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
 
 |  | 
 |:--------:| 
