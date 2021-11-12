@@ -46,7 +46,7 @@ Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popul
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-comapny-2.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013)|
-| In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. |
+| In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013)) |
 
 -----
 
@@ -57,7 +57,7 @@ The first POPULAR bookstore was set up in 1936 by Mr Chou Sing Chu along North B
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
-|After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary.|
+|After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)) |
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |Today, its flagship store is located at Bras Basah Complex. |
 
