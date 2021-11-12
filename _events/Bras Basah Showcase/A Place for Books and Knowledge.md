@@ -113,7 +113,10 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 |[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 | The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) before moving to the Town Hall (present-day Victoria Theatre) in 1862. |
 
-In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level.
+|    | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
+| In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level. |
 
 |    | 
 |:--------:| 
