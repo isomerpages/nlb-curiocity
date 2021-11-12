@@ -4,8 +4,6 @@ permalink: /events/bb-showcase/bbb
 third_nav_title: Bras Basah Showcase
 description: ""
 ---
-
-
 #### **Becoming Bras Basah.Bugis**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested, housing overcrowded with poor sanition, and its colonial era shophouses in dilapidated condition. 
