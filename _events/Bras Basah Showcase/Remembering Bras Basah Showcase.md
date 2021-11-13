@@ -70,3 +70,7 @@ If you are ready, click and read this remarkable poem.
 </span>
 	
 </details>
+
+Click here to move on to the next section.
+
+[Link button](http://example.com/){: .btn .btn-blue }
