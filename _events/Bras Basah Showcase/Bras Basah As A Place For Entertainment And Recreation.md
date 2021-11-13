@@ -152,13 +152,9 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 
 Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years.
 
-When it was opened in 1908, it was believed to be the first “permanent” theatre  that staged bangsawan performances..
+When Cheong Koon Seng died in 1934, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. 
 
-When Cheong Koon Seng died in 1934 at the age of 55, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas.27
-
-Amalgamated Theatres immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, Krishna Sudama, produced by the well-known Ranjit Studio of Bombay.28 The grand dame of bangsawan performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.29 Eventually, Tamil talkies replaced bangsawan as the mainstay of the Theatre Royal, now renamed Royal Theatre.
-
-With a bottle of champagne broken on the door-step, the new Theatre Royal, in North Bridge Road, was opened officially on Saturday night, the Wayang Kassim’s Trip to Fairyland being staged before a packed house, the conclusion of the formal opening ceremony. (The Straits Times, 15 June 1908)
+The company immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, Krishna Sudama, produced by the well-known Ranjit Studio of Bombay.28 The grand dame of bangsawan performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.29 Eventually, Tamil talkies replaced bangsawan as the mainstay of the Theatre Royal, now renamed Royal Theatre.
 
 
 Diamond Theatre
