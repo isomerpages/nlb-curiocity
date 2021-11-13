@@ -15,7 +15,7 @@ To begin, you will a poem below by local poet, academic and Cultural Medallion r
 If you are ready, click and read this remarkable poem.
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953"</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953" from the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project</a> portal.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
 <br>By a row of old shophouses, since sadly slain,
