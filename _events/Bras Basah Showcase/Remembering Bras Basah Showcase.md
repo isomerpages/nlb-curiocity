@@ -17,7 +17,7 @@ If you are ready, click and read this remarkable poem.
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953"</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">Where the first Rendezvous brooded
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
 <br>By a row of old shophouses, since sadly slain,
 <br>A special road began. A point of colonial
 <br>Confluence: Dhoby Ghaut, the YWCA with
