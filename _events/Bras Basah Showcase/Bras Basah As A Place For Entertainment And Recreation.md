@@ -136,6 +136,21 @@ The theatre was later demolished to make way for the extension of Raffles Hotel.
 
 **Royal Theatre and Diamond Theatre**
 
+Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that lined the street with the others being Jubilee Theatre, Odeon Cinema and Capitol Theatre. Despite started off as a theatre for the communities of different ethnic groups, they both ended up sharing a common history of being among the most popular cinemas screening movies for the Indian community before they were demolished in the 1970s.
+
+Royal Theatre
+
+Royal Theatre was located at the current site Raffles Hospital. Originally called Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, the opening of the theatre heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong's Star Opera Company, and the increase in appetite for their performances. 
+
+Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years.
+
+When it was opened in 1908, it was believed to be the first “permanent” theatre  that staged bangsawan performances..
+
+When Cheong Koon Seng died in 1934 at the age of 55, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas.27
+
+Amalgamated Theatres immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, Krishna Sudama, produced by the well-known Ranjit Studio of Bombay.28 The grand dame of bangsawan performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.29 Eventually, Tamil talkies replaced bangsawan as the mainstay of the Theatre Royal, now renamed Royal Theatre.
+
+With a bottle of champagne broken on the door-step, the new Theatre Royal, in North Bridge Road, was opened officially on Saturday night, the Wayang Kassim’s Trip to Fairyland being staged before a packed house, the conclusion of the formal opening ceremony. (The Straits Times, 15 June 1908)
 
 
 Diamond Theatre
