@@ -71,7 +71,30 @@ _____
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
 </details>
+<br>
+<html>
+<head>
+<style>
+.button {
+  background-color: #BA0C2F;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
 
+<a href="early-bb"><input type="button" class="button" value="Click here to move to next section"></a>
+
+</body>
+</html>
 _____
 
 #### **Depiction of Early Bras Basah in Postcards**
