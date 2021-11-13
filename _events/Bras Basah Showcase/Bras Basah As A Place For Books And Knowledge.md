@@ -94,6 +94,10 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
 | Today, the building still serves as a one-stop centre for educational books and art materials. During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. |
 
+"Xinyao" (新谣) is closely associated with Bras Basah Complex.
+
+Xinyao (新谣) is a genre of music that typically refers to Mandarin ballads composed, written and performed by youths in Singapore. Started in the late 1970s, xinyao was at its peak in the 1980s and propelled many local singers and singer-songwriters to stardom, several of whom successfully transitioned to the commercial sector. Big names often associated with the xinyao movement include Eric Moo (巫启贤), Billy Koh (许环良), Liang Wern Fook (梁文福) and Roy Loi (黎沸挥).1
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
