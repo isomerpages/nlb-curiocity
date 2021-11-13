@@ -71,10 +71,11 @@ If you are ready, click and read this remarkable poem.
 	
 </details>
 
-[insert next button]
-
+<html>
+<head>
+<style>
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #BA0C2F;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -82,4 +83,15 @@ If you are ready, click and read this remarkable poem.
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
+</style>
+</head>
+<body>
+
+<button class="button">Button</button>
+<input type="button" class="button" value="Click here to move to next section">
+
+</body>
+</html>
