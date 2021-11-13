@@ -71,6 +71,5 @@ If you are ready, click and read this remarkable poem.
 	
 </details>
 
-Click here to move on to the next section.
+[insert next button]
 
-[Link button](http://example.com/){: .btn .btn-blue }
