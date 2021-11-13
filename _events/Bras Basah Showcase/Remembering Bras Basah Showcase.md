@@ -83,7 +83,7 @@ If you are ready, click and read this remarkable poem.
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
 }
@@ -91,32 +91,6 @@ If you are ready, click and read this remarkable poem.
 </head>
 <body>
 
-<button class="button">Button</button>
-<input type="button" class="button" value="Click here to move to next section">
-
-</body>
-</html>
-
-<html>
-<head>
-<style>
-.button {
-  background-color: #BA0C2F;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-</head>
-<body>
-
-<button class="button">Button</button>
 <a href="early-bb"><input type="button" class="button" value="Click here to move to next section"></a>
 
 </body>
