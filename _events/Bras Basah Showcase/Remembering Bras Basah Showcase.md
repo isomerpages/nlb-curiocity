@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/intro
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 [![Alt text for image on Isomer site](/images/sample-bb-showcase-landing.jpg)](https://flic.kr/p/fN9R2A)
 
 Bras Basah is one of the oldest districts of Singapore. Charmed with a unique mix of the rich heritage of Singapore's past and the modernity of art and architecture, BBB is a living representation of a modern city that thrives on its vibrant past and energetic future. However, to understand what Bras Basah is really about, we have to transcend beyond its built heritage and enter a realm where the myriad of resources on Bras Basah's past such as photographs, paintings, postcards, maps and memories could stir curiosity in the younger generation and nostalgia in the older generation thus helping us to discover and rediscover this historical district.
@@ -16,7 +15,7 @@ To begin, you will a poem below by local poet, academic and Cultural Medallion r
 If you are ready, click and read this remarkable poem.
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953"</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#353839">Where the first Rendezvous brooded
 <br>By a row of old shophouses, since sadly slain,
