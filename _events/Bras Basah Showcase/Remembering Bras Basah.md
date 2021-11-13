@@ -8,7 +8,7 @@ third_nav_title: Bras Basah Showcase
 
 Bras Basah is one of the oldest districts of Singapore. Charmed with a unique mix of the rich heritage of Singapore's past and the modernity of art and architecture, BBB is a living representation of a modern city that thrives on its vibrant past and energetic future. However, to understand what Bras Basah is really about, we have to transcend beyond its built heritage and enter a realm where the myriad of resources on Bras Basah's past such as photographs, paintings, postcards, maps and memories could stir curiosity in the younger generation and nostalgia in the older generation to help us discover and rediscover this historical district.
 
-The **Remembering Bras Basah** showcase provides this journey of discovery. To begin, click and read the place poem below by Edwin Thumboo, the nation’s unofficial English-language poet laureate, best known for his nationalist-themed poetry centred on important issues of history and identity.
+The **Remembering Bras Basah** showcase provides this journey of discovery. With 7 parts, it allows you to explore the rich resources that we have on Bras Basah. To begin, click and read the place poem below by Edwin Thumboo, the nation’s unofficial English-language poet laureate, best known for his nationalist-themed poetry centred on important issues of history and identity.
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
