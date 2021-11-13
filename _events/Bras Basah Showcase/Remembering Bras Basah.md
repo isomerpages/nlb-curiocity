@@ -10,7 +10,7 @@ Bras Basah is one of the oldest districts of Singapore. Charmed with a unique mi
 
 The <span style="font-weight: 700; color:#BA0C2F">Remembering Bras Basah</span> showcase provides this journey of discovery. With 7 parts, it allows you to see Bras Basah as depicted in the multiverse of resources related to you gathered from the collections of the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as content created by heritage bloggers, animation studio and YouTubers. 
 
-To begin, you will a poem below by local poet and academic Edwin Thumboo. Then before going through the different sections of the showcase, ask yourself how it speaks to you . At the end, you will be given a chance to read the same poem again. After that, ask yourself how it speaks to you this time.
+To begin, you will a poem below by local poet, academic and Cultural Medallion recipient Edwin Thumboo. Then ask yourself how the poem speaks to you before going through the different sections of the showcase. At the end, you will be given another chance to read the same poem again. After that, ask yourself how it speaks to you this time.
 
 If you are ready, click and read this remarkable poem.
 
