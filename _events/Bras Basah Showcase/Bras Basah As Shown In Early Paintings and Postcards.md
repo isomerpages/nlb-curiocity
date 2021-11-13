@@ -4,14 +4,6 @@ permalink: /events/bb-showcase/early-bb
 third_nav_title: Bras Basah Showcase
 description: ""
 ---
-
-
-
-
-
-
-
-
 ![Alt text for image on Isomer site](/images/painting-4.jpg)
 
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html) 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html), it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html) (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
@@ -74,7 +66,9 @@ During the 19th century, much of Singapore's early growth and progress including
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is John Turnbull Thomson? Click to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire. Created by immensely talent painters, one who stood  of early paintings of Singapore captured much of Singapore’s built landscape in the mid 1840s. Among them, John Turnbull Thomson is one who stood 
+	
+	His watercolours have been said to reflect the cultural diversity of the communities and peoples who had made their homes on the island. But who is John Turnbull Thomson? Click to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
