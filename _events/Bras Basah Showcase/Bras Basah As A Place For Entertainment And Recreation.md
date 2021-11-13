@@ -138,7 +138,10 @@ The theatre was later demolished to make way for the extension of Raffles Hotel.
 
 Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that lined the street with the others being Jubilee Theatre, Odeon Cinema and Capitol Theatre. Despite started off as a theatre for the communities of different ethnic groups, they both ended up sharing a common history of being among the most popular cinemas screening movies for the Indian community before they were demolished in the 1970s.
 
-Royal Theatre was located at the current site Raffles Hospital. Originally called Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, the opening of the theatre heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong's Star Opera Company, and the increase in appetite for their performances. 
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad) |
+|  Royal Theatre was located at the current site Raffles Hospital. Originally called Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, the opening of the theatre heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong's Star Opera Company, and the increase in appetite for their performances. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)) |
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years.</span></summary>
