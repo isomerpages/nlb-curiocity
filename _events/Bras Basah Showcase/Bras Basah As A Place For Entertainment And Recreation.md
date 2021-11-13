@@ -14,17 +14,17 @@ The story map below lays out some of these places in Bras Basah.
 
 Besides the story map, these entertainment and recreation spaces were also featured in historical audiovisual materials from the past available at the National Archives of Singapore or websites, blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464). Watch some of them below.
 
-**Cathay Cinema in 1951**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Old Singapore and Raffles Hotel in 1961**
+**Singapore in 1961 from Michael Rogge YouTube Channel**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bl1XQ2ipBJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Singapore in 1975**
+**Singapore in 1975 from Michael Rogge YouTube Channel**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**1961 Visit Singapore Campaign from the National Archives of Singapore YouTube Channel**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFjv7I2bFRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____
 
@@ -55,6 +55,10 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | The 1,300-seat cinema was located in the cineplex and was among the main highlights of the building. Not only it was the first fully air-conditioned public facility at the time, it had modern facilities including plush armchairs, broad aisles between rows of seats as well as box seats for distinguished guests. The proscenium was decorated in art-deco style with four modern pillars and a shell-shaped acoustic plaster design on the walls. |
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg) |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above).  |
+
+**Cathay Cinema in 1951**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 
