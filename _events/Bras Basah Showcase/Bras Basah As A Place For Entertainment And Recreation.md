@@ -151,7 +151,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 </details>
 
 
-Diamond Theatre was located a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by Opera Yap Chow Tong, a bangsawan troupe.
+Diamond Theatre was located a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong.
 
 
 When Cheong Koon Seng died in 1934, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, Krishna Sudama, produced by the well-known Ranjit Studio of Bombay.28 The grand dame of bangsawan performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.29 Eventually, Tamil talkies replaced bangsawan as the mainstay of the Theatre Royal, now renamed Royal Theatre.
