@@ -6,13 +6,13 @@ third_nav_title: Bras Basah Showcase
 ---
 [![Alt text for image on Isomer site](/images/sample-bb-showcase-landing.jpg)](https://flic.kr/p/fN9R2A)
 
-Bras Basah is one of the oldest districts of Singapore. Charmed with a unique mix of the rich heritage of Singapore's past and the modernity of art and architecture, BBB is a living representation of a modern city that thrives on its vibrant past and energetic future. However, to understand what Bras Basah is really about, we have to transcend beyond its built heritage and enter a realm where the myriad of resources on Bras Basah's past such as photographs, paintings, postcards, maps and memories could stir curiosity in the younger generation and nostalgia in the older generation thus helping us to discover and rediscover this historical district.
+Bras Basah is one of the oldest districts of Singapore. Charmed with a unique mix of the rich heritage of Singapore's past and the modernity of art and architecture, BBB is a living representation of a modern city that thrives on its vibrant past and energetic future. However, to understand and feel Bras Basah's past and present, we have to transcend beyond its built heritage and enter the realm where the myriad of resources on the district such as photographs, paintings, postcards, maps and memories is located. Doing so will stir curiosity in the younger generation and nostalgia in the older generation thus helping us to discover and rediscover this historical district.
 
-The **Remembering Bras Basah** showcase provides this journey of discovery. With 5 sections, it allows you to see Bras Basah as depicted in the multiverse of resources related to you gathered from the collections of the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as content created by heritage bloggers, animation studio and YouTubers. 
+The **Remembering Bras Basah** showcase provides this journey of discovery. With 5 sections, it allows you to see Bras Basah as depicted in the multiverse of related resources gathered from the collections of the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as content created by heritage bloggers, animation studio and YouTubers. 
 
-To begin, you will a poem below by local poet, academic and Cultural Medallion recipient Edwin Thumboo. Then ask yourself how the poem speaks to you before going through the different sections of the showcase. At the end, you will be given another chance to read the same poem again. After that, ask yourself how it speaks to you this time.
+To begin, you will read a poem below by local poet, academic and Cultural Medallion recipient Edwin Thumboo. After that ask yourself how you feel about the poem. Next go through the different sections of the showcase. When you reached the end, you will be given another chance to read the same poem by Thumboo. Then ask yourself how do you feel about it this time.
 
-If you are ready, click and read this remarkable poem.
+If you are ready, click and read this remarkable poem here.
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953" from the Singapore Memory Project portal.</span></summary>
