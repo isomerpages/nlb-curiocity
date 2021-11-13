@@ -69,6 +69,8 @@ The students that usually thronged the bookshops along Bras Basah Road and North
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html)
 
+Besides the story map above, memories of the former students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are memories shared by heritage bloggers such as Jerome Lim on their days as a student there.
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim describes his days transversing the various entertainment places in Bras Basah as a student.</span></summary>
 <br>
