@@ -136,7 +136,7 @@ The theatre was later demolished to make way for the extension of Raffles Hotel.
 
 **Royal Theatre and Diamond Theatre**
 
-Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that lined the street with the others being Jubilee Theatre, Odeon Cinema and Capitol Theatre. Despite started off as a theatre for the communities of different ethnic groups, they both ended up sharing a common history of being among the most popular cinemas screening movies for the Indian community before they were demolished in the 1970s.
+Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buidlings, however, were demolished in the 1970s.
 
 |  |
 | :--------: |
@@ -149,6 +149,9 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
 </details>
+
+
+Diamond Theatre 
 
 Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years.
 
