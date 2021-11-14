@@ -20,7 +20,7 @@ To begin this journey of discovery, please following the steps below:
 If you are ready, click and read this remarkable poem here.
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah, 1953" from the Singapore Memory Project portal.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#BA0C2F">Edwin Thumboo's "Bras Basah" (Source: Singapore Memory Project)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
 <br>By a row of old shophouses, since sadly slain,
