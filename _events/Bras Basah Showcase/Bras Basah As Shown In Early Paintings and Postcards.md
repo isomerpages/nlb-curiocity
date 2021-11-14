@@ -129,7 +129,7 @@ The history of Bras Basah and its vicinity can also be told through the streets 
 </head>
 <body>
 
-<a href="entertainment"><input type="button" class="button" value="Click here or the 'Next' button to move to the next section"></a>
+<a href="entertainment"><input type="button" class="button" value="Click here or the 'Next' button below to move to the next section"></a>
 
 </body>
 </html>
