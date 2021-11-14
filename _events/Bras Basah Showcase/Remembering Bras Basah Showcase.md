@@ -13,9 +13,9 @@ The **Remembering Bras Basah** showcase provides this journey of discovery. With
 To begin this journey of discovery, please following the steps below:
 <br>
 1. Read a poem on Bras Basah below by local poet, academic and Cultural Medallion recipient Edwin Thumboo. 
-2. After that ask yourself how you feel about the poem. 
-4. Next, go through the various sections of the showcase. 
-5. When you reached the end, read the same poem again. Then ask yourself how do you feel about it this time.
+2. After that, ask yourself how you feel about the poem. 
+4. Next, go through all the sections of the showcase. 
+5. When you reached the end, you will be given another change to read the same poem again. Then ask yourself how do you feel about it this time.
 
 If you are ready, click and read this remarkable poem here.
 
