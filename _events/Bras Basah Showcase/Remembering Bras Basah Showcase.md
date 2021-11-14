@@ -97,7 +97,7 @@ If you are ready, click and read this remarkable poem by Edwin Thumboo here.
 </head>
 <body>
 
-<a href="early-bb"><input type="button" class="button" value="Click here to move to next section"></a>
+<a href="early-bb"><input type="button" class="button" value="Click here or the 'Next' button below to start the journey"></a>
 
 </body>
 </html>
