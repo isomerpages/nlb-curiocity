@@ -2,7 +2,6 @@
 title: Bras Basah
 permalink: /events/Curiocity-Showcase/bras-basah
 ---
-
 ![Alt text for image on Isomer site](/images/sample-bb-landing-banner.png)
 
 The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living representation of the image of Singapore as a progressive nation that is still rooted in its history including its identity as a city with a diverse heritage that includes Chinese, Malay, Indian, Eurasian and European influences. This can be seen by how the conserved buildings and places of worship in the area juxtaposed with sleek modern structures, as well as the myraid of historical materials in the collections of the National Library Board, the National Heritage Board and the Urban Redevelopment Authority.
