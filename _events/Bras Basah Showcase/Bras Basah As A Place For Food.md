@@ -27,6 +27,7 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+------
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his blog, "The Long and Winding Road", in which he documents Singapore's evolving urban landscape through words and images. Having studied in St Jospeh's Institution during the 1970s, he has fond memory this restaurant. Click to read what how remembered it <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
 <br>
@@ -95,6 +96,15 @@ The Red House Bakery is a popular reference to a relict confectionery shop known
 A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad))|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))|
+
+----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Jerome Lim remembers the Red House in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"At the other corner across Victoria Street, was a red coloured shophouse which housed a bakery – the “Red House” as we often referred to it. The bakery also operated a café on the second storey where one could have a “set lunch” – a three course meal, with a soup, a main course, and a dessert, with coffee or tea for $5, during lunch time."</span>
+	
+</details>
 
 ----
 
