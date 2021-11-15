@@ -63,23 +63,6 @@ The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/S
 
 -----
 
-#### **The Schools of Bras Basah**
-
-The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
-
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
-
-Besides the story map above, memories of the former students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are memories shared by heritage bloggers such as Jerome Lim on their days as a student there.
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim describes his days transversing the various entertainment places in Bras Basah as a student.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
-	
-</details>
-
-----
-
 #### **Bras Basah Complex**
 
 Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
@@ -105,7 +88,6 @@ _______
 
 _____
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_hmRMoI8io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -------
@@ -120,6 +102,23 @@ _____
 **Watch this short video by students from the Nanyang Academy of Fine Arts and National Museum of Singapore on the significance of Bras Bash Complex.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+#### **The Schools of Bras Basah**
+
+The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
+
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
+
+Besides the story map above, memories of the former students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are memories shared by heritage bloggers such as Jerome Lim on their days as a student there.
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim describes his days transversing the various entertainment places in Bras Basah as a student.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
+	
+</details>
 
 ----
 
