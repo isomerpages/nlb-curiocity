@@ -124,6 +124,8 @@ Besides the story map above, memories of the former students of these schools al
 
 #### **The National Library and the National Museum**
 
+Besides the schools and the bookstores, Bras Basah was and continues to be a place for knowledge. This is largely because of the presence of both the National Library and National Museum in the district since the mid-1800s. 
+
 **The National Library**
 
 The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
