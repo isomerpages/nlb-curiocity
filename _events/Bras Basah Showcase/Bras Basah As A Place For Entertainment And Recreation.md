@@ -96,14 +96,14 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/318697f7-1162-1
 
 **Rex Cinemas**
 
-Rex Cinemas (or Rex Theatres) was located in a three-storey grey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
+Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
 
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/afb7dba3-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |  First opened in 1946 by the Shaw Brothers, with the screening of "The Jungle Book", Rex was known for its air-conditioned modernity as well as the tea rooms and restaurants. Back in its heyday during the 1970s, it was not unusual to see long queues snaking out of the cinema. It was said that moviegoers would show up early in the morning, long before the screening time, to purchase tickets before they sold out. |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/97104dec-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-|  The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its businessa with a stall  opposite the Rex. |
+|  The large audience footfall also drew hawkers to set up makeshift stalls there at night for hungry moviegoers. In fact, popular eatery chain ‘Old Chang Kee’ started its business with a stall  opposite the Rex. |
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-3.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas){:target="_blank"} |
 |  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. |
 
@@ -138,7 +138,7 @@ The theatre was later demolished to make way for the extension of Raffles Hotel.
 
 **Royal Theatre and Diamond Theatre**
 
-Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buidlings, however, were demolished in the 1970s.
+Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
 
 |  |
 | :--------: |
@@ -148,7 +148,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 ---------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: National Archives of Singapore)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
