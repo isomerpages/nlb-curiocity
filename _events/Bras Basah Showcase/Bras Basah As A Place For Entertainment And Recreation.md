@@ -161,11 +161,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 | [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |  When Cheong died in 1934, his theatre was sold to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company then turned it into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
 
-When Cheong died in 1934, his theatre was sold to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company then turned it into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.
-
-
-
-Diamond Theatre was located a few doors away at 499 North Bridge Road opposite today's Bugis Junction. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong.
+Diamond Theatre was located a few doors away at 499 North Bridge Road opposite today's Bugis Junction. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat "first-rate" cinema specialising in Indian films. 
 
 Diamond Theatre
 
