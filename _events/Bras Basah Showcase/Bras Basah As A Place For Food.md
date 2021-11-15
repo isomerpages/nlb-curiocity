@@ -23,6 +23,8 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG)|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Photo by [Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
+**Watch this video by Singapore Best Food on  the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
