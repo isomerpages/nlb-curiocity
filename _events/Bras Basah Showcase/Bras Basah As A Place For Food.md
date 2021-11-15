@@ -129,15 +129,6 @@ National Heritage Board's "Hawker Culture in Singapore – What it Means to Sing
 
 _____
 
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his blog, "The Long and Winding Road", in which he documents Singapore's evolving urban landscape through words and images. Having studied in St Jospeh's Institution during the 1970s, he has fond memory of the various eating places we have seen thus far in Bras Basah. Click to read what how remembered them in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window.</span>
-	
-</details>
-
-_____
-
 <br>
 <html>
 <head>
