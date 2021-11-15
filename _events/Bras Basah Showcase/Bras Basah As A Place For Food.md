@@ -70,9 +70,9 @@ Opened as the Creameries Milk Bar in 1937 within the premises of Capitol buildin
 |  |
 |:---:|
 | [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)|
-|Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/))|
+|Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
-|The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival))|
+|The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
 ----
 
@@ -96,11 +96,11 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 |  |
 |:---:|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
-|A 1963 photograph showing a back alley occupied by street hawkers.|
+|A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad) |
-|The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with Malay and Javanese hawkers selling not only food like satay, but also crafts and curios. As for the latter, one could find Chinese hawkers selling cooked food and a variety of products such as food stuffs, vegetables and apparel.|
+|The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with Malay and Javanese hawkers selling not only food like satay, but also crafts and curios. As for the latter, one could find Chinese hawkers selling cooked food and a variety of products such as food stuffs, vegetables and apparel. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/) |
-| Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s.|
+| Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Photo via [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
 Today, these Bras Bash street hawkers have been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the videos below by Channel NewsAsia and the National Heritage Board as well as independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) to learn not only about the Indian rojak dish that gave Waterloo Street its food heritage trademark, but the history of our hawkers culture.
 
