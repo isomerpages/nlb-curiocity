@@ -81,8 +81,6 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 
 The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html){:target="_blank"}, located at the junction of Stamford Road and North Bridge Road, was opened in 1930.  It was considered one of the finest cinemas of the time. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
-https://www.nas.gov.sg/archivesonline/photographs/record-details/318697f7-1162-11e3-83d5-0050568939ad
-
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-capitol-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/066b3aa0-1162-11e3-83d5-0050568939ad){:target="_blank"} |
