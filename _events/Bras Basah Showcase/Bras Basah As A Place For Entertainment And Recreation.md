@@ -124,7 +124,13 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 **Jubilee Theatre and Raffles Hotel**
 
-Jubilee hall today
+Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. 
+
+During its heyday in the 1950s, the Jubilee Theatre was the premier theatre for Cantonese films and bookings had to be weeks in advance. 
+
+In 1978, the 800-seat theatre was closed due to its lack of modern facilities and declining business. It was said that the theatre's screen was unable to compete with the newer cinemas which are equipped with wider and better screens, more comfortable seats and carparks. 
+
+acquired by Far East Organisation 
 
 https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
 
