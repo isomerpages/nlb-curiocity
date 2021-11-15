@@ -168,7 +168,7 @@ _____
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Finally, before we leave, click to read what how Jerome Lim remembers the street hawker scene in Bras Basah in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"At the other corner across Victoria Street, was a red coloured shophouse which housed a bakery – the “Red House” as we often referred to it. The bakery also operated a café on the second storey where one could have a “set lunch” – a three course meal, with a soup, a main course, and a dessert, with coffee or tea for $5, during lunch time."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Running perpendicular to Bras Basah was a street named Waterloo Street. What was thought to be the best Indian Rojak in Singapore was found among the row of maybe five or six “sarabat” stalls along Waterloo Street close to where it crosses Bras Basah Road. I frequented the stalls at least once a week for a while, not so much for the Indian Rojak, but for the Mee Rebus, a dish of boiled noodles covered in a thick brown gravy. One of the stalls offered a unique variation of the dish with a very nutty version of the gravy which I enjoyed on my weekly visits."</span>
 	
 </details>
 
