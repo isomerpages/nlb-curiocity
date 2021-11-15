@@ -16,6 +16,14 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 |The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">In 2014, the Singapore Memory Project also collaborated with the Chou Sing Chu Foundation to embark on the irememberBookstore initiative – a ground up movement that involves the gathering of memories and stories from the public as well as independent bookstores, book chains and book lovers. Through the initiative, precious memories including those related to the bookstores on Bras Basah Road were collected. This, contributed by Mr Yeo Hong Eng, is one of them. Click here to a part of it.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"It was in one of the mornings of early January 1959, we went to Bras Basah Road via the No. 1 red and white Changi bus...I was lost for words when we walked along the corridors of the shops. Almost every shop was a bookshop – old and new. Periodicals, newspapers, weekenders, magazines..., school textbooks...,  fictional books, non-fiction books of varied different genres, stationery, etc. I felt groggy. To try to save a few dollars, we tried to hunt from the second-hand book stores. I remembered that I was excited when I got one of the books. It was entitled  “The World.” It was a Geography book. Then we proceeded to the book stores that sold new ones. We went in and out almost all the shops from the whole length of Bras Basah Road from Victoria Street to Prinsep Street.  Then my father pointed out the triangular traffic island that was surrounded by Dhoby Ghaut, Prinsep Street and Bras Basah Road. He pointed out that it was ‘Sa Kak Eng’ in Hokkien which to me was Greek. The day ended with a light meal at one of Indian food stalls along one of the lanes." </span>
+	
+</details>
 
 ----
 
