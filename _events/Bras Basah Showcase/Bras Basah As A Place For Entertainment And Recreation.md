@@ -164,24 +164,10 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|  Diamond Theatre was located a few doors away at 499 North Bridge Road opposite today's Bugis Junction. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat "first-rate" cinema specialising in Indian films. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
+|  Diamond Theatre was located just a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat "first-rate" cinema specialising in Indian films. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
 
-Diamond Theatre was located just a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat "first-rate" cinema specialising in Indian films. 
+Diamond Theatre was plagued by fire hazards, which cost it hundreds of thousands in damages and restoration. Out-competed by other cinemas by the mid-seventies, Diamond Theatre finally ended its business in November 1977, after three decades. The land that it occupied was acquired by the government, and the building was demolished two years later for the building of Blanco Court Resettlement Centre.
 
-Diamond Theatre
+https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3baef-1162-11e3-83d5-0050568939ad
 
-Diamond Theatre specialised in Tamil Movies. It was a $250,000 joint venture between Indian jeweller Kassim Mohamed Oli Mohamed (died 1988) and Cathay Organisation’s founder Loke Wan Tho (1915-1964).
-
-In the fifties, Diamond Theatre was plagued by fire hazards, which cost it hundreds of thousands in damages and restoration. Out-competed by other cinemas by the mid-seventies, Diamond Theatre finally ended its business in November 1977, after three decades. The land that it occupied was acquired by the government, and the building was demolished two years later for the building of Blanco Court Resettlement Centre.
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19470315-1.2.52
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470430-1.2.62
-
-Royal Theatre
-
-https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080615-1.2.83
-
-https://remembersingapore.org/2012/08/02/singapore-cinemas-history/
-
-https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/
+https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad
