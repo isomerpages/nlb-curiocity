@@ -27,6 +27,13 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his blog, "The Long and Winding Road", in which he documents Singapore's evolving urban landscape through words and images. Having studied in St Jospeh's Institution during the 1970s, he has fond memory this restaurant. Click to read what how remembered it <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window."</span>
+	
+</details>
+
 ----
 
 **Long Bar and the Singapore Sling**
