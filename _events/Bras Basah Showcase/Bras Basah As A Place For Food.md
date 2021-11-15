@@ -17,11 +17,11 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |  | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad)|
-|Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. |
+|Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://go.gov.sg/l8l2vb)|
-|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. |
+|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG)|
-|In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it.|
+|In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Photo by [Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
