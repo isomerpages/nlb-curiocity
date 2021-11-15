@@ -6,7 +6,10 @@ third_nav_title: Bras Basah Showcase
 ---
 #### **Bookstores Along Bras Basah Road**
 
-Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html) and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company, Union Book Company and POPULAR Bookstore. Take a look at them through the photo essay below.
+Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html) and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company, Union Book Company and POPULAR Bookstore. 
+
+
+Take a look at them through the photo essay below.
 
 |    | 
 |:--------:| 
@@ -145,4 +148,4 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 | Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
 
 
-When my sons were of school going age, I brought them over. The Big Book, The World Book, Popular Book Store, Shanghai Book Store, United Publishing House, The Commercial Press, Chung Hwa Book Co, Nanyang Book Company etc were there. 
+When my sons were of school going age, I brought them over. The Big Book, The World Book, Popular Book Store, Shanghai Book Store, United Publishing House, The Commercial Press, Chung Hwa Book Co, Nanyang Book Company etc were there.
