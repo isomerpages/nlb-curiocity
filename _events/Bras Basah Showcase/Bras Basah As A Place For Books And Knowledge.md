@@ -54,6 +54,21 @@ The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/S
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |Today, its flagship store is located at Bras Basah Complex. |
 
+----
+
+**Methodist Publishing House**
+
+The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
+
+|   | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad)|
+|Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad)|
+| The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building)|
+|MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building){:target="_blank"})|
+
 -----
 
 #### **Bras Basah Complex**
