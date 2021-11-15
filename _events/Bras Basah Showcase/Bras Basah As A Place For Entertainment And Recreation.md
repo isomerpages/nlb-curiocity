@@ -128,11 +128,11 @@ Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside 
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-jubilee-theatre-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b00a59db-1161-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b00a59db-1161-11e3-83d5-0050568939ad) |
 |  During the 1950s, Jubilee Theatre was the premier theatre for Cantonese films and bookings had to be weeks in advance. In the 1966, the theatre was brought over by Goh Eng Wah who would go on to establish the Eng Wah Theatres Organisation in 1968. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b00a59db-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/sample-jubilee-theatre-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/896d4193-1162-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/896d4193-1162-11e3-83d5-0050568939ad) |
 |  In 1978, however, Eng Wah Theatres had to close the 800-seat theatre permanently. This was due to its lack of modern facilities and declining business. It was said that the theatre's screen was unable to compete with the newer cinemas which are equipped with wider and better screens, more comfortable seats and carparks. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/896d4193-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/sample-jubilee-theatre-3.jpg)](https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371) |
+| [![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-3.jpg)](https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371) |
 |  The theatre was later demolished to make way for the extension of Raffles Hotel when the latter won the bid to redevelop the site in the late 1980s into a Victorian-styled theatre playhouse. The new playhouse, known today as Jubilee Hall, is named after the site's former occupant - Jubilee Theatre. (Photo via [Channel NewsAsia](https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371){:target="_blank"}) |
 
 --------
