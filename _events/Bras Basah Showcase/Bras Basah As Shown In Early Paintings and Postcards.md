@@ -11,7 +11,7 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click to read how Victor Savage and Brenda Yeoh (2013) explain in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">book</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click here to read how Victor Savage and Brenda Yeoh (2013) explain in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">book</a>.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
@@ -66,7 +66,7 @@ During the 19th century, much of Singapore's early growth and progress including
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Created by immensely talented painters, one who stood up the most is John Turnbull Thomson as his paintings are said to have captured much of Singapore’s built landscape in the mid 1840s and its cultural diversity. But who is this he anyway? Click to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Created by immensely talented painters, one who stood up the most is John Turnbull Thomson as his paintings are said to have captured much of Singapore’s built landscape in the mid 1840s and its cultural diversity. But who is this he anyway? Click here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
@@ -78,7 +78,7 @@ _____
 
 The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of picture postcards that quickly gained popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
 
-| | 
+|  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/postcard-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"}|
 |This early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1073598){:target="_blank"} This postcard shows the junction of Bras Basah Road and Bencoolen Street, where the remains of the administrative block of the former Convict Gaol can be seen on the right. |
@@ -94,7 +94,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click to read how the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Twentieth Century Impressions of British Malaya</a> (1908) describes the studio's turnover.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click here to read how the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Twentieth Century Impressions of British Malaya</a> (1908) describes the studio's turnover.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
 	
