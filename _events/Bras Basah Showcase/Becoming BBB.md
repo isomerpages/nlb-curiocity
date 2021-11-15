@@ -4,8 +4,6 @@ permalink: /events/bb-showcase/bbb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
-
 #### **Becoming Bras Basah.Bugis**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested, housing overcrowded with poor sanition, and its colonial era shophouses in dilapidated condition. 
@@ -98,7 +96,3 @@ legacy lives on
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19871107-1.2.14.3
 
 annual report 1989
-
-**Little Red Bricks**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
