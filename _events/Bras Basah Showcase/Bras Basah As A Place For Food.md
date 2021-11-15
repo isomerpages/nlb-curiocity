@@ -117,3 +117,14 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 National Heritage Board's "Hawker Culture in Singapore – What it Means to Singaporeans"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_____
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his "The Long and Winding Road" blog which he documents Singapore's evolving urban landscape through words and images. Having studied in St Jospeh's Institution during the 1970s, he has fond memory of the various eating places we have seen thus far in Bras Basah. Click to read what how remembered these places in his [blog](https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/).</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
+	
+</details>
+
+_____
