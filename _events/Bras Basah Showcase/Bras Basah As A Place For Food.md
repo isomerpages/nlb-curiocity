@@ -115,14 +115,3 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 National Heritage Board's "Hawker Culture in Singapore – What it Means to Singaporeans"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_____
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read a traveler's account of Bras Basah during the 1920s.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
-	
-</details>
-
-_____
