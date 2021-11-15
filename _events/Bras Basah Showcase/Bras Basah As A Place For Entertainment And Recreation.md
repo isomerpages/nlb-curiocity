@@ -116,11 +116,11 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad) |
-|  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. |
+|  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. |
+|  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-3.jpg)](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg){:target="_blank"} |
-|  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. |
+|  Over the ears, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. (Photo by [Bjoertvedt via wikicommons](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg){:target="_blank"}) |
 
 -------
 
