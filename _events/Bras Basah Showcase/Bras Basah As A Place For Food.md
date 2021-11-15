@@ -82,8 +82,8 @@ The Red House Bakery is a popular reference to a relict confectionery shop known
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939add)|
-A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a7329c2f-1162-11e3-83d5-0050568939ad))|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad)|
+A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad))|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))|
 
