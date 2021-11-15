@@ -21,11 +21,11 @@ _____
 
 #### **Early Maps on Bras Basah**
 
-The development of Bras Basah during its early days is recorded in the Maps Collection of the National Archives of Singapore. Scroll through some of them below. You can also click on the maps to overlay them with today's map using the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/) platform.
+The development of Bras Basah during its early days is recorded in the Maps Collection of the National Archives of Singapore. Scroll through some of them below. You can also click on the maps to overlay them with today's map using the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)|
+| [![Alt text for image on Isomer site](/images/sample-bb-map-1828.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"}|
 |This [1828 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"} by Lt. Jackson's shows Bras Basah Road had two different names - Church Street and Selegy Street - in the 1820s. |
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1830.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)|
 |This [1839 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"} by George Coleman shows the labelling of Bras Basah Road as "Bras Bassa Road". Also visible are the former grounds of Raffles Institution and a handful of churches including St Jospeh's, St Andrew's and the Armenian Church.|
