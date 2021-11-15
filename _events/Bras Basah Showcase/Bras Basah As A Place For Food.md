@@ -17,9 +17,9 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |  | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad)|
-|Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://go.gov.sg/l8l2vb)|
-|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/af0c76af-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [Urban Redevelopment Authority Conservation Portal](https://go.gov.sg/l8l2vb){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG)|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Photo by [Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
@@ -34,9 +34,9 @@ The Long Bar in Raffles Hotel was among the oldest food establishments in the Br
 | | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
-|Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks.|
+| Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/sample-bb-long-bar-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad)   |
-|The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public.|
+| The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad){:target="_blank"})|
 
 Watch the video below by Raffles Hotel explaining the history of the Singapore Sling.
 
