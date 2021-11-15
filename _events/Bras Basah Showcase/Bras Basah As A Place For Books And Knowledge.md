@@ -90,8 +90,6 @@ _____
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_hmRMoI8io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
--------
-
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
@@ -111,7 +109,7 @@ The students that usually thronged the bookshops along Bras Basah Road and North
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
 
-Besides the story map above, memories of the former students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are memories shared by heritage bloggers such as Jerome Lim on their days as a student there.
+Besides the story map above, memories of the former faculty and students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are some memories gathered from our collections.
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read how Jerome Lim describes his days transversing the various entertainment places in Bras Basah as a student.</span></summary>
