@@ -20,7 +20,7 @@ To begin this journey of discovery, please following the steps below:
 If you are ready, click and read this remarkable poem by Edwin Thumboo here.
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (Source: <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e">Singapore Memory Project</a>)</span>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (Source: <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e" target="_blank">Singapore Memory Project</a>)</span>
 </summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
