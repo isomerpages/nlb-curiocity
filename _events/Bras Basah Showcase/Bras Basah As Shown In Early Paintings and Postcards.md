@@ -108,6 +108,7 @@ The history of Bras Basah and its vicinity can also be told through the streets 
 
 [![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html){:target="_blank"}
 
+-------
 
 <br>
 <html>
