@@ -96,7 +96,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-During the 1980s, it was also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
+During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums.
 
 "Xinyao" (新谣) has always been closely associated with Bras Basah Complex. 
 
