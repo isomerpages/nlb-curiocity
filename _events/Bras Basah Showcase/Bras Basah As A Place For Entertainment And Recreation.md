@@ -159,7 +159,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|  When Cheong died in 1934, his theatre was sold to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company then turned it into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
+|  When Cheong died in 1934, his theatre was sold to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company then turned it into a 1,100-seat cinema screening films from India, with the occasional live act from Indian theatrical and performing groups. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
 
 |  |
 | :--------: |
