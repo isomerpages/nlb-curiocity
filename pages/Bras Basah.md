@@ -2,17 +2,100 @@
 title: Bras Basah
 permalink: /events/Curiocity-Showcase/bras-basah
 ---
-![Alt text for image on Isomer site](/images/sample-bb-landing-banner.png)
+[![Alt text for image on Isomer site](/images/sample-bb-showcase-landing.jpg)](https://flic.kr/p/fN9R2A)
 
-The Bras Bash area under the Bras Basah.Bugis (BBB) Precinct is a living representation of the image of Singapore as a progressive nation that is still rooted in its history including its identity as a city with a diverse heritage that includes Chinese, Malay, Indian, Eurasian and European influences. This can be seen by how the conserved buildings and places of worship in the area juxtaposed with sleek modern structures, as well as the myraid of historical materials in the collections of the National Library Board, the National Heritage Board and the Urban Redevelopment Authority.
+Bras Basah is one of the oldest districts of Singapore. With buildings both old and new co-existing along highly manicured and landscaped streets as old as the island's modern history, Bras Basah is a reflection of Singapore's unique identity as a multicultural society that thrives on its energetic future and vibrant past. However, to truly understand and feel Bras Basah's past and present, we have to transcend beyond its built heritage and enter the realm of resources where documentation such as photographs, paintings, postcards, maps and memories is located. Doing so will certainly stir curiosity among the young and nostalgia in the old, thus helping them to discover and rediscover this historical district.
 
-By featuring these materials together with the memories of people who either grew up or frequented there during the nation-building years, this showcase tells the story of the transformation of Bras Basah. Through them, it brings out the eclecticism and the unique vibe the district has today.
+The **Remembering Bras Basah** showcase provides this journey of discovery. With 5 sections, it allows you to see Bras Basah as depicted in the myriad of resources and content from the collections of institutions such as the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as those compiled or created by heritage bloggers, fimmakers and even YouTubers just to name a few. 
 
+To begin this journey of discovery, please following the steps below:
+<br>
+1. Read a poem on Bras Basah (below) by local poet, academic and Cultural Medallion recipient Edwin Thumboo. 
+2. After that, ask yourself how you feel about the poem. 
+4. Next, go through all the sections of the showcase. 
+5. When you reached the end, you will be given another change to read the same poem again. Then ask yourself how do you feel about it this time.
 
-#### Take this journey for an exciting roundup on how Bras Basah have changed since the colonial period.
+If you are ready, click and read this remarkable poem by Edwin Thumboo here.
 
-To navigate, click the icons below or use the drop menu on the left.
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" from his entry in the <a href="https://www.singaporememory.sg/contents/SMB-7c36308f-e5d8-42a4-981a-b175738e7d4e" target="_blank">Singapore Memory Project</a>)</span>
+</summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Where the first Rendezvous brooded
+<br>By a row of old shophouses, since sadly slain,
+<br>A special road began. A point of colonial
+<br>Confluence: Dhoby Ghaut, the YWCA with
+<br>Manicured tennis lawns for memsahibs who
+<br>Then took tea and scones. Across a Shell kiosk
+<br>Where Papa parked his Austin Seven, then off
+<br>To Hock Hoe’s for piston rods and Radex
+<br>
+<br>Think of the names: Dhoby Ghaut, Prinsep St,
+<br>The three Cathays, a name the Lokes made
+<br>Famous: resplendent building, our tallest then;
+<br>Fantastic camera shop; and that popular Store
+<br>Where Rudy’s wife, petite, temporarily demure,
+<br>Quietly assessed her customers as she held her
+<br>Intelligence above show-cases. Two doors away,
+<br>Heng, increasingly called Mr, sold German cameras
+<br>To Japanese sailors, was en route to a partnership.
+<br>
+<br>And the bookshops full of stuff: Penguin New 
+<br>Writing to Palgrave’s G-Treasury; Q’s Oxford 
+<br>Anthology, a blue spine among mouldy issues 
+<br>Of The Wide World where imperial dreams, 
+<br>The White man’s burden trudged across Asia and
+<br>Africa, up Ruwenzori’s mist and moon, then down
+<br>The Brahmaputra. Mainly first-hand accounts, 
+<br>Direct, unshorn, marching against superstition.
+<br>Plain narratives rising in majesty, in power, art.
+<br>No cute theory of the Other. Only them natives.
+<br>
+<br>And the Rendezvous after school; affordable.
+<br>The man with the mole, ladle in hand, presided,
+<br>Holding the extra spoonful, balanced fate,deciding
+<br>If he liked you. Two doors away Simon Ong’s
+<br>Family shop of fishing tackle, Winchester torches,
+<br>Knives of Solingen steel. Outside, a Woodsville tram,
+<br>Full of St Andrew boys, swings around the corner,
+<br>Tires squealing.
+<br>
+<br>Standing there, the world grew,
+<br>Bit by bit, seemed different with each fresh vantage
+<br>Shift in weather; hormonal stir, sweet unknowing;
+<br>An ache that knew no words; a quickly passing mouth.
+<br>As eyes caught more lit with sensuous guilt, when 
+<br>Curves beneath Convent uniforms heaved and turned
+<br>With the mind’s proposal, the rainbow’s ripening,
+<br>As thoughts fingered image, each chance encounter.
+<br>Experience became a word as Life cease to be simple.
+<br>
 
-| |  |  | | 
-| :--------: | :--------: | :--------: |  :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-icon-oldest-district.png)](/events/Curiocity-Showcase/bras-basah/oldest)    | [![Alt text for image on Isomer site](/images/sample-bb-icon-places-interest.png)](/events/curiocity-showcase/former-places-interest)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-becoming-bbb.png)](/events/curiocity-showcase/bras-basah/bbb)     | [![Alt text for image on Isomer site](/images/sample-bb-icon-resource-map.png)](/events/curiocity-showcase/bras-basah/resource-map)     |
+</span>
+	
+</details>
+
+<br>
+<html>
+<head>
+<style>
+.button {
+  background-color: #BA0C2F;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<a href="early-bb"><input type="button" class="button" value="Click here or the 'Next' button below to start the journey"></a>
+
+</body>
+</html>
