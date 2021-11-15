@@ -129,7 +129,6 @@ National Heritage Board's "Hawker Culture in Singapore – What it Means to Sing
 
 _____
 
-<br>
 <html>
 <head>
 <style>
