@@ -124,19 +124,19 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 **Jubilee Theatre and Raffles Hotel**
 
-Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. 
+Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it was opened in 1929 and was among the first cinemas to be installed with the equipment to support "talkies" or sound films.
 
-During its heyday in the 1950s, the Jubilee Theatre was the premier theatre for Cantonese films and bookings had to be weeks in advance. 
+During the 1950s, Jubilee Theatre was the premier theatre for Cantonese films and bookings had to be weeks in advance. In the 1966, the theatre was brought over by Goh Eng Wah who would go on to establish the Eng Wah Theatres Organisation in 1968. 
 
-In 1978, the 800-seat theatre was closed due to its lack of modern facilities and declining business. It was said that the theatre's screen was unable to compete with the newer cinemas which are equipped with wider and better screens, more comfortable seats and carparks. 
+In 1978, however, Eng Wah Theatres had to close the 800-seat theatre permanently. This was due to its lack of modern facilities and declining business. It was said that the theatre's screen was unable to compete with the newer cinemas which are equipped with wider and better screens, more comfortable seats and carparks. 
 
-acquired by Far East Organisation 
+The theatre was later demolished to make way for the extension of Raffles Hotel when the latter won the bid to redevelop the site in the late 1980s. 
+
+Raffles Hotel’s Victorian-styled theatre playhouse Jubilee Hall is named after this popular cinema of the early days.
+
 
 https://cnalifestyle.channelnewsasia.com/entertainment/raffles-hotel-arcade-jubilee-hall-246371
 
-Opened in the 1930s beside Raffles Hotel, Jubilee Theatre (光华大戏院) was hugely popular in its early days. It was bought by Goh Eng Wah in 1966, two years before he established Eng Wah Theatres Organisation Pte Ltd.
-
-The theatre was later demolished to make way for the extension of Raffles Hotel. Raffles Hotel’s Victorian-styled theatre playhouse Jubilee Hall is named after this popular cinema of the early days.
 
 --------
 
