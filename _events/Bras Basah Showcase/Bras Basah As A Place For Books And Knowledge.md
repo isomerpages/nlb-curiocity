@@ -44,7 +44,7 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 
 **Shanghai Book Company**
 
-Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was a popular location for Chinese book retailers such as the Shanghai Book Company.
+Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was also a popular location for Chinese book retailers such as the Shanghai Book Company.
 
 |  | 
 |:--------:| 
