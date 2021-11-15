@@ -56,7 +56,7 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"} |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above). (Photo by [Nlannuzel via wikicommons](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"})  |
 
-**Cathay Cinema in 1951**
+**Cathay Cinema in 1951 from Michael Rogge's YouTube Channel**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
