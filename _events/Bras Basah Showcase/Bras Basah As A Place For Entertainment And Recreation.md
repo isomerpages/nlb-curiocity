@@ -122,7 +122,7 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 -------
 
-**Jubilee Theatre and Raffles Hotel**
+**Jubilee Theatre**
 
 Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it was opened in 1929 and was among the first cinemas to be installed with the equipment to support "talkies" or sound films.
 
