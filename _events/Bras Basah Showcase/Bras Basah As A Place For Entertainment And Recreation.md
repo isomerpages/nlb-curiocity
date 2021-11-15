@@ -156,11 +156,16 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 
 ---------
 
+|  |
+| :--------: |
+| [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+|  Royal Theatre was located at the current site Raffles Hospital. Originally called Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre's opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong's Star Opera Company, and the increase in appetite for their performances. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad)){:target="_blank"} |
+
+When Cheong died in 1934, his theatre was sold to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company then turned it into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.
+
+
+
 Diamond Theatre was located a few doors away at 499 North Bridge Road opposite today's Bugis Junction. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong.
-
-
-When Cheong Koon Seng died in 1934, his family sold Theatre Royal to Amalgamated Theatres, the company managing Capitol and Pavilion cinemas. The company immediately set to work modernising the place. In February 1935, Theatre Royal, “once the favourite Star Opera”, had its grand opening with a Hindustani film, Krishna Sudama, produced by the well-known Ranjit Studio of Bombay.28 The grand dame of bangsawan performances was transformed into a cinema screening films from India, with the occasional live act from Indian theatrical and performing groups.29 Eventually, Tamil talkies replaced bangsawan as the mainstay of the Theatre Royal, now renamed Royal Theatre.
-
 
 Diamond Theatre
 
