@@ -12,6 +12,10 @@ The story map below lays out some of these places in Bras Basah.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
 
+________
+
+**Video Footages of Old Singapore**
+
 Besides the story map, these entertainment and recreation spaces were also featured in documentaries and historical audiovisual materials from the National Archives of Singapore as well as blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"}. Watch some of them below.
 
 **Singapore in 1961 from Michael Rogge's YouTube Channel**
