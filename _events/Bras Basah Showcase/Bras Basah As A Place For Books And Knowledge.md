@@ -17,6 +17,8 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 |  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)     |
 |  Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
+________
+
 
 
 
