@@ -3,7 +3,6 @@ title: Curiocity Showcase 2022
 permalink: /events/curiocity-showcase-2022
 description: ""
 ---
-
 #### **Curiocity: Places & Perspectives**
 Looking at our modern and futuristic cityscape today, it is easy to forget that Singapore was once home to quiet fishing villages and lush forests. And as we’ve changed, so has our cityscape. By spotlighting places known for entertainment and relaxation, particularly in downtown Singapore, Curiocity gives us an opportunity to look back and examine our history of spaces and ask what we might have gained or lost and what we can learn from them.
 
