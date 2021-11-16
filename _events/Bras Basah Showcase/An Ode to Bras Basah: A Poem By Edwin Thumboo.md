@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 Place Poem
 
 <details>
