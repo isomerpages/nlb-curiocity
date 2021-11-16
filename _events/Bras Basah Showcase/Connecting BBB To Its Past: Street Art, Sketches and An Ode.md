@@ -73,7 +73,7 @@ Over the past decade, there has been a proliferation of social memories on place
 
 **A Ode to Bras Basah**
 
-Emeritus Professor and Professorial Fellow of the National University of Singapore Edwin Thumboo has been involved in Singapore’s literary developments since the 1950s. Over the course of his illustrious career which he picked up many awards including the Singapore Cultural Medallion and Singapore's Meritorious Service Medal, he has published five volumes of poetry. While many of these poems addressed national issues, some are dedicated to places in Singapore. One of these is "Bras Basah" which he penned in...It is a remarkable poem as Thumboo was able to vividly captured Bras Basah of past in its entirety. 
+Emeritus Professor and Professorial Fellow of the National University of Singapore Edwin Thumboo has been involved in Singapore’s literary developments since the 1950s. Over the course of his illustrious career which he picked up many awards including the Singapore Cultural Medallion and Singapore's Meritorious Service Medal, he has published five volumes of poetry. While many of these poems addressed national issues, some are dedicated to places in Singapore. One of these is "Bras Basah". It is a remarkable piece of place poem as Thumboo is about to vividly captured Bras Basah of the past in its entirety in just a few verse.
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click here to read Edwin Thumboo's "Bras Basah".</span></summary>
