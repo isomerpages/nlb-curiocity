@@ -145,26 +145,9 @@ Besides the story map above, memories of the former faculty and students of thes
 
 ----
 
-#### **The National Library and the National Museum**
+#### **The National Museum and National Library**
 
 Besides the schools and the bookstores, Bras Basah was and continues to be a place for knowledge. This is largely because of the presence of both the National Library and National Museum in the district since the mid-1800s. 
-
-**The National Library**
-
-The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
-
-|  | 
-|:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars) |
-| The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/bb-library-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad) |
-| The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg) |
-| In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
-
-**Little Red Bricks**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **The National Museum**
 
@@ -185,4 +168,21 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 |[![Alt text for image on Isomer site](/images/bb-museum-4.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1062247)|
 | Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
 
------
+______
+
+**The National Library**
+
+The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
+
+|  | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars) |
+| The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars){:target="_blank"}) |
+| [![Alt text for image on Isomer site](/images/bb-library-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad) |
+| The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg) |
+| In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
+
+**Little Red Bricks**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
