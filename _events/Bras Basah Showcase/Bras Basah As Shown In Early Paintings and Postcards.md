@@ -11,7 +11,7 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click/tap here to read Victor Savage's and Brenda Yeoh's explanation in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">book</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click here to read Victor Savage's and Brenda Yeoh's explanation in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">book</a>.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
@@ -32,7 +32,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1846.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa3f6192-115c-11e3-83d5-0050568939ad){:target="_blank"}|
 | By the mid-1800s, Bras Basah was already with activities with rows of shophouses and roads criss-crossing the district. This can be seen in this 1846 survey map prepared by John Turnbull Thomson. (Image via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa3f6192-115c-11e3-83d5-0050568939ad){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/sample-bb-map-1893.png)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"}|
-| From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This 1893 map is among the earliest that carried out this change.(Image via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"})|
+| From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This 1893 map is among the earliest that carried out this change. (Image via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"})|
 
 _____
 
