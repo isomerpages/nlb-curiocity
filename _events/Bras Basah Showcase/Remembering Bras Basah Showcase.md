@@ -28,6 +28,7 @@ To begin this journey of discovery, please click the button below.
   margin: 4px 2px;
   cursor: pointer;
 	width: 100%;
+	word-wrap: break-word;
 }
 </style>
 </head>
