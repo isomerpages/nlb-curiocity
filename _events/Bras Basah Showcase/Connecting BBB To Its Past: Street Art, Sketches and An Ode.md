@@ -24,7 +24,7 @@ _____
 |   |
 |:-----:|
 | [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
-|   |
+| Traffic jam along Bras Basah Road.  |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
 |   |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
@@ -45,7 +45,13 @@ The sliders below show the remarkable transformation that Bras Basah underwent s
 
 #### **Remembering Bras Basah**
 
-Over the past decade, 
+Over the past decade, there has been a proliferation of social memories on places in Singapore. Perhaps brought about by a sense of nostalgia or loss due to the rapid pace of development, these active attempts have provided us with a more personified accounts of places that were otherwise missing in history books. In many cases, the memories that were collected were not placed in cold storage. Rather they were readily shared in portals such as the Singapore Memory Project and other forms of creative expressions including murals, sketches and even poems. Below are a selected few.
+
+**Murals of Bras Basah**
+
+**Sketches of Bras Basah**
+
+**A Ode to Bras Basah**
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
