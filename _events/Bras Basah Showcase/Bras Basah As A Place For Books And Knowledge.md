@@ -78,12 +78,12 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
+| [![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 | Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. |
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
 | During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums. |
 
 _______
