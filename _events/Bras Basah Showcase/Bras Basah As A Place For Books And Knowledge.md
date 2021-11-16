@@ -8,14 +8,31 @@ third_nav_title: Bras Basah Showcase
 
 Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there included the Methodist Publishing House (MPH), Shanghai Book Company, Union Book Company and POPULAR Bookstore. Take a look at them through the photo essay below.
 
+
+
+
+|  | 
+| :--------: | 
+| Text     | 
+| Text     |
+| Text     |
+| Text      |
+
+
+
+
 |    | 
 |:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad)|
-|The bookstores along Bras Basah Road thrived as a popular haunt for students. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad) |
+| The bookstores along Bras Basah Road thrived as a popular haunt for students. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 | [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
+
 |The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 | [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
 |Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 _______
 
 <details>
