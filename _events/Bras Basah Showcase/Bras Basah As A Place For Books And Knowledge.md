@@ -17,24 +17,7 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 |  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)     |
 |  Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
-________
-
-
-
-
-|    | 
-|:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad) |
-| The bookstores along Bras Basah Road thrived as a popular haunt for students. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad)|
-
-|The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-| [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad)|
-|Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-_______
+_________
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">In 2014, the Singapore Memory Project collaborated with the Chou Sing Chu Foundation to embark on the <a href="https://www.singaporememory.sg/campaigns/irememberbookstores?nextrecord=12&listtype=campaigns&id=89&campaign=irememberbookstores" target="_blank"> irememberBookstore</a> initiative – a ground up movement that involves the gathering of memories and stories from the public as well as independent bookstores, book chains and book lovers. Through the initiative, precious memories including those related to the bookstores on Bras Basah Road were collected. Below is one of them, contributed by Mr Yeo Hong Eng. Click here to a part of it.</span></summary>
