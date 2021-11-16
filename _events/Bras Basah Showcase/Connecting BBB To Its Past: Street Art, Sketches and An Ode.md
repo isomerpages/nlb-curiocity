@@ -49,6 +49,8 @@ Over the past decade, there has been a proliferation of social memories on place
 
 **Murals of Bras Basah**
 
+
+
 **Sketches of Bras Basah**
 
 ![Alt text for image on Isomer site](/images/sample-bb-modern-art-1.jpg)
