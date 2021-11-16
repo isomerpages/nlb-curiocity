@@ -97,7 +97,7 @@ _______
 
 _____
 
-The Songs We Sang is a 2015 Singaporean documentary directed by Eva Tang. It is about Xinyao, Singaporean folk music that was popular in the 1980s. premiered at the Singapore International Film Festival on November 29, 2015
+The Songs We Sang is a 2015 documentary about the Xinyao movement. Directed by Eva Tang, it premiered at the Singapore International Film Festival on November 29, 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JsZPwyLfzvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
