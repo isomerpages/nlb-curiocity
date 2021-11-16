@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Tracking the History of Bras Basah Through Space and Time**
 
-The map below provides a geo-based overview of resources related to Bras Basah during this period.
+In the next stage of Curiocity's development, we would be tracking ours as well as our partners resources on the different places of Singapore including Bras Basah using space and time. Below are two samples on how we envisioned this new method of search and retrieval.
 
 #### **Resource Map on Bras Basah**
 
