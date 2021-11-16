@@ -3,7 +3,6 @@ title: Becoming BBB
 permalink: /events/bb-showcase/bbb
 description: ""
 ---
-
 #### **Becoming Bras Basah.Bugis**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested, housing overcrowded with poor sanition, and its colonial era shophouses in dilapidated condition. 
@@ -74,22 +73,7 @@ Below are a selection of videos produced by the National Heritage Board, the Urb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IuYscnoiEpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**"A Second-Hand Book Seller" by the National Heritage Board**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h79B_znIkzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-"*The Song We Sang*: Xin Yao Reunion @ Bras Basah Complex" by 我们唱着的歌The Songs We Sang
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JsZPwyLfzvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Remembering Book Stores
-
-https://www.todayonline.com/big-read/big-read-run-down-not-out-old-iconic-shopping-centres-find-way-sporeans-hearts
-
-irememberbookstores
-
-http://www.chouscfoundation.org/events/i-remember-gallery-roving-exhibition/
 
 legacy lives on
 
