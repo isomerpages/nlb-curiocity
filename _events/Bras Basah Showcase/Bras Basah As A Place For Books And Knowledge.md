@@ -185,4 +185,7 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 
 **Little Red Bricks**
 
+Though the old National library was demolished almost 15 years ago in 2004, it will forever live on in the memories of the countless amount of Singaporeans that frequented it over the decades. Local animation studio Robot Playground has decided to take it one step further by immortalising the National Library in a 15-minute animated short titled “Little Red Bricks” that pays tribute to not only the building itself but the people as well through the the life and times of a boy and a girl. Watch the breathtaking video below.
+
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
