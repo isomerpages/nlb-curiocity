@@ -27,6 +27,7 @@ To begin this journey of discovery, please click the button below.
   font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
+	width: 100%;
 }
 </style>
 </head>
