@@ -4,8 +4,6 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
-
 #### **In Need For Renewal**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
@@ -23,13 +21,16 @@ _______
 
 _____
 
-[![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-7.jpg)
+|   |
+|:-----:|
+| [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
+|   |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
+|   |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
+|  |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-7.jpg) |
+|  |
 
 #### **Becoming Bras Basah.Bugis**
 
@@ -37,9 +38,14 @@ By the late 1980s, the Bras Basah and Bugis districts had developed a new shine 
 
 The sliders below show the remarkable transformation that Bras Basah underwent since the 1980s.
 
-![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg)
+|   |
+|:-----:|
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg) |
+|  |
 
-#### **Becoming Bras Basah.Bugis**
+#### **Remembering Bras Basah**
+
+Over the past decade, 
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
