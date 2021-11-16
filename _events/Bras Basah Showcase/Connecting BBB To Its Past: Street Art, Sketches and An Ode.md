@@ -47,6 +47,8 @@ The photographs below show the remarkable transformation that Bras Basah underwe
 
 Over the past decade, there has been a proliferation of social memories on places in Singapore. Perhaps brought about by a sense of nostalgia or loss due to the rapid pace of development, these active attempts have provided us with a more personified accounts of places that were otherwise missing in history books. In many cases, the memories that were collected were not placed in cold storage. Rather they were readily shared in portals such as the Singapore Memory Project and other forms of creative expressions including murals, sketches and even poems. Below are a selected few.
 
+________
+
 **Murals of Bras Basah**
 
 ![Alt text for image on Isomer site](/images/sample-bb-murals-1.jpg)
@@ -60,6 +62,8 @@ Over the past decade, there has been a proliferation of social memories on place
 ![Alt text for image on Isomer site](/images/sample-bb-murals-5.jpg)
 
 ![Alt text for image on Isomer site](/images/sample-bb-murals-6.jpg)
+
+________
 
 **Sketches of Bras Basah**
 
