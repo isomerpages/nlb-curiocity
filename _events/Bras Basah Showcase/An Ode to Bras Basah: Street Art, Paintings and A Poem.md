@@ -4,25 +4,11 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-#### **Becoming Bras Basah.Bugis**
+#### **In Need For Renewal**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
 
-[![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-6.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-7.jpg)
-asdsa
-
-
 To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. The renewal process saw many buildings being torn down and redeveloped.
-
-![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg)
 
 _______
 
@@ -35,14 +21,23 @@ _______
 
 _____
 
+[![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
 
-Development guide plans (DGPs) are detailed short- to medium-term land-use plans completed between 1993 and 1998 as part of a comprehensive review of the Master Plan 1985. The Urban Redevelopment Authority (URA), the national land-use planning agency, divided Singapore into 55 planning areas and drew up a DGP for each of these areas. A blueprint of the living, working and leisure environment in Singapore, the 55 DGPs together formed the overall Master Plan 1998, which was gazetted on 22 January 1999. The URA released the first of its 55 DGPs in 1993. The final DGP was released in July 1998 for the Punggol area and included detailed plans for Punggol 21.
+![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)
 
+![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)
 
+![Alt text for image on Isomer site](/images/sample-bb-renewal-7.jpg)
+
+#### **Becoming Bras Basah.Bugis**
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop it into a heritage, arts and learning enclave. To this end, the districts were branded as a single Bras Basah.Bugis (BBB) precinct. Guided by a development master plan, buildings in the areas including former schools grounds, cinemas and bookstores were redeveloped as offices, shopping centres and hotels. Some were conserved and repurposed as museums and cultural and heritage spaces.
 
 The sliders below show the remarkable transformation that Bras Basah underwent since the 1980s.
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg)
+
+#### **Becoming Bras Basah.Bugis**
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
