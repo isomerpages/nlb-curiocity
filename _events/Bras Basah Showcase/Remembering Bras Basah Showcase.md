@@ -12,7 +12,6 @@ The **Remembering Bras Basah** showcase provides this journey of discovery. With
 
 To begin this journey of discovery, please click the button below.
 
-<br>
 <html>
 <head>
 <style>
