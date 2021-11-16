@@ -8,7 +8,7 @@ third_nav_title: Bras Basah Showcase
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
 
-To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. 
+To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. The renewal process saw many buildings being torn down and redeveloped.
 
 
 Development guide plans (DGPs) are detailed short- to medium-term land-use plans completed between 1993 and 1998 as part of a comprehensive review of the Master Plan 1985. The Urban Redevelopment Authority (URA), the national land-use planning agency, divided Singapore into 55 planning areas and drew up a DGP for each of these areas. A blueprint of the living, working and leisure environment in Singapore, the 55 DGPs together formed the overall Master Plan 1998, which was gazetted on 22 January 1999. The URA released the first of its 55 DGPs in 1993. The final DGP was released in July 1998 for the Punggol area and included detailed plans for Punggol 21.
