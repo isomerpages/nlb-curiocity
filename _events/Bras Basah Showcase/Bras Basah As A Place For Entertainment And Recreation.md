@@ -172,29 +172,4 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 | [![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3baef-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 |  Both Diamond Theatre and Royal Theatre continued with their new leases of life as Indians cinemas until the late 1970s when the government announced its plans to renew the area, leading to the closure and demolition of the two theatres to make way for new development. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3baef-1162-11e3-83d5-0050568939ad)){:target="_blank"} |
 
--------
-
-<br>
-<html>
-<head>
-<style>
-.button {
-  background-color: #BA0C2F;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-</head>
-<body>
-
-<a href="food"><input type="button" class="button" value="Click here or the 'Next' button below to move to the next section"></a>
-
-</body>
-</html>
+___________
