@@ -93,9 +93,9 @@ The Red House Bakery is a popular reference to a relict confectionery shop known
 |  |
 |:---:|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad)|
-A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad))|
+A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
-|This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad))|
+|This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
 ----
 
@@ -119,7 +119,7 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad) |
 | The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad) |
-| One of the most popular street food in the area was satay. In fact, the original Satay Club was located along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| One of the most popular street food in the area was satay. In fact, the Satay Club that we know today in Gardens by the Bay started its days along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/) |
 | Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Photo via [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
