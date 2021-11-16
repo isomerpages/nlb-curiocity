@@ -26,7 +26,7 @@ _________
 	
 </details>
 
-----
+________
 
 **Shanghai Book Company**
 
@@ -55,7 +55,17 @@ The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/S
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad)|
 |Today, its flagship store is located at Bras Basah Complex. |
 
-----
+_________
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">In 2014, the Singapore Memory Project collaborated with the Chou Sing Chu Foundation to embark on the <a href="https://www.singaporememory.sg/campaigns/irememberbookstores?nextrecord=12&listtype=campaigns&id=89&campaign=irememberbookstores" target="_blank"> irememberBookstore</a> initiative – a ground up movement that involves the gathering of memories and stories from the public as well as independent bookstores, book chains and book lovers. Through the initiative, precious memories including those related to the bookstores on Bras Basah Road were collected. Below is one of them, contributed by Mr Yeo Hong Eng. Click here to a part of it.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"It was in one of the mornings of early January 1959, we went to Bras Basah Road via the No. 1 red and white Changi bus...I was lost for words when we walked along the corridors of the shops. Almost every shop was a bookshop – old and new. Periodicals, newspapers, weekenders, magazines..., school textbooks...,  fictional books, non-fiction books of varied different genres, stationery, etc. I felt groggy. To try to save a few dollars, we tried to hunt from the second-hand book stores. I remembered that I was excited when I got one of the books. It was entitled  “The World.” It was a Geography book. Then we proceeded to the book stores that sold new ones. We went in and out almost all the shops from the whole length of Bras Basah Road from Victoria Street to Prinsep Street...When I reached home I spent some time to wrap up those books I purchased with either brown Manila paper or expired monthly calendar with the unprinted back facing out. I found it too precious to dog-ear my books to indicate the pages that I stop referring to. I used chicken feathers as bookmarks. I was excited when I saw some fine feathers actually ‘growing’ from the main ones. I could not believe it. But when checked with some adult friends, they confirmed that feathers put in between books could grow. Surprise? Surprise? Surprise? That was my first experience of book purchasing." </span>
+	
+</details>
+
+________
+
 
 **Methodist Publishing House**
 
@@ -83,7 +93,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-3.jpg) |
 | During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums. |
 
 _______
