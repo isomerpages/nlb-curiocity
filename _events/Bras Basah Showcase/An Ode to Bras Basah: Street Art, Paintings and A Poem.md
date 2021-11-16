@@ -8,7 +8,21 @@ third_nav_title: Bras Basah Showcase
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
 
+[![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-6.jpg)
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-7.jpg)
+asdsa
+
+
 To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. The renewal process saw many buildings being torn down and redeveloped.
+
+![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg)
 
 _______
 
