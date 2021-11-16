@@ -31,7 +31,7 @@ _____
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge?</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture poscards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
 	
 </details>
 
