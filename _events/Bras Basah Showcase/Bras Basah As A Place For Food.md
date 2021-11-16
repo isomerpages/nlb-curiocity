@@ -125,15 +125,15 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 Today, these Bras Bash street hawkers have been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the videos below by Channel NewsAsia and the National Heritage Board as well as independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) to learn not only about the Indian rojak dish that gave Waterloo Street its food heritage trademark, but the history of our hawkers culture.
 
-**Our Grandfather's Story "Flavours of Waterloo Street - Indian Rojak"**
+**"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Channel NewsAsia's "Best of Singapore on Film: Open Air Restaurant" Documentary**
+**"Best of Singapore on Film: Open Air Restaurant" Documentary by Channel NewsAsia**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4Qm5j0fh70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**National Heritage Board's "Hawker Culture in Singapore – What it Means to Singaporeans"**
+**"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
