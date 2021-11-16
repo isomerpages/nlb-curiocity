@@ -14,6 +14,8 @@ The map below geo-tagged the various resources this digital story used to narrat
 
 [![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html)
 
-#### **A Timeline Perspective on the Resources on Bras Basah**
+#### **Timeline on the Resources of Bras Basah**
+
+If you need a timeline perspective on some of the resources that were used in this showcase, please click on the graph below.
 
 [![Alt text for image on Isomer site](/images/sample-bb-timeline.jpg)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1elGCCYQz0c2R57DJiL0Umm8TqV_wwSDbsVC-xUD6JZA&font=Default&lang=en&initial_zoom=2&height=650)
