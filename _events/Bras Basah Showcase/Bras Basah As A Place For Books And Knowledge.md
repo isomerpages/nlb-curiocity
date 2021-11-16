@@ -114,7 +114,7 @@ The Songs We Sang is a 2015 documentary about the Xinyao movement. Directed by E
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
-| Although the Xinyao movement has faded into yet another page of our history, Bras Basah complex is still standing along Bras Basah Road, serving as a one-stop centre for educational books and art materials. |
+| Although the Xinyao movement has faded into yet another page of our history, Bras Basah complex is still standing along Bras Basah Road, serving as a one-stop centre for educational books and art materials. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/bras-basah-complex){:target="_blank"}) |
 
 ------
 
