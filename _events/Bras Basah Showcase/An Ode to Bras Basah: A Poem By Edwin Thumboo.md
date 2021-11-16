@@ -4,7 +4,11 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-Place Poem
+#### **Becoming Bras Basah.Bugis**
+
+Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested, housing overcrowded with poor sanition, and its colonial era shophouses in dilapidated condition. 
+
+To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. 
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Edwin Thumboo's "Bras Basah" (1953)</span></summary>
