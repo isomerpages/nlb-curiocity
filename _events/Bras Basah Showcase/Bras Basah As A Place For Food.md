@@ -147,27 +147,3 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 </details>
 
 ----
-
-<html>
-<head>
-<style>
-.button {
-  background-color: #BA0C2F;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-</head>
-<body>
-
-<a href="books"><input type="button" class="button" value="Click here or the 'Next' button below to move to the next section"></a>
-
-</body>
-</html>
