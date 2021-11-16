@@ -33,7 +33,7 @@ To begin this journey of discovery, please click the button below.
 </head>
 <body>
 
-<a href="early-bb"><input type="button" class="button" value="Click here or the 'Next' button below to start the journey"></a>
+<a href="early-bb"><input type="button" class="button" value="Click here to start the journey"></a>
 
 </body>
 </html>
