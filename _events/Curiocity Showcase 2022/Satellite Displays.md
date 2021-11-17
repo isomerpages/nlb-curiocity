@@ -4,7 +4,7 @@ permalink: /events/Curiocity-Showcase-2022/satellite
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
-## **Satellite Displays**
+## **Satellite Installations**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
