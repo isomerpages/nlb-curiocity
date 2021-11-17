@@ -31,7 +31,7 @@ ___
 #### **Find out more!**
 If you're keen on a day out, open up this **map for a self-exploration trail of Singapore River**! Discover the bridges along the river and check out sights you might not have noticed before.
 
-Feeling curious about the history of landmarks and events in the Civic District? Explore these **resource packages** for reading materials on:
+Feeling curious about the history of places and events in the Civic District? Explore these **resource packages** for reading materials on:
 * Notable landmarks
 * Bridges along Singapore River
 * Sports and recreation
