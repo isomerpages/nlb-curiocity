@@ -4,9 +4,7 @@ permalink: /events/curiocity-showcase-2022
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
-
-
-#### **Curiocity: Places & Perspectives**
+## **Curiocity: Places & Perspectives**
 Looking at our modern and futuristic cityscape today, it is easy to forget that Singapore was once home to quiet fishing villages and lush forests. And as we’ve changed, so has our cityscape. By spotlighting places known for entertainment and relaxation, particularly in downtown Singapore, Curiocity gives us an opportunity to look back and examine our history of spaces and ask what we might have gained or lost and what we can learn from them.
 
 *Curiocity: Places & Perspectives* is a showcase that enables Singapore collections from the National Library Board and its partners to be accessible outside of the libraries and archives in new ways. Accessible in varied formats both in-person and online, Curiocity invites you to be inspired to discover, learn and engage with our island’s history. Presented in partnership with the Light to Night Festival 2022, Curiocity will be held at the National Library Building (3 January - 3 February 2022) and across several locations in the Civic District (14 January - 3 February 2022).
