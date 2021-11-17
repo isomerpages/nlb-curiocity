@@ -11,17 +11,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Pr
 
 ___
 
-#### **Now You See Me, Now You Don't**
-<br>**3 January - 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
+**Cartographic Memories**
+<br>**14 January - 3 February 2022**
+<br>**Asian Civilisations Museum (level 2)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
-#### **A Tessellation of Memories**
+**A Tessellation of Memories**
 <br>**14 January - 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
+<br>**The Arts House (Playden, level 2)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+**LUMBA**
+<br>**14 January - 3 February 2022**
+<br>**Esplanade Park (Queen Elizabeth Walk)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
 ___
 
 #### **Resources**
-Interested to find out more about the history of entertainment spots in Bras Basah Bugis and Civic District areas? Check out this [resource package](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) for reading materials or explore a [story map](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) here.
+Keen to learn the history of landmarks and events in the Civic District? Explore these resource packages for reading materials on:
+* Notable landmarks
+* Bridges along Singapore River
+* Sports and recreation
