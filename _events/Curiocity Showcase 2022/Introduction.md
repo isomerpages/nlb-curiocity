@@ -24,27 +24,27 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Find out more here.
 
 **Now You See Me, Now You Don't**
-<br>**Dates: 3 January - 3 February 2022**
-<br>**Venue: National Library Building (Plaza, level 1)**
+<br>Dates: 3 January - 3 February 2022
+<br>Venue: National Library Building (Plaza, level 1)
 <br>
 <br>**Jubilee Cinema 2065**
-<br>**Dates: 14 January - 3 February 2022**
-<br>**Venue: National Library Building (Plaza, level 1)**
+<br>Dates: 14 January - 3 February 2022
+<br>Venue: National Library Building (Plaza, level 1)
 
 ##### **SATELLITE INSTALLATIONS**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Find out more here.
 
 **Cartographic Memories**
-<br>**Dates: 14 January - 3 February 2022**
-<br>**Venue: Asian Civilisations Museum (level 2)**
+<br>Dates: 14 January - 3 February 2022
+<br>Venue: Asian Civilisations Museum (level 2)
 <br>
 <br>**The Tessellation of Memories**
-<br>**Dates: 14 January - 3 February 2022**
-<br>**Venue: The Arts House (Playden, level 2)**
+<br>Dates: 14 January - 3 February 2022
+<br>Venue: The Arts House (Playden, level 2)
 <br>
 <br>**LUMBA**
-<br>**Dates: 14 January - 3 February 2022**
-<br>**Venue: Esplanade Park (Queen Elizabeth Walk)**
+<br>Dates: 14 January - 3 February 2022
+<br>Venue: Esplanade Park (Queen Elizabeth Walk)
 
 
 ________
