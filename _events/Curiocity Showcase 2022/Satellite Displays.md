@@ -11,18 +11,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Pr
 
 ___
 
-**Cartographic Memories**
-<br>**14 January - 3 February 2022**
+#### **Cartographic Memories**
+**14 January - 3 February 2022**
 <br>**Asian Civilisations Museum (level 2)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
-**A Tessellation of Memories**
-<br>**14 January - 3 February 2022**
+#### **A Tessellation of Memories**
+**14 January - 3 February 2022**
 <br>**The Arts House (Playden, level 2)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
-**LUMBA**
-<br>**14 January - 3 February 2022**
+#### **LUMBA**
+**14 January - 3 February 2022**
 <br>**Esplanade Park (Queen Elizabeth Walk)**
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
 
