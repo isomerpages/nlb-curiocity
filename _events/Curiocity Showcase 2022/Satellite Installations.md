@@ -1,0 +1,38 @@
+---
+title: Satellite Installations
+permalink: /events/Curiocity-Showcase-2022/satellite
+description: ""
+third_nav_title: Curiocity Showcase 2022
+---
+
+## **Satellite Installations**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+___
+
+#### **Cartographic Memories**
+**14 January - 3 February 2022**
+<br>**Asian Civilisations Museum (level 2)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+#### **A Tessellation of Memories**
+**14 January - 3 February 2022**
+<br>**The Arts House (Playden, level 2)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+#### **LUMBA**
+**14 January - 3 February 2022**
+<br>**Esplanade Park (Queen Elizabeth Walk)**
+<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+
+___
+
+#### **Find out more!**
+If you're keen on a day out, open up this **map for a self-exploration trail of Singapore River**! Discover the bridges along the river and check out sights you might not have noticed before.
+
+Feeling curious about the history of places and events in the Civic District? Explore these **resource packages** for reading materials on:
+* Notable landmarks
+* Bridges along Singapore River
+* Sports and recreation
