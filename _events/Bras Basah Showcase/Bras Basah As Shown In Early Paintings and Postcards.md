@@ -53,7 +53,7 @@ During the 19th century, much of Singapore's early growth and progress including
 | | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/painting-1.jpg)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}|
-| This 1837 lithograph, titled View of Singapore from Government Hill, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church. (Image via [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091)) |
+| This 1837 lithograph, titled View of Singapore from Government Hill, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church. (Image via [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/painting-3.jpg)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}|
 |This 1861 coloured lithograph by W. Gray. It gives a panoramic view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the Right. Buildings including St Andrew's Cathedral, Raffles Institution and others like the Court House can all be seen clearly. (Image via [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/painting-4.jpg)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}|
