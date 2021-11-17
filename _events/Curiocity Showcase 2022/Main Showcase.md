@@ -28,4 +28,4 @@ ___
 #### **Resources**
 Watch this **video** to find out more about the Bras Basah neighbourhood, where the installations take inspiration from.
 
-Interested to find out more about the history of entertainment spots in Bras Basah Bugis and Civic District areas? Check out this [**resource package**](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) for reading materials or explore a [**story map**](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) here.
+Interested to learn the history of entertainment spots in Bras Basah Bugis and Civic District areas? Check out this [**resource package**](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) for reading materials or explore a [**story map**](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) here.
