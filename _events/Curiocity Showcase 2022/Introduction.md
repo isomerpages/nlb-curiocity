@@ -21,29 +21,38 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 
 
 **MAIN SHOWCASE TITLE**
-<br>**3 January - 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+<br>**Dates: 3 January - 3 February 2022**
+<br>**LIGHT INSTALLATION  TITLE**
+<br>**Dates: 14 January - 3 February 2022**
+<br>**Venue: National Library Building (Plaza, level 1)**
 
-**LIGHT INSTALLATION  TITLE**
-<br>**14 January - 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+Find out more here.
 
 **SATELLITE ACTIVATION #1 TITLE**
-<br>**14 January - 3 February 2022**
-<br>**Asian Civilisations Museum (level 2)**
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+<br>**Dates: 14 January - 3 February 2022**
+<br>**Venue: Asian Civilisations Museum (level 2)**
+
+Find out more here.
 
 **SATELLITE ACTIVATION #2 TITLE**
-<br>**14 January - 3 February 2022**
-<br>**The Arts House (Playden, level 2)**
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+<br>**Dates: 14 January - 3 February 2022**
+<br>**Venue: The Arts House (Playden, level 2)**
+
+Find out more here.
 
 **SATELLITE ACTIVATION #3 TITLE**
-<br>**14 January - 3 February 2022**
-<br>**Esplanade Park (Queen Elizabeth Walk)**
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla. 
+<br>**Dates: 14 January - 3 February 2022**
+<br>**Venue: Esplanade Park (Queen Elizabeth Walk)**
+
+Find out more here.
+
+________
+
+#### **Bras Basah Story Map & Resources**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla.
+
+Click here to access the resources and story map.
 
 ________
 
@@ -55,24 +64,8 @@ If you are at the Civic District, we have prepared a story map to guide you thro
 
 Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){:target="_blank"} to access the story map.
 
-_____
+________
 
-#### **Programmes**
+#### **Acknowledgements**
 
-Interested to learn more? Check out the programmes that we have lined up for you online and at various venues below. 
-
-##### **January 2022**
-
-| | | | | |
-| -------- | -------- | -------- | -------- | -------- |
-| **15 Jan**    | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Venue: Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
-| **25 Jan**     | Histories: *Architect, Surveyor and Statesman: Legacy of George Coleman*      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
-| **30 Jan**     | *Light to Night Festival: Traces and Echoes*     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
-
-##### **February 2022**
-
-| | | | | |
-| -------- | -------- | -------- | -------- | -------- |
-| **15 Feb**    | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Venue: Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
-| **25 Feb**     | Histories: *Architect, Surveyor and Statesman: Legacy of George Coleman*      | Venue: Imagination Room, Level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
-| **30 Feb**     | *Light to Night Festival: Traces and Echoes*     | Venue: Imagination Room, level 5, National Library Building     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+(insert logos)
