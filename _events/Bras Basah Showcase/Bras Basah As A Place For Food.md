@@ -56,7 +56,7 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 
 **Hainanese Chicken Rice**
 
-As the [Hainanese chicken](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html) rice is said to have taken root in areas like Middle Roada and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origin for the beloved local fare.
+As the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html){:target="_blank"} is said to have taken root in areas like Middle Roada and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origin for the beloved local fare.
 
 | | 
 |:--------:| 
