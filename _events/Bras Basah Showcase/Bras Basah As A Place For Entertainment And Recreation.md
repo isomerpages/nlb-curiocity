@@ -153,7 +153,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 ---------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: National Archives of Singapore)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/beb55962-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
