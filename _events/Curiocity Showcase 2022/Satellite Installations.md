@@ -19,7 +19,7 @@ of the city over time. Cartographic Memories, by media artist Ong Kian Peng, is 
 #### **A Tessellation of Memories**
 **14 January - 3 February 2022**
 <br>**The Arts House (Playden, level 2)**
-<br>Enter into a dark realm and get transported back in time,  lost in the dimension. Through memories in the Civic District, explore fragments of Singapore's developments over the years and how life was like. This installation is created by interactive agency, Tribal Worldwide.
+<br>Enter into a dark realm and get transported back in time,  lost in the dimension. Through memories in the Civic District, explore fragments of Singapore's social developments over the years and how life was like. This installation is created by interactive agency, Tribal Worldwide.
 
 
 #### **LUMBA**
