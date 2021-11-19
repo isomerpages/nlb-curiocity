@@ -21,7 +21,7 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 
 
 ##### **MAIN SHOWCASE**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Find out more here.
+There is never a dull moment in the city, home to several iconic entertainment sites. Discover the vibrancies hidden in our past and explore the hood in a different light this new year. Join us! Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/main).
 
 **Now You See Me, Now You Don't**
 <br>Dates: 3 January - 3 February 2022
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Pr
 <br>Venue: National Library Building (Plaza, level 1)
 
 ##### **SATELLITE INSTALLATIONS**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Find out more here.
+Spot Curiocity installations as we pop up in the Civic District during Night to Light Festival 2022. The activations will bring you through history through new and creative interpretations by local artists. Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/satellite).
 
 **Cartographic Memories**
 <br>Dates: 14 January - 3 February 2022
@@ -51,9 +51,9 @@ ________
 
 #### **Bras Basah Story Map & Resources**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac nulla arcu. Proin blandit sodales mauris vitae gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce consectetur ornare nisi, porttitor feugiat justo finibus non. Sed at ipsum in magna ultrices tempus. Vestibulum id leo bibendum, accumsan lorem ut, egestas nulla.
+Much are left to be discovered in the Bras Basah and Bugis areas. We have put together various curated resources that provide insights into past and present moments that built the precinct to what it is today.
 
-Click here to access the story map and resources.
+Click here to access the story map and resources. You won't want to miss these out!
 
 ________
 
