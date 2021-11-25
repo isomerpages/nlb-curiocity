@@ -13,7 +13,7 @@ To address these issues, the government led by the Urban Redevelopment Authority
 |   |
 |:-----:|
 | [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
-| A 1974 photograph showing a traffic jam along Bras Basah Road.  |
+| A 1974 photograph showing a traffic jam along Bras Basah Road. (Photo via National Archives of Singapore  |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
 |   |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
