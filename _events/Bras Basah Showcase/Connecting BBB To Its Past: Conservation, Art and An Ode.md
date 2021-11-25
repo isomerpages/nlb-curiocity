@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 #### **In Need For Renewal**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need or a renewal as its streets were congested and colonial era shophouses in dilapidated condition. 
@@ -26,9 +25,11 @@ ________
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
 
-Guided by the Development Guide Plan (DGP), buildings in the areas including former school buildings, cinemas, shophouses and book stores were redeveloped as offices, shopping centres and hotels. Some were conserved and turned into museums and cultural and heritage spaces.
+Guided by the Development Guide Plan (DGP), buildings in the area ranging from school buildings to cinemas and shophouses were turned into commercial spaces as well as cultural and heritage spaces.
 
-The sliders below show some of these buildings. Click on the images to interact with them.
+As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
+
+The sliders below show some of these conserved buildings. Click on the images to interact with them.
 
 |   |
 |:-----:|
