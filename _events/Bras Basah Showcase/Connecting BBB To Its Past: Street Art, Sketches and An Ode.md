@@ -8,7 +8,7 @@ third_nav_title: Bras Basah Showcase
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife activities. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
 
-To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the on-going urban renewal programme to Bras Basah and Bugis. This process saw many buildings being torn down and redeveloped.
+To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the urban renewal programme to Bras Basah and Bugis. This process saw many buildings being torn down and redeveloped.
 
 _______
 
