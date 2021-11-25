@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/ode-bb
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 #### **In Need For Renewal**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need or a renewal as its streets were congested and colonial era shophouses in dilapidated condition. 
@@ -153,7 +152,7 @@ _______
 
 #### **Tracking the History of Bras Basah Through Space and Time**
 
-In the next stage of Curiocity's development, we would be tracking ours as well as our partners resources on the different places of Singapore including Bras Basah using space and time. Below are two samples on how we envisioned this new method of search and retrieval.
+In the next stage of Curiocity's development, we will be using ours and our partners' resources as one of the methods to track the history of different places in Singapore including Bras Basah. Below are two ways how we intend to do that, thus allowing us to connect the present to the past.
 
 #### **Resource Map on Bras Basah**
 
