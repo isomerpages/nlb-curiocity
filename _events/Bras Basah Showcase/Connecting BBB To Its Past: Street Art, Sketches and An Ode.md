@@ -6,9 +6,9 @@ third_nav_title: Bras Basah Showcase
 ---
 #### **In Need For Renewal**
 
-Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife in the two districts. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
+Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife activities. But like other inner city areas, the streets were congested and its colonial era shophouses in dilapidated condition. 
 
-To address these issues, the government led by the Urban Redevelopment Authority (URA) released a series of Development Guide Plan (DGP) to renew the central built-up area including Bugis and Bras Basah. The renewal process saw many buildings being torn down and redeveloped.
+To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the on-going urban renewal programme to Bras Basah and Bugis. This process saw many buildings being torn down and redeveloped.
 
 _______
 
@@ -34,7 +34,9 @@ _____
 
 #### **Becoming Bras Basah.Bugis**
 
-By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop it into a heritage, arts and learning enclave. To this end, the districts were branded as a single Bras Basah.Bugis (BBB) precinct. Guided by a development master plan, buildings in the areas including former schools grounds, cinemas and bookstores were redeveloped as offices, shopping centres and hotels. Some were conserved and repurposed as museums and cultural and heritage spaces.
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
+
+Guided by the Development Guide Plan (DGP), buildings in the areas including former schools grounds, cinemas and bookstores were redeveloped as offices, shopping centres and hotels. Some were conserved and repurposed as museums and cultural and heritage spaces.
 
 The photographs below show the remarkable transformation that Bras Basah underwent since the 1980s.
 
