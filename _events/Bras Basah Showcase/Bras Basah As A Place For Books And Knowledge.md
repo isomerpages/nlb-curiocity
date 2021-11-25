@@ -187,5 +187,3 @@ ______
 While the photo essay and memories above provide an insight on how Bras Basah thrived as a place for books and knowledge, it became even clearer if we were to plot some of these places on a map. See the story map below to understand what we meant.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
-
-Besides the story map above, memories of the former faculty and students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are some memories gathered from our collections.
