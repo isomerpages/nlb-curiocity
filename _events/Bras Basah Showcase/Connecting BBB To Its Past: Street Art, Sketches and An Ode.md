@@ -27,7 +27,7 @@ By the late 1980s, the Bras Basah and Bugis districts had developed a new shine 
 
 Guided by the Development Guide Plan (DGP), buildings in the areas including former school buildings, cinemas, shophouses and book stores were redeveloped as offices, shopping centres and hotels. Some were conserved and turned into museums and cultural and heritage spaces.
 
-The sliders below show some of these buildings. Click on the images to interact with the sliders.
+The sliders below show some of these buildings. Click on the images to interact with them.
 
 |   |
 |:-----:|
