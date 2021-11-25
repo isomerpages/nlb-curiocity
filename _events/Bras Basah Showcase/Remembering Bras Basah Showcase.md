@@ -42,5 +42,3 @@ To begin this journey of discovery, please click the button below.
 
 </body>
 </html>
-
-
