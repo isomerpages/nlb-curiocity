@@ -147,9 +147,3 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 </details>
 
 ____
-
-<div class="videoWrapper">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
