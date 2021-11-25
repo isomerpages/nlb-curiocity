@@ -155,10 +155,6 @@ Some of these entertainment and recreation spaces were  featured in documentarie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**1961 Visit Singapore Campaign from the National Archives of Singapore YouTube Channel**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iFjv7I2bFRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 _____
 
 <details>
