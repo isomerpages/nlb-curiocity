@@ -19,6 +19,8 @@ To address these issues, the government led by the Urban Redevelopment Authority
 | [![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad) |
 |  An aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesu, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
 
+________
+
 #### **Becoming Bras Basah.Bugis**
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
