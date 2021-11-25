@@ -25,9 +25,9 @@ ________
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
 
-Guided by the Development Guide Plan (DGP), buildings in the areas including former schools grounds, cinemas and bookstores were redeveloped as offices, shopping centres and hotels. Some were conserved and repurposed as museums and cultural and heritage spaces.
+Guided by the Development Guide Plan (DGP), buildings in the areas including former school buildings, cinemas, shophouses and book stores were redeveloped as offices, shopping centres and hotels. Some were conserved and turned into museums and cultural and heritage spaces.
 
-The sliders below show some of 
+The sliders below show some of these buildings. Click on the images to interact with the sliders.
 
 |   |
 |:-----:|
