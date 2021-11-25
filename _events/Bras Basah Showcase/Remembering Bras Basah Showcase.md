@@ -39,3 +39,8 @@ To begin this journey of discovery, please click the button below.
 </html>
 
 
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| ![Alt text for image on Isomer site](/images/test1.jpg)    | ![Alt text for image on Isomer site](/images/test1.jpg)    | 
+
