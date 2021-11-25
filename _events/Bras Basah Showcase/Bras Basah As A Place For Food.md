@@ -140,7 +140,7 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Bras Basah was vividly remembered by Jerome Lim in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Bras Basah was vividly remembered by Jerome Lim in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>. Click here to read what he wrote.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Running perpendicular to Bras Basah was a street named Waterloo Street. What was thought to be the best Indian Rojak in Singapore was found among the row of maybe five or six “sarabat” stalls along Waterloo Street close to where it crosses Bras Basah Road. I frequented the stalls at least once a week for a while, not so much for the Indian Rojak, but for the Mee Rebus, a dish of boiled noodles covered in a thick brown gravy. One of the stalls offered a unique variation of the dish with a very nutty version of the gravy which I enjoyed on my weekly visits."</span>
 	
