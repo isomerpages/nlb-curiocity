@@ -12,6 +12,11 @@ The **Remembering Bras Basah** showcase provides this journey of discovery. With
 
 To begin this journey of discovery, please click the button below.
 
+
+|  |  | 
+| -------- | -------- | 
+| ![Alt text for image on Isomer site](/images/test1.jpg)    | ![Alt text for image on Isomer site](/images/test1.jpg)    |
+
 <html>
 <head>
 <style>
@@ -38,9 +43,4 @@ To begin this journey of discovery, please click the button below.
 </body>
 </html>
 
-
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| ![Alt text for image on Isomer site](/images/test1.jpg)    | ![Alt text for image on Isomer site](/images/test1.jpg)    | 
 
