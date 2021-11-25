@@ -124,16 +124,6 @@ The Songs We Sang is a 2015 documentary about the Xinyao movement. Directed by E
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-----
-
-#### **The Schools of Bras Basah**
-
-The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
-
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
-
-Besides the story map above, memories of the former faculty and students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are some memories gathered from our collections.
-
 -----
 
 <details>
@@ -189,3 +179,13 @@ Though the old National library was demolished almost 15 years ago in 2004, it w
 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+______
+
+#### **The Schools of Bras Basah**
+
+The students that usually thronged the bookshops along Bras Basah Road and North Bridge Road were from schools across the island as well as those within Bras Basah. The story map below shows where these Bras Basah schools were once located in the district.
+
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
+
+Besides the story map above, memories of the former faculty and students of these schools also provide a powerful insight into how life was like in Bras Basah. Below are some memories gathered from our collections.
