@@ -53,6 +53,8 @@ ________
 
 **Murals of Bras Basah**
 
+https://weekender.com.sg/w/events_entertainment/new-murals-bras-basah-celebrate-80-years-heritage/5/
+
 ![Alt text for image on Isomer site](/images/sample-bb-murals-1.jpg)
 
 ![Alt text for image on Isomer site](/images/sample-bb-murals-2.jpg)
