@@ -148,14 +148,8 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 
 ____
 
-<div class="image-left embed-video">
-
 <div class="videoWrapper">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4Qm5j0fh70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<p>Students at the University of Leicester say how they feel about studying here. One of the most common quotes is that the University is warm, friendly and welcoming, this short clip shows why students feel at home so quickly.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
