@@ -100,9 +100,9 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Jerome Lim remembers the Red House in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">oral history interview</a>.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"At the other corner across Victoria Street, was a red coloured shophouse which housed a bakery – the “Red House” as we often referred to it. The bakery also operated a café on the second storey where one could have a “set lunch” – a three course meal, with a soup, a main course, and a dessert, with coffee or tea for $5, during lunch time."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
 	
 </details>
 
@@ -147,4 +147,3 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
