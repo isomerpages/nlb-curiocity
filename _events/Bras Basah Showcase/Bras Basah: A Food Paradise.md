@@ -123,6 +123,17 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/) |
 | Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Photo via [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
+______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Waterloo Street was vividly remembered by Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, in his 2005 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">oral history interview</a>. Click here to read what he shared.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up tehre and he picks it up on that side. Oh, it was really something."</span>
+	
+</details>
+
+____
+
 Today, these Bras Bash street hawkers have been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the videos below by Channel NewsAsia and the National Heritage Board as well as independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) to learn not only about the Indian rojak dish that gave Waterloo Street its food heritage trademark, but the history of our hawkers culture.
 
 **"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
@@ -137,13 +148,3 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-----
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Waterloo Street was vividly remembered by Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, in his 2005 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">oral history interview</a>. Click here to read what he shared.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up tehre and he picks it up on that side. Oh, it was really something."</span>
-	
-</details>
-
-____
