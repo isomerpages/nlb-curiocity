@@ -15,30 +15,4 @@ To begin this journey of discovery, please click the button below.
 
 |  |  | 
 | -------- | -------- | 
-| ![Alt text for image on Isomer site](/images/test1.jpg)    | ![Alt text for image on Isomer site](/images/test1.jpg)    |
-
-<html>
-<head>
-<style>
-.button {
-  background-color: #BA0C2F;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
-	width: 100%;
-	word-wrap: break-word;
-}
-</style>
-</head>
-<body>
-
-<a href="early-bb"><input type="button" class="button" value="Click here to start the journey"></a>
-
-</body>
-</html>
+| ![Alt text for image on Isomer site](/images/story-map-journey.jpg)    | ![Alt text for image on Isomer site](/images/showcase-journey.jpg)    |
