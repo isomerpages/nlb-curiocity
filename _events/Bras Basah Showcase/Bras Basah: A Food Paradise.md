@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/food
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 #### **A Place for Food**
 
 Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
@@ -141,9 +140,9 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Bras Basah was vividly remembered by Jerome Lim in his <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>. Click here to read what he wrote.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Waterloo Street was vividly remembered by Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, in his 2005 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">oral history interview</a>. Click here to read what he shared.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Running perpendicular to Bras Basah was a street named Waterloo Street. What was thought to be the best Indian Rojak in Singapore was found among the row of maybe five or six “sarabat” stalls along Waterloo Street close to where it crosses Bras Basah Road. I frequented the stalls at least once a week for a while, not so much for the Indian Rojak, but for the Mee Rebus, a dish of boiled noodles covered in a thick brown gravy. One of the stalls offered a unique variation of the dish with a very nutty version of the gravy which I enjoyed on my weekly visits."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but"</span>
 	
 </details>
 
