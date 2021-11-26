@@ -8,9 +8,9 @@ third_nav_title: Bras Basah Showcase
 
 Bras Basah is one of the oldest districts of Singapore. With buildings both old and new co-existing along highly manicured and landscaped streets as old as the island's modern history, Bras Basah is a reflection of Singapore's unique identity as a multicultural society that thrives on its energetic future and vibrant past. However, to truly understand and feel Bras Basah's past and present, we have to transcend beyond its built heritage and enter the realm of resources where documentation such as photographs, paintings, postcards, maps and memories is located. Doing so will certainly stir curiosity among the young and nostalgia in the old, thus helping them to discover and rediscover this historical district.
 
-The **Remembering Bras Basah** showcase provides this journey of discovery. With 5 sections, it allows you to see Bras Basah as depicted in the myriad of resources and content from the collections of institutions such as the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as those compiled or created by heritage bloggers, fimmakers and even YouTubers just to name a few. 
+**Remembering Bras Basah** provides this journey of discovery. It allows you to see Bras Basah as depicted in the myriad of resources and content from the collections of institutions such as the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as those compiled or created by heritage bloggers, fimmakers and even YouTubers just to name a few. 
 
-To begin this journey of discovery, please click the button below.
+You can embark on this journey of discovery either by using a story map to harness the power of maps or a showcase that tells the story of Bras Basah through our and our partners' heritage collection.
 
 
 |  |  | 
