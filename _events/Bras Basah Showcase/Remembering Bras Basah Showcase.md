@@ -15,4 +15,4 @@ To begin this journey of discovery, please click the button below.
 
 |  |  | 
 | -------- | -------- | 
-| [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah/index.html)    | [![Alt text for image on Isomer site](/images/showcase-journey.jpg)]()    |
+| [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah/index.html)    | [![Alt text for image on Isomer site](/images/showcase-journey.jpg)](/events/bb-showcase/early-bb)    |
