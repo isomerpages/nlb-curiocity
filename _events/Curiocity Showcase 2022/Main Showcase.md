@@ -25,9 +25,10 @@ ___
 ___
 
 #### **Jubilee Cinema 2065**
-<br>**14 January - 3 February 2022**
+**14 January - 3 February 2022**
 <br>**National Library Building (Plaza, level 1)**
 
+**About the showcase:**
 <br>*Jubilee Cinema 2065* envisions a cinema of the future, where the public becomes the protagonists of their own movies, by reimagining the former Jubilee Theatre on Beach Road. Produced by design studio Space Objekt, the light installation seeks to explore notions of celebrity, cinema, entertainment, the live encounter, and participation in a not-so-distant future.
 
 **About the light installation:**
@@ -39,4 +40,4 @@ ___
 **About the artists:**
 <br>Founded by Tina Fung and Ash Razaque in 2017, Space Objekt is a Singapore-based boutique design studio that is reshaping the understanding of built environments and reimagining spatial experiences. Dedicated to making art accessible to all, Space Objekt redefines spaces with its creativity and dexterity in this new visual language. From small-scale props and immersive larger-than-life installations to interior design, the studio has been involved in a wide variety of projects across Asia and Europe, with brands like Summer Well Festival (Romania), Gucci, and Adidas. 
 
-Louis Quek is a sound designer and electronic music artist under the alias, Intriguant. Inspired by the human perception of environment and spaces, he blends textural soundscapes, rhythms, and backed with syncopated beats, in turn fusing the physical with the spiritual. Rooted in music and sound design, he delves into other media such as art installations, theatre, film, etc., with contributions in the scene that include National Gallery Singapore, Toy Factory Productions, Singapore International Festival of the Arts 2018/2019 and SG Artweek 2020/2021. 
+Louis Quek is a sound designer and electronic music artist under the alias, Intriguant. Inspired by the human perception of environment and spaces, he blends textural soundscapes, rhythms, and backed with syncopated beats, in turn fusing the physical with the spiritual. Rooted in music and sound design, he delves into other media such as art installations, theatre, film, etc., with contributions in the scene that include National Gallery Singapore, Toy Factory Productions, Singapore International Festival of the Arts 2018/2019 and SG Artweek 2020/2021.
