@@ -11,12 +11,8 @@ Bras Basah is one of the oldest districts of Singapore. With buildings both old 
 **Remembering Bras Basah** provides this journey of discovery. It allows you to see Bras Basah as depicted in the myriad of resources and content from the collections of institutions such as the National Library Board, the National Heritage Board and the Urban Redevelopment Authority as well as those compiled or created by heritage bloggers, fimmakers and even YouTubers just to name a few. 
 
 You can embark on this journey of discovery either by using a **story map** that harness the power of maps or a **virtual showcase** that tells the story of Bras Basah using our collections as well as our partners.
-
-
-|  |  | 
-| -------- | -------- | 
-| [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah/index.html)    | [![Alt text for image on Isomer site](/images/showcase-journey.jpg)](/events/bb-showcase/early-bb)    |
-
+<br>
+<br>
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
