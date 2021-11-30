@@ -16,3 +16,14 @@ You can embark on this journey of discovery either by using a **story map** that
 |  |  | 
 | -------- | -------- | 
 | [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah/index.html)    | [![Alt text for image on Isomer site](/images/showcase-journey.jpg)](/events/bb-showcase/early-bb)    |
+
+<div>
+	<div class="row is-multiline">
+	    <div class="col is-half-desktop is-half-tablet">
+	<a href="/read-to-be-sure/issue1-perspective4/"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
+	</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/read-to-be-sure/issue1-perspective2/"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
+</div>
+	</div> 
+	</div>
