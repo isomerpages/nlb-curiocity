@@ -23,7 +23,7 @@ Pull your socks up and get your phones ready. Use the map below to explore this 
 ##### **MAIN SHOWCASE**
 There is never a dull moment in downtown Singapore, home to several iconic entertainment sites. Discover the vibrancies hidden in our past and explore the hood in a different light this new year. Join us! Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/main).
 
-**Now You See Me, Now You Don't**
+**Now You See Me, Now You Don't (TBC)**
 <br>Dates: 3 January - 3 February 2022
 <br>Venue: National Library Building (Plaza, level 1)
 <br>
@@ -34,15 +34,15 @@ There is never a dull moment in downtown Singapore, home to several iconic enter
 ##### **SATELLITE INSTALLATIONS**
 Spot Curiocity installations as we pop up in the Civic District during Night to Light Festival 2022. The activations will bring you through history via new and creative interpretations by local artists. Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/satellite).
 
-**Cartographic Memories**
+**The River Connects**
 <br>Dates: 14 January - 3 February 2022
 <br>Venue: Asian Civilisations Museum (level 2)
 <br>
-<br>**The Tessellation of Memories**
+<br>**A Tessellation of Memories**
 <br>Dates: 14 January - 3 February 2022
 <br>Venue: The Arts House (Playden, level 2)
 <br>
-<br>**LUMBA**
+<br>**Lumba**
 <br>Dates: 14 January - 3 February 2022
 <br>Venue: Esplanade Park (Queen Elizabeth Walk)
 
@@ -53,7 +53,7 @@ ________
 
 Much are left to be discovered in the Bras Basah and Bugis areas. We have put together various curated resources that provide insights into past and present moments that built the precinct to what it is today.
 
-Click here to access the story map and resources. You won't want to miss these out!
+Click [here](https://curiocity.nlb.gov.sg/events/bb-showcase/intro) to access the virtual content showcase and story map. You won't want to miss these out!
 
 ________
 
