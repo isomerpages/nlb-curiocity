@@ -20,7 +20,7 @@ ___
 <br>The Merry Men Works is an experiential studio that designs and builds experiences that invoke a sense of delight in public spaces. From carpenters and tinkerers to designers and artists, the team is a diverse mix of hands-on problem solvers who take a project from its initial ideation to its final production. 
 
 **Find out more:**
-<br>Interested to learn the history of entertainment spots in Bras Basah Bugis and Civic District areas? Check out this [**resource guide**](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) for reading materials or explore a [**story map**](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) here.
+<br>Interested to learn the history of entertainment spots in Bras Basah Bugis and Civic District areas? Go through a **virtual content showcase** on Bras Basah [here](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment), check out [this](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) **resource guide** for reading materials, or explore a **story map** [here](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment).
 
 ___
 
