@@ -6,7 +6,7 @@ third_nav_title: Curiocity Showcase 2022
 ---
 ## **Programmes**
 
-Interested to learn more? Check out the programmes that we have lined up for you online and at various venues below. 
+Eager for more? Check out the programmes that we have lined up for you online and at various venues below. Be sure to register to secure a spot!
 
 ##### **Talks**
 
