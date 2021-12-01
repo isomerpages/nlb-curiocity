@@ -44,7 +44,7 @@ _____
 
 **Odeon Theatre**
 
-The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html){:target="_blank"} was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, during the nation-building years, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
+The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html){:target="_blank"} was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, from the 1950s to 1970s, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
 
 |  |
 | :--------: |
