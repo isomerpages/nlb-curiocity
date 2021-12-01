@@ -160,3 +160,8 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+______
+
+#### **Explore This Food Map of Old Bras Basah**
+
+[![Alt text for image on Isomer site](/images/bb-storymap-food.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-food-map/index.html){:target="_blank"}
