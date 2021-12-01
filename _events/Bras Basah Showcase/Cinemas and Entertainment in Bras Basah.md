@@ -168,32 +168,3 @@ _______
 Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
 
 [![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
-
-Some of these entertainment and recreation spaces were  featured in documentaries and historical audiovisual materials from the National Archives of Singapore as well as blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"}. Watch some of them below.
-
-**Singapore in 1961 from Michael Rogge's YouTube Channel**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bl1XQ2ipBJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Singapore in 1975 from Michael Rogge's YouTube Channel**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wCEMmips_OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_____
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge? And why he has footages of old Singapore? Click here to find out.</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
-	
-</details>
-
-_____
-
-While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. 
-
-Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
-
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
-
-________
