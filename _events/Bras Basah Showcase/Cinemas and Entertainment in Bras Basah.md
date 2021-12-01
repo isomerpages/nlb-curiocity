@@ -23,17 +23,18 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"} |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above). (Photo by [Nlannuzel via wikicommons](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"})  |
 
-**Cathay Building in 1951 from Michael Rogge's YouTube Channel**
+__________
 
 The Cathay Building was such an iconic structure that it was featured in many historical audiovisual materials including those in the National Archives of Singapore as well as blogs or social media channels maintained by heritage enthusiasts including Dutch photographer [Michael Rogge's](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"} YouTube channel. You can watch one of them on the Cathay Building below.
 <br>
 <br>
+**Cathay Building in 1951 from Michael Rogge's YouTube Channel**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge? And why he has footages of old Singapore? Click here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge? And why he has footages of old Singapore? Click or tap here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
 	
