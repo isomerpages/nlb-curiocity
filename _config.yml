@@ -38,18 +38,18 @@ defaults:
       layout: page
 colors:
   primary-color: "#f43c18"
-  secondary-color: "#ff4b0c"
+  secondary-color: "#eb7044"
   media-colors:
     - title: media-color-one
-      color: "#BA0C2F"
+      color: "#ee926f"
     - title: media-color-two
-      color: "#8E0628"
+      color: "#eab69e"
     - title: media-color-three
-      color: "#BA0C2F"
+      color: "#f8dace"
     - title: media-color-four
-      color: "#9D2235"
+      color: "#fbebe7"
     - title: media-color-five
-      color: "#BA0C2F"
+      color: "#f8f4f4"
 staging: https://staging-nlb-curiocity.netlify.com/
 prod: https://production-nlb-curiocity.netlify.com/
 plugins:
