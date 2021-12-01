@@ -25,9 +25,21 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 
 **Cathay Cinema in 1951 from Michael Rogge's YouTube Channel**
 
+Some of these entertainment and recreation spaces were  featured in documentaries and historical audiovisual materials from the National Archives of Singapore as well as blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"}. Watch some of them below.
+<br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-----
+_____
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge? And why he has footages of old Singapore? Click here to find out.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
+	
+</details>
+
+_____
 
 **Odeon Theatre**
 
