@@ -23,32 +23,36 @@ Ready to explore this year’s Curiocity showcase? Start your journey using the 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
 
-##### **MAIN SHOWCASE**
+#### **MAIN SHOWCASE**
 Home to several iconic entertainment sites, there is never a dull moment in downtown Singapore. Discover our vibrant past and explore the ’hood in a different light this year. Find out more about Curiocity [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/main)!
 
-**Now You See Me, Now You Don't (TBC)**
-<br>Dates: 3 January – 3 February 2022
-<br>Venue: National Library Building (Plaza, level 1)
+##### **Now You See Me, Now You Don't (TBC)**
+**Dates: 3 January – 3 February 2022
+<br>Venue: National Library Building (Plaza, level 1)**
+<br>The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
 <br>
-<br>**Jubilee Cinema 2065**
-<br>Dates: 14 January – 3 February 2022
-<br>Venue: National Library Building (Plaza, level 1)
+##### **Jubilee Cinema 2065**
+**Dates: 14 January – 3 February 2022
+<br>Venue: National Library Building (Plaza, level 1)**
+<br>Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
 
-##### **SATELLITE INSTALLATIONS**
+#### **SATELLITE INSTALLATIONS**
 Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/satellite).
 
-**The River Connects**
-<br>Dates: 14 January – 3 February 2022
-<br>Venue: Asian Civilisations Museum (level 2)
+##### **The River Connects**
+**Dates: 14 January – 3 February 2022
+<br>Venue: Asian Civilisations Museum (level 2)**
+<br>Discover the possibilities of connection made by the bridges along the Singapore River in this experiential media installation.
 <br>
-<br>**A Tessellation of Memories**
-<br>Dates: 14 January – 3 February 2022
-<br>Venue: The Arts House (Playden, level 2)
+##### **A Tessellation of Memories**
+**Dates: 14 January – 3 February 2022
+<br>Venue: The Arts House (Playden, level 2)**
+<br>Travel through time and space to the forgotten places of our city’s history.
 <br>
-<br>**Lumba**
-<br>Dates: 14 January – 3 February 2022
-<br>Venue: Esplanade Park (Queen Elizabeth Walk)
-
+##### **Lumba**
+**Dates: 14 January – 3 February 2022
+<br>Venue: Esplanade Park (Queen Elizabeth Walk)**
+<br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a sense of celebration.
 
 ________
 
