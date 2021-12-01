@@ -139,9 +139,12 @@ ______
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/bb-soy-bean.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-
+|[![Alt text for image on Isomer site](/images/bb-kacang-puteh.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
+|A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/bb-rex-curry-puffs.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
+|A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 Today, these Bras Bash street hawkers have been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the videos below by Channel NewsAsia and the National Heritage Board as well as independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) to learn not only about the Indian rojak dish that gave Waterloo Street its food heritage trademark, but the history of our hawkers culture.
 
