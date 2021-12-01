@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/food
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
 #### **A Place for Food**
 
 Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
@@ -152,7 +151,7 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 |In addition to Indian Rojak, tau huay (. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8609f171-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/bb-kacang-puteh.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/a91feb30-1162-11e3-83d5-0050568939ad) |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/old-chang-kee.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/afb7dba3-1161-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/old-chang-kee.jpg)](https://vulcanpost.com/641135/old-chang-kee-founder-history/) |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/albert-centre.jpg)](https://flic.kr/p/26UpxDK) |
 |Today, the street hawkers of old Bras Basah have been relocated to proper hawker centres such as the above Albert Centre Market and Food Centre where the standards of safety and hygiene were much higher. Although authorities had been trying to move hawkers from the streets [since the colonial period](https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html), it was only during the late 1970s that they were successful. This was mostly due to the more direct approach taken by the then Ministry of Environment. Despite the shift, the government was aware of the intangible influence that these hawkers have on the culture of Singapore. To see how they were being feted as a national treasure, you can watch the video below by the National Heritage Board. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
