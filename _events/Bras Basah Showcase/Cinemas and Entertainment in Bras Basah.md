@@ -4,8 +4,6 @@ permalink: /events/bb-showcase/entertainment
 description: ""
 third_nav_title: Bras Basah Showcase
 ---
-
-
 #### **Cinemas in Bras Basah**
 
 As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
@@ -145,7 +143,9 @@ _______
 
 #### **Beyond Cinemas**
 
-Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. 
+Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
+
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
 
 Some of these entertainment and recreation spaces were  featured in documentaries and historical audiovisual materials from the National Archives of Singapore as well as blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"}. Watch some of them below.
 
