@@ -73,22 +73,6 @@ Want to learn more about the Hainanese Chicken Rice? Watch this video featuring 
 
 ----
 
-**Magnolia Snack Bar**
-
-Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
-
-|  |
-|:---:|
-| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)|
-|Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
-|The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
-
-
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result
-
-----
-
 **Red House (Baker's Bakery)**
 
 At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
@@ -110,6 +94,23 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 </details>
 
 ----
+
+**Magnolia Snack Bar**
+
+Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
+
+|  |
+|:---:|
+| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)|
+|Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
+|The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
+
+
+https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result
+
+----
+
 
 **Street Hawkers of Old Bras Basah**
 
