@@ -73,7 +73,7 @@ Want to learn more about the Hainanese Chicken Rice? Watch this video featuring 
 
 ----
 
-**Magnolia Snack Bar (or Magnolia Milk Bar)**
+**Magnolia Snack Bar**
 
 Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
 
