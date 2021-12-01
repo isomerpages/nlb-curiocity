@@ -25,6 +25,15 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 
 __________
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these campuses were still located in Bras Basah. Click or tap here to read an account by Michael Lim, an ex-student from St Jospeh's Institution (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
+	
+</details>
+
+________________
+
 The Cathay Building was such an iconic structure that it was featured in many historical audiovisual materials including those in the National Archives of Singapore as well as blogs or social media channels maintained by heritage enthusiasts including Dutch photographer [Michael Rogge's](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"} YouTube channel. You can watch one of them on the Cathay Building below.
 <br>
 <br>
