@@ -12,10 +12,11 @@ _______
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click or tap here to read Victor Savage's and Brenda Yeoh's explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
-<br>
+<br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
 </details>
+
 
 _____
 
@@ -35,7 +36,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah" in the maps of Singapore from the 1890s? Click or tap here to read how <span style="font-style: italic;">The Straits Times</span> explains in 1899. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah" in the maps of Singapore from the 1890s? Click or tap here to read how <span style="font-style: italic;">The Straits Times</span> explains in 1899. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
 	
