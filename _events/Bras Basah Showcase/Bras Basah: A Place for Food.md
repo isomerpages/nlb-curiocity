@@ -106,9 +106,6 @@ Opened as the Creameries Milk Bar in 1937 within the premises of Capitol buildin
 |[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
-
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result
-
 ----
 
 
