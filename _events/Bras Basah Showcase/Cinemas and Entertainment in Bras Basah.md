@@ -55,26 +55,12 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 | [![Alt text for image on Isomer site](/images/sample-bb-odeon-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d416d7e6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by Odeon Tower and K. H. Kea Building. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d416d7e6-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
------
-
-
-**Red House (Baker's Bakery)**
-
-At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
-
-|  |
-|:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad)|
-A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
-|This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">oral history interview</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The closure was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
 	
 </details>
 
