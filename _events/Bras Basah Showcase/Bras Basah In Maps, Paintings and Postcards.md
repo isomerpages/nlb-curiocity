@@ -4,7 +4,6 @@ permalink: /events/bb-showcase/early-bb
 third_nav_title: Bras Basah Showcase
 description: ""
 ---
-
 #### **Early Maps on Bras Basah**
 
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html){:target="_blank"} 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html){:target="_blank"}, it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html){:target="_blank"} (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
@@ -12,7 +11,7 @@ Bras Basah is among the oldest districts in Singapore. Situated within the Europ
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click here to read Victor Savage's and Brenda Yeoh's explanation in their <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">book</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click or tap here to read Victor Savage's and Brenda Yeoh's explanation in *Singapore Street Names: A Study of Toponymics* (2013).</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
