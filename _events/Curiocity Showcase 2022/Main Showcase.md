@@ -22,7 +22,7 @@ ___
 **Find out more:**
 <br>Learn more about the history of entertainment spots in Bras Basah with [this](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) **virtual content showcase** and [this](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) **resource guide**.
 
-Keen to explore the area? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/) **Bras Basah.Bugis digital trails**.
+Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/) **Bras Basah.Bugis digital trails**.
 
 ___
 
