@@ -19,7 +19,7 @@ You can embark on this journey of discovery either by using a **story map** that
 	<a href="https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="/read-to-be-sure/issue1-perspective2/"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
+<a href="/events/bb-showcase/early-bb"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
 </div>
 	</div> 
 	</div>
