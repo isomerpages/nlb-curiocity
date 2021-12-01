@@ -67,7 +67,7 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The closure was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The closure of Odeon was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
 	
@@ -89,6 +89,15 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 |  The Capitol had a large projection room, which was located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector and was installed with fireproof protection shutters. Designed expressly for talkies, the theatre’s acoustics and soundproofing were said to be exceptional. Today, Capitol Building, along with its surrounding buildings including the former Stamford House, is now part of the mixed-use redevelopment, Capitol Singapore, after it was conserved as a historical landmark. (Photo by [Jacklee via wikicommons](https://commons.wikimedia.org/wiki/File:The_Plaza_and_Capitol_Theatre,_Capitol_Piazza,_Singapore_-_20150917.jpg){:target="_blank"}) |
 
 -------
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The closure was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
+	
+</details>
+
+----
 
 **Rex Cinemas**
 
