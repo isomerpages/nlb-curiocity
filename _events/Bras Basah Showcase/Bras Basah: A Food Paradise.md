@@ -131,11 +131,19 @@ ______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The street hawker scene of Waterloo Street was vividly remembered by Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, in his 2005 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">oral history interview</a>. Click here to read what he shared.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up tehre and he picks it up on that side. Oh, it was really something."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up the tea and he picks it up on that side. Oh, it was really something."</span>
 	
 </details>
-<br>
 
+______
+
+Besides Mosbergen's account, independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) also created the video below to help us learn about the dish that gave Waterloo Street its food heritage trademark - the Indian Rojak.
+
+**"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
 
 |  |
 |:---:|
@@ -146,14 +154,7 @@ ______
 |[![Alt text for image on Isomer site](/images/bb-rex-curry-puffs.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/bb-albert-centre.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
-|A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-
-Today, these Bras Bash street hawkers have been relocated to proper hawker centres including the nearby Albert Centre Market and Food Centre. However, their legacy lives on. Watch the videos below by Channel NewsAsia and the National Heritage Board as well as independent filmmakers including digital video publisher [Our Grandfather Story](https://ourgrandfatherstory.com/) to learn not only about the Indian rojak dish that gave Waterloo Street its food heritage trademark, but the history of our hawkers culture.
-
-**"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+|Today, the street hawkers of old Bras Basah have been relocated to proper hawker centres such as the above Albert Centre Market and Food Centre where the standards of safety and hygiene were much higher. Although authorities had been trying to move hawkers from the streets since the colonial period, it was only during the late 1970s that they were successful. This was mostly due to the more direct approach taken by the then Ministry of Environment. Despite the shift, the government was aware of the intangible influence that these hawkers have on the culture of Singapore. To see how they were being feted as a national treasure, you can watch the video below by the National Heritage Board. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
