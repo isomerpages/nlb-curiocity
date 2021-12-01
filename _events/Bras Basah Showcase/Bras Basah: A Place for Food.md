@@ -89,9 +89,9 @@ https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result
 
 ----
 
-**Red House**
+**Red House (Baker's Bakery)**
 
-At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery known as the Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
+At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
 
 |  |
 |:---:|
