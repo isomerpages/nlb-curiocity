@@ -23,9 +23,9 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 | [![Alt text for image on Isomer site](/images/sample-bb-cathay-3.jpg)](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"} |
 | The cinema opened on 3 October 1939 with the premiere of "The Four Feathers". Special guests for the show included then Colonial Secretary Alexander Small and Lady Small. Today, the Cathay tower had been torn down. But the cineplex was gazetted in 2003 as a historical landmark and was redeveloped into today's The Cathay (shown above). (Photo by [Nlannuzel via wikicommons](https://commons.wikimedia.org/wiki/File:The_Cathay-day-2009-09-02.jpg){:target="_blank"})  |
 
-**Cathay Cinema in 1951 from Michael Rogge's YouTube Channel**
+**Cathay Building in 1951 from Michael Rogge's YouTube Channel**
 
-Some of these entertainment and recreation spaces were  featured in documentaries and historical audiovisual materials from the National Archives of Singapore as well as blogs or social media channels maintained by heritage experts including the YouTube channel of Dutch photographer [Michael Rogge](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"}. Watch some of them below.
+The Cathay Building was such an iconic structure that it was featured in many historical audiovisual materials including those in the National Archives of Singapore as well as blogs or social media channels maintained by heritage enthusiasts including Dutch photographer [Michael Rogge's](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"} YouTube channel. You can watch one of them on the Cathay Building below.
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmI3ZkuFE98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
