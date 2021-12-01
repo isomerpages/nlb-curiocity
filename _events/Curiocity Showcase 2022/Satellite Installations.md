@@ -23,9 +23,7 @@ ___
 <br>Ong Kian Peng is a media artist based in Singapore. Working at the intersection of art, technology and the environment, Ong creates immersive and reflective environments that offer alternate visions and imaginations of our relationship with nature. His works have been exhibited in spaces such as the Tainan Museum of Fine Art, Singapore Art Museum and Total Museum Seoul, as well as festivals like Siggraph Art Gallery and FILE Festival Brazil. Ong graduated from UCLA with an MFA in Design Media Art. He currently runs Supernormal.space, an independent art space focusing on emerging and experimental art practice.
 
 **Find out more:**
-<br>Discover and explore the bridges and other sights along the Singapore River with this **map**.
-
-To learn more about bridges along the Singapore River, check out this **resource guide**.
+<br>To learn more about bridges along the Singapore River, check out this **resource guide**.
 
 ___
 
@@ -61,4 +59,4 @@ ___
 <br>Alina Ling is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling also pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
 
 **Find out more:**
-<br>Check out this **resource guide** to learn more about sports and recreation in the Civic District. 
+<br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
