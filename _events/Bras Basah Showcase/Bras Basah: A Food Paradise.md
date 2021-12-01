@@ -143,9 +143,6 @@ Today, these Bras Bash street hawkers have been relocated to proper hawker centr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**"Best of Singapore on Film: Open Air Restaurant" Documentary by Channel NewsAsia**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4Qm5j0fh70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
