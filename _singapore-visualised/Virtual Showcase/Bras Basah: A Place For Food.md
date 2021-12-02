@@ -136,7 +136,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 **Magnolia Snack Bar**
 
-Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, dates, as well as pre and post-movie bites. 
+Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head down to the Magnolia Snack Bar at Capitol Building. Opened as the Creameries Milk Bar in 1937, it was also a popular haunt for both the young and the old for social gatherings, dates, as well as pre- and post-movie bites. 
 
 |  |
 |:---:|
