@@ -45,7 +45,7 @@ _____
 _____
 
 
-#### **Bras Basah in Prints and Paintings**
+### **Bras Basah in Prints and Paintings**
 
 During the 19th century, much of Singapore's early growth and progress including those in Bras Basah was recorded in topographical prints. Usually published in the accounts of scientific voyages, travel books or bound folios, they form an historically significant and visually pleasing source of information on the settlement's history. Below are a selected few but more could be found in publications produced by the National Museum of Singapore as well as its collection made available in [Roots](https://www.roots.gov.sg/){:target="_blank"}.
 
@@ -73,7 +73,7 @@ _____
 
 _____
 
-#### **Bras Basah in Postcards**
+### **Bras Basah in Postcards**
 
 The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of picture postcards that quickly gained popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
 
@@ -101,7 +101,7 @@ _____
 
 _____
 
-#### **Bras Basah and Its Streets**
+### **Bras Basah and Its Streets**
 
 The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
