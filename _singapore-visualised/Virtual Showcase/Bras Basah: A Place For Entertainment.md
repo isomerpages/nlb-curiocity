@@ -4,13 +4,11 @@ permalink: /singapore-visualised/virtual-showcase/bb-cinemas
 description: ""
 third_nav_title: Virtual Showcase
 ---
-#### **Cinemas in Bras Basah**
+### **Cinemas in Bras Basah**
 
 As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
------
-
-**Cathay Building**
+##### **Cathay Building**
 
 Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html){:target="_blank"} was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time. 
 
