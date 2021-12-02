@@ -126,7 +126,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">oral history interview</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 oral history interivew. (<a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">Source</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
 	
