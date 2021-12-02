@@ -16,11 +16,11 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 |  | 
 |:--------:| 
-|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad)|
+|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 |Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://go.gov.sg/l8l2vb)|
+|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://go.gov.sg/l8l2vb){:target="_blank"}|
 |When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [Urban Redevelopment Authority Conservation Portal](https://go.gov.sg/l8l2vb){:target="_blank"}) |
-|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG)|
+|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"}|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Photo by [Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
 **Watch this video by Singapore Best Food on  the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
@@ -43,9 +43,9 @@ The Long Bar in Raffles Hotel was among the oldest food establishments in the Br
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 | Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-long-bar-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad){:target="_blank"}   |
 | The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad){:target="_blank"})|
 
 Watch the video below by Raffles Hotel explaining the history of the Singapore Sling.
@@ -84,11 +84,11 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 | The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 | In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad)   |
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 | However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
 ------
@@ -118,9 +118,9 @@ At the junction of Bras Basah Road and Victoria Street opposite present day CHIJ
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad)|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad)|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
 ----
@@ -140,9 +140,9 @@ Opened as the Creameries Milk Bar in 1937 within the premises of Capitol buildin
 
 |  |
 |:---:|
-| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/)|
+| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"}|
 |Also referred to as "Magnolia Milk Bar", it served its house brand ice creams along with milkshakes, cakes, as well as sandwiches, hot dogs and hamburgers. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival)|
+|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"}|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
 ----
@@ -154,13 +154,13 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 | The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 | One of the most popular street food in the area was satay. In fact, the Satay Club that we know today in Gardens by the Bay started its days along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/) |
+|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"} |
 | Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Photo via [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
 ______
@@ -184,14 +184,14 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/bb-soy-bean.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/bb-soy-bean.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |In addition to Indian Rojak, tau huay (soya beancurd) was another type of food that could be found among the street hawkers in the area between the 1950s and 1970s. One of the most popular stalls at the time was located at the intersection of Beach Road and Rochor Road. Operated by Xu Jun Jie and his wife Madam Tan Jin Jiao through a pushcart similar to the one above, their tau huay was known for its super-smooth texture. It still can be found today in the Rochor Original Beancurd shop in Short Street. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8609f171-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/bb-kacang-puteh.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/a91feb30-1162-11e3-83d5-0050568939ad) |
+|[![Alt text for image on Isomer site](/images/bb-kacang-puteh.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/a91feb30-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 |"Kacang Puteh", which means "white nuts", refers to the sugar-coated peanut snack. Sold by immigrants from India, it was among the most popular street food between the 1950s and 1970s. The street vendors selling the snack would usually wrapped the nuts in thin paper cones made from pages ripped out of old newspapers, magazines and school exercise books. They would sell a variety of up to 20 kinds of nuts and snacks such as steamed nuts, fried peanuts in crispy batter as well as the muruku. By the 1990s, these street vendors had mostly disappeared from the streets and could be found only in cinema lobbies. If you want to try it out today, they are still by a Mr Amirthaalangaram Moorthy in front of Peace Centre. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/a91feb30-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/old-chang-kee.jpg)](https://vulcanpost.com/641135/old-chang-kee-founder-history/) |
+|[![Alt text for image on Isomer site](/images/old-chang-kee.jpg)](https://vulcanpost.com/641135/old-chang-kee-founder-history/){:target="_blank"} |
 | Another food that has a connection with the cinemas of old Bras Basah is the curry puff. Perhaps the most famous was the "Rex curry puffs". As the name implies, they were found at a stall in a coffee shop near Rex Cinema on Mackenzie Road. Selling one curry puff at 35 cents, the stall was opened by an Hainanese immigrant called Chang Chuan Boon in 1973. Previously, Chang sold his puffs as a street hawker at Koek Road before moving to Albert Street and then Mackenzie Road. Today, although Rex Cinema is no longer around, Chang's curry puffs are still highly sought in Singapore through an islandwide network of stalls known as Old Chang Kee. (Photo via [Old Chang Kee](https://vulcanpost.com/641135/old-chang-kee-founder-history/){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/albert-centre.jpg)](https://flic.kr/p/26UpxDK) |
-|Today, the street hawkers of old Bras Basah have been relocated to proper hawker centres such as the above Albert Centre Market and Food Centre where the standards of safety and hygiene were much higher. Although authorities had been trying to move hawkers from the streets [since the colonial period](https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html), it was only during the late 1970s that they were successful. This was mostly due to the more direct approach taken by the then Ministry of Environment. Despite the shift, the government was aware of the intangible influence that these hawkers have on the culture of Singapore. To see how they were being feted as a national treasure, you can watch the video below by the National Heritage Board. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/albert-centre.jpg)](https://flic.kr/p/26UpxDK){:target="_blank"} |
+|Today, the street hawkers of old Bras Basah have been relocated to proper hawker centres such as the above Albert Centre Market and Food Centre where the standards of safety and hygiene were much higher. Although authorities had been trying to move hawkers from the streets [since the colonial period](https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html){:target="_blank"}, it was only during the late 1970s that they were successful. This was mostly due to the more direct approach taken by the then Ministry of Environment. Despite the shift, the government was aware of the intangible influence that these hawkers have on the culture of Singapore. To see how they were being feted as a national treasure, you can watch the video below by the National Heritage Board. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
