@@ -28,14 +28,14 @@ _________
 
 ________
 
-**Shanghai Book Company**
+**Shanghai Book Company, Nanyang Book Company and Youth Book Company**
 
-Other than Bras Basah Road, North Bridge Road in the 1920s and 1930s was also a popular location for Chinese book retailers such as the Shanghai Book Company.
+Other than Bras Basah Road, nearby roads during the pre-war and postwar periods especially North Bridge Road was also a popular location for book retailers like the Shanghai Book Company, Nanyang Book Company and Youth Book Company.
 
 |  | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"} |
-|Established in 1925, Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
 
 |  | 
 |:--------:| 
