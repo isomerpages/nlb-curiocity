@@ -79,7 +79,7 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 
 **Hainanese Chicken Rice**
 
-As the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html){:target="_blank"} is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origin for the beloved local fare.
+A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html){:target="_blank"} is also on the menu in many major restaurants and even hotel cafés. Regardless where it is found or how much it cost, this dish is more or less prepared this way: bite-sized slices of chicken — or a whole chicken if you’re eating as a big group — served with fragrant rice, spicy chilli and ginger paste. In Singapore, the Hainanese Chicken Rice is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years. As such, Bras Basah could be seen as the place of origin for the beloved local fare.
 
 | | 
 |:--------:| 
@@ -90,7 +90,20 @@ As the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles
 | [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad)   |
 | However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
-Want to learn more about the Hainanese Chicken Rice? Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
+------
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Want to learn more about the Hainanese Chicken Rice? Click or tap here to read a concise history of this beloved dish written by the Singapore Tourism Board. (<a href="https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/hainanese-chicken-rice/" target="_blank">Source</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899"><br>"The recipe for the dish is adapted from early Chinese immigrants from Hainan Island, off the southern coast of China. Back in Hainan, locals call the dish "Wenchang chicken". They use a particular fowl that is bony and fibrous, and serve the chicken with oily rice. A ground green chilli dip rounds off the dish.
+<br>
+<br>[In Singapore], [t]he cooking method hails back to its Hainanese roots, with a few uniquely [local] twists. The chicken is steeped in boiling water or blanched till it is fully cooked, before soaking it in cold water to ensure the meat remains tender. In a local twist, the chicken can also be roasted or braised in soya sauce for a different taste...It is, however, the rice and chilli sauce that can make or break the dish. The rice, cooked in chicken stock with ginger and pandan leaves, should have just the right amount of oiliness, while the chilli must possess the right blend of both spiciness and sourness."</span>
+	
+</details>
+
+----
+
+Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
