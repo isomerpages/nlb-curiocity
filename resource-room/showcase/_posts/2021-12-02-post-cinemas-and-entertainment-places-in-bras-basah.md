@@ -1,9 +1,10 @@
 ---
 title: Cinemas and Entertainment Places in Bras Basah
 date: 2021-12-02
-permalink: /resource-room/showcase/bb-entertainment
+permalink: /resource-room/showcase/bb-cinema
 layout: post
 ---
+
 #### **Cinemas in Bras Basah**
 
 As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
