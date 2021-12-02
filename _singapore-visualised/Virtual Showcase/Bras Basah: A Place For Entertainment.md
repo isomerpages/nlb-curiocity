@@ -4,11 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/bb-cinemas
 description: ""
 third_nav_title: Virtual Showcase
 ---
-
-
-
-
-
 #### **Cinemas in Bras Basah**
 
 As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
@@ -117,7 +112,16 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKe
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-3.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas){:target="_blank"} |
 |  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas){:target="_blank"}) |
 
-------
+-------
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">When the revival of Rex as a cinema in 2009, it bought back fond memories for many movie-goers especially those from the merdeka and pioneer generations. Click or tap here to read this account by Gwee Thian Hock. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20090923-1.2.14.4 " target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">“I am now in my mid-70s and Rex Cinema brings back fond memories. As a regular patron, I was there at the afternoon opening show of Rock Around The Clock, with policemen on duty in the theatre just in case over-enthusiastic rock ‘n’ roll fans got out of hand…And, during my undergraduate days, I made almost daily trips on a Green Bus to the hawker stalls there for my lunch of Indian rojak and mee siam. On the first floor of the corner coffee shop building on Mackenzie Road (where the popular curry puff was sold) there was a Hainanese-run halal restaurant selling Chinese food. It was probably the first of such restaurants."</span>
+	
+</details>
+
+----
 
 **Victoria Theatre**
 
