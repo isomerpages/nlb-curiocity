@@ -147,6 +147,12 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 
 ----
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">So, what exactly can you find in the Magnolia Snack Bar? Click or tap here to read a 1984 account of the restaurant by a reporter from The Singapore Monitor. (<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841216-1.2.44.3.1" target="_blank">Source</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
+	
+</details>
 
 **Street Hawkers of Old Bras Basah**
 
