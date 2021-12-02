@@ -2,8 +2,8 @@ collections:
   singapore-visualised:
     output: true
     order:
-      - Remembering Bras Basah/Remembering Bras Basah Showcase.md
-      - Remembering Bras Basah/.keep
       - singapore-through-different-lenses.md
+      - Remembering Bras Basah/.keep
+      - Remembering Bras Basah/Remembering Bras Basah Showcase.md
       - virtual-reality-tours.md
       - before-and-after.md
