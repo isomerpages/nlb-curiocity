@@ -36,7 +36,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Why was "Bras Bassa" relabelled "Bras Basah" in the maps of Singapore from the 1890s? Click or tap here to read how <span style="font-style: italic;">The Straits Times</span> explains in 1899. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why was "Bras Bassa" relabelled "Bras Basah" in the maps of Singapore from the 1890s? Click or tap here to read how <span style="font-style: italic;">The Straits Times</span> explains in 1899. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
 	
@@ -65,7 +65,7 @@ During the 19th century, much of Singapore's early growth and progress including
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Created by immensely talented painters, one who stood up the most is John Turnbull Thomson as his paintings are said to have captured much of Singapore’s built landscape in the mid 1840s and its cultural diversity. But who is he? Click or tap here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Created by immensely talented painters, one who stood up the most is John Turnbull Thomson as his paintings are said to have captured much of Singapore’s built landscape in the mid 1840s and its cultural diversity. But who is he? Click or tap here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
@@ -93,7 +93,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap here to read how <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908) describes the studio's turnover. (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap here to read how <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908) describes the studio's turnover. (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
 	
