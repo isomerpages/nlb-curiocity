@@ -65,7 +65,7 @@ ________
 
 #### **Civic District Story Map**
 
-![Alt text for image on Isomer site](/images/storymap-image-padang.png)
+![Alt text for image on Isomer site](/images/storymap-image-civic-district-1.png)
 
 Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area.
 
