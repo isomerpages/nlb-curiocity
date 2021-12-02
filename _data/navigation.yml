@@ -14,6 +14,8 @@ links:
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
+      - title: Virtual Showcase
+        url: /singapore-visualised/virtual-showcase/bb-intro
       - title: VR Tours
         url: /singapore-visualised/vr-tours
       - title: Before & After
