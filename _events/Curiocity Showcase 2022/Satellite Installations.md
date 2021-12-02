@@ -14,7 +14,7 @@ ___
 <br>**Asian Civilisations Museum (level 2)**
 
 **About the installation:**
-<br>An immersive media installation by artist Ong Kian Peng,* The River Connects* highlights the bridges along the Singapore River. As its title suggests, this work explores the possibilities of human connection on and by the river — an organic phenomenon that can span mobility, commerce and social interactions. Inspired by this notion, The River Connects references the many ways of connecting through a collection of archival and 3D scanned images of the bridges. It presents the stories they hold in an interactive and experiential format, while giving the audience new perspectives of sights both familiar and yet distant.
+<br>An immersive media installation by artist Ong Kian Peng, *The River Connects* highlights the bridges along the Singapore River. As its title suggests, this work explores the possibilities of human connection on and by the river — an organic phenomenon that can span mobility, commerce and social interactions. Inspired by this notion, The River Connects references the many ways of connecting through a collection of archival and 3D scanned images of the bridges. It presents the stories they hold in an interactive and experiential format, while giving the audience new perspectives of sights both familiar and yet distant.
 
 **Behind the work:**
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
