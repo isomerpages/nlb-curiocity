@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Events This Year.md
       - Curiocity Showcase 2022/.keep
       - Curiocity Showcase 2022/Introduction.md
       - Curiocity Showcase 2022/Main Showcase.md
