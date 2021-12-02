@@ -73,7 +73,7 @@ _____
 
 _____
 
-#### **Depiction of Early Bras Basah in Postcards**
+#### **Bras Basah in Postcards**
 
 The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of picture postcards that quickly gained popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
 
