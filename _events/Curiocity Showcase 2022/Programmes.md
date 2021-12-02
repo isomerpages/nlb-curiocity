@@ -20,7 +20,7 @@ Eager for more? Check out the programmes that we have lined up for you online an
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **15 Feb**    | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Zoom     |Time: 5 to 7pm    | Click [here](https://www.eventbrite.sg/) to register |
+| **15 Feb**    | Librarian's World: *Empire, Architecture, and the Public Works Department*     | Zoom     | 5:00 to 7:00pm   | Click [here](https://www.eventbrite.sg/) to register |
 | **25 Feb**     | Histories: *Architect, Surveyor and Statesman: Legacy of George Coleman*      |  Imagination Room, Level 5, National Library Building     | 5:00 to 7:00pm  | Click [here](https://www.eventbrite.sg/) to register |
 | **30 Feb**     | *Light to Night Festival: Traces and Echoes*     | Imagination Room, level 5, National Library Building     | 5:00 to 7:00pm   | Click [here](https://www.eventbrite.sg/) to register |
 
