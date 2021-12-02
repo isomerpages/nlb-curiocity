@@ -45,7 +45,7 @@ _____
 _____
 
 
-#### **Depiction of Early Bras Basah in Prints and Paintings**
+#### **Bras Basah in Prints and Paintings**
 
 During the 19th century, much of Singapore's early growth and progress including those in Bras Basah was recorded in topographical prints. Usually published in the accounts of scientific voyages, travel books or bound folios, they form an historically significant and visually pleasing source of information on the settlement's history. Below are a selected few but more could be found in publications produced by the National Museum of Singapore as well as its collection made available in [Roots](https://www.roots.gov.sg/){:target="_blank"}.
 
