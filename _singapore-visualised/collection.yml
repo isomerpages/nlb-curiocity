@@ -2,6 +2,7 @@ collections:
   singapore-visualised:
     output: true
     order:
+      - Bras Basah Showcase.md
       - singapore-through-different-lenses.md
       - virtual-reality-tours.md
       - before-and-after.md
