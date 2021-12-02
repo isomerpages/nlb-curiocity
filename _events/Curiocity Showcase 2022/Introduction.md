@@ -58,7 +58,7 @@ ________
 
 #### **A Virtual Showcase on Bras Basah**
 
-There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](https://curiocity.nlb.gov.sg/events/bb-showcase/intro) or view [this](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html) resource map.
+There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](https://curiocity.nlb.gov.sg/events/bb-showcase/intro) or view [this](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html) story map.
 
 
 ________
