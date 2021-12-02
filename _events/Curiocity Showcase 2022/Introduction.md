@@ -69,7 +69,7 @@ ________
 
 Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area.
 
-Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html) to view the story map.
+Click [here](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/padang-3/index.html) to view the story map.
 
 ________
 
