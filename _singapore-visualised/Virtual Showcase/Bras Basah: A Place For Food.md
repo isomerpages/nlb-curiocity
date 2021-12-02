@@ -103,7 +103,9 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 
 ----
 
-Watch this video featuring  prominent local food consultant and founder of Makansutra KF Seetoh.
+You can also watch this video to see how prominent local food consultant and founder of Makansutra KF Seetoh prepares the dish.
+
+**SG50 Deliciously Singaporean: Chicken Rice**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
