@@ -154,6 +154,8 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 	
 </details>
 
+_____
+
 **Street Hawkers of Old Bras Basah**
 
 During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
