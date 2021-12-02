@@ -136,7 +136,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 **Magnolia Snack Bar**
 
-Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, as well as pre and post-movie bites. 
+Opened as the Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular destination of the young and old for social gatherings, dates, as well as pre and post-movie bites. 
 
 |  |
 |:---:|
