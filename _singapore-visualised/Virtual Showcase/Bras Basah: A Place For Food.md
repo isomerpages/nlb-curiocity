@@ -57,8 +57,7 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Interested to know what is inside the Singapore Sling? Click or tap here to find out.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
-<br>Recipe:
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899"> Recipe:
 <br>30 ml gin
 <br>15 ml cherry brandy
 <br>120 ml pineapple juice
