@@ -4,11 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/bb-food
 description: ""
 third_nav_title: Virtual Showcase
 ---
-
-
-
-
-
 #### **A Place for Food**
 
 Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
@@ -34,7 +29,7 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 ------
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his blog, "The Long and Winding Road", in which he documents Singapore's evolving urban landscape through words and images. Having studied in St Jospeh's Institution during the 1970s, he has fond memory this restaurant. Click to read what how remembered it <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">blog</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Local heritage enthusiast, Jerome Lim, is best know for his blog, <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">"The Long and Winding Road"</a>, in which he documents Singapore's evolving urban landscape. Having studied in St Jospeh's Institution during the 1970s, he has fond memories of this restaurant. Click or tap here to read what he wrote in his blog.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window."</span>
 	
