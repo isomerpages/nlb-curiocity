@@ -54,6 +54,29 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 
 ----
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Interested to know what is inside the Singapore Sling? Click or tap here to find out.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">
+<br>Recipe:
+<br>30 ml gin
+<br>15 ml cherry brandy
+<br>120 ml pineapple juice
+<br>15 ml lime juice
+<br>7.5 ml Cointreau
+<br>7.5 ml Benedictine DOM
+<br>10 ml grenadine
+<br>A dash of Angostura Bitters
+<br>1 slice pineapple
+<br>1 cocktail cherry
+<br>
+<br>Instruction:
+<br>Place all ingredients in a cocktail shaker shake gently, and strain into a tumbler. Garnish with pineapple slices and a cherry.</span>
+	
+</details>
+
+----
+
 **Hainanese Chicken Rice**
 
 As the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html){:target="_blank"} is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years, Bras Basah could be seen as the place of origin for the beloved local fare.
