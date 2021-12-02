@@ -2,7 +2,7 @@ collections:
   singapore-visualised:
     output: true
     order:
-      - singapore-through-different-lenses.md
+      - Singapore Through Different Lenses.md
       - Virtual Showcase/.keep
       - Virtual Showcase/Remembering Bras Basah.md
       - Virtual Showcase/Bras Basah In Maps, Paintings and Postcards.md
