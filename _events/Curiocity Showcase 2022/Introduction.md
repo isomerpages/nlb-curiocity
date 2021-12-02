@@ -37,7 +37,7 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 <br>Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
 
 #### **SATELLITE INSTALLATIONS**
-Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](https://curiocity.nlb.gov.sg/events/curiocity-showcase-2022/satellite){:target="_blank"}.
+Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](/events/curiocity-showcase-2022/satellite){:target="_blank"}.
 
 ##### **The River Connects**
 **Dates: 14 January – 3 February 2022
@@ -58,7 +58,7 @@ ________
 
 #### **A Virtual Showcase on Bras Basah**
 
-There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](https://curiocity.nlb.gov.sg/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} or view this [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
+There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} or view this [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
 
 
 ________
