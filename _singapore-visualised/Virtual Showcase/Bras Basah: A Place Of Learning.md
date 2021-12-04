@@ -6,7 +6,9 @@ third_nav_title: Virtual Showcase
 ---
 ### **Schools of Bras Basah**
 
-Being centrally located  history that stretches back to the early days of modern Singapore, 
+The close proximity of Bras Basah to the town centre as well as the various ethnic enclaves of Singapore during the colonial period has made it an ideal location for the establishment of schools. Started by town planners, missionaries and philanthropists, they provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion.
+
+Today, many of these schools are still around even though they have moved out of the area. Further, they are also among the oldest, sharing a history that is as long as modern Singapore.
 
 |   | 
 |:--------:| 
