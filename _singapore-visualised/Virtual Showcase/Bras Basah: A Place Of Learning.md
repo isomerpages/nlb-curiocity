@@ -6,7 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **Schools of Bras Basah**
 
-##### **Raffles Institution**
+Being centrally located  history that stretches back to the early days of modern Singapore, 
 
 |   | 
 |:--------:| 
