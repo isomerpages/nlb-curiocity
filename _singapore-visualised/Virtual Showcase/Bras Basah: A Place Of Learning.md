@@ -6,7 +6,29 @@ third_nav_title: Virtual Showcase
 ---
 #### **Schools of Bras Basah**
 
+Raffles Institution
 
+Raffles Institution is one of the oldest schools. Although its foundation stone was laid in 1823, its history stretches back to 1819 when Sir Stamford Raffles proposed the establishment of a premier learning institution. Initially known as Singapore Institution, it was renamed Raffles Institution in 1868, and it was originally located at Bras Basah Road. However, it later moved to Grange Road in the early 1970s and then Bishan where it remains today. Its former site is currently occupied by Raffles City Shopping Centre.
+
+CHIJ
+
+Convent of the Holy Infant Jesus (CHIJ) is the oldest Catholic girls’ school in Singapore. Founded in 1854 by the French sisters of the Congregation of the Holy Infant Jesus, the school was established at the corner of Bras Basah Road and Victoria Street (present site of CHIJMES). In December 1983, the school moved to a new site in Toa Payoh to make way for the Mass Rapid Transit (MRT) headquarters. Following the move, its primary and secondary sections were renamed CHIJ Primary (Toa Payoh) and CHIJ Secondary (Toa Payoh).
+
+Raffles Girls' School
+
+Raffles Girls' School started as a one-room department within Raffles Institution in 1844 before it was officially established in 1879 with 77 students. As the school expanded, it moved to a new premises in Queen Street in 1928 and became a full-fledged girls’ school. In 1959, the school moved again to Anderson Road before settling on its present Braddell Rise campus in 2019. Today, the school's former Bras Basah site is occupied by the Singapore Management University's School of Business.
+
+St Jospeh's Institution
+
+St Jospeh's Institution (SJI) was founded in 1852 by Father Jean-Marie Beurel of the Missions Étrangères de Paris (The Society of Foreign Missions of Paris). Before moving to its current location on Malcolm Road in 1988, it used to occupied the present site of the Singapore Art Museum along Bras Basah Road. This building was completed in 1867 and comprised a cluster of blocks featuring a classical style reminiscent of the European Renaissance. Today, this building is a national monument after it was gazetted on 14 February 1992.
+
+Stamford Girls' School
+
+Stamford Girls' School was established in January 1951 and it used to occupy a double-storey building at 155 Waterloo Street. It later became Stamford Primary School in January 1984 after it merged with Waterloo Primary School. In March 1986, the school was relocated to Victoria Lane. Its former premises at Waterloo Street was then occupied by the Singapore Japanese Preparatory School followed by Shackle Club and Gan Eng Seng School. Today, it is home to the Stamford Arts Centre.
+
+Selegie Integrated School
+
+Selegie Integrated School, currently known as Selegie Primary School, was established in 1963. It used to occupy a 10-storey tall building at the junction of Selegie Road and Short Street. This building was considered at the time one of the tallest schools in Southeast Asia and the first high-rise school building in Singapore. It could house an estimated 1500 students in a single session. and had 2 canteens on separate floors. It also had 2 large cargo-size lifts to cater to the large number of students. Today, the former grounds of Selegie Primary School is occupied by a student hostel and a private education institution.
 
 #### **Bookstores Along Bras Basah Road**
 
@@ -205,4 +227,4 @@ https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e4
 
 There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them.
 
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad 
+https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad
