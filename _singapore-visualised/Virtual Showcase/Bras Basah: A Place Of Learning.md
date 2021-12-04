@@ -4,9 +4,9 @@ permalink: /singapore-visualised/bb-showcase/books
 description: ""
 third_nav_title: Virtual Showcase
 ---
-#### **Schools of Bras Basah**
+### **Schools of Bras Basah**
 
-**Raffles Institution**
+##### **Raffles Institution**
 
 |   | 
 |:--------:| 
@@ -24,13 +24,13 @@ third_nav_title: Virtual Showcase
 |Selegie Integrated School, currently known as Selegie Primary School, was established in 1963. It used to occupy a 10-storey tall building at the junction of Selegie Road and Short Street. This building was considered at the time one of the tallest schools in Southeast Asia and the first high-rise school building in Singapore. It could house an estimated 1500 students in a single session. and had 2 canteens on separate floors. It also had 2 large cargo-size lifts to cater to the large number of students. Today, the former grounds of Selegie Primary School is occupied by a student hostel and a private education institution.(Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 
-#### **Bookstores Along Bras Basah Road**
+#### **Bookstores in Bras Basah**
 
 Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there as well as nearby streets such as North Bridge Road and Stamford Road included the Methodist Publishing House (MPH), Shanghai Book Company, Nanyang Book Company, Youth Book Company and POPULAR Bookstore. Take a look at them through the photo essay below.
 
 _____
 
-**Methodist Publishing House**
+##### **Methodist Publishing House**
 
 The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
 
@@ -103,8 +103,6 @@ _________
 
 ________
 
-
-
 #### **Bras Basah Complex**
 
 Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
@@ -152,11 +150,11 @@ _____
 
 ----
 
-#### **The National Museum and National Library**
+### **The National Museum and National Library**
 
 Besides the schools and the bookstores, Bras Basah was and continues to be a place for knowledge. This is largely because of the presence of both the National Library and National Museum in the district since the mid-1800s. 
 
-**The National Museum**
+##### **The National Museum**
 
 With its wide facade and large dome, the [National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html){:target="_blank"} has been a prominent landmark on Stamford Road for over a century. Gazetted as a national monument on 14 February 1992, it is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
 
@@ -177,7 +175,7 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 
 ______
 
-**The National Library**
+##### **The National Library**
 
 The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
 
