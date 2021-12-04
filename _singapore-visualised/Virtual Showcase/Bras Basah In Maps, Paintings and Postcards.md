@@ -38,7 +38,7 @@ _____
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why was "Bras Bassa" relabelled "Bras Basah" in the maps of Singapore from the 1890s? Click or tap here to read how <span style="font-style: italic;">The Straits Times</span> explains in 1899. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
 	
 </details>
 
