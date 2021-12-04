@@ -34,7 +34,7 @@ The origins of St Anthony’s Convent could be traced to August 1879 when Father
 
 Nan Hwa Girl’s Chinese School started as a makeshift school in Coleman Street with fewer than 100 Chinese girls before moving to a proper building along Bencoolen Street in 1921. Throughout the 1920s and 1930s, the school population grew as the school not only provided education for students, but also basic training for teachers. To cope with the rise in enrolment,  a second move was initiated and the school ended up at Adis Road.
 
-St Margaret’s School, Singapore’s oldest school for girls, was established in 1842 by missionary Maria Dyer. St Margaret’s School began as a missionary effort to save mui tsai (“Little sister” in Cantonese), or bonded domestic servant. It was the first school for girls in Singapore established in a time when the education of women was considered unimportant. The school was initially located in a shophouse on North Bridge Road. In 1960, the secondary-school section separated from the primary-school section and moved to a new school building on Farrer Road. The primary school is presently located at 99 Wilkie Road, while the secondary school is at 111 Farrer Road.
+St Margaret’s School is Singapore’s oldest girls' school. Established established at a time when the education of women was considered unimportant in 1842 by missionary Maria Dyer, it began as a missionary effort to save and educate mui tsai (“Little sister” in Cantonese), or bonded domestic servant. In 1960, the secondary-school section separated from the primary-school section and moved to a new school building on Farrer Road. The primary school is presently located at 99 Wilkie Road, while the secondary school is at 111 Farrer Road.
 
 #### **Bookstores Along Bras Basah Road**
 
