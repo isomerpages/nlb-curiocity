@@ -4,13 +4,13 @@ permalink: /singapore-visualised/virtual-showcase/bb-food
 description: ""
 third_nav_title: Virtual Showcase
 ---
-#### **A Place for Food**
+### **A Place for Food**
 
 Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
 
 -----
 
-**Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
+##### **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
 The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and Prinsep Street was once occupied by a stretch of shophouses. Constructed during the early 1900s, they were known for their businesses which included a hotel, photography studios,  sport equipment shops, bookshops and coffe shops. The most famous of them, however, was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant. 
 
@@ -37,7 +37,7 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 
 ----
 
-**Long Bar and the Singapore Sling**
+##### **Long Bar and the Singapore Sling**
 
 The Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area.  Sharing a history with the hotel itself, it was a popular haunt among plantation owners during the early 1900s and was commonly referred to as the ‘Rendezvous of Planters’ at the time.
 
@@ -78,7 +78,7 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 
 ----
 
-**Hainanese Chicken Rice**
+##### **Hainanese Chicken Rice**
 
 A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html){:target="_blank"} is also on the menu in many major restaurants and even hotel cafés. Regardless where it is found or how much it cost, this dish is more or less prepared this way: bite-sized slices of chicken — or a whole chicken if you’re eating as a big group — served with fragrant rice, spicy chilli and ginger paste. In Singapore, the Hainanese Chicken Rice is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years. As such, Bras Basah could be seen as the place of origin for the beloved local fare.
 
@@ -112,7 +112,7 @@ You can also watch this video to see how prominent local food consultant and fou
 
 ----
 
-**Red House (Baker's Bakery)**
+##### **Red House (Baker's Bakery)**
 
 At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
 
@@ -134,7 +134,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 ----
 
-**Magnolia Snack Bar**
+##### **Magnolia Snack Bar**
 
 Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head down to the Magnolia Snack Bar at Capitol Building. Opened as the Creameries Milk Bar in 1937, it was also a popular haunt for both the young and the old for social gatherings, dates, as well as pre- and post-movie bites. 
 
@@ -156,7 +156,7 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 
 _____
 
-**Street Hawkers of Old Bras Basah**
+##### **Street Hawkers of Old Bras Basah**
 
 During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
 
@@ -206,6 +206,6 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 ______
 
-#### **Explore This Food Map of Old Bras Basah**
+### **Explore This Food Map of Old Bras Basah**
 
 [![Alt text for image on Isomer site](/images/bb-storymap-food.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-food-map/index.html){:target="_blank"}
