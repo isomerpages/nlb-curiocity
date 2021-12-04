@@ -23,6 +23,8 @@ The close proximity of Bras Basah to the town centre as well as the various ethn
 |[![Alt text for image on Isomer site](/images/bb-showcase-selegie-school.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/2b942d59-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 |Selegie Integrated School, currently known as Selegie Primary School, was established in 1963. It used to occupy a 10-storey tall building at the junction of Selegie Road and Short Street. This building was considered at the time one of the tallest schools in Southeast Asia and the first high-rise school building in Singapore. It could house an estimated 1500 students in a single session. and had 2 canteens on separate floors. It also had 2 large cargo-size lifts to cater to the large number of students. Today, the former grounds of Selegie Primary School is occupied by a student hostel and a private education institution.(Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2b942d59-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
+https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/de38d4b8-115f-11e3-83d5-0050568939ad
+
 _______
 
 #### **Bookstores in Bras Basah**
