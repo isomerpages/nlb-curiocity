@@ -21,7 +21,7 @@ To address these issues, the government led by the Urban Redevelopment Authority
 
 ________
 
-#### **Becoming Bras Basah.Bugis**
+### **Becoming Bras Basah.Bugis**
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
 
