@@ -51,7 +51,7 @@ _____
 
 _____
 
-**Odeon Theatre**
+##### **Odeon Theatre**
 
 The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html){:target="_blank"} was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, from the 1950s to 1970s, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
 
@@ -75,7 +75,7 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 
 ----
 
-**Capitol Theatre**
+##### **Capitol Theatre**
 
 The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html){:target="_blank"}, located at the junction of Stamford Road and North Bridge Road, was opened in 1930.  It was considered one of the finest cinemas of the time. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
@@ -99,7 +99,7 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 
 ----
 
-**Rex Cinemas**
+##### **Rex Cinemas**
 
 Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
 
@@ -123,7 +123,7 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKe
 
 ----
 
-**Victoria Theatre**
+##### **Victoria Theatre**
 
 The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. Historically, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
 
@@ -138,7 +138,7 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 -------
 
-**Jubilee Theatre**
+##### **Jubilee Theatre**
 
 Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it was opened in 1929 and was among the first cinemas to be installed with the equipment to support "talkies" or sound films.
 
@@ -153,7 +153,7 @@ Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside 
 
 --------
 
-**Royal Theatre and Diamond Theatre**
+##### **Royal Theatre and Diamond Theatre**
 
 Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
 
