@@ -47,45 +47,7 @@ _______
 
 _____
 
-### **Remembering Bras Basah**
-
-Over the past decade, there has been a proliferation of social memories on places in Singapore. Perhaps brought about by a sense of nostalgia or loss due to the rapid pace of development, these active attempts have provided us with a more personified accounts of places that were otherwise missing in history books. In many cases, the memories that were collected were not placed in cold storage. Rather they were readily shared in portals such as the Singapore Memory Project and other forms of creative expressions including murals, sketches and even poems. Below are a selected few.
-
-________
-
-**Murals of Bras Basah**
-
-https://weekender.com.sg/w/events_entertainment/new-murals-bras-basah-celebrate-80-years-heritage/5/
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-1.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-2.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-3.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-4.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-5.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-murals-6.jpg)
-
-________
-
-**Sketches of Bras Basah**
-
-https://www.psd.gov.sg/challenge/ideas/feature/bringing-buzz-to-bras-basah-bugis
-
-![Alt text for image on Isomer site](/images/sample-bb-modern-art-1.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-modern-art-2.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-modern-art-3.jpg)
-
-![Alt text for image on Isomer site](/images/sample-bb-modern-art-4.jpg)
-
-_______
-
-**An Ode to Bras Basah**
+### **An Ode to Bras Basah**
 
 Emeritus Professor and Professorial Fellow of the National University of Singapore Edwin Thumboo has been involved in Singapore’s literary developments since the 1950s. Over the course of his illustrious career which he picked up many awards including the Singapore Cultural Medallion and Singapore's Meritorious Service Medal, he has published five volumes of poetry. While many of these poems addressed national issues, some are dedicated to places in Singapore. One of these is "Bras Basah". It is a remarkable piece of place poem as Thumboo is about to vividly captured Bras Basah of the past in its entirety in just a few verse.
 
@@ -150,7 +112,7 @@ _______
 
 _______
 
-#### **Tracking the History of Bras Basah Through Space and Time**
+### **Tracking the History of Bras Basah Through Space and Time**
 
 In the next stage of Curiocity's development, we will be using ours and our partners' resources as one of the methods to track the history of different places in Singapore including Bras Basah. Below are two ways how we intend to do that, thus allowing us to connect the present to the past.
 
