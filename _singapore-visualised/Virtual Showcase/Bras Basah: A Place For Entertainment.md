@@ -190,7 +190,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 
 _______
 
-#### **Beyond Cinemas**
+### **Beyond Cinemas**
 
 Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
 
