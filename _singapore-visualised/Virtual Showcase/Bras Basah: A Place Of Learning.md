@@ -6,6 +6,8 @@ third_nav_title: Virtual Showcase
 ---
 #### **Schools of Bras Basah**
 
+**Raffles Institution**
+
 |   | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"} |
