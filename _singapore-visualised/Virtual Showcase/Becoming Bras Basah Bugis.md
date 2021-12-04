@@ -4,13 +4,7 @@ permalink: /singapore-visualised/virtual-showcase/conclude-bb
 description: ""
 third_nav_title: Virtual Showcase
 ---
-
-
-
-
-
-
-#### **In Need For Renewal**
+### **In Need For Renewal**
 
 Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, book stores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need or a renewal as its streets were congested and colonial era shophouses in dilapidated condition. 
 
