@@ -6,7 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **Schools of Bras Basah**
 
-The close proximity of Bras Basah to the town centre as well as the various ethnic enclaves of Singapore during the colonial period has made it an ideal location for the establishment of schools. Started by town planners, missionaries and philanthropists, they provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion. Today, many of these schools are still around even though they have moved out of the area. Further, they are also among the oldest, sharing a history that is as long as modern Singapore. Below is but a handful of them.
+The close proximity of Bras Basah to the town centre as well as the various ethnic enclaves of Singapore during the colonial period has made it an ideal location for the establishment of schools. Started by town planners, missionaries and philanthropists, they provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion. Today, many of these schools are still around and they share a history that is as long as Singapore since the British arrived more than 200 years ago. Below is but a handful of them.
 
 |   | 
 |:--------:| 
@@ -22,6 +22,8 @@ The close proximity of Bras Basah to the town centre as well as the various ethn
 |Stamford Girls' School was established in January 1951 and it used to occupy a double-storey building at 155 Waterloo Street. It later became Stamford Primary School in January 1984 after it merged with Waterloo Primary School. In March 1986, the school was relocated to Victoria Lane. Its former premises at Waterloo Street was then occupied by the Singapore Japanese Preparatory School followed by Shackle Club and Gan Eng Seng School. Today, it is home to the Stamford Arts Centre.(Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/bb-showcase-selegie-school.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/2b942d59-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 |Selegie Integrated School, currently known as Selegie Primary School, was established in 1963. It used to occupy a 10-storey tall building at the junction of Selegie Road and Short Street. This building was considered at the time one of the tallest schools in Southeast Asia and the first high-rise school building in Singapore. It could house an estimated 1500 students in a single session. and had 2 canteens on separate floors. It also had 2 large cargo-size lifts to cater to the large number of students. Today, the former grounds of Selegie Primary School is occupied by a student hostel and a private education institution.(Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2b942d59-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+
+Today, most of these schools have moved to other parts of the island. Click or tap here to read the condition
 
 https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/de38d4b8-115f-11e3-83d5-0050568939ad
 
