@@ -57,35 +57,25 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 
 #### **The "Big Three" of Local Chinese Bookstores**
 
-Out of the five major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. 
-
-These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
-
-
-Other than Bras Basah Road, nearby roads during the pre-war and postwar periods especially North Bridge Road was also a popular location for book retailers like the Shanghai Book Company, Nanyang Book Company and Youth Book Company.
-
-|  | 
-|:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"} |
-| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+Out of the five major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
-| In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
-
-**POPULAR Bookstore**
+| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
 
 The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. 
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|Today, its flagship store is located at Bras Basah Complex. |
+|After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
+
+#### **Other Bookstores In Bras Basah**
+
+Other than Bras Basah Road, nearby roads during the pre-war and postwar periods especially North Bridge Road was also a popular location for book retailers like the Shanghai Book Company, Nanyang Book Company and Youth Book Company.
 
 |  | 
 | :--------: | 
@@ -104,8 +94,15 @@ The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/S
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">As I said society itself was not really that affluent, it was common to go around to buy at the second-hand book shops. Once you have finished your schooling this year, you go to the second-hand book shop in Bras Basah Road…On the left-hand side opposite what used to be the YMCA Tennis Court and across Bencoolen Street there were also three or four, where books, second-hand books were sold…when it came to around December before schools reopen in January, everybody would rush to go and get the books…depending on the price and the condition, you could bargain over the price, of course the few cents, whereas the other costs three or four times as much. So those who could not afford better type one would take even tatted ones…basic thing was they all contained the same material in different conditions of wear and year. So every year, you finished with your book for this year, unless you have children who are going to come in the next year or two, you keep them at home rather than go and sell and re-buy…I think they are all printed by the Malaya Publishing House or so, the premier publishing house in those days.</span>
 	
 </details>
+<br>
 
-----
+
+|  | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"} |
+| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+
+-----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">In 2014, the Singapore Memory Project collaborated with the Chou Sing Chu Foundation to embark on the <a href="https://www.singaporememory.sg/campaigns/irememberbookstores?nextrecord=12&listtype=campaigns&id=89&campaign=irememberbookstores" target="_blank"> irememberBookstore</a> initiative to gather memories and stories from the public on the bookstores they visited when they were young. Below is a contribution by Mr Yeo Hong Eng on the old bookstores of Bras Basah. Click or tap here to read a part of it.</span></summary>
