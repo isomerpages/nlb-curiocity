@@ -38,40 +38,7 @@ _______
 
 Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there as well as nearby streets such as North Bridge Road and Stamford Road included the Methodist Publishing House (MPH), Shanghai Book Company, Nanyang Book Company, Youth Book Company and POPULAR Bookstore. Take a look at them through the photo essay below.
 
-_____
-
-#### **Methodist Publishing House**
-
-The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
-
-|   | 
-|:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"} |
-| The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building){:target="_blank"} |
-|MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building){:target="_blank"})|
-
 ------
-
-#### **The "Big Three" of Local Chinese Bookstores**
-
-Out of the five major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
-
-|  | 
-|:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
-| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
-
-|  | 
-|:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-
------
-
-#### **Other Bookstores In Bras Basah**
 
 Other than Bras Basah Road, nearby roads during the pre-war and postwar periods especially North Bridge Road was also a popular location for book retailers like the Shanghai Book Company, Nanyang Book Company and Youth Book Company.
 
@@ -109,6 +76,46 @@ Other than Bras Basah Road, nearby roads during the pre-war and postwar periods 
 	
 </details>
 
+------
+
+#### **Methodist Publishing House**
+
+The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
+
+|   | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+|Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"} |
+| The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/bb-mph-building-today.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building){:target="_blank"} |
+|MPH would remain there until 2002 when MPH Limited sold the building. A year later, it was gazetted for conservation. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Vanguard-Building-Former-Malaya-Publishing-House-Building){:target="_blank"})|
+
+------
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">What is "Xinyao" anyway? Click here to find out. (Source: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them."</span>
+	
+</details>
+
+------
+
+#### **The "Big Three" of Local Chinese Bookstores**
+
+Out of the five major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
+
+|  | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
+| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
+
+|  | 
+|:--------:| 
+| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+| The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 -----
 
 #### **Bras Basah Complex**
@@ -136,7 +143,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-3.jpg){:target="_blank"} |
 | During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums. (Photo via [Roots](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"}))  |
 
-_______
+------
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">What is "Xinyao" anyway? Click here to find out.</span></summary>
@@ -145,7 +152,7 @@ _______
 	
 </details>
 
-_____
+------
 
 |  | 
 |:--------:| 
@@ -204,15 +211,7 @@ Though the old National library was demolished almost 15 years ago in 2004, it w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-______
-
-#### **Truly, A Place For Books and Knowledge**
-
-While the photo essay and memories above provide an insight on how Bras Basah thrived as a place for books and knowledge, it became even clearer if we were to plot some of these places on a map. See the story map below to understand what we meant.
-
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
-
-_________
+----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">When the National Library at Stamford Road closed its doors on 1 April 2004 to be relocated to the present site, it concluded a chapter of its rich history of serving the people for 44 years. To prevent the former library to fade away with its demolition, the National Library Board published *Moments In Time* (2004) to capture the memories of its users. Click or tap here to read one of the entries by Gary Lim.</span></summary>
@@ -221,12 +220,13 @@ _________
 	
 </details>
 
-________
+------
 
-There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them.
+#### **Truly, A Place For Books and Knowledge**
 
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e4a99b6-1161-11e3-83d5-0050568939ad 
+While the photo essay and memories above provide an insight on how Bras Basah thrived as a place for books and knowledge, it became even clearer if we were to plot some of these places on a map. See the story map below to understand what we meant.
 
-There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them.
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-schools/index.html){:target="_blank"}
 
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad
+
+
