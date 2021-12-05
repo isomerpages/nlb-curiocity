@@ -24,7 +24,7 @@ The close proximity of Bras Basah to the town centre as well as the various ethn
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Today, most of these schools have moved to other parts of the island. Click or tap here </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Today, most of these schools have moved to other parts of the island. Click or tap here to </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"My memories of the National Library centre around the varied encounters and experiences that were inevitably the product of looking for information and books, while growing up in the 1980s and 1990s. I remember when I was in Secondary Two and had to do a project on science in sport - how there was only a single book in the library system which was located in the national reference library...I remember that it was there that I learned how to operate the microfiche machines, in search for newspaper reports on the Hock Lee Bus strikes; that when in Secondary Four, how my classmates and I did a project on creation and evolution and ended up chatting with girls from an assortment of schools while waiting in the photocopy queues. I remember how as a 17-year-old I discovered Jack Keroauc and Ken Kesey and an assortment of poets and writes on lonely Sunday afternoons - books that had lain unborrowed for years, on the shelves of the library and greedily calculated how many I could check out. These were the days before the Internet, before Borders or Kinokuniya and the National Library certainly expanded my horizons." </span>
 	
@@ -38,9 +38,7 @@ _______
 
 Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the 1970s and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there as well as nearby streets such as North Bridge Road and Stamford Road included the Methodist Publishing House (MPH), Shanghai Book Company, Nanyang Book Company, Youth Book Company and POPULAR Bookstore. Take a look at them through the photo essay below.
 
-------
-
-Other than Bras Basah Road, nearby roads during the pre-war and postwar periods especially North Bridge Road was also a popular location for book retailers like the Shanghai Book Company, Nanyang Book Company and Youth Book Company.
+-----
 
 |  | 
 | :--------: | 
