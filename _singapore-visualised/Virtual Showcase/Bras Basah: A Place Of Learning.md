@@ -88,7 +88,7 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 ------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is "Xinyao" anyway? Click here to find out. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap here to find out from Singaporean playwright Stella Kon. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them."</span>
 	
