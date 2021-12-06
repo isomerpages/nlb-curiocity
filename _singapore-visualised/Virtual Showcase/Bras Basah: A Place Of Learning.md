@@ -34,32 +34,43 @@ _______
 
 ### **Bookstores in Bras Basah**
 
-Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the nation-building years and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby such as [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} and [Stamford Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_865_2005-01-24.html){:target="_blank"} used to house shophouses famous for such services. Some of the biggest names that once stood there as well as nearby streets such as North Bridge Road and Stamford Road included the Methodist Publishing House (MPH), Shanghai Book Company, Nanyang Book Company, World Book Company (predecessor of today's POPULAR Bookstore). Learn about these bookstores through the photo essay below.
+Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the nation-building years and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby including [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"} used to house shophouses famous for such services.
 
 |  | 
 | :--------: | 
 | [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}    | 
-| The bookstores along Bras Basah Road thrived as a popular haunt for students. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
-| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}    |
-| The students who visited these bookstores were mostly from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"})   |
-|  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
-|  Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
+| The bookstores along Bras Basah Road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
------
+____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read how a Mr N I Narayanan remembers his days as a student in Bras Basah seeking for textbooks in the second hand book stores in the area. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6a209cb9-1162-11e3-83d5-0050568939ads" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read how Mr N I Narayanan remembers his days as a student in Bras Basah seeking for textbooks in the second hand book stores in the area. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6a209cb9-1162-11e3-83d5-0050568939ads" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"As I said society itself was not really that affluent, it was common to go around to buy at the second-hand book shops. Once you have finished your schooling this year, you go to the second-hand book shop in Bras Basah Road…On the left-hand side opposite what used to be the YMCA Tennis Court and across Bencoolen Street there were also three or four, where books, second-hand books were sold…when it came to around December before schools reopen in January, everybody would rush to go and get the books…depending on the price and the condition, you could bargain over the price, of course the few cents, whereas the other costs three or four times as much. So those who could not afford better type one would take even tatted ones…basic thing was they all contained the same material in different conditions of wear and year. So every year, you finished with your book for this year, unless you have children who are going to come in the next year or two, you keep them at home rather than go and sell and re-buy…I think they are all printed by the Malaya Publishing House or so, the premier publishing house in those days."</span>
 	
 </details>
 <br>
 
+|  | 
+| :--------: | 
+| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}    |
+| The students who visited these bookstores were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"})   |
+|  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
+
+____
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When Mr Yeo Hong Eng was a student in the 1950s, he used to travel all the way from Changi to Bras Basah with his father for books. Click or tap here to read how remembers the trip there and the things he saw in the bookstores. (Source: <a href="https://www.singaporememory.sg/contents/SMB-7eba6b15-870f-48ec-80a5-ff78c00e6fde" target="_blank"> Singapore Memory Project</a>)</span></summary>
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"It was in one of the mornings of early January 1959, we went to Bras Basah Road via the No. 1 red and white Changi bus...I was lost for words when we walked along the corridors of the shops. Almost every shop was a bookshop – old and new. Periodicals, newspapers, weekenders, magazines..., school textbooks...,  fictional books, non-fiction books of varied different genres, stationery, etc. I felt groggy. To try to save a few dollars, we tried to hunt from the second-hand book stores. I remembered that I was excited when I got one of the books. It was entitled  “The World.” It was a Geography book. Then we proceeded to the book stores that sold new ones. We went in and out almost all the shops from the whole length of Bras Basah Road from Victoria Street to Prinsep Street...When I reached home I spent some time to wrap up those books I purchased with either brown Manila paper or expired monthly calendar with the unprinted back facing out. I found it too precious to dog-ear my books to indicate the pages that I stop referring to. I used chicken feathers as bookmarks. I was excited when I saw some fine feathers actually ‘growing’ from the main ones. I could not believe it. But when checked with some adult friends, they confirmed that feathers put in between books could grow. Surprise? Surprise? Surprise? That was my first experience of book purchasing." </span>
+	
+</details>
+
+____
 
 |  | 
-|:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-north-bridge-road-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"} |
-| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1190398){:target="_blank"}) |
+| :--------: | 
+|  Besides students, residents from other parts of Singapore were also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
 -----
 
