@@ -49,7 +49,6 @@ ____
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"As I said society itself was not really that affluent, it was common to go around to buy at the second-hand book shops. Once you have finished your schooling this year, you go to the second-hand book shop in Bras Basah Road…On the left-hand side opposite what used to be the YMCA Tennis Court and across Bencoolen Street there were also three or four, where books, second-hand books were sold…when it came to around December before schools reopen in January, everybody would rush to go and get the books…depending on the price and the condition, you could bargain over the price, of course the few cents, whereas the other costs three or four times as much. So those who could not afford better type one would take even tatted ones…basic thing was they all contained the same material in different conditions of wear and year. So every year, you finished with your book for this year, unless you have children who are going to come in the next year or two, you keep them at home rather than go and sell and re-buy…I think they are all printed by the Malaya Publishing House or so, the premier publishing house in those days."</span>
 	
 </details>
-<br>
 
 |  | 
 | :--------: | 
