@@ -112,7 +112,7 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 
 #### **The "Big Three" of Local Chinese Bookstores**
 
-Besides English bookstores, Bras Basah also used to house many Chinese bookstores. Among them, there were three that were considered as the most influential. Namely Shanghai Book Company, World Book Company and Nanyang Book Company, they played an important role in shaping Singapore's book industry.
+Bras Basah also used to house many Chinese bookstores. Among them, there were three that were considered as the most influential. Namely Shanghai Book Company, World Book Company and Nanyang Book Company, they played an important role in shaping Singapore's book industry.
 
 |  | 
 |:--------:| 
