@@ -199,6 +199,18 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 |[![Alt text for image on Isomer site](/images/bb-museum-4.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"} |
 | Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
 
+----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Christopher Hooi was . (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12409209" target="_blank">Call no.: RSING 070.5095957 CHO
+</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"[T]raditionally, the museum should be a repository of the nation’s heritage. That is understood because without a museum then what is important to a national will be lost….[But] it should be not [just] a repository [but also] a fine centre of display…It should be a place of education. To teach people things; to entertain them; to educate them…it should draw them to come to the museum so that there is a meaning a reason to come to the museum." </span>
+	
+</details>
+
+------
+
 ______
 
 ##### **The National Library**
