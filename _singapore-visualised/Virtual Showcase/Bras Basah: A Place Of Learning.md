@@ -84,14 +84,14 @@ ____
 
 #### **Methodist Publishing House and Koh & Company**
 
-The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
+Two of the biggest English bookstores that used to be located in Bras Basah was [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} and Koh & Company. 
 
 |   | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-|Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+| Known as the "Grand Dame of Bookstores", MPH began as Amelia Bishop Press in 1890. Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/bb-mph-floor-plan.jpg)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"} |
-| The Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+| This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/dee09072-115c-11e3-83d5-0050568939ad){:target="_blank"})|
 
 ------
 
