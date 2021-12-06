@@ -118,7 +118,8 @@ Bras Basah also used to house many Chinese bookstores. Among them, there were th
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap here to read how these bookstores played a part in shaping him. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743110" target="_blank">Passage of Time</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap here to read how these bookstores played a part in shaping him. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202743110" target="_blank">Call no.: RSING 070.5095957 CHO
+</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"In my primary school days, I would go to the World Book Company almost everyday during the school holidays...I would stand and freeload for hours on end, often skipping lunch to do so. My strong interest in literature and science was cultivated from reading the Chinese classics about the legends of the Yang family warriors and the formidable army led by Yue Fei, and many popular science books like Tell Me Why. When I was in secondary school, I frequented many small bookstores on New Bridge Road to buy books. Publications from Hong Kong and Taiwan about history...provided me with the contemporary history knowledge that my textbooks did not [cover]...In my University days, North Bridge Road's Shanghai Book Company and Popular Book Company, and Cashin Street's Student Book Store were among my favourite haunts. However, the two bookstores that I frequented the most then were Union Book Company and South Bridge Road's Cultural Supplies Agency that were selling mainly Taiwanese literary publications." </span>
 	
