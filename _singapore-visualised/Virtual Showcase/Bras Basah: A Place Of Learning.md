@@ -6,7 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **Schools of Bras Basah**
 
-The close proximity of Bras Basah to the town centre and the various ethnic enclaves of Singapore has made it an ideal location for the establishment of schools during the colonial period. Started by town planners, missionaries and philanthropists, these early schools provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion. Today, these schools are still around, making them among the oldest and most prestigious in Singapore. However, they have all moved out of the Bras Basah area to other parts of the island.
+The close proximity of Bras Basah to the town centre and the various ethnic enclaves of Singapore has made it an ideal location for the establishment of schools during the colonial period. Started by town planners, missionaries and philanthropists, these early schools provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion. Below is a selection of these schools.
 
 |   | 
 |:--------:| 
@@ -24,13 +24,11 @@ The close proximity of Bras Basah to the town centre and the various ethnic encl
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Today, most of these schools have moved to other parts of the island. Click or tap here to </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Today, these early schools of Bras Basah are still around, making them among the oldest and most prestigious in Singapore. However, they have all moved out of the area to other parts of the island. Click or tap here to find out why from Eugene Wijeysingha, the former principal of Raffles Institution (1986-1994). (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/de38d4b8-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"My memories of the National Library centre around the varied encounters and experiences that were inevitably the product of looking for information and books, while growing up in the 1980s and 1990s. I remember when I was in Secondary Two and had to do a project on science in sport - how there was only a single book in the library system which was located in the national reference library...I remember that it was there that I learned how to operate the microfiche machines, in search for newspaper reports on the Hock Lee Bus strikes; that when in Secondary Four, how my classmates and I did a project on creation and evolution and ended up chatting with girls from an assortment of schools while waiting in the photocopy queues. I remember how as a 17-year-old I discovered Jack Keroauc and Ken Kesey and an assortment of poets and writes on lonely Sunday afternoons - books that had lain unborrowed for years, on the shelves of the library and greedily calculated how many I could check out. These were the days before the Internet, before Borders or Kinokuniya and the National Library certainly expanded my horizons." </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"From as early as the 1930s, the building in Bras Basah was already beginning to show signs of serious wear and tear. Leaking, threatening also [to collapse]. One block had to be pulled down because it posed a serious threat to the safety of people. It was then an issue of whether to re-build on the existing site or move elsewhere. I am quite sure that the decision to move was part and parcel of the whole process of urban renewal. There must have been talk even then of expanding the business district. And that was quite a valuable piece of land. Even then, the town planners must have seen a point in our development when all the schools located in the city centre would have to move out. That actually has happened. RGS [Raffles Girls’ School), Consent of The Holy Jesus, Catholic High School [and] St Joseph’s Institution [have all moved out]. This must have been part of the whole process." </span>
 	
 </details>
-
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/de38d4b8-115f-11e3-83d5-0050568939ad
 
 _______
 
