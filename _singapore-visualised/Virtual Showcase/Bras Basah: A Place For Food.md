@@ -31,7 +31,7 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Local heritage enthusiast, Jerome Lim, is best know for his blog, <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">"The Long and Winding Road"</a>, in which he documents Singapore's evolving urban landscape. Having studied in St Jospeh's Institution during the 1970s, he has fond memories of this restaurant. Click or tap here to read what he wrote in his blog.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window."</span>
 	
 </details>
 
@@ -59,7 +59,7 @@ Watch the video below by Raffles Hotel explaining the history of the Singapore S
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Interested to know what is inside the Singapore Sling? Click or tap here to find out.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899"> Recipe:
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f"> Recipe:
 <br>30 ml gin
 <br>15 ml cherry brandy
 <br>120 ml pineapple juice
@@ -96,7 +96,7 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Want to learn more about the Hainanese Chicken Rice? Click or tap here to read a concise history of this beloved dish written by the Singapore Tourism Board. (<a href="https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/hainanese-chicken-rice/" target="_blank">Source</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The recipe for the dish is adapted from early Chinese immigrants from Hainan Island, off the southern coast of China. Back in Hainan, locals call the dish "Wenchang chicken". They use a particular fowl that is bony and fibrous, and serve the chicken with oily rice. A ground green chilli dip rounds off the dish.
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"The recipe for the dish is adapted from early Chinese immigrants from Hainan Island, off the southern coast of China. Back in Hainan, locals call the dish "Wenchang chicken". They use a particular fowl that is bony and fibrous, and serve the chicken with oily rice. A ground green chilli dip rounds off the dish.
 <br>
 <br>[In Singapore], [t]he cooking method hails back to its Hainanese roots, with a few uniquely [local] twists. The chicken is steeped in boiling water or blanched till it is fully cooked, before soaking it in cold water to ensure the meat remains tender. In a local twist, the chicken can also be roasted or braised in soya sauce for a different taste...It is, however, the rice and chilli sauce that can make or break the dish. The rice, cooked in chicken stock with ginger and pandan leaves, should have just the right amount of oiliness, while the chilli must possess the right blend of both spiciness and sourness."</span>
 	
@@ -128,7 +128,7 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 oral history interivew. (<a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">Source</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
 	
 </details>
 
@@ -150,7 +150,7 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">So, what exactly can you find in the Magnolia Snack Bar? Click or tap here to read a 1984 account of the restaurant by Violet Oon, a reporter from now defunct *The Singapore Monitor*. (<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841216-1.2.44.3.1" target="_blank">Source</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"The most fascinating thing about eating there is the menu which has preserved the Fifties touch featuring such old fashioned names as Merry Widow ($2.75), Knickerbocker Casablanca ($3.20) and Pear Berry Fantasy ($2.70). Then there are the old colonial dishes of Pork Sausages, Eggs with Toast and Butter, Peas and Chips for $3.90, Chicken Curry with Rice and condiments for $5.90 and Fish and Chips with toast and butter for $6.50. I had thought a snack bar like that would have gone out of fashioned with its vinyl floors, old-fashioned and no-frills décor and plain service…Yet the ambience was surprisingly pleasant and had the air of a haven away from the frenzy of city life. It is air-conditioned and a pleasant place to go to if you intend to meet some friends where the conversation and company counts more than the food…it [can also be] a place for dating, as a meal there for two can cost under $20 and the bus stops are located nearby."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"The most fascinating thing about eating there is the menu which has preserved the Fifties touch featuring such old fashioned names as Merry Widow ($2.75), Knickerbocker Casablanca ($3.20) and Pear Berry Fantasy ($2.70). Then there are the old colonial dishes of Pork Sausages, Eggs with Toast and Butter, Peas and Chips for $3.90, Chicken Curry with Rice and condiments for $5.90 and Fish and Chips with toast and butter for $6.50. I had thought a snack bar like that would have gone out of fashioned with its vinyl floors, old-fashioned and no-frills décor and plain service…Yet the ambience was surprisingly pleasant and had the air of a haven away from the frenzy of city life. It is air-conditioned and a pleasant place to go to if you intend to meet some friends where the conversation and company counts more than the food…it [can also be] a place for dating, as a meal there for two can cost under $20 and the bus stops are located nearby."</span>
 	
 </details>
 
@@ -176,7 +176,7 @@ ______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The street hawker scene of Waterloo Street was vividly remembered by Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, in his 2005 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">oral history interview</a>. Click here to read what he shared.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up the tea and he picks it up on that side. Oh, it was really something."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#ee926f">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, waht they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up the tea and he picks it up on that side. Oh, it was really something."</span>
 	
 </details>
 
