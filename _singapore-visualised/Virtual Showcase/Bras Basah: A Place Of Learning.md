@@ -96,7 +96,7 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 
 #### **The "Big Three" of Local Chinese Bookstores**
 
-Out of the five major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
+Besides MPH and Koh and Co., there were also many Chinese bookstores in Bras Basah and other parts of Singapore. Among them, there were five that were considered the  major Chinese bookstores in early Singapore, three were local: Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
 
 |  | 
 |:--------:| 
