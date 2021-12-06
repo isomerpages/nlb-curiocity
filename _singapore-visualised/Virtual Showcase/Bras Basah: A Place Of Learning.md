@@ -224,12 +224,6 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 | [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"} |
 | In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
 
-**Little Red Bricks**
-
-Though the old National library was demolished almost 15 years ago in 2004, it will forever live on in the memories of the countless amount of Singaporeans that frequented it over the decades. Local animation studio Robot Playground has decided to take it one step further by immortalising the National Library in a 15-minute animated short titled “Little Red Bricks” that pays tribute to not only the building itself but the people as well through the the life and times of a boy and a girl. Watch the breathtaking video below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ----
 
 <details>
@@ -239,6 +233,14 @@ Though the old National library was demolished almost 15 years ago in 2004, it w
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"My memories of the National Library centre around the varied encounters and experiences that were inevitably the product of looking for information and books, while growing up in the 1980s and 1990s. I remember when I was in Secondary Two and had to do a project on science in sport - how there was only a single book in the library system which was located in the national reference library...I remember that it was there that I learned how to operate the microfiche machines, in search for newspaper reports on the Hock Lee Bus strikes; that when in Secondary Four, how my classmates and I did a project on creation and evolution and ended up chatting with girls from an assortment of schools while waiting in the photocopy queues. I remember how as a 17-year-old I discovered Jack Keroauc and Ken Kesey and an assortment of poets and writes on lonely Sunday afternoons - books that had lain unborrowed for years, on the shelves of the library and greedily calculated how many I could check out. These were the days before the Internet, before Borders or Kinokuniya and the National Library certainly expanded my horizons." </span>
 	
 </details>
+
+-----
+
+**Little Red Bricks**
+
+Though the old National library was demolished almost 15 years ago in 2004, it will forever live on in the memories of the countless amount of Singaporeans that frequented it over the decades. Local animation studio Robot Playground has decided to take it one step further by immortalising the National Library in a 15-minute animated short titled “Little Red Bricks” that pays tribute to not only the building itself but the people as well through the the life and times of a boy and a girl. Watch the breathtaking video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
 
