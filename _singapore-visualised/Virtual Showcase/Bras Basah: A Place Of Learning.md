@@ -154,7 +154,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 ------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is "Xinyao" anyway? Click here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is "Xinyao"? Click or tap here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Xinyao (新谣) is a genre of music that typically refers to Mandarin ballads composed, written and performed by youths in Singapore. Started in the late 1970s, xinyao was at its peak in the 1980s and propelled many local singers and singer-songwriters to stardom, several of whom successfully transitioned to the commercial sector. Big names often associated with the xinyao movement include Eric Moo (巫启贤), Billy Koh (许环良), Liang Wern Fook (梁文福) and Roy Loi (黎沸挥).</span>
 	
