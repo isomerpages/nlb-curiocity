@@ -71,15 +71,6 @@ ____
 |  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 |  Besides students, the general public was also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31d553-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
------
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Wang Gungwu</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"It was in one of the mornings of early January 1959, we went to Bras Basah Road via the No. 1 red and white Changi bus...I was lost for words when we walked along the corridors of the shops. Almost every shop was a bookshop – old and new. Periodicals, newspapers, weekenders, magazines..., school textbooks...,  fictional books, non-fiction books of varied different genres, stationery, etc. I felt groggy. To try to save a few dollars, we tried to hunt from the second-hand book stores. I remembered that I was excited when I got one of the books. It was entitled  “The World.” It was a Geography book. Then we proceeded to the book stores that sold new ones. We went in and out almost all the shops from the whole length of Bras Basah Road from Victoria Street to Prinsep Street...When I reached home I spent some time to wrap up those books I purchased with either brown Manila paper or expired monthly calendar with the unprinted back facing out. I found it too precious to dog-ear my books to indicate the pages that I stop referring to. I used chicken feathers as bookmarks. I was excited when I saw some fine feathers actually ‘growing’ from the main ones. I could not believe it. But when checked with some adult friends, they confirmed that feathers put in between books could grow. Surprise? Surprise? Surprise? That was my first experience of book purchasing." </span>
-	
-</details>
-
 ------
 
 #### **Methodist Publishing House and Koh & Company**
