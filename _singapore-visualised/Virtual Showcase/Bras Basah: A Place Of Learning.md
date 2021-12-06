@@ -223,6 +223,8 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 | [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"} |
 | In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
 
+-----
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When the National Library at Stamford Road closed its doors on 1 April 2004 to be relocated to the present site, it concluded a chapter of its rich history of serving the people for 44 years. To prevent the former library to fade away with its demolition, the National Library Board published *Moments In Time* (2004) to capture the memories of its users. Click or tap here to read one of the entries by Gary Lim. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12409209" target="_blank">Call no.: RSING 070.5095957 CHO
 </a>)</span></summary>
