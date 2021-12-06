@@ -87,7 +87,6 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them."</span>
 	
 </details>
-<br>
 
 |   | 
 |:--------:| 
@@ -171,7 +170,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 ------
 
 **Watch this short video by students from the Nanyang Academy of Fine Arts and National Museum of Singapore on the significance of Bras Bash Complex.**
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
@@ -223,8 +222,6 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 | The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"} |
 | In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
-
-----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When the National Library at Stamford Road closed its doors on 1 April 2004 to be relocated to the present site, it concluded a chapter of its rich history of serving the people for 44 years. To prevent the former library to fade away with its demolition, the National Library Board published *Moments In Time* (2004) to capture the memories of its users. Click or tap here to read one of the entries by Gary Lim. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12409209" target="_blank">Call no.: RSING 070.5095957 CHO
