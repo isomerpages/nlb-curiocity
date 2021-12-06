@@ -29,7 +29,7 @@ Guided by the Development Guide Plan (DGP), buildings in the area ranging from s
 
 As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
 
-The sliders below show some of these conserved buildings. Click on the images to interact with them.
+The sliders below show some of these conserved buildings that we see today. Click on the images to interact with them.
 
 _______
 
