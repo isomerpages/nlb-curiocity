@@ -31,11 +31,6 @@ As many of these buildings were known not just for their aesthetic architectural
 
 The sliders below show some of these conserved buildings. Click on the images to interact with them.
 
-|   |
-|:-----:|
-| ![Alt text for image on Isomer site](/images/sample-bb-renewal-4.jpg) |
-|  |
-
 _______
 
 <details>
