@@ -121,7 +121,7 @@ Bras Basah also used to house many Chinese bookstores. Among them, there were th
 
 |  | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+| [![Alt text for image on Isomer site](/images/bb-books-nanyang-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 | The Nanyang Book Company was founded by Tan Yeok Seong in 1935. Located on North Bridge Road, it like many other bookstores of the time, published its own textbooks and periodicals to fulfill the needs of students and to strengthen their sense of identity through the addition of content about life in Nanyang. The company expanded its business rapidly and by 1940, it had branches in Penang, Kuala Lumpur and Malacca. In 1963, the book company ceased its operations in Singapore but its Penang branch is still operation till today. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  | 
