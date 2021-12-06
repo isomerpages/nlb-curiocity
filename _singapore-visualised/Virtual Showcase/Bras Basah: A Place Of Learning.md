@@ -51,8 +51,6 @@ ____
 </details>
 <br>
 
-_____
-
 |  | 
 | :--------: | 
 | [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31eb97-1162-11e3-83d5-0050568939ad){:target="_blank"}    |
