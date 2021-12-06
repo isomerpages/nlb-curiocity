@@ -72,7 +72,7 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 
 ------
 
-#### **Methodist Publishing House**
+#### **Methodist Publishing House and Koh & Company**
 
 The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html){:target="_blank"} story spans more than 100 years of printing, publishing and retail bookselling. It began as Amelia Bishop Press in 1890, and was renamed many times over the decades.
 
@@ -96,19 +96,21 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 
 #### **The "Big Three" of Local Chinese Bookstores**
 
-Besides MPH and Koh and Co., there were also many Chinese bookstores in Bras Basah as well as other parts of Singapore. Among them, there were five that were considered as the most influential, and of which, three were local namely Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. 
-
-These founders’ contributions to the region’s cultural development had such far-reaching influence that they were known as the three pioneers of the Singapore book industry. 
+Besides MPH and Koh and Co., there were also many Chinese bookstores in Bras Basah as well as other parts of Singapore. Among them, there were five that were considered as the most influential, and of which, three were local namely Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. The remaining two were Commercial Press and Chung Hwa Book Company from China.
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
-| Established in 1925 by Chen Yueshu, the Shanghai Book Company was one of the oldest bookstores in Singapore. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
+| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company was one of the oldest bookstores in Singapore. Located on North Bridge Road, 
+
+In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The first [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} was set up in 1936 by Mr Chou Sing Chu along North Bridge Road, focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1936, it was located on North Bridge Road, 
+
+focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
