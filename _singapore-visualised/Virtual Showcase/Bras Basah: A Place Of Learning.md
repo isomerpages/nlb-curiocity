@@ -129,9 +129,7 @@ In its heydays after the Second World War, the company published books in Chines
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1936, it was located on North Bridge Road, 
-
-focusing on retailing Chinese books and stationery. Its business soon expanded into Malaysia and Indonesia but was disrupted by the outbreak of WWII. After the war, POPULAR resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1934, it was located at North Bridge Road, focusing on retailing Chinese books and stationery. In 1936, World Book was renamed Popular Book Company and it started to expand its business into the wider region. However, this was disrupted by the outbreak of WWII. After the war, the bookstore resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
