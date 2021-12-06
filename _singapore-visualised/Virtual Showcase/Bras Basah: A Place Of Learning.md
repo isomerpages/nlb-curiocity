@@ -98,8 +98,6 @@ The [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/a
 
 Besides English bookstores such as MPH and Koh & Company, there were also many Chinese bookstores in Bras Basah since colonial period. Among them, there were three that were considered as the most influential. Namely Shanghai Book Company, World Book Company and Nanyang Book Company, they played an important role in shaping Singapore's book industry.
 
-namely Chen Yoh Shoo’s Shanghai Book Company, Chou Sing Chu’s World Book Company and Tan Yeok Seong’s Nanyang Book Company. The remaining two were Commercial Press and Chung Hwa Book Company from China.
-
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
