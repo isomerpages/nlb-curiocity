@@ -101,8 +101,12 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them."</span>
 	
 </details>
+<br>
 
-------
+|   | 
+|:--------:| 
+|[![Alt text for image on Isomer site](/images/bb-mph-building-old-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+| Known as the "Grand Dame of Bookstores", MPH began as Amelia Bishop Press in 1890. Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3e8278f-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 #### **The "Big Three" of Local Chinese Bookstores**
 
