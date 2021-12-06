@@ -202,7 +202,7 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Christopher Hooi was . (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23239c76-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Christopher Hooi was the Director of the National Museum from 1979 to 1982. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23239c76-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore
 </a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"[T]raditionally, the museum should be a repository of the nation’s heritage. That is understood because without a museum then what is important to a national will be lost….[But] it should be not [just] a repository [but also] a fine centre of display…It should be a place of education. To teach people things; to entertain them; to educate them…it should draw them to come to the museum so that there is a meaning a reason to come to the museum." </span>
