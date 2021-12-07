@@ -43,6 +43,7 @@ ___
 <br>Founded by Tina Fung and Ash Razaque in 2017, Space Objekt is a Singapore-based boutique design studio that is reshaping the understanding of built environments and reimagining spatial experiences. Dedicated to making art accessible to all, Space Objekt redefines spaces with its creativity and dexterity in this new visual language. From small-scale props to immersive larger-than-life installations and interior design, the studio has been involved in a wide variety of projects across Asia and Europe, such as the Summer Well Festival (Romania), and for brands like Gucci and Adidas. 
 
 Louis Quek is a sound designer and electronic music artist under the alias, Intriguant. Inspired by the human perception of environment and spaces, he blends textural soundscapes and rhythms and, backed with syncopated beats, fuses the physical with the spiritual. Rooted in music and sound design, he delves into other media such as art installations, theatre and film. He has worked with the National Gallery Singapore, Toy Factory Productions, Singapore International Festival of the Arts 2018/2019 and SG Artweek 2020/2021.
+
 ___
 
 #### **Showcase Map**
