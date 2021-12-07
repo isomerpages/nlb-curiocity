@@ -60,3 +60,10 @@ ___
 
 **Find out more:**
 <br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
+___
+
+#### **Showcase Map**
+
+Ready to explore this year’s Curiocity showcase? Start your journey using the map below (download a copy [here](/files/sample-light-map.pdf){:target="_blank"}). 
+
+![Alt text for image on Isomer site](/images/sample_light_map.jpg)
