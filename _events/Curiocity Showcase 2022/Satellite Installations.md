@@ -60,6 +60,7 @@ ___
 
 **Find out more:**
 <br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
+
 ___
 
 #### **Showcase Map**
