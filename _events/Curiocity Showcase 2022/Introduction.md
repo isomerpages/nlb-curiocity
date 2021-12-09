@@ -27,12 +27,12 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 
 ##### **Encore in the City**
 **Dates: 3 January – 3 February 2022
-<br>Venue: National Library Building (Plaza, level 1)**
+<br>Venue: The Plaza, National Library Building**
 <br>The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
 <br>
 ##### **Jubilee Cinema 2065**
 **Dates: 14 January – 3 February 2022
-<br>Venue: National Library Building (Plaza, level 1)**
+<br>Venue: The Plaza, National Library Building**
 <br>Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
 
 #### **SATELLITE INSTALLATIONS**
@@ -40,17 +40,17 @@ Check out our Curiocity installations in the Civic District during the Light to 
 
 ##### **The River Connects**
 **Dates: 14 January – 3 February 2022
-<br>Venue: Asian Civilisations Museum (level 2)**
+<br>Venue: Level 2 Foyer, Asian Civilisations Museum**
 <br>Discover the possibilities of connection made by the bridges along the Singapore River in this experiential media installation.
 <br>
 ##### **A Tessellation of Memories**
 **Dates: 14 January – 3 February 2022
-<br>Venue: The Arts House (Playden, level 2)**
+<br>Venue: Playden, The Arts House**
 <br>Travel through time and space to the forgotten places of our city’s history.
 <br>
 ##### **LUMBA**
 **Dates: 14 January – 3 February 2022
-<br>Venue: Esplanade Park (Queen Elizabeth Walk)**
+<br>Venue: Queen Elizabeth Walk, Esplanade Park**
 <br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a sense of celebration.
 
 ________
