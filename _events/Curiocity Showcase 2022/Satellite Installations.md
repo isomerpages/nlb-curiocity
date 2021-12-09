@@ -56,7 +56,7 @@ ___
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
 
 **About the artist:**
-<br>Alina Ling is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling also pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
+<br>Alina Ling is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
 
 **Find out more:**
 <br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
