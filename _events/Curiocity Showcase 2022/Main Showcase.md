@@ -11,7 +11,7 @@ ___
 
 #### **Encore in the City**
 **3 January – 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
+<br>**The Plaza, National Library Building**
 
 **About the showcase:**
 <br>Go on a journey that traverses space and time to reflect upon the present. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment landscape and culture cast in a whole new light through their past lives. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our city’s hidden histories! 
@@ -28,7 +28,7 @@ ___
 
 #### **Jubilee Cinema 2065**
 **14 January – 3 February 2022**
-<br>**National Library Building (Plaza, level 1)**
+<br>**The Plaza, National Library Building**
 
 **About the showcase:**
 <br>*Jubilee Cinema 2065* envisions a cinema of the future, where the public becomes the protagonists of their own movies, by reimagining the former Jubilee Theatre on Beach Road. Produced by design studio Space Objekt, the light installation seeks to explore notions of celebrity, cinema, entertainment, the live encounter, and participation in a not-so-distant future.
