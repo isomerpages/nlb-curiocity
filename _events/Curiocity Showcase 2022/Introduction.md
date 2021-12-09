@@ -48,7 +48,7 @@ Check out our Curiocity installations in the Civic District during the Light to 
 <br>Venue: The Arts House (Playden, level 2)**
 <br>Travel through time and space to the forgotten places of our city’s history.
 <br>
-##### **Lumba**
+##### **LUMBA**
 **Dates: 14 January – 3 February 2022
 <br>Venue: Esplanade Park (Queen Elizabeth Walk)**
 <br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a sense of celebration.
