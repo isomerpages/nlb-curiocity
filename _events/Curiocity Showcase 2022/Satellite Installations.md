@@ -45,12 +45,12 @@ ___
 
 ___
 
-#### **Lumba**
+#### **LUMBA**
 **14 January – 3 February 2022**
 <br>**Esplanade Park (Queen Elizabeth Walk)**
 
 **About the installation:**
-<br>*Lumba* is an interactive light installation inspired by the small sailing boats in *kolek lumba* — a sea sport once held during the New Year Regatta in the Civic District between the 19th and early 20th centuries. Featuring five standing sculptures modelled after the boats, this creation by interaction designer Alina Ling invites all to observe how the sails billow in sync with the wind. When night falls, viewers can walk through the spaces between the structures and see how their movements affect the dancing of light along their frames to evoke a celebratory mood.
+<br>*LUMBA* is an interactive light installation inspired by the small sailing boats in *kolek lumba* — a sea sport once held during the New Year Regatta in the Civic District between the 19th and early 20th centuries. Featuring five standing sculptures modelled after the boats, this creation by interaction designer Alina Ling invites all to observe how the sails billow in sync with the wind. When night falls, viewers can walk through the spaces between the structures and see how their movements affect the dancing of light along their frames to evoke a celebratory mood.
 
 **Behind the work:**
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
