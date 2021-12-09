@@ -9,7 +9,7 @@ third_nav_title: Curiocity Showcase 2022
 
 ___
 
-#### **Now You See Me, Now You Don't (TBC)**
+#### **Encore in the City**
 **3 January – 3 February 2022**
 <br>**National Library Building (Plaza, level 1)**
 
