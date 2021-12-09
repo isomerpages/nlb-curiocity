@@ -25,7 +25,7 @@ Ready to explore this year’s Curiocity showcase? Start your journey using the 
 #### **MAIN SHOWCASE**
 Home to several iconic entertainment sites, there is never a dull moment in downtown Singapore. Discover our vibrant past and explore the ’hood in a different light this year. Find out more about Curiocity [here](/events/curiocity-showcase-2022/main){:target="_blank"}!
 
-##### **Now You See Me, Now You Don't (TBC)**
+##### **Encore in the City**
 **Dates: 3 January – 3 February 2022
 <br>Venue: National Library Building (Plaza, level 1)**
 <br>The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
