@@ -11,7 +11,7 @@ ___
 
 #### **The River Connects**
 **14 January – 3 February 2022**
-<br>**Asian Civilisations Museum (level 2)**
+<br>**Level 2 Foyer, Asian Civilisations Museum**
 
 **About the installation:**
 <br>An immersive media installation by artist Ong Kian Peng, *The River Connects* highlights the bridges along the Singapore River. As its title suggests, this work explores the possibilities of human connection on and by the river — an organic phenomenon that can span mobility, commerce and social interactions. Inspired by this notion, The River Connects references the many ways of connecting through a collection of archival and 3D scanned images of the bridges. It presents the stories they hold in an interactive and experiential format, while giving the audience new perspectives of sights both familiar and yet distant.
@@ -29,7 +29,7 @@ ___
 
 #### **A Tessellation of Memories**
 **14 January – 3 February 2022**
-<br>**The Arts House (Playden, level 2)**
+<br>**Playden (level 2), The Arts House**
 
 **About the installation:**
 <br>*A Tessellation of Memories* is a reflective journey into our city’s past, piecing together forgotten places from our history. Immerse yourself in an imaginative realm and revisit six locales lost to time. Observe their inevitable progression through time, before emerging in the present. Time stands still as you take an intimate look into each place framed within an artful stream of infinity mirrors. Each space is a reflection of its former self, glorious or otherwise, and invites its viewers to unearth a perspective unseen — until now.
@@ -47,7 +47,7 @@ ___
 
 #### **LUMBA**
 **14 January – 3 February 2022**
-<br>**Esplanade Park (Queen Elizabeth Walk)**
+<br>**Queen Elizabeth Walk, Esplanade Park**
 
 **About the installation:**
 <br>*LUMBA* is an interactive light installation inspired by the small sailing boats in *kolek lumba* — a sea sport once held during the New Year Regatta in the Civic District between the 19th and early 20th centuries. Featuring five standing sculptures modelled after the boats, this creation by interaction designer Alina Ling invites all to observe how the sails billow in sync with the wind. When night falls, viewers can walk through the spaces between the structures and see how their movements affect the dancing of light along their frames to evoke a celebratory mood.
