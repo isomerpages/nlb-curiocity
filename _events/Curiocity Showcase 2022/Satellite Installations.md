@@ -29,7 +29,7 @@ ___
 
 #### **A Tessellation of Memories**
 **14 January – 3 February 2022**
-<br>**Playden (level 2), The Arts House**
+<br>**Playden, The Arts House**
 
 **About the installation:**
 <br>*A Tessellation of Memories* is a reflective journey into our city’s past, piecing together forgotten places from our history. Immerse yourself in an imaginative realm and revisit six locales lost to time. Observe their inevitable progression through time, before emerging in the present. Time stands still as you take an intimate look into each place framed within an artful stream of infinity mirrors. Each space is a reflection of its former self, glorious or otherwise, and invites its viewers to unearth a perspective unseen — until now.
