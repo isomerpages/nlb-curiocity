@@ -34,7 +34,7 @@ _______
 
 ### **Bookstores in Bras Basah**
 
-Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the nation-building years and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby including [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"}, New Bridge Road and Cashin Street used to house shophouses famous for such services.
+Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html){:target="_blank"} to a Singaporean who lived through the nation-building years and “books, stationery and printing services” are among the words which may spring to mind. Back then, the road and those nearby including [North Bridge Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_880_2004-12-28.html){:target="_blank"}, New Bridge Road and Cashin Street used to house many shophouses famous for such services.
 
 |  | 
 | :--------: | 
