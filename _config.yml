@@ -41,15 +41,15 @@ colors:
   secondary-color: "#eb7044"
   media-colors:
     - title: media-color-one
-      color: "#ee926f"
+      color: "#f43c18"
     - title: media-color-two
-      color: "#eab69e"
+      color: "#eb7044"
     - title: media-color-three
-      color: "#f8dace"
+      color: "#ee926f"
     - title: media-color-four
-      color: "#fbebe7"
+      color: "#fbc7bc"
     - title: media-color-five
-      color: "#f8f4f4"
+      color: "#ffe6e6"
 staging: https://staging-nlb-curiocity.netlify.com/
 prod: https://production-nlb-curiocity.netlify.com/
 plugins:
