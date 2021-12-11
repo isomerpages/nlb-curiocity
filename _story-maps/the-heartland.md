@@ -49,3 +49,14 @@ permalink: /story-maps/heartland
 </div>
 	</div> 
 	</div>
+	
+<div>
+	<div class="row is-multiline">
+	    <div class="col is-half-desktop is-half-tablet">
+	<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html"><img src="/images/amk-storymap-image.jpg" alt="image 4"></a>
+	</div>
+    <div class="col is-half-desktop is-half-tablet">
+<a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/amk-storymap-image.jpg" alt="image 2"></a>
+</div>
+	</div> 
+	</div>
