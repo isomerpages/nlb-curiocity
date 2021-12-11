@@ -39,3 +39,4 @@ permalink: /story-maps/heartland
 Image credit: 
 <br>1. Ang Mo Kio image: Chuttersnap [CC BY-4.0]
 <br>2. Jurong image: Groyn88 [CC BY-SA 3.0]
+<br>3. Punggol image: Deoma12 [CC BY-SA 4.0]
