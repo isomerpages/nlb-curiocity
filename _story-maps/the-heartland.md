@@ -12,7 +12,7 @@ permalink: /story-maps/heartland
 
 [![Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
 
-[![Queenstown Story Map](/images/storymap-image-queenstown.png)](/resource-room/story-maps/queenstown-first-satellite-town)
+[![Queenstown Story Map](/images/storymap-image-queenstown.png)](/resource-room/story-maps/queenstown)
 
 |**<font size="5">Tampines</font>**| 
 | -------- | 
