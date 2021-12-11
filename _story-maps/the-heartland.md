@@ -10,6 +10,7 @@ permalink: /story-maps/heartland
 
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
+[![Historical Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
 
 |**<font size="5">Punggol</font>**| 
 | -------- |
