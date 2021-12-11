@@ -20,9 +20,7 @@ permalink: /story-maps/heartland
 
 [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.png)](/resource-room/story-maps/toa-payoh)
 
-|**<font size="5">Yishun</font>**| 
-| -------- | 
-| [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) |
+[![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun)
 
 _______
 
