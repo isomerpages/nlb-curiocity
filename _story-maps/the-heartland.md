@@ -35,7 +35,7 @@ _______
 <br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
 <br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
 <br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
-<br>7. Toa Payoh phot by mailer_diablo [CC BY-SA 3.0]
+<br>7. Toa Payoh photo by Bob T [CC BY-SA 4.0]
 </span>
 	
 </details>
