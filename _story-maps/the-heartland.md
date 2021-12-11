@@ -6,9 +6,9 @@ permalink: /story-maps/heartland
 
 --------
 
-![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)
+[![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)](/resource-room/story-maps/ang-mo-kio)
 
-![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)
+[![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
 
 |**<font size="5">Punggol</font>**| 
