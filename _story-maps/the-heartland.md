@@ -14,9 +14,7 @@ permalink: /story-maps/heartland
 
 [![Queenstown Story Map](/images/storymap-image-queenstown.png)](/resource-room/story-maps/queenstown)
 
-|**<font size="5">Tampines</font>**| 
-| -------- | 
-|[![Tampines Story Map](/images/storymap-image-tampines.png)](/resource-room/story-maps/tampines) |
+[![Tampines Story Map](/images/storymap-image-tampines.png)](/resource-room/story-maps/tampines)
 
 |**<font size="5">Tiong Bahru</font>**| 
 | -------- | 
