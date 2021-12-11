@@ -12,10 +12,6 @@ permalink: /story-maps/heartland
 
 [![Historical Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
 
-|**<font size="5">Punggol</font>**| 
-| -------- |
-| [![Historical Punggol Story Map](/images/storymap-image-punggol.jpg)](/resource-room/story-maps/punggol) | 
-
 |**<font size="5">Queenstown</font>**| 
 | -------- |
 | [![Queenstown Story Map](/images/storymap-image-queenstown.JPG)](/resource-room/story-maps/queenstown-first-satellite-town) | 
