@@ -9,12 +9,6 @@ _______
 
 ![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)
 
-![Alt text for image on Isomer site](/images/storymap-image-jurong-2.png)
-
-|**<font size="5">Jurong</font>**| 
-| -------- | 
-| [![Jurong Story Map](/images/storymap-image-jurong.png)](/resource-room/story-maps/jurong) | 
-
 
 |**<font size="5">Punggol</font>**| 
 | -------- |
