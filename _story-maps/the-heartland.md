@@ -8,6 +8,10 @@ permalink: /story-maps/heartland
 | -------- | 
 | [![Ang Mo Kio Story Map](/images/storymap-image-ang-mo-kio.png)](/resource-room/story-maps/ang-mo-kio) | 
 
+![Alt text for image on Isomer site](/images/amk-sample-1.jpg)
+<br>
+![Alt text for image on Isomer site](/images/amk-sample-1.jpg)
+
 
 |**<font size="5">Jurong</font>**| 
 | -------- | 
