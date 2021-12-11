@@ -39,9 +39,9 @@ permalink: /story-maps/heartland
 _______
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap here for image credit.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">1. Ang Mo Kio photo by Chuttersnap [CC BY-4.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Ang Mo Kio photo by Chuttersnap [CC BY-4.0]
 <br>2. Jurong image photo by Groyn88 [CC BY-SA 3.0]
 <br>3. Punggol image photo by Deoma12 [CC BY-SA 4.0]</span>
 	
