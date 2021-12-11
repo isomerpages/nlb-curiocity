@@ -36,26 +36,6 @@ permalink: /story-maps/heartland
 | [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) |
 
 
-<div>
-	<div class="row is-multiline">
-	    <div class="col is-half-desktop is-half-tablet">
-	<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html"><img src="/images/amk-storymap-image.jpg" alt="image 4"></a>
-	</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/amk-storymap-image.jpg" alt="image 2"></a>
-</div>
-	</div> 
-	</div>
-	
-<div>
-	<div class="row is-multiline">
-	    <div class="col is-half-desktop is-half-tablet">
-	<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html"><img src="/images/amk-storymap-image.jpg" alt="image 4"></a>
-	</div>
-    <div class="col is-half-desktop is-half-tablet">
-<a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/amk-storymap-image.jpg" alt="image 2"></a>
-</div>
-	</div> 
-	</div>
-	
-![Alt text for image on Isomer site](/images/amk-sample-1.jpg)
+Image credit: 
+<br>1. Ang Mo Kio image: Chuttersnap [CC BY-4.0]
+<br>2. Jurong image: Groyn88 [CC BY-SA 3.0]
