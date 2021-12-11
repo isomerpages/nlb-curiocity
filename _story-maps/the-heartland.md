@@ -36,5 +36,6 @@ permalink: /story-maps/heartland
 
 |**<font size="5">Yishun</font>**| 
 | -------- | 
-| [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) | 
+| [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) |
 
+![Alt text for image on Isomer site](/images/amk-storymap-image.jpg)
