@@ -60,3 +60,5 @@ permalink: /story-maps/heartland
 </div>
 	</div> 
 	</div>
+	
+![Alt text for image on Isomer site](/images/amk-sample-1.jpg)
