@@ -18,7 +18,7 @@ permalink: /story-maps/heartland
 
 [![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru-1.png)](/resource-room/story-maps/tiong-bahru)
 
-[![Toa Payoh Story Map](/images/storymap-image-toa-payoh.JPG)](/resource-room/story-maps/toa-payoh)
+[![Toa Payoh Story Map](/images/storymap-image-toa-payoh.png)](/resource-room/story-maps/toa-payoh)
 
 |**<font size="5">Yishun</font>**| 
 | -------- | 
