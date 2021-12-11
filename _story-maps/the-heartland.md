@@ -39,6 +39,8 @@ _______
 <br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Ang Mo Kio photo by Chuttersnap [CC BY-4.0]
 <br>2. Jurong image photo by Groyn88 [CC BY-SA 3.0]
-<br>3. Punggol image photo by Deoma12 [CC BY-SA 4.0]</span>
+<br>3. Punggol image photo by Deoma12 [CC BY-SA 4.0]
+<br>4. Queenstown image photo by Chen Siyuan [CC BY-SA 4.0]
+</span>
 	
 </details>
