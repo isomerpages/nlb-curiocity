@@ -20,7 +20,7 @@ permalink: /story-maps/heartland
 
 [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.png)](/resource-room/story-maps/toa-payoh)
 
-[![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun)
+[![Yishun Story Map](/images/storymap-image-yishun.jpg)](/resource-room/story-maps/yishun)
 
 _______
 
@@ -34,6 +34,7 @@ _______
 <br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
 <br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
 <br>7. Toa Payoh photo by Bob T [CC BY-SA 4.0]
+<br>8. Yishun photo by KTPH [CC BY-SA 4.0]
 </span>
 	
 </details>
