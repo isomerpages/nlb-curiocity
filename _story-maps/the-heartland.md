@@ -16,9 +16,7 @@ permalink: /story-maps/heartland
 
 [![Tampines Story Map](/images/storymap-image-tampines.jpg)](/resource-room/story-maps/tampines)
 
-|**<font size="5">Tiong Bahru</font>**| 
-| -------- | 
-| [![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru.png)](/resource-room/story-maps/tiong-bahru) | 
+[![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru.png)](/resource-room/story-maps/tiong-bahru
 
 |**<font size="5">Toa Payoh</font>**| 
 | -------- |
