@@ -7,6 +7,7 @@ _______
 
 ![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)
 
+![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)
 
 |**<font size="5">Jurong</font>**| 
 | -------- | 
