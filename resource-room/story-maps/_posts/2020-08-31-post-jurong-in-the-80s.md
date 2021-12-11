@@ -1,14 +1,11 @@
 ---
-title: 'Jurong in the 80s'
+title: Jurong in the 80s
 permalink: /resource-room/story-maps/jurong
 date: 2020-08-30T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-jurong.png" alt="storymap-jurong"/>
 
-Jurong was transformed between the 1960s to the 1980s into Singapore’s first industrial estate. This was part of the government’s plan to generate mass employment through industrialisation. Once a swampland, Jurong rapidly developed into a self-sufficient new town with housing, social and leisure amenities. Today, Jurong has embarked on its latest phase of redevelopment as the largest commercial and regional hub outside Singapore’s city centre. 
+Jurong was transformed during the nation-building years into Singapore’s first industrial estate. This was part of the government’s plan to generate mass employment through industrialisation. Once a swampland, Jurong rapidly developed into a self-sufficient new town with housing, social and leisure amenities. Today, Jurong has embarked on its latest phase of redevelopment as the largest commercial and regional hub outside Singapore’s city centre. 
 Discover some of its iconic landmarks past and present in this story map.
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/jurong/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
