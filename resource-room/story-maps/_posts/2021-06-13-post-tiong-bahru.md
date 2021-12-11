@@ -1,14 +1,12 @@
 ---
-title: 'Tiong Bahru: The First Public Housing Estate'
+title: "Tiong Bahru: The First Public Housing Estate"
 permalink: /resource-room/story-maps/tiong-bahru
 date: 2021-06-13T00:00:00.000Z
-
 ---
-
 <img src="/images/storymap-image-tiong-bahru.png" alt="storymap-tiong-bahru "/>
 
 
-An estate with architectural, cultural and historic significance, Tiong Bahru was developed in the 1920s as Singapore’s first public housing estate by the Singapore Improvement Trust (SIT), the colonial predecessor of the Housing Development Board. Apart from being used as a burial ground, the area in the early days was used for cultivations, and by military personnel from the Sepoy Lines fortification at Pearl’s Hill.
+An estate of architectural, cultural and historic significance, Tiong Bahru was developed in the 1920s as Singapore’s first public housing estate by the Singapore Improvement Trust (SIT), the colonial predecessor of today's Housing Development Board. Apart from being used as a burial ground, the area in the early days was used for cultivations, and by military personnel from the Sepoy Lines fortification at Pearl’s Hill.
 
 Take a trip back in time in this story map to learn more about Tiong Bahru, its history and the places of interest.
 
