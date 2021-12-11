@@ -38,6 +38,7 @@ _______
 <br>3. Punggol photo by Deoma12 [CC BY-SA 4.0]
 <br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
 <br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
+<br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
 </span>
 	
 </details>
