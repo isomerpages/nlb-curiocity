@@ -11,7 +11,7 @@ Embark on this story map to learn the history these bridges.
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/bridges-of-singapore-river-1966/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-bridges-singapore-river.png" alt="qr-code-storymap-bridges-singapore-river" style="width:200px;" />
+<img src="/images/qr-code-storymap-bridges-singapore-river.jpg" alt="qr-code-storymap-bridges-singapore-river" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of the bridges found along Singapore River.
