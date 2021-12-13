@@ -11,7 +11,7 @@ Development of Queenstown first began in 1952 by the Singapore Improvement Trust
 
 Join us in walking down memory lane as we explore the heritage of Queenstown through this storymap.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-queenstown-first-satellite-town.png" alt="qr-code-storymap-queenstown-first-satellite-town" style="width:200px;" />
 
