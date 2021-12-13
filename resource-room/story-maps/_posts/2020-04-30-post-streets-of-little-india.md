@@ -1,18 +1,15 @@
 ---
-title: 'Streets of Little India'
+title: Streets of Little India
 permalink: /resource-room/story-maps/streets-of-little-india
 date: 2020-04-30T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-little-india-streets.png" alt="storymap-little-india-streets"/>
 
 The name of a place is a marker of identity – it can tell us a lot about that place, such as its history, culture and development. As its name suggests, Little India is an ethnic enclave for the Indian community in Singapore, yet what do the road names, like “Serangoon Road” and “Kerbau Road” mean? 
 
 Take a look at some of them in this story map on the streets of Little India and uncover the myriad interlocking stories encoded in the streets there.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/little-india-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-little-india-streets.png" alt="qr-code-storymap-little-india-streets" style="width:200px;" />
 
