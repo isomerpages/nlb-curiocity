@@ -138,7 +138,7 @@ _______
 
 The map below geo-tagged some of the key resources that were used in this showcase. To experience it, please click on the map below. The resources are categorised into its various format.
 
-[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://uploads.knightlab.com/storymapjs/be07f88bbb474da1dff518b7264b010c/bras-basah-resource-map/index.html)
+[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-resource-map/index.html)
 
 If you need a timeline perspective on some of the resources that were used in this showcase, please click on the graph below.
 
