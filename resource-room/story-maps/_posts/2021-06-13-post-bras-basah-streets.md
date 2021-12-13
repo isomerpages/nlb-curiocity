@@ -11,7 +11,7 @@ Take a trip back in time in this story map to learn more about streets in Bras B
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/brash-basah-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-bras-basah-streets.png" alt="qr-code-storymap-bras-basah-streets" style="width:200px;" />
+<img src="/images/qr-code-storymap-bras-basah-streets.jpg" alt="qr-code-storymap-bras-basah-streets" style="width:200px;" />
 
 Notes:
 
