@@ -1,18 +1,15 @@
 ---
-title: 'Heritage Bridges of Singapore River'
+title: Heritage Bridges of Singapore River
 permalink: /resource-room/story-maps/heritage-bridges-of-singapore-river
 date: 2020-01-15T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-singapore-river-bridges.png" alt="storymap-singapore-river-bridges"/>
 
 The heritage bridges that were built over the Singapore River during the colonial period are more than mere structures providing safe passageway across this historic body of water. Hailed as marvels of engineering given the technology and building materials available at the time, these bridges were built to defy the elements and resist the laws of gravity. 
 
 Embark on this story map to learn the history these bridges.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bridges-of-singapore-river-1966/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/bridges-of-singapore-river-1966/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-bridges-singapore-river.png" alt="qr-code-storymap-bridges-singapore-river" style="width:200px;" />
 
