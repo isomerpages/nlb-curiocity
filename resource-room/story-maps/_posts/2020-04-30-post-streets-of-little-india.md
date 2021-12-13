@@ -11,7 +11,7 @@ Take a look at some of them in this story map on the streets of Little India and
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-little-india-streets.png" alt="qr-code-storymap-little-india-streets" style="width:200px;" />
+<img src="/images/qr-code-storymap-little-india-streets.jpg" alt="qr-code-storymap-little-india-streets" style="width:200px;" />
 
 Notes:
 1. This story map does not show a comprehensive coverage of the streets in Little India.
