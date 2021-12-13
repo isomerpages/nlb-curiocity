@@ -11,7 +11,7 @@ Find out in this story map on the streets of Chinatown and uncover the myriad in
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/chinatown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-chinatown-streets.png" alt="qr-code-storymap-chinatown-streets" style="width:200px;" />
+<img src="/images/qr-code-storymap-chinatown-streets.jpg" alt="qr-code-storymap-chinatown-streets" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of the streets in Chinatown.
