@@ -43,11 +43,9 @@ _____
 
 ### **Becoming Bras Basah.Bugis**
 
-The revitalisation of Bras Basah and Bugis following the launch of the Rochor DGP has allowed the two districts to become the Bras Basah.Bugis (BBB) precinct of today. First announced after the release of the 2003 Master Plan, BBB is identified by the URA as a "treasure trove of cultural and architectural references" marked by its compelling blend of old and new architecture. The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precinct especially Orchard Road and the Downtown Core. 
+The revitalisation of Bras Basah and Bugis following the launch of the Rochor DGP has allowed the two districts to become the Bras Basah.Bugis (BBB) precinct of today. First announced after the release of the 2003 Master Plan, BBB is identified by the URA as a "treasure trove of cultural and architectural references" marked by its compelling blend of old and new architecture. The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
-This is further enhanced by the existence of renowned educational institutions and arts groups. 
-
-They were captured in walking routes
+To capture the the arts and heritage identity of BBB, you can embark on these walking trials below.
 
 ____
 
