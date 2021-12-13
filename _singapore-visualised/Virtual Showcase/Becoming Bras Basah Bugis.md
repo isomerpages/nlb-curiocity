@@ -6,9 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **In Need For Renewal**
 
-Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need for a renewal. Not only its streets were congested and overcrowded, their colonial era shophouses were in dilapidated condition.
-
-To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the urban renewal programme to the Bras Basah and Bugis area. This process saw many buildings being torn down and redeveloped.
+Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need for a renewal. Not only its streets were congested and overcrowded, their colonial era shophouses were in dilapidated condition. To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the urban renewal programme to the Bras Basah and Bugis area. 
 
 |   |
 |:-----:|
@@ -23,9 +21,16 @@ ________
 
 ### **Recognising Its Eclectic Identity**
 
-By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the two areas, the URA decided to develop them together as a heritage, arts and learning enclave. 
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the two areas, the URA decided to develop them together as a heritage, arts and learning enclave. Guided by the Rochor Development Guide Plan (DGP), which was released in 1994, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. 
 
-Guided by the Rochor Development Guide Plan (DGP), which was released in 1994, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
+|   |
+|:-----:|
+| [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
+| A 1974 photograph showing a traffic jam along Bras Basah Road. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
+| [![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad) |
+|  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+As these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
 
 The sliders below show some of these conserved buildings that we see today. Click on the images to interact with them.
 
