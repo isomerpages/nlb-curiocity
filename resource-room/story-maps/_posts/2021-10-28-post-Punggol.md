@@ -13,7 +13,7 @@ Discover these interesting facts as well as some of Punggol’s iconic landmarks
 
 View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/punggol/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-qode-storymap-punggol.png" alt="qr-code-storymap-punggol" style="width:200px;" />
+<img src="/images/qr-qode-storymap-punggol.jpg" alt="qr-code-storymap-punggol" style="width:200px;" />
 
 Notes:
 
