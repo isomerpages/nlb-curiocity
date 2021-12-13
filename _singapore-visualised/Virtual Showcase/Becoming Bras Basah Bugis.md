@@ -55,6 +55,13 @@ The ability of BBB to retains its architectural and cultural heritage has made i
 
 To capture the the arts and heritage identity of BBB, you can embark on these walking trials below.
 
+|  |  |  |
+| :--------: | :--------: | :--------: |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
+
 ____
 
 ### **An Ode to Bras Basah**
