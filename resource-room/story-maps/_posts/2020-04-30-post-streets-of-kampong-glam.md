@@ -1,18 +1,15 @@
 ---
-title: 'Streets of Kampong Glam'
+title: Streets of Kampong Glam
 permalink: /resource-room/story-maps/streets-of-kampong-glam
 date: 2020-04-30T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-kampong-glam-streets.png" alt="storymap-kampong-glam-streets"/>
 
 The name of a place is a marker of identity – it can tell us a lot about that place, such as its history, culture and development. As its name suggests, Kampong Glam (or Kampong Gelam) is an ethnic enclave for the Malay community in Singapore, yet what do the road names, like “Arab Street” and “Jalan Sultan” mean? 
 
 Find out in this story map on the streets of Kampaong Glam and uncover the myriad interlocking stories encoded in the streets there.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kampong-glam-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/kampong-glam-its-streets/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-kampong-glam-streets.png" alt="qr-code-storymap-kampong-glam-streets" style="width:200px;" />
 
