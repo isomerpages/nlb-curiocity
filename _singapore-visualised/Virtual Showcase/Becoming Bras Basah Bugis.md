@@ -58,7 +58,7 @@ To capture the the arts and heritage identity of BBB, you can embark on these wa
 |  |  |  |
 | :--------: | :--------: | :--------: |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017) by the National Hertiage Board     | Bras Basah.Bugis : be inspired. be creative. be more. : your guide to Singaporea's arts & heritage precinct     | Bras Basah.Bugis : be inspired. be creative. be more. : your guide to Singaporea's arts & heritage precinct    |
 
 
 
