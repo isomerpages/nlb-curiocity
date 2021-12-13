@@ -51,7 +51,10 @@ The revitalisation of Bras Basah and Bugis following the launch of the Rochor DG
 |:-----:|
 | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-map-1.jpg)  |
 | The Bras Basah.Bugis precinct, as shown in the map above, is bounded by Rochor Road, Beach Road, Selegie Road and Bras Basah Road. (Image from [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"})  |
-____
+
+
+
+______
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
