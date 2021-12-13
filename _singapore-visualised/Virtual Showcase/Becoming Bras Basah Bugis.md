@@ -25,9 +25,9 @@ By the late 1980s, the Bras Basah and Bugis districts had developed a new shine 
 
 |   |
 |:-----:|
-| [![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
+| [![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad)  |
 | A 1974 photograph showing a traffic jam along Bras Basah Road. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
-| [![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad) |
 |  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 As these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
