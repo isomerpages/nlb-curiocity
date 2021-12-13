@@ -1,18 +1,15 @@
 ---
-title: 'Historical Landmarks of Little India'
+title: Historical Landmarks of Little India
 permalink: /resource-room/story-maps/landmarks-of-little-india
 date: 2020-04-29T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-little-india-landmarks.PNG" alt="storymap-little-india-landmarks"/>
 
 Unlike its sister conservation precincts of Chinatown and Kampong Gelam, Little India was never intended by Sir Stamford Raffles to be an area designated for Singapore’s Indian community. Instead, it developed its identity organically over the years, establishing itself as a melting pot of diverse communities and cultures, as well as an enclave for the Indian community.
 
 In this story map, learn more about the history of Little India told through its iconic landmarks.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/little-india-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-little-india-landmarks.png" alt="qr-code-storymap-little-india-landmarks" style="width:200px;" />
 
