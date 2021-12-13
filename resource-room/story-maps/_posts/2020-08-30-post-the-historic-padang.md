@@ -1,18 +1,15 @@
 ---
-title: 'The Historic Padang'
+title: The Historic Padang
 permalink: /resource-room/story-maps/padang
 date: 2020-08-30T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-padang.png" alt="storymap-padang"/>
 
 The Padang (Malay for “field”), formerly referred to as the Esplanade, the Plain, Cantonment Plain or Raffles Plan, was first marked out in the Raffles Town Plan (Jackson Plan) to serve as a public recreation area. Over the century, the fringes of the Padang were slowly filled up with Neo-Classical colonial buildings such as the Supreme Court and Municipal building, and became the heart of the colonial district and home to many National Monuments of Singapore.
 
 Take a trip back in time in this story map to learn more about the history of the iconic buildings that sat around this historic green space.
 
-View the story map in [full screen]( https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/historic-padang/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen]( https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-padang.png" alt="qr-code-storymap-padang" style="width:200px;" />
 
