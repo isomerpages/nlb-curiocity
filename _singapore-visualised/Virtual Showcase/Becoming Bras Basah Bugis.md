@@ -21,7 +21,7 @@ ________
 
 ### **Recognising Its Eclectic Identity**
 
-By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the two areas, the URA decided to develop them together as a heritage, arts and learning enclave. Guided by the Rochor Development Guide Plan (DGP), which was released in 1994, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. 
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the two areas, the URA decided to develop them together as a heritage, arts and learning enclave. Guided by the Rochor Development Guide Plan (DGP), which was released in 1993, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. 
 
 |   |
 |:-----:|
