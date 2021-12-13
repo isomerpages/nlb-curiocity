@@ -38,8 +38,8 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 
 |  | 
 | :--------: | 
-| [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}    | 
-| The bookstores along Bras Basah Road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| [![Alt text for image on Isomer site](/images/bb-bookstores-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}    | 
+| The bookstores along Bras Basah Road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}) |
 
 ____
 
