@@ -11,7 +11,7 @@ In this story map, learn more about the history of these iconic landmarks, and i
 
 View and listen to the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/copy-kampong-glam-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-kampomg-glam-landmarks2.png" alt="qr-code-storymap-kampong-glam-landmarks" style="width:200px;" />
+<img src="/images/qr-code-storymap-kampong-glam-landmarks.jpg" alt="qr-code-storymap-kampong-glam-landmarks" style="width:200px;" />
 
 
 Notes:
