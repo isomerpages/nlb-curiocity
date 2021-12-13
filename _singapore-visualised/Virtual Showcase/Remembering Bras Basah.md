@@ -16,7 +16,7 @@ You can embark on this journey of discovery either by using a <span style="font-
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-	<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
+	<a href="https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
 <a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
