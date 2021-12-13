@@ -12,7 +12,7 @@ Discover some of our offshore islands around Singapore in this story map.
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/our-islands-of-paradise/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-islands.png" alt="qr-code-storymap-islands" style="width:200px;" />
+<img src="/images/qr-code-storymap-islands.jpg" alt="qr-code-storymap-islands" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of the nature areas in Singapore.
