@@ -52,7 +52,7 @@ ____
 
 |  | 
 | :--------: | 
-| [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"}    |
+| [![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"}    |
 | The students who visited these bookstores were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Photo via [PictureSG]https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"})   |
 |  [![Alt text for image on Isomer site](/images/bb-bookstores-1.png)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
 |  Besides students, the general public was also drawn to the area for its affordable books and stationery. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
