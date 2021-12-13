@@ -26,7 +26,7 @@ By the late 1980s, the Bras Basah and Bugis districts had developed a new shine 
 |   |
 |:-----:|
 | ![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-1.jpg)  |
-| Recognising both Bras Basah and Bugis possessed many eclectic features that contributed to Singapore's unique and distinctively Asian identity, the Rochor DGP aims to add new vitality to the two districts by harnessing and enhancing these positive elements. (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"})  |
+| Recognising both Bras Basah and Bugis possessed many eclectic features that contributed to Singapore's unique and distinctively Asian identity, the Rochor DGP aims to add new vitality to the two districts by harnessing and enhancing these positive and historical elements. (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"})  |
 | ![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-2.jpg) |
 |  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"}) |
 
