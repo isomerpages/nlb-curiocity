@@ -1,18 +1,15 @@
 ---
-title: 'Our First Nature Reserves'
+title: Our First Nature Reserves
 permalink: /resource-room/story-maps/nature-reserves-first
 date: 2020-09-05T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-first-nature-reserves.PNG" alt="storymap- first-nature-reserves"/>
 
 Singapore’s nature reserves have a history that stretches back to the early 1880s. Conceived by then Superintendent of the Singapore Botanic Gardens Nathaniel Cantley in the Report on the Forests of the Straits Settlements (1883), the reserves were to protect the remaining primary forest on the island which had been greatly depleted due to human activities particularly the indiscriminate clearing of forest land for cash crop plantations such as gambier and pepper.
 
 This story map retells the story of how and why Singapore’s first reserves were established by highlighting key discussions and interesting facts in Cantley’s 1883 forest report.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/first-nature-reserves/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/first-nature-reserves/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-first-nature-reserves.png" alt="qr-code-storymap-first-nature-reserves.png" style="width:200px;" />
 
