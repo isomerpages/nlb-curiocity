@@ -30,6 +30,8 @@ By the early 1990s, the Bras Basah and Bugis districts had developed a new shine
 | ![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-2.jpg) |
 |  URA's strategy to revitalise Bras Basah and Bugis involved the introduction of new commercial developments such as office buildings and shopping complexes as well as the conservation of historically significant buildings. This coexistence of old and new can be seen in the above model representation of the Rochor DGP,  (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"}) |
 
+
+
 ______
 
 <details>
