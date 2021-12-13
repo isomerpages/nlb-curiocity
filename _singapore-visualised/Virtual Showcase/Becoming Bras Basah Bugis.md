@@ -58,7 +58,7 @@ To capture the the arts and heritage identity of BBB, you can embark on these wa
 |  |  |  |
 | :--------: | :--------: | :--------: |
 | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-1.jpg)     | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-2.jpg)     | ![Alt text for image on Isomer site](/images/story-map-journey.jpg)     |
-| [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017) by the National Hertiage Board     | [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"} (2004) by the Urban Redevelopment Authority    | Bras Basah.Bugis: The Complete Story Map (2021) by the National Library Board    |
+| [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017)     | [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"} (2004)    | Bras Basah.Bugis: The Complete Story Map (2021)    |
 
 
 
