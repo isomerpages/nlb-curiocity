@@ -11,7 +11,7 @@ In this story map, learn more about the history of Little India told through its
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-little-india-landmarks.png" alt="qr-code-storymap-little-india-landmarks" style="width:200px;" />
+<img src="/images/qr-code-storymap-little-india-landmarks.jpg" alt="qr-code-storymap-little-india-landmarks" style="width:200px;" />
 
 
 Notes:
