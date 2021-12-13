@@ -9,7 +9,7 @@ Kallang is not only the home to Kallang River which is the longest river in Sing
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/historic-kallang/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-kallang-historic.png" alt="qr-code-storymap-kallang-historic" style="width:200px;" />
+<img src="/images/qr-code-storymap-kallang-historic.jpg" alt="qr-code-storymap-kallang-historic" style="width:200px;" />
 
 Notes:
 1. This story map is not a comprehensive coverage of all the historic landmarks found in Kallang.
