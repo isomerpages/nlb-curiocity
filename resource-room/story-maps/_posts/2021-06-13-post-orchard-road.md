@@ -2,9 +2,7 @@
 title: The History of Orchard Road
 permalink: /resource-room/story-maps/orchard-road
 date: 2021-06-13T00:00:00.000Z
-
 ---
-
 <img src="/images/storymap-image-orchard-road.png" alt="storymap-orchard-road"/>
 
 
@@ -12,7 +10,7 @@ Originally a hilly suburban fringe sandwiched between the main commercial town a
 
 Take a trip back in time in this story map to learn more about the transformation of Orchard Road as well as the historical places that once stood along this iconic road.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/orchard-road/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/orchard-road/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-orchard-road.png" alt="qr-code-storymap-orchard-road " style="width:200px;" />
 
