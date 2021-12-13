@@ -2,16 +2,14 @@
 title: Bras Basah and Its Places of Worship
 permalink: /resource-room/story-maps/bras-basah-worship
 date: 2021-06-13T00:00:00.000Z
-
 ---
-
 <img src="/images/storymap-image-bras-basah-worship.png" alt="storymap- bras-basah-worship"/>
 
 Bras Basah is one of Singapore’s oldest districts. With a name derived from the Malay term ‘wet rice’ which were once laid out on the banks of Bras Basah River (today’s Stamford Canal), it was marked out by Sir Stamford Raffles as part of the European Town in 1822 and had served as the suburb to the built-up areas which included the Commercial Square (today’s Raffles Place) district. As a result, the Bras Basah area was considered an ideal location for the establishment of public and religious buildings including schools.
 
 Take a trip back in time in this story map to learn more about the some of the oldest religious buildings that can be found in Bras Basah.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-worship/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-worship/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-bras-basah-worship.png" alt="qr-code-storymap-bras-basah-worship" style="width:200px;" />
 
