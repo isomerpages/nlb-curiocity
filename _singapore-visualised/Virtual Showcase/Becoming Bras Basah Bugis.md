@@ -23,9 +23,9 @@ ________
 
 ### **Recognising Its Eclectic Identity**
 
-By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the area, the URA decided to develop them together as a heritage, arts and learning enclave. 
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the two areas, the URA decided to develop them together as a heritage, arts and learning enclave. 
 
-Guided by the Rochor Development Guide Plan (DGP), buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
+Guided by the Rochor Development Guide Plan (DGP), which was released in 1994, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
 
 The sliders below show some of these conserved buildings that we see today. Click on the images to interact with them.
 
@@ -39,6 +39,12 @@ _______
 </details>
 
 _____
+
+### **Becoming Bras Basah.Bugis**
+
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the area, the URA decided to develop them together as a heritage, arts and learning enclave. 
+
+____
 
 ### **An Ode to Bras Basah**
 
