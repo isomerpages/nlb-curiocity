@@ -49,8 +49,7 @@ The revitalisation of Bras Basah and Bugis following the launch of the Rochor DG
 |:-----:|
 | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-map-1.jpg)  |
 | Recognising both Bras Basah and Bugis possessed many eclectic elements that contributed to Singapore's unique and distinctively Asian identity, the Rochor DGP aims to add new vitality to the two districts by harnessing and enhancing its historical and cultural heritage. (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"})  |
-
-![Alt text for image on Isomer site](/images/bb-renewal-bbb-map-1.jpg)
+____
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
