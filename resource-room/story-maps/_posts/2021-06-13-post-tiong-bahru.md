@@ -10,7 +10,7 @@ An estate of architectural, cultural and historic significance, Tiong Bahru was 
 
 Take a trip back in time in this story map to learn more about Tiong Bahru, its history and the places of interest.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/tiong-bahru/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/tiong-bahru/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-tiong-bahru.png" alt="qr-code-storymap- tiong-bahru" style="width:200px;" />
 
