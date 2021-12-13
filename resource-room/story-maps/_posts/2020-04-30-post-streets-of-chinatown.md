@@ -1,18 +1,15 @@
 ---
-title: 'Streets of Chinatown'
+title: Streets of Chinatown
 permalink: /resource-room/story-maps/streets-of-chinatown
 date: 2020-04-30T00:00:00.000Z
-
 ---
-
-
 <img src="/images/storymap-image-chinatown-streets.png" alt="storymap-chinatown-streets"/>
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
 Find out in this story map on the streets of Chinatown and uncover the myriad interlocking stories encoded in the streets there.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/chinatown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/chinatown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-chinatown-streets.png" alt="qr-code-storymap-chinatown-streets" style="width:200px;" />
 
