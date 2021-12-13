@@ -11,7 +11,7 @@ Find out the name and history of these buildings in this story map.
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/buildings-along-singapore-river/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-raffles-place-today.png" alt="qr-code-storymap-raffles-place-today" style="width:200px;" />
+<img src="/images/qr-code-storymap-raffles-place-today.jpg" alt="qr-code-storymap-raffles-place-today" style="width:200px;" />
 
 Notes:
 
