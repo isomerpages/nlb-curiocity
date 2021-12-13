@@ -11,7 +11,7 @@ Join us as we explore the heritage of one of Singapore’s most quintessential h
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/tampines/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-tampines.png" alt="qr-code-storymap-tampines" style="width:200px;" />
+<img src="/images/qr-code-storymap-tampines.jpg" alt="qr-code-storymap-tampines" style="width:200px;" />
 
 Notes:
 
