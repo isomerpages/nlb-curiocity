@@ -43,7 +43,7 @@ _____
 
 ### **Becoming Bras Basah.Bugis**
 
-The revitalisation of Bras Basah and Bugis following the launch of the Rochor DGP has allowed the two districts to become the Bras Basah.Bugis district of today. 
+The revitalisation of Bras Basah and Bugis following the launch of the Rochor DGP has allowed the two districts to become the Bras Basah.Bugis precinct of today. 
 
 They were captured in walking routes
 
