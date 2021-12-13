@@ -8,7 +8,7 @@ Learn more about this part of Singapore through the story maps below.
 
 |**<font size="5">Raffles Place</font>**| 
 | -------- | 
-| [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](/resource-room/story-maps/raffles-place-in-the-60s) | 
+| [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html) | 
 | [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today) | 
 | [![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place) |
 
