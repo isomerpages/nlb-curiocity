@@ -11,7 +11,7 @@ This story map retells the story of how and why Singapore’s first reserves wer
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/first-nature-reserves/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-first-nature-reserves.png" alt="qr-code-storymap-first-nature-reserves.png" style="width:200px;" />
+<img src="/images/qr-code-storymap-first-nature-reserves.jpg" alt="qr-code-storymap-first-nature-reserves.png" style="width:200px;" />
 
 Notes:
 
