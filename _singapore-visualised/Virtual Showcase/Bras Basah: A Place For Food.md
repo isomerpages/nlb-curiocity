@@ -208,4 +208,4 @@ ______
 
 ### **Explore This Food Map of Old Bras Basah**
 
-[![Alt text for image on Isomer site](/images/bb-storymap-food.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-food-map/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-storymap-food.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-food-map/index.html){:target="_blank"}
