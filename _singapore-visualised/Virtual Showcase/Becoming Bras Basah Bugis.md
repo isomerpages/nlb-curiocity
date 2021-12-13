@@ -17,7 +17,7 @@ To address these issues, the government led by the Urban Redevelopment Authority
 | [![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad) |
 |  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad) |
-|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesu, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
+|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesus, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
 
 ________
 
