@@ -25,9 +25,7 @@ ________
 
 By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the area, the URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
 
-Guided by the Development Guide Plan (DGP), buildings in the area ranging from school buildings to cinemas and shophouses were turned into commercial spaces as well as cultural and heritage spaces.
-
-As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
+Guided by the Rochor Development Guide Plan (DGP), buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. As many of these buildings were known not just for their aesthetic architectural value, but also for the intrinsic role they played in the development of the local society and community, they were carefully conserved under the nation's conservation programme.
 
 The sliders below show some of these conserved buildings that we see today. Click on the images to interact with them.
 
