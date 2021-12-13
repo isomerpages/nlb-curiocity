@@ -8,7 +8,7 @@ permalink: /resource-room/story-maps/yishun
 
 Discover more about its history in this story map.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/yishun/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/yishun/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-qode-storymap-yishun.png" alt="qr-code-storymap-yishun" style="width:200px;" />
 
