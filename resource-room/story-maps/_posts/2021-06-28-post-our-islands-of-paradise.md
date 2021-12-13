@@ -10,7 +10,7 @@ Off the shores of Singapore's main island lie dozens of little hidden slices of 
 
 Discover some of our offshore islands around Singapore in this story map.
 
-View the story map in [full screen](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-islands-of-paradise/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/our-islands-of-paradise/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-islands.png" alt="qr-code-storymap-islands" style="width:200px;" />
 
