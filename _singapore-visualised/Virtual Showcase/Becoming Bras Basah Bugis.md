@@ -23,7 +23,7 @@ ________
 
 ### **Becoming Bras Basah.Bugis**
 
-By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but were quieter and less vibrant than before. To rejuvenate the area, URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
+By the late 1980s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the area, the URA decided to develop them together as a heritage, arts and learning enclave known today as the Bras Basah.Bugis (BBB) district. 
 
 Guided by the Development Guide Plan (DGP), buildings in the area ranging from school buildings to cinemas and shophouses were turned into commercial spaces as well as cultural and heritage spaces.
 
