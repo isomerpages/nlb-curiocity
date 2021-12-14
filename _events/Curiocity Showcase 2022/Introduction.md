@@ -55,6 +55,11 @@ Check out our Curiocity installations in the Civic District during the Light to 
 
 ________
 
+#### **Programmes**
+Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](https://curiocity.nlb.gov.sg/events/Curiocity-Showcase-2022/programmes).
+
+________
+
 #### **A Virtual Showcase on Bras Basah**
 
 There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} or view this [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
