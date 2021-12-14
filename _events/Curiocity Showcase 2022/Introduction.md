@@ -30,7 +30,7 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 <br>Venue: The Plaza, National Library Building**
 <br>The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
 <br>
-##### **Jubilee Cinema 2065**
+##### **Psychic Cinema 2065**
 **Dates: 14 January – 3 February 2022
 <br>Venue: The Plaza, National Library Building**
 <br>Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
