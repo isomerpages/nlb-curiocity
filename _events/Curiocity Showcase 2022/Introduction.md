@@ -14,21 +14,21 @@ Curiocity is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a fi
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-#FD4101">
+    <div class="clickbox is-orange">
       <a href="events/curiocity-showcase-2022/main">
         <span>Main Showcase</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-orange">
       <a href="events/curiocity-showcase-2022/satellite">
         <span>Satellite Installations</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-orange">
       <a href="events/curiocity-showcase-2022/programmes">
         <span>Programmes</span>
       </a>
