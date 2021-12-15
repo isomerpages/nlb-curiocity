@@ -35,7 +35,7 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Old Raffles Place photovia National Archives of Singapore
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Old Raffles Place photo via National Archives of Singapore
 <br>2. Present day Raffles Place photo by Jukkabrother [CC BY-SA 4.0]
 <br>3. Raffles Place streets photo via PictureSG [CC BY-SA 4.0]
 <br>4. Bras Basah schools photo by Chen Siyuan [CC BY-SA 4.0]
