@@ -41,8 +41,8 @@ _______
 <br>4. Bras Basah schools photo by Chen Siyuan [CC BY-SA 4.0]
 <br>5. Bras Basah places of Worship photo by Zhenkang [CC BY-SA 4.0]
 <br>6. Bras Basah streets photo by Choo Yut Shing via Flickr
-<br>7. Civic District photo by Bob T [CC BY-SA 4.0]
-<br>8. Fort Canning photo by KTPH [CC BY-SA 4.0]
+<br>7. Civic District photo by William Cho [CC BY-SA 2.0]
+<br>8. Fort Canning photo by Matt Kieffer [CC BY-SA 2.0]
 <br>9. Old Kallang photo by KTPH [CC BY-SA 4.0]
 <br>10. Present day Kallang photo by KTPH [CC BY-SA 4.0]
 <br>11. Orchard Road photo by KTPH [CC BY-SA 4.0]
