@@ -5,12 +5,11 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
 <img src="/images/storymap-image-padang.png" alt="storymap-padang"/>
 
-The Padang (Malay for “field”), formerly referred to as the Esplanade, the Plain, Cantonment Plain or Raffles Plan, was first marked out in the Raffles Town Plan (Jackson Plan) to serve as a public recreation area. Over the century, the fringes of the Padang were slowly filled up with Neo-Classical colonial buildings such as the Supreme Court and Municipal building, and became the heart of the colonial district and home to many National Monuments of Singapore.
+Home to some of Singapore’s most notable historic buildings, the Civic District stretches from Fort Canning to the Singapore River and the seafront beyond the Padang. It was demarcated in the Raffles Town Plan as an administrative zone for the colonial government in the 1820s. Since then, the area witnessed the proliferation of many neo-Classical colonial buildings such as the former Supreme Court, the Municipal building, the former Parliament House and the Victoria Theatre and Concert Hall. Today, many of these buildings are still standing, allowing the Civic District to become one of the districts with the most national monuments.
 
-Take a trip back in time in this story map to learn more about the history of the iconic buildings that sat around this historic green space.
+Take a trip back in time in this story map to learn more about the history of these iconic buildings.
 
 View the story map in [full screen]( https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
