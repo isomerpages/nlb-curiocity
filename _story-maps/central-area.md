@@ -43,9 +43,9 @@ _______
 <br>6. Bras Basah streets photo by Choo Yut Shing via Flickr
 <br>7. Civic District photo by William Cho [CC BY-SA 2.0]
 <br>8. Fort Canning photo by Matt Kieffer [CC BY-SA 2.0]
-<br>9. Old Kallang photo by KTPH [CC BY-SA 4.0]
-<br>10. Present day Kallang photo by KTPH [CC BY-SA 4.0]
-<br>11. Orchard Road photo by KTPH [CC BY-SA 4.0]
+<br>9. Old Kallang photo via National Archives of Singapore
+<br>10. Present day Kallang photo by William Cho via Flickr
+<br>11. Orchard Road photo by chensiyuan [CC BY-SA 4.0]
 </span>
 	
 </details>
