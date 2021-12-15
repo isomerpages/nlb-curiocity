@@ -90,8 +90,8 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 
 |   | 
 |:--------:| 
-|[![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/adc095d2-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| Established by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel in 1905. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s.  (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/adc095d2-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"} |
+| Established by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel in 1905. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s.  (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
 
 -------
 
