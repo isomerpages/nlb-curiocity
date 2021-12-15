@@ -84,8 +84,8 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
-| The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"}   |
+| The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"}   |
 | In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://eresources.nlb.gov.sg/pictures/Details/3196fca9-7c51-432f-aa70-2b10049c3b50){:target="_blank"}   |
