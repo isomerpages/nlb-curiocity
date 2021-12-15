@@ -4,15 +4,13 @@ date: 2021-12-02
 permalink: /resource-room/showcase/bb-cinemas
 layout: post
 ---
-
-
-#### **Cinemas in Bras Basah**
+### **Cinemas in Bras Basah**
 
 As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
 
------
+_________
 
-**Cathay Building**
+##### **Cathay Building**
 
 Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html){:target="_blank"} was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time. 
 
@@ -28,9 +26,9 @@ Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infoped
 __________
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these campuses were still located in Bras Basah. Click or tap here to read an account by Michael Lim, an ex-student from St Jospeh's Institution (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these campuses were still located in Bras Basah. Click or tap here to read an account by Michael Lim, an ex-student from St Jospeh's Institution (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Whenever the weather was hot, we would skip school and sneak into Cathay, which was one of the few places in town with air-conditioning…You can tell who went to the movies by the ice-cream stains on their shirts. Our teachers used to catch us that way. Actually, they themselves snuck off to the movies in the afternoons. I remember seeing a couple of them in the back row once. Maybe they were there to bust us."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Whenever the weather was hot, we would skip school and sneak into Cathay, which was one of the few places in town with air-conditioning…You can tell who went to the movies by the ice-cream stains on their shirts. Our teachers used to catch us that way. Actually, they themselves snuck off to the movies in the afternoons. I remember seeing a couple of them in the back row once. Maybe they were there to bust us."</span>
 	
 </details>
 
@@ -45,15 +43,15 @@ The Cathay Building was such an iconic structure that it was featured in many hi
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Who is Michael Rogge? And why he has footages of old Singapore? Click or tap here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Who is Michael Rogge? And why he has footages of old Singapore? Click or tap here to find out.</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
 	
 </details>
 
 _____
 
-**Odeon Theatre**
+##### **Odeon Theatre**
 
 The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_2006-06-21.html){:target="_blank"} was built in 1953. Located at the junction of North Bridge Road and Cashin Street, it was Cathay Organisation’s flagship cinema and its most successful box-office earner in Singapore. Due to its prime location, the Odeon, from the 1950s to 1970s, was a favourite hangout for students of schools in the vicinity, including the St Joseph’s Institution, Convent of the Holy Infant Jesus, Catholic High and Raffles Institution.
 
@@ -69,15 +67,15 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">The closure of Odeon was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The closure of Odeon was met with sadness in the community, especially among those who frequented there either as students or movie buffs. Click or tap here to read why. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830801-1.2.36" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Odeon in those days was more than just a cinema hall. A way of life grew around it, especially among the teenaged school boys and girls…many students of nearby St Jospeh’s Institution and those from the Convent of the Holy Infant Jesus went to afternoon shows at the Odeon. One of the musts before one entered the cinema hall was to buy conical packet of kachang puteh. After the show was over, the students would walk across the road to Baker’s Bakery, better known as Red House, where between sips and coffee or F&N orange crush and curry puffs, they either eyed each other or the students from Raffles Girls’ School and their companions from Raffles Institution. Some of these staring incidents led to puppy-love romances; others led to fights between the boys from the two rival groups. But the RI-RGS crowd preferred Capitol cinema and often patronised the Magnolia Milk Bar at Stamford Road."</span>
 	
 </details>
 
 ----
 
-**Capitol Theatre**
+##### **Capitol Theatre**
 
 The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2004-12-15.html){:target="_blank"}, located at the junction of Stamford Road and North Bridge Road, was opened in 1930.  It was considered one of the finest cinemas of the time. Originally owned by the Namazie family, Capitol Theatre, along with the four-storey adjoining building then known as Namazie Mansions, was sold to Shaw Organisation after World War II.
 
@@ -93,15 +91,15 @@ The [Capitol Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_630_2
 -------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Do you know that there was a Mickey Mouse Club in the Capitol building? Set up by Joe and his brother, Julius Fisher, in 1933, members of the club could watch matinee shows for as little as 25 cents or for free. Click or tap here to read how architect Lee Kip Lin remembers his time as a club member. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19990102-1.2.16.3" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Do you know that there was a Mickey Mouse Club in the Capitol building? Set up by Joe and his brother, Julius Fisher, in 1933, members of the club could watch matinee shows for as little as 25 cents or for free. Click or tap here to read how architect Lee Kip Lin remembers his time as a club member. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19990102-1.2.16.3" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">"We school children flocked there during the weekends to enjoy the privilege of paying a 25-cent admission fee for any class of seat at the matinee upon identifying ourselves by our Mickey Mouse badges. On Saturdays, the kids would hang around the theatre. It was an occasion for committee members to exercise their authority and also to impress the girls. The films shown included the musicals featuring Deanna Durbin, Fred Astaire and Ginger Rogers."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We school children flocked there during the weekends to enjoy the privilege of paying a 25-cent admission fee for any class of seat at the matinee upon identifying ourselves by our Mickey Mouse badges. On Saturdays, the kids would hang around the theatre. It was an occasion for committee members to exercise their authority and also to impress the girls. The films shown included the musicals featuring Deanna Durbin, Fred Astaire and Ginger Rogers."</span>
 	
 </details>
 
 ----
 
-**Rex Cinemas**
+##### **Rex Cinemas**
 
 Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
 
@@ -114,15 +112,24 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKe
 | [![Alt text for image on Isomer site](/images/sample-bb-rex-3.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas){:target="_blank"} |
 |  By the 1980s, a dwindling cinema business forced the Rex to close its doors. The building, at different points in time, was then  used as a singing performance house, an ice rink, a church, and a disco. For a period between 2009 and 2018, the Rex returned to its roots and served its original purposes as a movie cinema screening Tamil and Hindi films. Eventually Rex ceased operation in 2018, and the building is currently not in use. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Rex-Cinemas){:target="_blank"}) |
 
-------
+-------
 
-**Victoria Theatre**
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When the revival of Rex as a cinema in 2009, it bought back fond memories for many movie-goers especially those from the merdeka and pioneer generations. Click or tap here to read this account by Gwee Thian Hock. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20090923-1.2.14.4 " target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">“I am now in my mid-70s and Rex Cinema brings back fond memories. As a regular patron, I was there at the afternoon opening show of Rock Around The Clock, with policemen on duty in the theatre just in case over-enthusiastic rock ‘n’ roll fans got out of hand…And, during my undergraduate days, I made almost daily trips on a Green Bus to the hawker stalls there for my lunch of Indian rojak and mee siam. On the first floor of the corner coffee shop building on Mackenzie Road (where the popular curry puff was sold) there was a Hainanese-run halal restaurant selling Chinese food. It was probably the first of such restaurants."</span>
+	
+</details>
+
+----
+
+##### **Victoria Theatre**
 
 The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. Historically, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
 
 |  |
 | :--------: |
-| [![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad) |
+| [![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |  As for the Memorial Hall, it built to commemorate Queen Victoria. It was designed colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren. For the centennial celebrations in 1919 to commemorate 100 years since the founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of Victoria Memorial Hall. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae3928d6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
@@ -131,7 +138,7 @@ The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’
 
 -------
 
-**Jubilee Theatre**
+##### **Jubilee Theatre**
 
 Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it was opened in 1929 and was among the first cinemas to be installed with the equipment to support "talkies" or sound films.
 
@@ -146,7 +153,7 @@ Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside 
 
 --------
 
-**Royal Theatre and Diamond Theatre**
+##### **Royal Theatre and Diamond Theatre**
 
 Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
 
@@ -158,9 +165,9 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 ---------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/beb55962-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/beb55962-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
 </details>
 
@@ -183,8 +190,8 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 
 _______
 
-#### **Beyond Cinemas**
+### **Beyond Cinemas**
 
 Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
 
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
