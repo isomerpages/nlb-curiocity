@@ -118,8 +118,8 @@ At the junction of Bras Basah Road and Victoria Street opposite present day CHIJ
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"}|
-A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/b3377b9d-d880-4cc3-9ef4-430cdf08bc78){:target="_blank"}|
+A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/b3377b9d-d880-4cc3-9ef4-430cdf08bc78){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
