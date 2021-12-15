@@ -16,7 +16,7 @@ View the story map in [full screen]( https://nlb.geoicon.com/spatialdiscovery/st
 <img src="/images/qr-code-storymap-civic-district.jpg" alt="qr-code-storymap-civic-district" style="width:200px;" />
 
 Notes:
-1. This story map does not show a comprehensive coverage of the historic buildings and sites around the Padang.
+1. This story map does not show a comprehensive coverage of the historic buildings and sites in the Civic District.
 
 2. The title of the base map used in this story map is the [New Singapore Street Map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f7db6648-115c-11e3-83d5-0050568939ad) (1930s).
 
