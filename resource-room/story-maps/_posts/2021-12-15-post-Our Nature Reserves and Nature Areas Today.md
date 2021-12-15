@@ -7,11 +7,7 @@ description: ""
 ---
 <img src="/images/storymap-image-nature-reserves-areas-today.JPG" alt="storymap-nature-reserves-today"/>
 
-Singapore’s nature reserves goes all the way back to the 1880s when the then-Singapore Botanical Gardens Superintendent Nathaniel Cantley proposed that select areas of land around the island to be set up as forest reserves in 1882. 
-
-Today, Singapore has four nature areas comprising the four main nature reserves – Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve – as well as 20 other areas that are subject to administrative safeguards under the Parks and Waterbodies Plan. The four nature reserves are protected under the Parks and Trees Act.
-
-Discover what lies within some of these nature areas in this story map.
+Today, Singapore has four nature areas comprising the four main nature reserves – Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve – as well as 20 other areas that are subject to administrative safeguards under the Parks and Waterbodies Plan. Discover what lies within these nature reserves and areas in this story map.
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
