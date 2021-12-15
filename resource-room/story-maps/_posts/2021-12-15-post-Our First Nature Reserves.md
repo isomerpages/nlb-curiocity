@@ -5,7 +5,6 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
 <img src="/images/storymap-image-first-nature-reserves.PNG" alt="storymap- first-nature-reserves"/>
 
 Singapore’s nature reserves have a history that stretches back to the early 1880s. Conceived by then Superintendent of the Singapore Botanic Gardens Nathaniel Cantley in the Report on the Forests of the Straits Settlements (1883), the reserves were to protect the remaining primary forest on the island which had been greatly depleted due to human activities particularly the indiscriminate clearing of forest land for cash crop plantations such as gambier and pepper.
