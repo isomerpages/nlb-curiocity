@@ -26,15 +26,12 @@ Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasah
 
 ___
 
-#### **Psychic = Cinema 2065**
+#### **Psychic Cinema 2065**
 **14 January – 3 February 2022**
 <br>**The Plaza, National Library Building**
 
-**About the showcase:**
-<br>*Psychic Cinema 2065* envisions a cinema of the future, where the public becomes the protagonists of their own movies, by reimagining the former Jubilee Theatre on Beach Road. Produced by design studio Space Objekt, the light installation seeks to explore notions of celebrity, cinema, entertainment, the live encounter, and participation in a not-so-distant future.
-
 **About the installation:**
-<br>TBC
+<br>*Psychic Cinema 2065* explores an alternative cinema of the future through an immersive audio-visual installation reimagining the former Jubilee Theatre. Why do we watch films? Does each audience member have the same experience? How does our imagination augment what is on screen? This installation by design studio Space Objekt reframes the cinematic experience by diminishing one of the fundamental senses associated with it — sight. Employing light sequences and audio samples of heritage material from Singapore’s golden age of film, viewers conceive a unique film only they can ‘see’. A collective yet intimate encounter, this visceral work invites us to examine our relationship with cinema. (PRE-EDITED)
 
 **Behind the work:**
 <br> TBC: To insert info about artist's inspiration and resources referenced from the collections.
