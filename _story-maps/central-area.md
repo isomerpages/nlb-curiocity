@@ -24,9 +24,9 @@ __________
 
 [![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) 
 
-[![Historic Kallang Story Map](/images/storymap-image-historic-kallang.png)](/resource-room/story-maps/historic-kallang)
+[![Historic Kallang Story Map](/images/storymap-image-kallang-past.png)](/resource-room/story-maps/historic-kallang)
 
-[![Kallang Waterbodies Story Map](/images/storymap-image-kallang-waterbodies-parks.png)](/resource-room/story-maps/the-green-and-blue-of-kallang)
+[![Kallang Waterbodies Story Map](/images/storymap-image-kallang-today.png)](/resource-room/story-maps/the-green-and-blue-of-kallang)
 
 [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road)
 
