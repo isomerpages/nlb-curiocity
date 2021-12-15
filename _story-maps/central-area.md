@@ -37,14 +37,17 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Raffles Place photo by Jukkabrother [CC BY-4.0]
-<br>2. Raffles Place photo by Jukkabrother [CC BY-SA 4.0]
-<br>3. Punggol photo by Deoma12 [CC BY-SA 4.0]
-<br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
-<br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
-<br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
-<br>7. Toa Payoh photo by Bob T [CC BY-SA 4.0]
-<br>8. Yishun photo by KTPH [CC BY-SA 4.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Old Raffles Place photovia National Archives of Singapore
+<br>2. Present day Raffles Place photo by Jukkabrother [CC BY-SA 4.0]
+<br>3. Raffles Place streets photo via PictureSG [CC BY-SA 4.0]
+<br>4. Bras Basah schools photo by Chen Siyuan [CC BY-SA 4.0]
+<br>5. Bras Basah places of Worship photo by Zhenkang [CC BY-SA 4.0]
+<br>6. Bras Basah streets photo by Choo Yut Shing via Flickr
+<br>7. Civic District photo by Bob T [CC BY-SA 4.0]
+<br>8. Fort Canning photo by KTPH [CC BY-SA 4.0]
+<br>9. Old Kallang photo by KTPH [CC BY-SA 4.0]
+<br>10. Present day Kallang photo by KTPH [CC BY-SA 4.0]
+<br>11. Orchard Road photo by KTPH [CC BY-SA 4.0]
 </span>
 	
 </details>
