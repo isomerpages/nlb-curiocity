@@ -6,6 +6,8 @@ Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singap
 
 Learn more about this part of Singapore through the story maps below.
 
+__________
+
 [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html)
 
 [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today)
