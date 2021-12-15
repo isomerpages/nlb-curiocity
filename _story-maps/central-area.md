@@ -10,9 +10,9 @@ __________
 
 [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties-1.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html)
 
-[![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today)
+[![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today-1.png)](/resource-room/story-maps/raffles-place-today)
 
-[![Raffles Place Streets Story Map](/images/storymap-image-raffles-streets.png)](/resource-room/story-maps/streets-of-raffles-place)
+[![Raffles Place Streets Story Map](/images/storymap-image-raffles-streets-1.png)](/resource-room/story-maps/streets-of-raffles-place)
 
 [![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
 
