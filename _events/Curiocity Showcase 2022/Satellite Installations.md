@@ -9,6 +9,8 @@ Check out our Curiocity installations in the Civic District during the Light to 
 
 ___
 
+![Alt text for image on Isomer site](/images/theriverconnectsacm.png)
+
 #### **The River Connects**
 **14 January – 3 February 2022**
 <br>**Level 2 Foyer, Asian Civilisations Museum**
@@ -27,6 +29,8 @@ ___
 
 ___
 
+![Alt text for image on Isomer site](/images/atessellationofmemories.jpg)
+
 #### **A Tessellation of Memories**
 **14 January – 3 February 2022**
 <br>**Playden, The Arts House**
@@ -44,6 +48,8 @@ ___
 <br>Curious about the history of notable landmarks in the Civic District? Explore this **resource guide** to learn more.
 
 ___
+
+![Alt text for image on Isomer site](/images/lumba.jpg)
 
 #### **LUMBA**
 **14 January – 3 February 2022**
