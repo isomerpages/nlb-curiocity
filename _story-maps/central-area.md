@@ -38,7 +38,7 @@ _______
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Raffles Place photo by Jukkabrother [CC BY-4.0]
-<br>2. Jurong photo by Groyn88 [CC BY-SA 3.0]
+<br>2. Raffles Place photo by Jukkabrother [CC BY-SA 4.0]
 <br>3. Punggol photo by Deoma12 [CC BY-SA 4.0]
 <br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
 <br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
