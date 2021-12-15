@@ -5,7 +5,6 @@ permalink: /resource-room/showcase/bb-food
 layout: post
 description: ""
 ---
-
 ### **A Place for Food**
 
 Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
@@ -20,8 +19,8 @@ The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and P
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 |Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://go.gov.sg/l8l2vb){:target="_blank"}|
-|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [Urban Redevelopment Authority Conservation Portal](https://go.gov.sg/l8l2vb){:target="_blank"}) |
+|[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)](https://eresources.nlb.gov.sg/pictures/Details/02575bc0-fe84-4aff-80aa-1a5cf8e4e990){:target="_blank"}|
+|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/02575bc0-fe84-4aff-80aa-1a5cf8e4e990){:target="_blank"}) |
 |[![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg)](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"}|
 |In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Photo by [Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
@@ -86,12 +85,12 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 
 | | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
-| The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/0510e575-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
-| In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/10d01f55-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
-| However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8766be4e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"}   |
+| The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"}   |
+| In fact, the around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)](https://eresources.nlb.gov.sg/pictures/Details/3196fca9-7c51-432f-aa70-2b10049c3b50){:target="_blank"}   |
+| However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops). (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/3196fca9-7c51-432f-aa70-2b10049c3b50){:target="_blank"})|
 
 ------
 
@@ -120,8 +119,8 @@ At the junction of Bras Basah Road and Victoria Street opposite present day CHIJ
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"}|
-A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aac3692b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+|[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/b3377b9d-d880-4cc3-9ef4-430cdf08bc78){:target="_blank"}|
+A photograph showing the junction of Bras Basah Road and Victoria Street with the sign of the Red House being partially obscured (left). (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/b3377b9d-d880-4cc3-9ef4-430cdf08bc78){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"}|
 |This bakery was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
@@ -142,8 +141,8 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 
 |  |
 |:---:|
-| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"}|
-|Also referred to as "Magnolia Milk Bar", it was well-known for its milkshakes and house brand ice creams along with sandwiches, hot dogs and hamburgers. The joint was also fondly remembered by Prime Minister Lee Hsien Loong who said in a [2001 interview](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010528-1.2.26.3.8) that it was "something special" to visit the snack bar when he was a young boy and his grandmother would bring him and his two siblings there for ice-cream. (Photo via [The Peak](https://www.thepeakmagazine.com.sg/interviews/glen-goei-magnolia-snack-bar-capitol-piazza/){:target="_blank"})|
+| [![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/4e5db627-32c6-4bfb-a1f3-10c69081fc55){:target="_blank"}|
+|Also referred to as "Magnolia Milk Bar", the diner, as seen on the extreme left of the photograph above, was well-known for its milkshakes and house brand ice creams along with sandwiches, hot dogs and hamburgers. The joint was also fondly remembered by Prime Minister Lee Hsien Loong who said in a [2001 interview](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010528-1.2.26.3.8) that it was "something special" to visit the snack bar when he was a young boy and his grandmother would bring him and his two siblings there for ice-cream. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/4e5db627-32c6-4bfb-a1f3-10c69081fc55){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"}|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Photo via [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
