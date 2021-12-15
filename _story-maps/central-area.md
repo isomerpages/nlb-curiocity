@@ -6,31 +6,27 @@ Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singap
 
 Learn more about this part of Singapore through the story maps below.
 
-|**<font size="5">Raffles Place</font>**| 
-| -------- | 
-| [![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html) | 
-| [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today) | 
-| [![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place) |
+[![Raffles Place in the Sixties Story Map](/images/storymap-image-raffles-place-sixties.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html)
 
-|**<font size="5">Bras Basah</font>**| 
-| -------- | 
-| [![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools) | 
-| [![Raffles Place Worship Story Map](/images/storymap-image-bras-basah-worship.png)](/resource-room/story-maps/bras-basah-worship) | 
-| [![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets) | 
+[![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today.png)](/resource-room/story-maps/raffles-place-today)
 
-|**<font size="5">City Hall</font>**| 
-| -------- | 
-| [![Padang Story Map](/images/storymap-image-padang.png)](/resource-room/story-maps/padang) | 
-| [![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) | 
+[![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets.png)](/resource-room/story-maps/streets-of-raffles-place)
 
-|**<font size="5">Kallang</font>**| 
-| -------- | 
-| [![Historic Kallang Story Map](/images/storymap-image-historic-kallang.png)](/resource-room/story-maps/historic-kallang) | 
-| [![Kallang Waterbodies Story Map](/images/storymap-image-kallang-waterbodies-parks.png)](/resource-room/story-maps/the-green-and-blue-of-kallang) | 
+[![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
 
-|**<font size="5">Orchard</font>**| 
-| -------- | 
-| [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road) |
+[![Raffles Place Worship Story Map](/images/storymap-image-bras-basah-worship.png)](/resource-room/story-maps/bras-basah-worship)
+
+[![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets)
+
+[![Padang Story Map](/images/storymap-image-padang.png)](/resource-room/story-maps/padang) 
+
+[![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) 
+
+[![Historic Kallang Story Map](/images/storymap-image-historic-kallang.png)](/resource-room/story-maps/historic-kallang)
+
+[![Kallang Waterbodies Story Map](/images/storymap-image-kallang-waterbodies-parks.png)](/resource-room/story-maps/the-green-and-blue-of-kallang)
+
+[![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road)
 
 _______
 
