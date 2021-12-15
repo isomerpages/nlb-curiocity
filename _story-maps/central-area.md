@@ -12,7 +12,7 @@ __________
 
 [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today-1.png)](/resource-room/story-maps/raffles-place-today)
 
-[![Raffles Place Streets Story Map](/images/storymap-image-raffles-streets-1.png)](/resource-room/story-maps/streets-of-raffles-place)
+[![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets-1.png)](/resource-room/story-maps/streets-of-raffles-place)
 
 [![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
 
