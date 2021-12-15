@@ -9,12 +9,13 @@ third_nav_title: Curiocity Showcase 2022
 
 ___
 
+![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
 #### **Encore in the City**
 **3 January – 3 February 2022**
 <br>**The Plaza, National Library Building**
 
 **About the showcase:**
-<br>Go on a journey that traverses space and time to reflect upon the present. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment landscape and culture cast in a whole new light through their past lives. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our city’s hidden histories! 
+<br>(PRE-EDITED) Go on a journey that traverses space and time to reflect upon the present. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment landscape and culture cast in a whole new light through their past lives. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our city’s hidden histories! 
 
 **About the collective:**
 <br>The Merry Men Works is an experiential studio that designs and builds experiences that evokes a sense of delight in public spaces. From carpenters and tinkerers to designers and artists, the team is a diverse mix of hands-on problem solvers who take a project from its initial ideation to final production. 
@@ -25,6 +26,8 @@ ___
 Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/) **Bras Basah.Bugis digital trails**.
 
 ___
+
+![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
 
 #### **Psychic Cinema 2065**
 **14 January – 3 February 2022**
