@@ -86,7 +86,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 | ![Alt text for image on Isomer site](/images/postcard-3.jpg) |
 |Originally known as the Singapore Institution, Raffles Institution was originally located in Bras Basah as shown in this early 1900s [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1046090){:target="_blank"}. (Source: Courtesy of the National Museum of Singapore, National Heritage Board) |
 |![Alt text for image on Isomer site](/images/postcard-4.jpg)|
-| With a history that dates back to 1843 the Church of Good Shepherd, shown in this [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"}, is the oldest Roman Catholic church in Singapore. (Source: Courtesy of the National Museum of Singapore, National Heritage Board){:target="_blank"})|
+| With a history that dates back to 1843 the Church of Good Shepherd, shown in this [postcard](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"}, is the oldest Roman Catholic church in Singapore. (Source: Courtesy of the National Museum of Singapore, National Heritage Board)|
 |![Alt text for image on Isomer site](/images/postcard-5.jpg)|
 |This early 1900s [postcard](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5b7d64c-1161-11e3-83d5-0050568939ad){:target="_blank"} shows a stretch of Bras Basah Road. (Source: Courtesy of National Archives of Singapore)|
 
