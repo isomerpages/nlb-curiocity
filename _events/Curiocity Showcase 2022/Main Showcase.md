@@ -41,8 +41,9 @@ third_nav_title: Curiocity Showcase 2022
 	
 ___
 
-![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
 <h5 class="margin--bottom--lg" id="encoreinthecity"></h5>
+
+![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
 
 #### **Encore in the City**
 **3 January – 3 February 2022**
@@ -61,8 +62,9 @@ Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasah
 
 ___
 
-![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
 <h5 class="margin--bottom--lg" id="psychiccinema2065"></h5>
+
+![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
 
 #### **Psychic Cinema 2065**
 **14 January – 3 February 2022**
