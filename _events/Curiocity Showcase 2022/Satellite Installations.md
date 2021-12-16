@@ -60,7 +60,7 @@ ___
 **Behind the work**
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
 
-**About the artist:**
+**About the artist**
 <br>Ong Kian Peng is a media artist based in Singapore. Working at the intersection of art, technology and the environment, Ong creates immersive and reflective environments that offer alternate visions and imaginations of our relationship with nature. His works have been exhibited in spaces such as the Tainan Museum of Fine Art, Singapore Art Museum and Total Museum Seoul, as well as festivals like Siggraph Art Gallery and FILE Festival Brazil. Ong graduated from UCLA with an MFA in Design Media Art. He currently runs Supernormal.space, an independent art space focusing on emerging and experimental art practice.
 
 **Find out more**
