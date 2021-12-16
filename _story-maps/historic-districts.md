@@ -23,4 +23,6 @@ Find out more about our Historic Districts through these story maps.
 
 |**<font size="5">Boat Quay</font>**| 
 | -------- | 
-| [![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river) | 
+| [![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river) |
+
+KimonBerlin 2.0
