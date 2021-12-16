@@ -12,7 +12,7 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-|**11 Jan**    | **Behind the Façade: Pipe Organs in Singapore**     | Zoom     | 7:30pm to 8:30pm    | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} to register |
+|**11 Jan**    | **Behind the Façade: Pipe Organs in Singapore**  | Zoom     | 7:30pm to 8:30pm  | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} to register |
 |**13 Jan**     | **Connecting with the Past: Reliving Memories with Building Blocks**    | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
 | **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
 | **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
