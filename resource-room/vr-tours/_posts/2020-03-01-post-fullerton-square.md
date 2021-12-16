@@ -1,12 +1,9 @@
 ---
-title: 'Fullerton Square'
+title: Fullerton Square
 permalink: /resource-room/vr-tours/fullerton-square
 date: 2020-03-01T00:00:00.000Z
-
 ---
-
-
-<img src="/images/vr-tour-image-fullerton-square.png" alt="vr-tour-image-fullerton-square"/>
+[![Alt text for image on Isomer site](/images/vr-tour-image-fullerton.png)](https://roundme.com/tour/704722/view/2220555)
 
 Fullerton Square was named after Robert Fullerton, the first governor of the Straits Settlements (1826–30). The former site of one of Singapore’s earliest fortifications, it has always been a busy thoroughfare leading to the commercial centre at Raffles Place. Throughout its history, the site also houses many iconic buildings including the Fullerton Building and the Hong Kong and Shanghai Bank.
 
@@ -23,4 +20,3 @@ Notes:
 2. VR Tour Image Credit: Scene 1: Royal Netherlands Institute of Southeast Asian and Caribbean Studies and Leiden University Library/Wikimedia Commons; Scene 2: Google Street View.
 
 3. This VR tour used related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018), [Ray Tyers’ Singapore: Then & Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988), [In Granite and Chunam: The National Monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754) (1996), and [Singapore: A Pictorial History 1819-2000](http://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (1999).
-
