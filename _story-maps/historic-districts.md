@@ -20,7 +20,6 @@ Find out more about our Historic Districts through these story maps.
 
 [![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river-1.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
-[![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
 Chinatown by Marco Verch Professional Photographer via Flickr
 Chinatown streets by William Cho via Flickr
