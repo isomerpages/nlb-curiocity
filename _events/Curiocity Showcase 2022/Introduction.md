@@ -92,7 +92,7 @@ ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **Programmes**
-Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](https://curiocity.nlb.gov.sg/events/Curiocity-Showcase-2022/programmes).
+Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes).
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
