@@ -16,7 +16,7 @@ third_nav_title: Curiocity Showcase 2022
 .clickbox.is-orange { background-color: #EB7044; color: #FFFFFF; }
 .clickbox.is-orange a { color: #FFFFFF; }
 .clickbox.is-orange a:focus,
-.clickbox.is-orange a:hover { background-color: #FD4101; color: #FD4101; }	
+.clickbox.is-orange a:hover { background-color: #FD4101; color: #FFFFFF; }	
 </style>
 
 
