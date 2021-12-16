@@ -6,23 +6,18 @@ The Historic Districts of Chinatown, Kampong Glam, Little India and Boat Quay ar
 
 Find out more about our Historic Districts through these story maps.
 
-|**<font size="5">Chinatown</font>**| 
-| -------- | 
-| [![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown-landmarks.PNG)](/resource-room/story-maps/landmarks-of-chinatown) | 
-| [![Chinatown-Streets Story Map](/images/storymap-image-chinatown-streets.png)](/resource-room/story-maps/streets-of-chinatown) | 
+[![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown-landmarks.PNG)](/resource-room/story-maps/landmarks-of-chinatown)
 
-|**<font size="5">Kampong Glam</font>**| 
-| -------- | 
-| [![Kampong-Glam-Landmarks Story Map](/images/storymap-image-kampong-glam-landmarks.PNG)](/resource-room/story-maps/landmarks-of-kampong-glam) | 
-| [![Kampong-Glam-Streets Story Map](/images/storymap-image-kampong-glam-streets.png)](/resource-room/story-maps/streets-of-kampong-glam) | 
+[![Chinatown-Streets Story Map](/images/storymap-image-chinatown-streets.png)](/resource-room/story-maps/streets-of-chinatown) 
 
-|**<font size="5">Little India</font>**| 
-| -------- | 
-| [![Little-India-Landmarks Story Map](/images/storymap-image-little-india-landmarks.PNG)](/resource-room/story-maps/landmarks-of-little-india) | 
-| [![Little-India-Streets Story Map](/images/storymap-image-little-india-streets.png)](/resource-room/story-maps/streets-of-little-india) | 
+[![Kampong-Glam-Landmarks Story Map](/images/storymap-image-kampong-glam-landmarks.PNG)](/resource-room/story-maps/landmarks-of-kampong-glam)
 
-|**<font size="5">Boat Quay</font>**| 
-| -------- | 
-| [![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river) |
+[![Kampong-Glam-Streets Story Map](/images/storymap-image-kampong-glam-streets.png)](/resource-room/story-maps/streets-of-kampong-glam)
+
+[![Little-India-Landmarks Story Map](/images/storymap-image-little-india-landmarks.PNG)](/resource-room/story-maps/landmarks-of-little-india)
+
+[![Little-India-Streets Story Map](/images/storymap-image-little-india-streets.png)](/resource-room/story-maps/streets-of-little-india)
+
+[![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
 KimonBerlin 2.0
