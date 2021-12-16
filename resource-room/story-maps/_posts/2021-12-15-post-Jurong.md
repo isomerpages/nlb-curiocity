@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-jurong.png" alt="storymap-jurong"/>
+[![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/jurong/index.html)
 
 Jurong was transformed during the nation-building years into Singapore’s first industrial estate. This was part of the government’s plan to generate mass employment through industrialisation. Once a swampland, Jurong rapidly developed into a self-sufficient new town with housing, social and leisure amenities. Today, Jurong has embarked on its latest phase of redevelopment as the largest commercial and regional hub outside Singapore’s city centre. 
 Discover some of its iconic landmarks past and present in this story map.
