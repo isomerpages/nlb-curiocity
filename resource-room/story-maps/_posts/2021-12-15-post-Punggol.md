@@ -5,8 +5,7 @@ permalink: /resource-room/story-maps/punggol
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-punggol.jpg" alt="storymap-image-punggol"/>
+[![Alt text for image on Isomer site](/images/storymap-image-punggol.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/punggol/index.html)
 
 Under the “Punggol 21 Plus” plan, Punggol is a housing estate situated in the northeast of Singapore, bordered by the Tampines Expressway, Sungei Punggol, Strait of Johor, Serangoon Harbour and Sungei Serangoon. But do you know that in the past, Sengkang and parts of Hougang were also considered part of Punggol? In fact, Hougang Avenue 8 and 10 were once part of Punggol Road. 
 
