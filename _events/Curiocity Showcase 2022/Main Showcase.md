@@ -4,12 +4,46 @@ permalink: /events/Curiocity-Showcase-2022/main
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
+<style type="text/css">
+	/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+</style>
+
+
 ## **Main Showcase**
 <br>Downtown Singapore is home to several iconic sites that have evolved over the decades. Discover the island’s vibrant and lesser known past through this showcase. Don’t miss seeing these spaces in a different light this new year!
 
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#encoreinthecity">
+        <span>Encore in the City</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#psychiccinema2065">
+        <span>Psychic Cinema 2065</span>
+      </a>
+    </div>
+  </div>
+  </div>
 ___
 
 ![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
+<h5 class="margin--bottom--lg" id="encoreinthecity"></h5>
+
 #### **Encore in the City**
 **3 January – 3 February 2022**
 <br>**The Plaza, National Library Building**
@@ -28,6 +62,7 @@ Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasah
 ___
 
 ![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
+<h5 class="margin--bottom--lg" id="psychiccinema2065"></h5>
 
 #### **Psychic Cinema 2065**
 **14 January – 3 February 2022**
