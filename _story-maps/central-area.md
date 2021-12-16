@@ -12,7 +12,7 @@ __________
 
 [![Raffles Place Today Story Map](/images/storymap-image-raffles-place-today-1.png)](/resource-room/story-maps/raffles-place-today)
 
-[![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets-1.png)](/resource-room/story-maps/streets-of-raffles-place)
+[![Raffles Place Streets Story Map](/images/storymap-image-raffles-place-streets-1.png)](/resource-room/story-maps/streets-raffles-place)
 
 [![Bras Basah Schools Story Map](/images/storymap-image-bras-basah-schools.png)](/resource-room/story-maps/bras-basah-schools)
 
@@ -20,13 +20,13 @@ __________
 
 [![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets)
 
-[![Civic District Story Map](/images/storymap-image-civic-district.png)](/resource-room/story-maps/padang) 
+[![Civic District Story Map](/images/storymap-image-civic-district.png)](/resource-room/story-maps/civic-district) 
 
 [![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) 
 
-[![Historic Kallang Story Map](/images/storymap-image-kallang-past.png)](/resource-room/story-maps/historic-kallang)
+[![Historic Kallang Story Map](/images/storymap-image-kallang-past.png)](/resource-room/story-maps/old-kallang)
 
-[![Kallang Waterbodies Story Map](/images/storymap-image-kallang-today.png)](/resource-room/story-maps/the-green-and-blue-of-kallang)
+[![Kallang Waterbodies Story Map](/images/storymap-image-kallang-today.png)](/resource-room/story-maps/kallang-today)
 
 [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road)
 
