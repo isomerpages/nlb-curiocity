@@ -48,13 +48,13 @@ ___
 **3 January – 3 February 2022**
 <br>**The Plaza, National Library Building**
 
-**About the showcase:**
+**About the showcase**
 <br>(PRE-EDITED) Go on a journey that traverses space and time to reflect upon the present. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment landscape and culture cast in a whole new light through their past lives. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our city’s hidden histories! 
 
-**About the collective:**
+**About the collective**
 <br>The Merry Men Works is an experiential studio that designs and builds experiences that evokes a sense of delight.
 
-**Find out more:**
+**Find out more**
 <br>Learn more about the history of entertainment spots in Bras Basah with [this](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) **virtual content showcase** and [this](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) **resource guide**.
 
 Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/) **Bras Basah.Bugis digital trails**.
