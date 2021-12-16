@@ -6,7 +6,7 @@ third_nav_title: Curiocity Showcase 2022
 ---
 ## **Programmes**
 
-Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curiocity-places-perspectives-46319) that we have lined up for you online and at various venues below. Be sure to register to secure a spot!
+Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curiocity-places-perspectives-46319){:target="_blank"} that we have lined up for you online and at various venues below. Be sure to register to secure a spot!
 
 ##### **Talks**
 
