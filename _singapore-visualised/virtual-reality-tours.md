@@ -9,4 +9,4 @@ Ever dream about travelling back in time to see how Singapore was like? Using th
 | [![Raffles Place VR Tour](/images/vr-tour-image-raffles-place.png)](/resource-room/vr-tours/raffles-place) | 
 | [![Battery Road VR Tour](/images/vr-tour-image-battery-road.png)](/resource-room/vr-tours/battery-road) | 
 | [![Fullerton Square VR Tour](/images/vr-tour-image-fullerton-square.png)](/resource-room/vr-tours/fullterton-square) | 
-| [![Kallang Basin VR Tour](/images/vr-tour-image-kallang-basin.png)](/resource-room/vr-tours/kallang-basin) | 
+| [![Kallang Basin VR Tour](/images/vr-tour-image-kallang.png)](/resource-room/vr-tours/kallang-basin) |
