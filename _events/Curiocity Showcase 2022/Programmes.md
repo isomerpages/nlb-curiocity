@@ -30,4 +30,4 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **14 Jan & 21 Jan**    |**NAS Curator’s Insights Tour: Law of the Land**  | National Gallery Singapore  | 7:00 to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
+| **14 Jan & 21 Jan**    |**NAS Curator’s Insights Tour: Law of the Land**  | National Gallery Singapore  | 7:00pm to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
