@@ -1,12 +1,9 @@
 ---
-title: 'Battery Road'
+title: Battery Road
 permalink: /resource-room/vr-tours/battery-road
 date: 2020-03-15T00:00:00.000Z
-
 ---
-
-
-<img src="/images/vr-tour-image-battery-road.png" alt="vr-tour-image-battery-road"/>
+[![Alt text for image on Isomer site](/images/vr-tour-image-battery-road.png)](https://roundme.com/tour/704733/view/2220569/)
 
 Battery Road is one of Singapore's oldest roads. Stretching from Fullerton Square to the junction of Bonham Street and Chulia Street, it was once the site of many classical buildings during the 19th and early 20th centuries. Today, they have been replaced by sleek modern skyscrapers.
 
