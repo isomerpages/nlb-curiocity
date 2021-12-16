@@ -5,8 +5,8 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-kampong-glam-streets.png" alt="storymap-kampong-glam-streets"/>
+[![Alt text for image on Isomer site](/images/storymap-image-kampong-glam-streets.png)
+](https://nlb.geoicon.com/spatialdiscovery/storymaps/kampong-glam-its-streets/index.html)
 
 The name of a place is a marker of identity – it can tell us a lot about that place, such as its history, culture and development. As its name suggests, Kampong Glam (or Kampong Gelam) is an ethnic enclave for the Malay community in Singapore, yet what do the road names, like “Arab Street” and “Jalan Sultan” mean? 
 
