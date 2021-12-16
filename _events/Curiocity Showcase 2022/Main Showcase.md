@@ -39,6 +39,7 @@ third_nav_title: Curiocity Showcase 2022
     </div>
   </div>
   </div>
+	
 ___
 
 ![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
