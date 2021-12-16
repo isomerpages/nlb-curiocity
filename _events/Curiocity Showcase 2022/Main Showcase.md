@@ -19,7 +19,6 @@ third_nav_title: Curiocity Showcase 2022
 .clickbox.is-orange a:hover { background-color: #F3B69E; color: #000000; }	
 </style>
 
-
 ## **Main Showcase**
 <br>Downtown Singapore is home to several iconic sites that have evolved over the decades. Discover the island’s vibrant and lesser known past through this showcase. Don’t miss seeing these spaces in a different light this new year!
 
