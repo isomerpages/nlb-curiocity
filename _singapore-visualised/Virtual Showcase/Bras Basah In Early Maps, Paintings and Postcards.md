@@ -59,8 +59,8 @@ During the 19th century, much of Singapore's early growth and progress including
 |This [1852 tinted lithograph](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"} by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St. Andrew's Church and Raffles Institution. (Source: Singapore Through 19th Century Prints & Paintings) |
 | ![Alt text for image on Isomer site](/images/painting-2.jpg)|
 |This [1846 coloured lithograph](https://www.nas.gov.sg/archivesonline/photographs/record-details/d4f65b2e-1161-11e3-83d5-0050568939ad){:target="_blank"} by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. (Source: Collection of National Museum of Singapore, Courtesy of National Archives of Singapore) |
-|[![Alt text for image on Isomer site](/images/painting-5.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"}|
-|This 1851 oil painting is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church whose spiral can be seen at the far-right. (Image via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"})  |
+|![Alt text for image on Isomer site](/images/painting-5.jpg)|
+|This [1851 oil painting](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"} is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church whose spiral can be seen at the far-right. (Collection of National Museum of Singapore via Roots)  |
 
 _____
 
