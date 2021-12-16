@@ -100,7 +100,12 @@ ___
 <br>*LUMBA* is an interactive light installation inspired by the small sailing boats in *kolek lumba* — a sea sport once held during the New Year Regatta in the Civic District between the 19th and early 20th centuries. Featuring five standing sculptures modelled after the boats, this creation by interaction designer Alina Ling invites all to observe how the sails billow in sync with the wind. When night falls, viewers can walk through the spaces between the structures and see how their movements affect the dancing of light along their frames to evoke a celebratory mood.
 
 **Behind the work**
-<br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
+<br>(PRE-EDITED) ALINA: Looking at archival photographs of scenes at the “New Year Sea Sports”, it is important to first understand how racing koleks were operated in the past. Crew members were trained to manoeuvre the vessels in the meteorological conditions of the sea. The large sails would catch the wind, controlled by the crew standing on the gunwale perpendicular to the boat. While the boats glide elegantly towards the finishing point, crew members use their whole bodies with intense effort to balance the sails with the changing winds.
+
+The structures in LUMBA capture the form of tilted sails in varying angles, all heading towards a common direction. Their shapes reference the different profiles of sails balancing on shell-like bases — as seen on the koleks. Bringing back the scene on Esplanade’s sea wall, the site-specific work pay homage to the historic event that marked the beginning of the new year. 
+
+Each structure is illuminated with vibrant colours. Their lights gently pulsate on the fabric in the dark. The motion of light is designed to mimic the impact of wind upon the sails and the smooth gliding through water. As visitors walk around the structures, the colourful lights are triggered to move more dynamically to express the intensity of the sport and the excitement of the spectators. As the sequence comes to a close, the lights dance to evoke the celebratory spirit of the New Year.
+
 
 **About the artist**
 <br>Alina Ling is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
