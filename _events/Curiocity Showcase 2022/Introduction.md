@@ -4,12 +4,51 @@ permalink: /events/curiocity-showcase-2022
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
+<style type="text/css">
+	/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Orange */
+.clickbox.is-orange { background-color: #FD4101; color: #FFFFFF; }
+.clickbox.is-orange a { color: #FFFFFF; }
+.clickbox.is-orange a:focus,
+.clickbox.is-orange a:hover { background-color: #F3B69E; color: #000000; }	
+</style>
+
 ## **Curiocity: Places & Perspectives**
 Looking at Singapore today, it is easy to forget that it was once dotted with *kampungs* and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
 Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places & Perspectives* will be held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022).
 
 Curiocity is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-orange">
+      <a href="#showcase">
+        <span>Showcase & Installations</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-orange">
+      <a href="#programmes">
+        <span>Programmes</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-half">
+    <div class="clickbox is-orange">
+      <a href="#onlinecontent">
+        <span>Online Discovery</span>
+      </a>
+    </div>
+  </div>
+  </div>
 
 #### **Showcase Map**
 
@@ -18,6 +57,7 @@ Ready to explore this year’s Curiocity showcase? Start your journey using the 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
 
 ___
+<h5 class="margin--bottom--lg" id="showcase"></h5>
 
 #### **MAIN SHOWCASE**
 Home to several iconic entertainment sites, there is never a dull moment in downtown Singapore. Discover our vibrant past and explore the ’hood in a different light this year. Find out more about Curiocity [here](/events/curiocity-showcase-2022/main){:target="_blank"}!
@@ -51,11 +91,13 @@ Check out our Curiocity installations in the Civic District during the Light to 
 <br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a sense of celebration.
 
 ________
+<h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **Programmes**
 Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](https://curiocity.nlb.gov.sg/events/Curiocity-Showcase-2022/programmes).
 
 ________
+<h5 class="margin--bottom--lg" id="onlinecontent"></h5>
 
 #### **A Virtual Showcase on Bras Basah**
 
