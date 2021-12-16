@@ -20,4 +20,5 @@ Find out more about our Historic Districts through these story maps.
 
 [![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
-KimonBerlin 2.0
+Chinatown by Marco Verch Professional Photographer via Flickr
+Little India by KimonBerlin 2.0
