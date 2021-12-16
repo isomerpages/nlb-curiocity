@@ -6,19 +6,19 @@ The Historic Districts of Chinatown, Kampong Glam, Little India and Boat Quay ar
 
 Find out more about our Historic Districts through these story maps.
 
-[![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown-landmarks.PNG)](/resource-room/story-maps/landmarks-of-chinatown)
+[![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown.png)](/resource-room/story-maps/landmarks-of-chinatown)
 
 [![Chinatown-Streets Story Map](/images/storymap-image-chinatown-streets.png)](/resource-room/story-maps/streets-of-chinatown) 
 
-[![Kampong-Glam-Landmarks Story Map](/images/storymap-image-kampong-glam-landmarks.PNG)](/resource-room/story-maps/landmarks-of-kampong-glam)
+[![Kampong-Glam-Landmarks Story Map](/images/storymap-image-kampong-glam.png)](/resource-room/story-maps/landmarks-of-kampong-glam)
 
 [![Kampong-Glam-Streets Story Map](/images/storymap-image-kampong-glam-streets.png)](/resource-room/story-maps/streets-of-kampong-glam)
 
-[![Little-India-Landmarks Story Map](/images/storymap-image-little-india-landmarks.PNG)](/resource-room/story-maps/landmarks-of-little-india)
+[![Little-India-Landmarks Story Map](/images/storymap-image-little-india.png)](/resource-room/story-maps/landmarks-of-little-india)
 
 [![Little-India-Streets Story Map](/images/storymap-image-little-india-streets.png)](/resource-room/story-maps/streets-of-little-india)
 
-[![Singapore-River-Bridges Story Map](/images/storymap-image-singapore-river-bridges.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
+[![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
 Chinatown by Marco Verch Professional Photographer via Flickr
 Chinatown streets by William Cho via Flickr
