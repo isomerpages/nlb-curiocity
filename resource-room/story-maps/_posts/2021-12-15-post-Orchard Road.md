@@ -5,9 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-orchard-road.png" alt="storymap-orchard-road"/>
-
+[![Alt text for image on Isomer site](/images/storymap-image-orchard-road.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/orchard-road/index.html)
 
 Originally a hilly suburban fringe sandwiched between the main commercial town area and Tanglin, Orchard Road is now arguably Singapore’s most iconic street. The bustling street lined with shiny megamalls is almost unrecognisable from the cluster of spice plantations and fruit orchards it was in the early 19th century, and later for a large part of the 20th century, a suburban residential and commercial street lined with low-rise shophouses.
 
