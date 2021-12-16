@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-chinatown-streets.png" alt="storymap-chinatown-streets"/>
+[![Alt text for image on Isomer site](/images/storymap-image-chinatown-streets.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/chinatown/index.html)
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
