@@ -4,12 +4,51 @@ permalink: /events/Curiocity-Showcase-2022/satellite
 description: ""
 third_nav_title: Curiocity Showcase 2022
 ---
+<style type="text/css">
+	/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Orange */
+.clickbox.is-orange { background-color: #EE926F; color: #FFFFFF; }
+.clickbox.is-orange a { color: #FFFFFF; }
+.clickbox.is-orange a:focus,
+.clickbox.is-orange a:hover { background-color: #F3B69E; color: #000000; }	
+</style>
+
 ## **Satellite Installations**
 Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists.
-
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-orange">
+      <a href="#theriverconnects">
+        <span>The River Connects</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-orange">
+      <a href="#tessellationmemories">
+        <span>A Tessellation of Memories</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-orange">
+      <a href="#lumba">
+        <span>LUMBA</span>
+      </a>
+    </div>
+  </div>
+  </div>
+	
 ___
 
 ![Alt text for image on Isomer site](/images/theriverconnectsacm.png)
+<h5 class="margin--bottom--lg" id="theriverconnects"></h5>
 
 #### **The River Connects**
 **14 January – 3 February 2022**
@@ -30,6 +69,7 @@ ___
 ___
 
 ![Alt text for image on Isomer site](/images/atessellationofmemories.jpg)
+<h5 class="margin--bottom--lg" id="tessellationmemories"></h5>
 
 #### **A Tessellation of Memories**
 **14 January – 3 February 2022**
@@ -50,6 +90,7 @@ ___
 ___
 
 ![Alt text for image on Isomer site](/images/lumba.jpg)
+<h5 class="margin--bottom--lg" id="lumba"></h5>
 
 #### **LUMBA**
 **14 January – 3 February 2022**
