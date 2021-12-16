@@ -63,12 +63,12 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 ##### **Encore in the City**
 **Dates: 3 January – 3 February 2022
 <br>Venue: The Plaza, National Library Building**
-<br>The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
+<br>(PRE-EDITED) The showcase presents the past lives of Singapore’s iconic entertainment culture and landmarks.
 <br>
 ##### **Psychic Cinema 2065**
 **Dates: 14 January – 3 February 2022
 <br>Venue: The Plaza, National Library Building**
-<br>Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
+<br>(PRE-EDITED) Experience the former Jubilee Theatre on Beach Road through this immersive audio-visual installation.
 
 #### **SATELLITE INSTALLATIONS**
 Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](/events/curiocity-showcase-2022/satellite){:target="_blank"}.
