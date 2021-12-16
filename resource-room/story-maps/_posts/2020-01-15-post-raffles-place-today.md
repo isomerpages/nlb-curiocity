@@ -3,7 +3,7 @@ title: Raffles Place Today
 permalink: /resource-room/story-maps/raffles-place-today
 date: 2020-01-15T00:00:00.000Z
 ---
-<img src="/images/storymap-image-raffles-place-today.png" alt="storymap-raffles-place-today"/>
+![Alt text for image on Isomer site](/images/storymap-image-raffles-place-today-1.png)
 
 For almost two centuries, Raffles Place has been the designated business district of Singapore. Located southwest of the mouth of Singapore River, it was originally a hilly area before it was levelled under the 1822 Singapore Town Plan and made into a commercial district. Prior to 1858, Raffles Place was called Commercial Square, and in the past 50 years, the area has witnessed major transformation when many of its old iconic buildings were replaced by modern skyscrapers.
 
