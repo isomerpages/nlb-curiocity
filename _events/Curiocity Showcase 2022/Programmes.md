@@ -22,7 +22,7 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **22 Jan**    | **Hidden Stories and Secret Spots: A Walking Tour in Bras Basah & Bugis**     | National Library & Bras Basah.Bugis precinct   | 10:00am to 12:00pm   | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
+| **22 Jan**    | **Hidden Stories and Secret Spots: A Walking Tour in Bras Basah & Bugis**     | National Library & Bras Basah.Bugis   | 10:00am to 12:00pm   | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
 | **22 Jan**     | **Night Lights in the City**      |  Civic District  | 7:00pm to 9:00pm  | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
 
 ##### **Tours**
