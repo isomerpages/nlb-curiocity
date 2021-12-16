@@ -6,6 +6,8 @@ The green and blue spaces in Singapore take many forms. They range from  from bi
 
 In Curiocity, we have put up the following story maps to join the effort to bring our nature spaces and waterbodies closer to you.
 
+______
+
 [![First-Nature-Reserves Story Map](/images/storymap-image-first-nature-reserves.PNG)](/resource-room/story-maps//resource-room/story-maps/nature-reserves-first) 
 
 [![nature-reserves-today Story Map](/images/storymap-image-nature-reserves-areas-today.JPG)](/resource-room/story-maps//resource-room/story-maps/nature-reserves-areas)
