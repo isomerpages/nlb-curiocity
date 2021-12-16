@@ -248,4 +248,4 @@ Though the old National library was demolished almost 15 years ago in 2004, it w
 
 While the photo essay and memories above provide an insight on how Bras Basah thrived as a place for books and knowledge, it became even clearer if we were to plot some of these places on a map. See the story map below to understand what we meant.
 
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-schools-2.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-knowledge/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-storymap-schools.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-knowledge/index.html){:target="_blank"}
