@@ -5,9 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-
-<img src="/images/storymap-image-ang-mo-kio.png" alt="storymap-ang-mo-kio"/>
+[<img src="/images/storymap-image-ang-mo-kio.jpg" alt="storymap-ang-mo-kio"/>](https://nlb.geoicon.com/spatialdiscovery/storymaps/ang-mo-kio/index.html)
 
 Ang Mo Kio, which literally translates to “red-haired man’s bridge” in Hokkien, is located in the northeastern region of Singapore. It was developed as Singapore's seventh satellite town in the 1970s as a self-sufficient housing estate where commercial spaces, as well as cultural, community and recreational facilities were provided for its residents. Ang Mo Kio was also where the first town councils were set up as a pilot project in addition to being the first town designed in metric dimensions, allowing it to win the Singapore Institute of Architects (SIA) Outstanding Buildings Award in 1983.
 
