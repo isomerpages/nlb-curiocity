@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-raffles-place-streets.png" alt="storymap-raffles-place-streets"/>
+[![Alt text for image on Isomer site](/images/storymap-image-raffles-place-streets-1.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/1966-map-1/index.html)
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
