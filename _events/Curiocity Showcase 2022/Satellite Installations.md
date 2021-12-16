@@ -47,8 +47,9 @@ Check out our Curiocity installations in the Civic District during the Light to 
 	
 ___
 
-![Alt text for image on Isomer site](/images/theriverconnectsacm.png)
 <h5 class="margin--bottom--lg" id="theriverconnects"></h5>
+
+![Alt text for image on Isomer site](/images/theriverconnectsacm.png)
 
 #### **The River Connects**
 **14 January – 3 February 2022**
@@ -61,15 +62,16 @@ ___
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
 
 **About the artist**
-<br>Ong Kian Peng is a media artist based in Singapore. Working at the intersection of art, technology and the environment, Ong creates immersive and reflective environments that offer alternate visions and imaginations of our relationship with nature. His works have been exhibited in spaces such as the Tainan Museum of Fine Art, Singapore Art Museum and Total Museum Seoul, as well as festivals like Siggraph Art Gallery and FILE Festival Brazil. Ong graduated from UCLA with an MFA in Design Media Art. He currently runs Supernormal.space, an independent art space focusing on emerging and experimental art practice.
+<br>[Ong Kian Peng](https://ongkianpeng.art/) is a media artist based in Singapore. Working at the intersection of art, technology and the environment, Ong creates immersive and reflective environments that offer alternate visions and imaginations of our relationship with nature. His works have been exhibited in spaces such as the Tainan Museum of Fine Art, Singapore Art Museum and Total Museum Seoul, as well as festivals like Siggraph Art Gallery and FILE Festival Brazil. Ong graduated from UCLA with an MFA in Design Media Art. He currently runs Supernormal.space, an independent art space focusing on emerging and experimental art practice.
 
 **Find out more**
 <br>To learn more about bridges along the Singapore River, check out this **resource guide**.
 
 ___
 
-![Alt text for image on Isomer site](/images/atessellationofmemories.jpg)
 <h5 class="margin--bottom--lg" id="tessellationmemories"></h5>
+
+![Alt text for image on Isomer site](/images/atessellationofmemories.jpg)
 
 #### **A Tessellation of Memories**
 **14 January – 3 February 2022**
@@ -82,15 +84,16 @@ ___
 <br>(PRE-EDITED) TRIBAL: In bringing to life these places, we pored over scores of old maps, photographs, articles and books. George D. Coleman’s [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad) formed the foundation for all our findings; Yu-Mei Balasingamchow’s observation of the district documented in her [Rambling Around Bras Basah](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue3_BrasBasah.pdf) article offered personal insights; and lastly, the portraitures by visitors from far and wide compiled in the [Travellers’ Tales of Old Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/272439404/324482546,1) book provided new, untold perspectives. These resources were invaluable in unveiling new facets to a district so familiar, yet so invisible to many of us — an outcome we hope to achieve for all our visitors. 
 
 **About the collective**
-<br>Tribal Worldwide Singapore is a creative technology company helping businesses grow in the digital and experience economy. Wholly immersed in the world of tech, Tribal combines human insights with smart data to nurture an idea into a fully formed product that will cut through the clutter. Tribal has been consistently voted as one of the Top 3 agencies in regional markets, with each of its local offices spearheaded by best-in-class practitioners and partners in its global network of 17 offices, 11 countries and 400 employees. 
+<br>[Tribal Worldwide Singapore](http://www.ddb.asia/tribal-worldwide) is a creative technology company helping businesses grow in the digital and experience economy. Wholly immersed in the world of tech, Tribal combines human insights with smart data to nurture an idea into a fully formed product that will cut through the clutter. Tribal has been consistently voted as one of the Top 3 agencies in regional markets, with each of its local offices spearheaded by best-in-class practitioners and partners in its global network of 17 offices, 11 countries and 400 employees. 
 
 **Find out more**
 <br>Curious about the history of notable landmarks in the Civic District? Explore this **resource guide** to learn more.
 
 ___
 
-![Alt text for image on Isomer site](/images/lumba.jpg)
 <h5 class="margin--bottom--lg" id="lumba"></h5>
+
+![Alt text for image on Isomer site](/images/lumba.jpg)
 
 #### **LUMBA**
 **14 January – 3 February 2022**
@@ -108,7 +111,7 @@ Each structure is illuminated with vibrant colours. Their lights gently pulsate 
 
 
 **About the artist**
-<br>Alina Ling is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
+<br>[Alina Ling](http://www.alinaling.com/) is an interaction designer who creates experiences and interfaces that explore new dimensions of sensory perception. A graduate of the School of Art, Design and Media at Nanyang Technological University, Ling pursued a Bachelor of Fine Arts in Interaction Design. Incorporating technology with different modalities (visual, sound, tactile and haptic), her works manipulate the physical and the intangible to provide a deeper understanding of the constructs of space and perceptual experience. 
 
 **Find out more**
 <br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
