@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-singapore-river-bridges.png" alt="storymap-singapore-river-bridges"/>
+[![Alt text for image on Isomer site](/images/storymap-image-bridges-singapore-river-1.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bridges-of-singapore-river-1966/index.html)
 
 The heritage bridges that were built over the Singapore River during the colonial period are more than mere structures providing safe passageway across this historic body of water. Hailed as marvels of engineering given the technology and building materials available at the time, these bridges were built to defy the elements and resist the laws of gravity. 
 
