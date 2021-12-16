@@ -4,7 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/bb-early
 third_nav_title: Virtual Showcase
 description: ""
 ---
-
 ### **Early Maps on Bras Basah**
 
 Bras Basah is among the oldest districts in Singapore. Situated within the European part of [Sir Stamford Raffles’s](http://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html){:target="_blank"} 1822 plan for the town of Singapore or the [Raffles Town Plan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_658_2005-01-07.html){:target="_blank"}, it served as the suburb to the busy city centre which wrapped itself around [Commercial Square](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html){:target="_blank"} (now known as Raffles Place). Over the next two centuries, Bras Basah would grow spectacularly resulting in the establishments of schools, religious buildings and some of the finest colonial structures in Singapore.
@@ -106,4 +105,4 @@ _____
 
 The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
 
-[![Alt text for image on Isomer site](/images/storymap-bb-streets-main.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-storymap-streets.png)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/brash-basah-its-streets/index.html){:target="_blank"}
