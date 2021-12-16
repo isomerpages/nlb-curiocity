@@ -194,4 +194,4 @@ _______
 
 Besides cinemas, Bras Basah was dotted with hotels,  clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
 
-[![Alt text for image on Isomer site](/images/sample-bb-storymap-entertainment-2.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-storymap-cinema.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
