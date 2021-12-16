@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-bras-basah-streets.png" alt="storymap- bras-basah-streets"/>
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-streets.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/brash-basah-its-streets/index.html)
 
 Bras Basah is one of Singapore’s oldest districts. With a name derived from the Malay term ‘wet rice’ which were once laid out on the banks of Bras Basah River (today’s Stamford Canal), it was marked out by Sir Stamford Raffles as part of the European Town in 1822 and had served as the suburb to the built-up areas which included the Commercial Square (today’s Raffles Place) district. As a result, the Bras Basah area is crisscrossed with many streets including some of the oldest in Singapore.
 
