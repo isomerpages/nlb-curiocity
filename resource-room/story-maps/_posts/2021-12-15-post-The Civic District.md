@@ -5,7 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-<img src="/images/storymap-image-padang.png" alt="storymap-padang"/>
+[![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html)
 
 Home to some of Singapore’s most notable historic buildings, the Civic District stretches from Fort Canning to the Singapore River and the seafront beyond the Padang. It was demarcated in the Raffles Town Plan as an administrative zone for the colonial government in the 1820s. Since then, the area witnessed the proliferation of many neo-Classical colonial buildings such as the former Supreme Court, the Municipal building, the former Parliament House and the Victoria Theatre and Concert Hall. Today, many of these buildings are still standing, allowing the Civic District to become one of the districts with the most national monuments.
 
