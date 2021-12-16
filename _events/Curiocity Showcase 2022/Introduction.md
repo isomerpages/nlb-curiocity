@@ -50,8 +50,6 @@ Curiocity is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a fi
   </div>
   </div>
 
-#### **Showcase Map**
-
 Ready to explore this year’s Curiocity showcase? Start your journey using the map below (download a copy [here](/files/sample-light-map.pdf){:target="_blank"}). 
 
 ![Alt text for image on Isomer site](/images/sample_light_map.jpg)
