@@ -25,14 +25,13 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Chinatown by Marco Verch Professional Photographer via Flickr
-<br>2. Chinatown streets by William Cho via Flickr
-<br>3. Kampong Glam by Erwin Soo [CC BY 2.0]
-<br>4. Kampong Glam streets by Fabio Achilli [CC BY 2.0]
-<br>5. Little India streets by Zairon  [CC BY 4.0]
-<br>6. Little India streets by KimonBerlin [CC BY 2.0]
-<br>7. Singapore River bridges by William Cho [CC BY 2.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Chinatown photo by Marco Verch Professional Photographer via Flickr
+<br>2. Chinatown streets photo by William Cho via Flickr
+<br>3. Kampong Glam photo by Erwin Soo [CC BY 2.0]
+<br>4. Kampong Glam streets photo by Fabio Achilli [CC BY 2.0]
+<br>5. Little India photo by Zairon  [CC BY 4.0]
+<br>6. Little India streets photo by KimonBerlin [CC BY 2.0]
+<br>7. Singapore River bridges photo by William Cho [CC BY 2.0]
 </span>
 	
 </details>
-
