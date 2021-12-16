@@ -6,6 +6,8 @@ The Historic Districts of Chinatown, Kampong Glam, Little India and Boat Quay ar
 
 Find out more about our Historic Districts through these story maps.
 
+______
+
 [![Chinatown-Landmarks Story Map](/images/storymap-image-chinatown.png)](/resource-room/story-maps/landmarks-of-chinatown)
 
 [![Chinatown-Streets Story Map](/images/storymap-image-chinatown-streets.png)](/resource-room/story-maps/streets-of-chinatown) 
