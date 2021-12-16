@@ -1,5 +1,5 @@
 collections:
-  research-resource:
+  research-resources:
     output: true
     order:
       - picturesg.md
