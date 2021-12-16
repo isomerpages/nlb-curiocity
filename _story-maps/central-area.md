@@ -20,7 +20,7 @@ __________
 
 [![Bras Basah Streets Story Map](/images/storymap-image-bras-basah-streets.png)](/resource-room/story-maps/bras-basah-streets)
 
-[![Padang Story Map](/images/storymap-image-civic-district.png)](/resource-room/story-maps/padang) 
+[![Civic District Story Map](/images/storymap-image-civic-district.png)](/resource-room/story-maps/padang) 
 
 [![Fort Canning Story Map](/images/storymap-image-fort-canning.png)](/resource-room/story-maps/fort-canning) 
 
