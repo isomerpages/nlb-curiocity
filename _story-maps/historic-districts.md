@@ -20,11 +20,19 @@ Find out more about our Historic Districts through these story maps.
 
 [![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river-1.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
+_______
 
-Chinatown by Marco Verch Professional Photographer via Flickr
-Chinatown streets by William Cho via Flickr
-Kampong Glam by Erwin Soo [CC BY 2.0]
-Kampong Glam streets by Fabio Achilli [CC BY 2.0]
-Little India by KimonBerlin [CC BY 2.0]
-Little India streets by Zairon  [CC BY 4.0]
-Singapore River bridges by William Cho [CC BY 2.0]
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Chinatown by Marco Verch Professional Photographer via Flickr
+<br>2. Chinatown streets by William Cho via Flickr
+<br>3. Kampong Glam by Erwin Soo [CC BY 2.0]
+<br>4. Kampong Glam streets by Fabio Achilli [CC BY 2.0]
+<br>5. Little India streets by Zairon  [CC BY 4.0]
+<br>6. Little India streets by KimonBerlin [CC BY 2.0]
+<br>7. Singapore River bridges by William Cho [CC BY 2.0]
+</span>
+	
+</details>
+
