@@ -23,6 +23,7 @@ Find out more about our Historic Districts through these story maps.
 Chinatown by Marco Verch Professional Photographer via Flickr
 Chinatown streets by William Cho via Flickr
 Kampong Glam by Erwin Soo [CC BY 2.0]
+Kampong Glam streets by Fabio Achilli [CC BY 2.0]
 Little India by KimonBerlin [CC BY 2.0]
 Little India streets by Zairon  [CC BY 4.0]
 Singapore River bridges by William Cho [CC BY 2.0]
