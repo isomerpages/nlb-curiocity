@@ -4,6 +4,8 @@ permalink: /singapore-visualised/vr-tours
 ---
 Ever dream about travelling back in time to see how Singapore was like? Using the rich photograph collections of the National Library and National Archives of Singapore, we have put together a selection of virtual reality tours of some of the most interesting places on the island.
 
+______
+
 [![Raffles Place VR Tour](/images/vr-tour-image-raffles-place.png)](/resource-room/vr-tours/raffles-place)
 
 [![Battery Road VR Tour](/images/vr-tour-image-battery-road.png)](/resource-room/vr-tours/battery-road)
