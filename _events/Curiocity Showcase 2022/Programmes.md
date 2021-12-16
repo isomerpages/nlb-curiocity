@@ -12,21 +12,21 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-|**11 Jan**    | *Behind the Façade: Pipe Organs in Singapore*     | Zoom     | 7:30pm to 8:30pm    | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} to register |
-|**13 Jan**     | *Connecting with the Past: Reliving Memories with Building Blocks*     | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
-| **19 Jan**     | *Snapshots in Time*    | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
-| **20 Jan**     | I*mmersive Spaces with Art and Technology*      |  Zoom   | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
-| **26 Jan**     | *Pastimes from the Past*    | Zoom  | 7:00 to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
+|**11 Jan**    | **Behind the Façade: Pipe Organs in Singapore**     | Zoom     | 7:30pm to 8:30pm    | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&keep_tld=1){:target="_blank"} to register |
+|**13 Jan**     | **Connecting with the Past: Reliving Memories with Building Blocks**    | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
+| **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
+| **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
+| **26 Jan**     | **Pastimes from the Past**   | Zoom  | 7:00 to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="blank"} to register |
 
 ##### **Workshops**
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **22 Jan**    | *Hidden Stories and Secret Spots: A Walking Tour in Bras Basah & Bugis*     | National Library & Bras Basah.Bugis precinct   | 10:00am to 12:00pm   | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
-| **22 Jan**     | *Night Lights in the City*      |  Civic District  | 7:00pm to 9:00pm  | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
+| **22 Jan**    | **Hidden Stories and Secret Spots: A Walking Tour in Bras Basah & Bugis**     | National Library & Bras Basah.Bugis precinct   | 10:00am to 12:00pm   | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
+| **22 Jan**     | **Night Lights in the City**      |  Civic District  | 7:00pm to 9:00pm  | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
 
 ##### **Tours**
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **14 Jan & 21 Jan**    |*NAS Curator’s Insights Tour: Law of the Land*  | National Gallery Singapore  | 7:00 to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
+| **14 Jan & 21 Jan**    |**NAS Curator’s Insights Tour: Law of the Land**  | National Gallery Singapore  | 7:00 to 8:00pm    | Click [here](https://www.eventbrite.sg/){:target="_blank"} to register |
