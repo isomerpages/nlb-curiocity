@@ -80,7 +80,7 @@ Check out our Curiocity installations in the Civic District during the Light to 
 <br>
 ##### **A Tessellation of Memories**
 **Dates: 14 January – 3 February 2022
-<br>Venue: Playden, The Arts House**
+<br>Venue: Play Den, The Arts House**
 <br>Travel through time and space to the forgotten places of our city’s history.
 <br>
 ##### **LUMBA**
