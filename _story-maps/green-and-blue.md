@@ -13,3 +13,15 @@ ______
 [![nature-reserves-today Story Map](/images/storymap-image-our-nature-reserves.png)](/resource-room/story-maps/resource-room/story-maps/nature-reserves-areas)
 
 [![Islands Story Map](/images/storymap-image-islands-singapore.png)](/resource-room/story-maps/resource-room/story-maps/islands-paradise)
+
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. First nature reserves banner photo by Erwin Soo [CC BY-SA 2.0]
+<br>2. Our nature reserves and areas banner photo by travel oriented [CC BY-SA 2.0]
+<br>3. Islands of Singapore banner photo by Ria Tan via Flickr
+</span>
+	
+</details>
