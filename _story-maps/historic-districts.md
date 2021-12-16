@@ -18,6 +18,8 @@ Find out more about our Historic Districts through these story maps.
 
 [![Little-India-Streets Story Map](/images/storymap-image-little-india-streets.png)](/resource-room/story-maps/streets-of-little-india)
 
+[![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river-1.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
+
 [![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river.png)](/resource-room/story-maps/heritage-bridges-of-singapore-river)
 
 Chinatown by Marco Verch Professional Photographer via Flickr
