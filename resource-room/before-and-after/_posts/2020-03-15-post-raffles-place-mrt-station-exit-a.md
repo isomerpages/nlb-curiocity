@@ -1,12 +1,9 @@
 ---
-title: 'Raffles Place MRT Station Exit A'
+title: Raffles Place MRT Station Exit A
 permalink: /resource-room/before-and-after/raffles-place-mrt
 date: 2020-03-15T00:00:00.000Z
-
 ---
-
-
-<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="before-after-image-raffles-place-mrt"/>
+[![Alt text for image on Isomer site](/images/before-after-image-raffles-place-mrt-station.png)](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=550b6ae0-b35b-11e9-b9b8-0edaf8f81e27)
 
 The site where Exit A of Raffles Place MRT station is located today was previously occupied by the Mercantile Bank Chambers. Constructed in the late 1920s to replace an even earlier premises of the now defunct Mercantile Bank, the building was best known for its Doric order columns and roof. It was designed by Keys and Dowdeswell, the same architecture firm behind Fullerton Building. In 1984, the Mercantile Bank Chambers was demolished to make way for the Raffles Place MRT station. 
 
@@ -17,4 +14,3 @@ View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/lat
 Note:
 
 This juxtapose was created using related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [Ray Tyers’ Singapore: Then & Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988), [In Granite and Chunam: The National Monuments of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7919754) (1996), [Singapore: A Pictorial History 1819-2000](http://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (1999), [Singapore: Architecture of a Global City](http://eservice.nlb.gov.sg/item_holding.aspx?bid=10074731) (2000), [Contemporary Singapore Architecture](http://eservice.nlb.gov.sg/item_holding.aspx?bid=9151059) (1998), and [The Golden Shoe: Building Singapore's Financial District](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5390839) (1989).
-
