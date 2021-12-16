@@ -12,11 +12,11 @@ third_nav_title: Curiocity Showcase 2022
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 
-/* Mint Jade */
-.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
-.clickbox.is-mint-jade a { color: #00b794; }
-.clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+/* Orange */
+.clickbox.is-orange { background-color: #EB7044; color: #FFFFFF; }
+.clickbox.is-orange a { color: #00b794; }
+.clickbox.is-orange a:focus,
+.clickbox.is-orange a:hover { background-color: #FD4101; color: #FD4101; }	
 </style>
 
 
@@ -25,14 +25,14 @@ third_nav_title: Curiocity Showcase 2022
 
 <div class="row is-multiline">
   <div class="col is-one-half">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-orange">
       <a href="#encoreinthecity">
         <span>Encore in the City</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-orange">
       <a href="#psychiccinema2065">
         <span>Psychic Cinema 2065</span>
       </a>
