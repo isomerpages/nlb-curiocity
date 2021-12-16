@@ -5,8 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-
-<img src="/images/storymap-image-little-india-landmarks.PNG" alt="storymap-little-india-landmarks"/>
+[![Alt text for image on Isomer site](/images/storymap-image-little-india.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-landmarks/index.html)
 
 Unlike its sister conservation precincts of Chinatown and Kampong Gelam, Little India was never intended by Sir Stamford Raffles to be an area designated for Singapore’s Indian community. Instead, it developed its identity organically over the years, establishing itself as a melting pot of diverse communities and cultures, as well as an enclave for the Indian community.
 
