@@ -2,7 +2,6 @@ collections:
   singapore-visualised:
     output: true
     order:
-      - Singapore Through Different Lenses.md
       - Virtual Showcase/.keep
       - Virtual Showcase/Bras Basah Through The Years.md
       - Virtual Showcase/Bras Basah In Early Maps, Paintings and Postcards.md
@@ -10,5 +9,6 @@ collections:
       - "Virtual Showcase/Bras Basah: A Place For Food.md"
       - "Virtual Showcase/Bras Basah: A Place Of Learning.md"
       - Virtual Showcase/Becoming Bras Basah Bugis.md
+      - Singapore Through Different Lenses.md
       - virtual-reality-tours.md
       - before-and-after.md
