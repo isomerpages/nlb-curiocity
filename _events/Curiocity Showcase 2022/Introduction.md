@@ -63,7 +63,7 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 ##### **Encore in the City**
 **Dates: 3 January – 3 February 2022
 <br>Venue: The Plaza, National Library Building**
-<br>Iconic entertainment landmarks from our past return for an encore, sparking new perspectives in this interactive installation.
+<br>Iconic entertainment landmarks from our past return for an encore, sparking new perspectives in this installation.
 <br>
 ##### **Psychic Cinema 2065**
 **Dates: 14 January – 3 February 2022
