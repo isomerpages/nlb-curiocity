@@ -142,7 +142,7 @@ Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head do
 |:---:|
 | ![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg) |
 |Also referred to as "Magnolia Milk Bar", the diner, as seen on the extreme left of the photograph above, was well-known for its milkshakes and house brand ice creams along with sandwiches, hot dogs and hamburgers. The joint was also fondly remembered by Prime Minister Lee Hsien Loong who said in a [2001 interview](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010528-1.2.26.3.8) that it was "something special" to visit the snack bar when he was a young boy and his grandmother would bring him and his two siblings there for ice-cream. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.](https://eresources.nlb.gov.sg/pictures/Details/4e5db627-32c6-4bfb-a1f3-10c69081fc55){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"}|
+| ![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Image Credit: [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
 ----
@@ -162,7 +162,7 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 |  |
 |:---:|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+| [![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 |[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
 | The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
