@@ -149,7 +149,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-3.jpg){:target="_blank"} |
-| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. (Image Credit:  [Roots](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"}))  |
+| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. If you are not sure what is 'xinyao', click or tap on the question below to find out. (Image Credit:  [Roots](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"}))  |
 
 ------
 
