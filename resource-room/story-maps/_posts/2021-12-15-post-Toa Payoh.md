@@ -11,7 +11,7 @@ In the northern part of the Central Region of Singapore lies a vibrant and bustl
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/toa-payoh/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-toa-payoh-first-housing-estate-by-hdb.png" alt="qr-code-storymap-toa-payoh-first-housing-estate-by-hdb" style="width:200px;" />
+<img src="/images/qr-code-storymap-toa-payoh.jpg" alt="qr-code-storymap-toa-payoh" style="width:200px;" />
 
 Notes:
 
