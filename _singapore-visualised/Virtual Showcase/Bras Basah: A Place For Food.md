@@ -162,13 +162,13 @@ During the pre-war years up till the late 1970s, the streets of Bras Basah, like
 
 |  |
 |:---:|
-| [![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"} |
+| ![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg) |
 |A 1963 photograph showing a back alley occupied by street hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-| The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-| One of the most popular street food in the area was satay. In fact, the Satay Club that we know today in Gardens by the Bay started its days along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
-|[![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg)](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"} |
+| ![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg) |
+| The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg) |
+| One of the most popular street food in the area was satay. In fact, the Satay Club that we know today in Gardens by the Bay started its days along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg) |
 | Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Image Credit: [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
 ______
