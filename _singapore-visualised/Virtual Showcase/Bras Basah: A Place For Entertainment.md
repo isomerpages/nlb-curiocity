@@ -184,7 +184,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 
 |  |
 | :--------: |
-| ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-2.jpg) |
+| ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-2-1.jpg) |
 |  Both Diamond Theatre and Royal Theatre continued with their new leases of life as Indians cinemas until the late 1970s when the government announced its plans to renew the area, leading to the closure and demolition of the two theatres to make way for new development. Today, the space where they used to sit on is occupied by Raffles Hospital, shown [above](https://commons.wikimedia.org/wiki/File:Raffles_Hospital_in_Bugis,_Singapore.jpg#/media/File:Raffles_Hospital_in_Bugis,_Singapore.jpg){:target="_blank"}.  (Image Credit: Photo by Bot T via Wikicommons) |
 
 _______
