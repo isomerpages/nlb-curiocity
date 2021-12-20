@@ -91,7 +91,7 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg) |
-| Established in 1905 by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel ([above](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"}). Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s. (Image Credit: From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.)|
+| Established in 1905 by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
 
 -------
 
@@ -102,12 +102,12 @@ Besides Bras Basah Road, North Bridge Road was also known to house many bookstor
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg) |
-| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company, shown [above](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}, was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Image Credit: Courtesy of the National Museum of Singapore, National Heritage Board) |
+| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
 
 |  | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-books-nanyang-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The Nanyang Book Company was founded by Tan Yeok Seong in 1935. Located on North Bridge Road (shown above). Like many other bookstores of the time, the company published its own textbooks and periodicals to fulfill the needs of students and to strengthen their sense of identity through the addition of content about life in Nanyang. Nanyang Book Company expanded its business rapidly and by 1940, it had branches in Penang, Kuala Lumpur and Malacca. In 1963, the book company ceased its operations in Singapore but its Penang branch is still operation till today. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-books-nanyang-1.jpg) |
+| The Nanyang Book Company was founded by Tan Yeok Seong in 1935. Located on North Bridge Road (shown above). Like many other bookstores of the time, the company published its own textbooks and periodicals to fulfill the needs of students and to strengthen their sense of identity through the addition of content about life in Nanyang. Nanyang Book Company expanded its business rapidly and by 1940, it had branches in Penang, Kuala Lumpur and Malacca. In 1963, the book company ceased its operations in Singapore but its Penang branch is still operation till today. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  | 
 |:--------:| 
