@@ -53,7 +53,7 @@ ___
 <br>Entertainment landmarks from our past return for an encore in this interactive installation that will spark new perspectives. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment scene and discover our entertainment culture in a new light today. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our nation’s hidden stories and histories in *Encore in the City*! 
 
 **About the collective**
-<br>[The Merry Men Works](https://tmmw.sg/) is an experiential studio that designs and builds experiences that evokes a sense of delight.
+<br>[The Merry Men Works](https://tmmw.sg/) is an experiential studio that designs and builds experiences that evoke a sense of delight.
 
 **Find out more**
 <br>Learn more about the history of entertainment spots in Bras Basah with [this](https://staging-nlb-curiocity.netlify.app/events/bb-showcase/entertainment) **virtual content showcase** and [this](https://reference.nlb.gov.sg/guides/sci-tech/sustainability/sustainable-living) **resource guide**.
