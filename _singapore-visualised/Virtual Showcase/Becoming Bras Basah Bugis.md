@@ -13,9 +13,9 @@ Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with 
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)  |
 | A 1974 photograph showing a traffic jam along Bras Basah Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
-|  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Image Credit: [Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
-|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesus, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
+|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesus, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Image Credit: [G P Reichelt Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
 
 ________
 
