@@ -38,8 +38,8 @@ Mention [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2
 
 |  | 
 | :--------: | 
-| [![Alt text for image on Isomer site](/images/bb-bookstores-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}    | 
-| As seen in the photograph above, there were many bookstores along Bras Basah Road during the nation-building years. The road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Image Credit: [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-bookstores-1.jpg) | 
+| As seen in the photograph [above](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}, there were many bookstores along Bras Basah Road during the nation-building years. The road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Image Credit: [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}) |
 
 ____
 
