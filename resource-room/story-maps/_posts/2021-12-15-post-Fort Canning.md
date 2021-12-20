@@ -13,7 +13,7 @@ Take a trip back in time in this story map to learn more about the history of th
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/fort-canning/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-fort-canning.png" alt="qr-code-storymap-fort-canning" style="width:200px;" />
+<img src="/images/qr-code-storymap-fort-canning.jpg" alt="qr-code-storymap-fort-canning" style="width:200px;" />
 
 Notes:
 1. This story map does not show a comprehensive coverage of the historic buildings and sites found on Fort Canning Hill.
