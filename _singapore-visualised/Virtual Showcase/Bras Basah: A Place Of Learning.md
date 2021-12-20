@@ -4,7 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/bb-books
 description: ""
 third_nav_title: Virtual Showcase
 ---
-
 ### **Schools of Bras Basah**
 
 The close proximity of Bras Basah to the town centre and the various ethnic enclaves of Singapore has made it an ideal location for the establishment of schools during the colonial period. Started by town planners, missionaries and philanthropists, these early schools provide the children of the time a priceless place to learn and acquire knowledge regardless of gender, race and religion. Below is a selection of these schools.
