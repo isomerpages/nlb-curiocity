@@ -79,6 +79,8 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |  ![Alt text for image on Isomer site](/images/bb-mph-building-2.jpg) |
 | This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Image Credit: [From the Lee Kip Lin Collection](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"}. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009) |
 
+--------
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Singaporean playwright Stella Kon used to visit the MPH in Bras Basah when she was young. Click or tap here to learn what the bookstore sell from her oral history interview. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
