@@ -12,7 +12,7 @@ ______
 
 [![nature-reserves-today Story Map](/images/storymap-image-our-nature-reserves.png)](/resource-room/story-maps/nature-reserves-areas)
 
-[![Islands Story Map](/images/storymap-image-islands-singapore.png)](/resource-room/story-maps/resource-room/story-maps/islands-singapore)
+[![Islands Story Map](/images/storymap-image-islands-singapore.png)](/resource-room/story-maps/islands-singapore)
 
 _______
 
