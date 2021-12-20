@@ -11,11 +11,11 @@ Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with 
 |   |
 |:-----:|
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)  |
-| A 1974 photograph showing a traffic jam along Bras Basah Road. (Image Credit: [ The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
-| [![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad) |
-|  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-| [![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad) |
-|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesus, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
+| A 1974 photograph showing a traffic jam along Bras Basah Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
+|  A late 1980s photograph showing dilapidated shophouses in Bras Basah. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
+|  An early 1980s aerial view of Bras Basah with the dome of the former St Joseph's Institution and steeples of the chapel of the former Convent of the Holy Infant Jesus, Cathedral of the Good Shepherd and St Andrew's Cathedral visible in the background. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/44137467-3c81-11e4-859c-0050568939ad){:target="_blank"}) |
 
 ________
 
@@ -26,9 +26,9 @@ By the early 1990s, the Bras Basah and Bugis districts had developed a new shine
 |   |
 |:-----:|
 | ![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-1.jpg)  |
-| Recognising both Bras Basah and Bugis possessed many eclectic elements that contributed to Singapore's unique and distinctively Asian identity, the Rochor DGP aims to add new vitality to the two districts by harnessing and enhancing its historical and cultural heritage. (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"})  |
+| Recognising both Bras Basah and Bugis possessed many eclectic elements that contributed to Singapore's unique and distinctively Asian identity, the Rochor DGP aims to add new vitality to the two districts by harnessing and enhancing its historical and cultural heritage. (Image Source: [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"})  |
 | ![Alt text for image on Isomer site](/images/bb-renewal-rochor-dgp-2.jpg) |
-|  URA's strategy to revitalise Bras Basah and Bugis involved the introduction of new commercial developments such as office buildings and shopping complexes as well as the conservation of historically significant buildings. This coexistence of old and new can be seen in the above model representation of the Rochor DGP,  (Image from [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"}) |
+|  URA's strategy to revitalise Bras Basah and Bugis involved the introduction of new commercial developments such as office buildings and shopping complexes as well as the conservation of historically significant buildings. This coexistence of old and new can be seen in the above model representation of the Rochor DGP,  (Image Source: [Rochor: Draft Development Guide Plan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6553830){:target="_blank"}) |
 
 
 
@@ -138,8 +138,8 @@ _______
 
 The map below geo-tagged some of the key resources that were used in this showcase. To experience it, please click on the map below. The resources are categorised into its various format.
 
-[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-resource-map/index.html)
+[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-resource-map/index.html){:target="_blank"} 
 
 If you need a timeline perspective on some of the resources that were used in this showcase, please click on the graph below.
 
-[![Alt text for image on Isomer site](/images/sample-bb-timeline.jpg)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1elGCCYQz0c2R57DJiL0Umm8TqV_wwSDbsVC-xUD6JZA&font=Default&lang=en&initial_zoom=2&height=650)
+[![Alt text for image on Isomer site](/images/sample-bb-timeline.jpg)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1elGCCYQz0c2R57DJiL0Umm8TqV_wwSDbsVC-xUD6JZA&font=Default&lang=en&initial_zoom=2&height=650){:target="_blank"} 
