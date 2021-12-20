@@ -170,8 +170,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
 </details>
-
----------
+<br>
 
 |  |
 | :--------: |
