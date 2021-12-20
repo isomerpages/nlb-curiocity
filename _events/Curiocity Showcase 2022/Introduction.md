@@ -86,7 +86,7 @@ Check out our Curiocity installations in the Civic District during the Light to 
 ##### **LUMBA**
 **Dates: 14 January – 3 February 2022
 <br>Venue: Queen Elizabeth Walk, Esplanade Park**
-<br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a sense of celebration.
+<br>Inspired by the New Year’s Day regattas (sailboat races) of early Singapore, this interactive light installation responds to wind and movement to evoke a celebratory spirit.
 
 ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
