@@ -112,7 +112,7 @@ Besides Bras Basah Road, North Bridge Road was also known to house many bookstor
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1934, it was located on North Bridge Road, focusing on retailing Chinese books and stationery. In 1936, World Book was renamed Popular Book Company and it started to expand its business into the wider region. However, this was disrupted by the outbreak of WWII. After the war, the bookstore resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1934, it was located on North Bridge Road, focusing on retailing Chinese books and stationery. In 1936, World Book was renamed Popular Book Company and it started to expand its business into the wider region. However, this was disrupted by the outbreak of WWII. After the war, the bookstore resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
@@ -132,8 +132,8 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 
 |  | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-| Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
+| Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
