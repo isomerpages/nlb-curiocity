@@ -25,5 +25,12 @@ You can embark on this journey of discovery either by using a <span style="font-
 </div>
 	</div> 
 	</div>
-	
+
+
 <div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
