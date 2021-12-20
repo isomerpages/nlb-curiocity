@@ -181,7 +181,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | [![Alt text for image on Isomer site](/images/sample-bb-diamond-theatre-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-|  Diamond Theatre was located just a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat "first-rate" cinema specialising in Indian films. (Image Credit: Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Diamond Theatre, on the other hand, was located just a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, it was converted into a 600-seat "first-rate" cinema specialising in Indian films. (Image Credit: Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  |
 | :--------: |
