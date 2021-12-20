@@ -54,7 +54,7 @@ ____
 | :--------: | 
 | ![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg) |
 | The students who visited these bookstores such as Modern Book Store and National Book Store (visible [above](https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"}) were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009)   |
-|  [![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"}   |
+|  ![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)  |
 |  Besides students, the general public was also drawn to the area for its affordable books and stationery. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
 ____
