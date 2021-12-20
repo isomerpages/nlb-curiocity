@@ -50,7 +50,7 @@ ___
 <br>**The Plaza, National Library Building**
 
 **About the showcase**
-<br>Entertainment landmarks from our past return for an encore in this interactive installation that will spark new perspectives. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment scene and discover our entertainment culture in a new light today. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our nation’s hidden stories and histories in *Encore in the City*! 
+<br>Entertainment landmarks from our past return for an encore in this interactive installation that will spark new perspectives. Weave your way through colourful nooks and crannies, pockets and portals to uncover six old icons of Singapore's entertainment scene and see our entertainment culture in a new light today. Designed by experiential studio The Merry Men Works, be surprised by the twists and turns of our nation’s hidden stories and histories in *Encore in the City*! 
 
 **About the collective**
 <br>[The Merry Men Works](https://tmmw.sg/) is an experiential studio that designs and builds experiences that evoke a sense of delight.
@@ -71,7 +71,7 @@ ___
 <br>**The Plaza, National Library Building**
 
 **About the installation**
-<br>*Psychic Cinema 2065* explores an alternative cinema of the future through this immersive audio-visual installation that reimagines the former Jubilee Theatre. Why do we watch films? Does each audience member have the same experience? How does our imagination augment what is on screen? This installation by design studio Space Objekt reframes the cinematic experience by diminishing a key sense associated with it — sight. Employing light sequences and audio samples of heritage material from Singapore’s golden age of film, viewers are privy to a unique film only they can ‘see’. A collective yet intimate encounter, this visceral work invites us to examine our relationship with cinema.
+<br>*Psychic Cinema 2065* explores an alternative cinema of the future through an immersive audio-visual installation that reimagines the former Jubilee Theatre. Why do we watch films? Does each audience member have the same experience? How does our imagination augment what is on screen? This installation by design studio Space Objekt reframes the cinematic experience by disorientating a key sense associated with it — sight. Employing light sequences and audio samples of heritage material from Singapore’s golden age of film, viewers conceive a unique film only they can ‘see’. A collective yet intimate encounter, this visceral work invites us to examine our relationship with cinema.
 
 **About the artists**
 <br>Founded by Tina Fung and Ash Razaque in 2017, [Space Objekt](https://www.spaceobjekt.com/) is a Singapore-based boutique design studio that is reshaping the understanding of built environments and reimagining spatial experiences. Dedicated to making art accessible to all, Space Objekt redefines spaces with its creativity and dexterity in this new visual language. From small-scale props to immersive larger-than-life installations and interior design, the studio has been involved in a wide variety of projects across Asia and Europe, such as the Summer Well Festival (Romania), and for brands like Gucci and Adidas. 
