@@ -101,8 +101,8 @@ Besides Bras Basah Road, North Bridge Road was also known to house many bookstor
 
 |  | 
 |:--------:| 
-| [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
-| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Image Credit: Courtesy of the National Museum of Singapore, National Heritage Board) |
+| ![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg) |
+| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company, shown [above](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}, was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Image Credit: Courtesy of the National Museum of Singapore, National Heritage Board) |
 
 |  | 
 |:--------:| 
