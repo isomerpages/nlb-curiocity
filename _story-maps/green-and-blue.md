@@ -8,9 +8,9 @@ In Curiocity, we have put up the following story maps to join the effort to brin
 
 ______
 
-[![First-Nature-Reserves Story Map](/images/storymap-image-first-reserves.png)](/resource-room/story-maps/resource-room/story-maps/nature-reserves-first) 
+[![First-Nature-Reserves Story Map](/images/storymap-image-first-reserves.png)](/resource-room/story-maps/nature-reserves-first) 
 
-[![nature-reserves-today Story Map](/images/storymap-image-our-nature-reserves.png)](/resource-room/story-maps/resource-room/story-maps/nature-reserves-areas)
+[![nature-reserves-today Story Map](/images/storymap-image-our-nature-reserves.png)](/resource-room/story-maps/nature-reserves-areas)
 
 [![Islands Story Map](/images/storymap-image-islands-singapore.png)](/resource-room/story-maps/resource-room/story-maps/islands-singapore)
 
