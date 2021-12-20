@@ -75,9 +75,9 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-mph-building-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/a22a5914-9360-461f-8281-7bf63a673538){:target="_blank"} |
-| Known as the "Grand Dame of Bookstores", MPH began as Amelia Bishop Press in 1890. Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/a22a5914-9360-461f-8281-7bf63a673538){:target="_blank"})|
+| Known as the "Grand Dame of Bookstores", MPH began as Amelia Bishop Press in 1890. Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Image Credit:  [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/a22a5914-9360-461f-8281-7bf63a673538){:target="_blank"})|
 | [![Alt text for image on Isomer site](/images/bb-mph-building-2.jpg)](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"} |
-| This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"})|
+| This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Image Credit:  [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"})|
 
 ------
 
@@ -91,7 +91,7 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg)](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"} |
-| Established by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel in 1905. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s.  (Photo via [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
+| Established by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel in 1905. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s.  (Image Credit:  [PictureSG](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
 
 -------
 
@@ -102,17 +102,17 @@ Besides Bras Basah Road, North Bridge Road was also known to house many bookstor
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-shanghai-book-company-1.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"} |
-| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
+| Established in 1925 by Chen Yoh Shoo, the Shanghai Book Company was one of the first local Chinese book companies. Originally located on High Street before moving to North Bridge Road in 1929, it was named after the city of Shanghai because it was where most of its books came from and the epicentre of China's New Culture Movement. In its heydays after the Second World War, the company published books in Chinese, English, Malay, and Tamil. It ceased operations in December 2008. (Image Credit:  [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1072013){:target="_blank"}) |
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-books-nanyang-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The Nanyang Book Company was founded by Tan Yeok Seong in 1935. Located on North Bridge Road, it like many other bookstores of the time, published its own textbooks and periodicals to fulfill the needs of students and to strengthen their sense of identity through the addition of content about life in Nanyang. The company expanded its business rapidly and by 1940, it had branches in Penang, Kuala Lumpur and Malacca. In 1963, the book company ceased its operations in Singapore but its Penang branch is still operation till today. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The Nanyang Book Company was founded by Tan Yeok Seong in 1935. Located on North Bridge Road, it like many other bookstores of the time, published its own textbooks and periodicals to fulfill the needs of students and to strengthen their sense of identity through the addition of content about life in Nanyang. The company expanded its business rapidly and by 1940, it had branches in Penang, Kuala Lumpur and Malacca. In 1963, the book company ceased its operations in Singapore but its Penang branch is still operation till today. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bbd1ead0-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-popular-bookstore-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1934, it was located on North Bridge Road, focusing on retailing Chinese books and stationery. In 1936, World Book was renamed Popular Book Company and it started to expand its business into the wider region. However, this was disrupted by the outbreak of WWII. After the war, the bookstore resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The [POPULAR bookstore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1672_2010-06-16.html){:target="_blank"} that we know today was initially known as World Book Company. Set up by Chou Sing Chu in 1934, it was located on North Bridge Road, focusing on retailing Chinese books and stationery. In 1936, World Book was renamed Popular Book Company and it started to expand its business into the wider region. However, this was disrupted by the outbreak of WWII. After the war, the bookstore resumed its expansion and quickly become a household name for students and parents in Singapore and overseas seeking affordable quality educational books and stationary. Today, its flagship store is located at Bras Basah Complex. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cd29ca31-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
@@ -133,7 +133,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-| Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| Located along Bain Street, the complex was built by the Housing and Development Board and was completed in 1979. It is made up of two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
@@ -149,7 +149,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah Road and North Br
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-3.jpg){:target="_blank"} |
-| During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums. (Photo via [Roots](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"}))  |
+| During the 1980s, this place also a popular venue for Singapore "xinyao" singers to launch and promote their albums. (Image Credit:  [Roots](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"}))  |
 
 ------
 
@@ -186,17 +186,17 @@ With its wide facade and large dome, the [National Museum of Singapore](https://
 |    | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-museum-1.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5418d0c-1161-11e3-83d5-0050568939ad){:target="_blank"} |
-| The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) (shown above) before moving to the Town Hall (present-day Victoria Theatre) in 1862. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5418d0c-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) (shown above) before moving to the Town Hall (present-day Victoria Theatre) in 1862. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5418d0c-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |    | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-museum-2.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1189977){:target="_blank"}|
-| In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1189977){:target="_blank"}) |
+| In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level. (Image Credit:  [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1189977){:target="_blank"}) |
 
 |    | 
 |:--------:| 
 |[![Alt text for image on Isomer site](/images/bb-museum-4.jpg)](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"} |
-| Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Photo via [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
+| Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Image Credit:  [Roots](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
 
 ----
 
@@ -217,11 +217,11 @@ The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/a
 |  | 
 |:--------:| 
 | [![Alt text for image on Isomer site](/images/bb-library-1.jpg)](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars){:target="_blank"} |
-| The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. (Photo via [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars){:target="_blank"}) |
+| The building was designed by the Public Works Department architect, Lionel Bintley while the project architect was Tio Seng Chin. The completed library had a reinforced concrete framed structure and was easily recognised for its iconic red brick walls which was a reflection of the epoch of British architecture in the 1950s. (Image Credit:  [Roots](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Former-National-Library-Stamford-Road-Entrance-Pillars){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/bb-library-2.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"} |
-| The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. (Photo via [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The total floor area of the new building was 101,500 sq ft. The ground floor comprised the exhibition hall, adult lending library, children’s library, children’s activities room and lecture hall. The mezzanine floor, on the other hand, housed administrative offices and a stack area, while the first floor held the reference library, microfilm reading room and a conference room. (Image Credit:  [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b9563d72-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | [![Alt text for image on Isomer site](/images/bb-library-3.jpg)](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"} |
-| In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Photo by [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
+| In 1998, it was announced that the National Library on Stamford Road would be demolished to make way for the Singapore Management University (SMU) and the construction of Fort Canning tunnel. Although there were calls to preserve the building, it was carried out. Today, the National Library in located in an ultra-modern building located on Victoria Street. However, the gates of the old library could still be found within the premises of SMU. (Image Credit:  [William Cho via wikicommons](https://commons.wikimedia.org/wiki/File:National_Library,_Singapore_-_20090706.jpg){:target="_blank"})|
 
 -----
 
