@@ -87,6 +87,6 @@ ___
 
 #### **Showcase Map**
 
-Ready to explore this year’s Curiocity showcase? Start your journey using the map below (download a copy [here](/files/sample-light-map.pdf){:target="_blank"}). 
+Ready to explore this year’s Curiocity showcase? Start your journey using the map below.
 
-![Alt text for image on Isomer site](/images/curiocityshowcasemap2022jan.jpg)
+[![Alt text for image on Isomer site](/images/curiocityshowcasemap2022jan.jpg)](/events/curiocity-showcase-2022)
