@@ -13,7 +13,7 @@ Join us in walking down memory lane as we explore the heritage of Queenstown thr
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-queenstown-first-satellite-town.jpg" alt="qr-code-storymap-queenstown-first-satellite-town" style="width:200px;" />
+<img src="/images/qr-code-storymap-queenstown.jpg" alt="qr-code-storymap-queenstown" style="width:200px;" />
 
 Notes:
 
