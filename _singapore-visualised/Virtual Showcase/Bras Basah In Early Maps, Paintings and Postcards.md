@@ -31,7 +31,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 | ![Alt text for image on Isomer site](/images/bb-map-3.jpg)|
 | By the mid-1800s, Bras Basah was already with a busy district with rows of shophouses and roads criss-crossing it. This can be seen in this 1846 survey map prepared by John Turnbull Thomson. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa3f6192-115c-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/bb-map-4.jpg)|
-| From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This [1893 map](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"} is among the earliest that carried out this change. (Image Credit: Hon Sui Sen Collection, Courtesy of National Archives of Singapore)|
+| From the 1890s, surveyors began to spell "Bras Basah Road" as we know today. This 1893 map is among the earliest that presented this change of spelling. (Image Credit: [Hon Sui Sen Collection, Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"})|
 
 _____
 
