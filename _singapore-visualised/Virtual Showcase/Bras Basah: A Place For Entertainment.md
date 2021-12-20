@@ -62,7 +62,7 @@ The [Odeon Cinema](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1143_200
 | ![Alt text for image on Isomer site](/images/sample-bb-odeon-2.jpg) |
 |  The air-conditioned [Odeon Cinema](https://www.nas.gov.sg/archivesonline/photographs/record-details/b529050a-1161-11e3-83d5-0050568939ad){:target="_blank"} screened mainly first-run English-language films. It was equipped with four Gaumont-Kalee “21” projectors, which supported Stereophonic Sound, Vista Vision and Cinemascope. It became the first cinema under Cathay to use Cinemascope when The Robe, starring Richard Burton and Jean Simmons, was screened in 1953. (Image Credit: Courtesy of National Archives of Singapore) |
 | ![Alt text for image on Isomer site](/images/sample-bb-odeon-3.jpg) |
-|  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by the two buildings shown [above](https://www.nas.gov.sg/archivesonline/photographs/record-details/d416d7e6-1161-11e3-83d5-0050568939ad){:target="_blank"} - K. H. Kea Building and Odeon Tower. (Image Credit:) |
+|  In 1984, due to factors such as low cinema attendance and high property prices, Cathay Organisation sold Odeon to United Overseas Land. After screening its last firm, "Breakdance" on 30 June 1984, the building was subsequently demolished. Its former site is now occupied by K. H. Kea Building and Odeon Tower. (Image Credit: From the Kouo Shang-Wei Collection 郭尚慰珍藏. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007) |
 
 ----
 
