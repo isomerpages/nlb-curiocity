@@ -101,7 +101,7 @@ The Capitol Theatre, located at the junction of Stamford Road and North Bridge R
 
 ##### **Rex Cinemas**
 
-Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore's entertainment history, Rex was also a familiar household name among many Singaporeans including the Indian community who lived in the Serangoon and Selegie area.
+Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKenzie Road. Considered as one of the iconic cinemas in Singapore’s entertainment history, Rex was also a familiar household name among many Singaporeans especially the Indian community who lived nearby in the Serangoon and Selegie areas.
 
 |  |
 | :--------: |
