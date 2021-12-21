@@ -12,7 +12,7 @@ _________
 
 ##### **Cathay Building**
 
-Located at 2 Handy Road, [Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html) was originally made up of the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m tall, the tower was considered as Singapore’s first skyscraper and tallest building at the time. 
+Located at 2 Handy Road, Cathay Building originally comprised the current Cathay cineplex and a 16-storey tower. The former was completed in 1939, while the latter in 1941. At 83.5m, the tower was considered as Singapore’s first skyscraper and tallest building at the time. 
 
 |  |
 | :--------: |
