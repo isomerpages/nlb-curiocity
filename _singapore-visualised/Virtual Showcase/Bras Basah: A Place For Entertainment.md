@@ -115,7 +115,7 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKe
 -------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When the revival of Rex as a cinema in 2009, it bought back fond memories for many moviegoers especially those from the merdeka and pioneer generations. Click or tap here to read this account by Gwee Thian Hock. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20090923-1.2.14.4 " target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When the revival of Rex as a cinema in 2009, it bought back fond memories for many moviegoers especially those from the merdeka and pioneer generations. Click or tap here to read an account by Gwee Thian Hock. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20090923-1.2.14.4 " target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">“I am now in my mid-70s and Rex Cinema brings back fond memories. As a regular patron, I was there at the afternoon opening show of Rock Around The Clock, with policemen on duty in the theatre just in case over-enthusiastic rock ‘n’ roll fans got out of hand…And, during my undergraduate days, I made almost daily trips on a Green Bus to the hawker stalls there for my lunch of Indian rojak and mee siam. On the first floor of the corner coffee shop building on Mackenzie Road (where the popular curry puff was sold) there was a Hainanese-run halal restaurant selling Chinese food. It was probably the first of such restaurants."</span>
 	
