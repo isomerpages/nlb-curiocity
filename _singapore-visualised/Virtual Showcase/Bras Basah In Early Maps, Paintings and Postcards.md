@@ -86,12 +86,12 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 |![Alt text for image on Isomer site](/images/postcard-4.jpg)|
 | With a history that dates back to 1843, the Church of Good Shepherd, shown in this postcard, is the oldest Roman Catholic church in Singapore. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1120868){:target="_blank"})|
 |![Alt text for image on Isomer site](/images/postcard-5.jpg)|
-|This early 1900s postcard from the collection of the National Archives of Singapore shows a stretch of Bras Basah Road towards the seafront. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5b7d64c-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+| This early 1900s postcard from the collection of the National Archives of Singapore shows a stretch of Bras Basah Road towards the seafront. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5b7d64c-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap here to read how <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908) describes the studio's turnover. (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap here to read about the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
 	
@@ -101,6 +101,6 @@ _____
 
 ### **Bras Basah and Its Streets**
 
-The history of Bras Basah and its vicinity can also be told through the streets that criss crossed the district. Click the story map below to find out more.
+The history of Bras Basah and its vicinity can also be told through the streets that crisscrossed the district. Click the story map below to find out more.
 
 [![Alt text for image on Isomer site](/images/bb-storymap-streets.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/brash-basah-its-streets/index.html){:target="_blank"}
