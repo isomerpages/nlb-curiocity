@@ -34,7 +34,7 @@ __________
 
 ________________
 
-The Cathay Building was such an iconic structure that it was featured in many historical audiovisual materials including those from the collection of the National Archives of Singapore as well as others posted in blogs or social media channels maintained by heritage enthusiasts such as Dutch photographer [Michael Rogge's](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"} YouTube channel. You can watch one of them on the Cathay Building below.
+The Cathay Building was such an iconic structure that it was featured in many historical audiovisual materials including those from the collection of the National Archives of Singapore as well as others posted in blogs or social media channels maintained by heritage enthusiasts such as Dutch photographer [Michael Rogge's](https://www.youtube.com/watch?v=TCrh2WbJCp4&list=PLEF0C03E544562464){:target="_blank"} YouTube channel. You can watch one of them from his channel on the Cathay Building below.
 <br>
 <br>
 **Cathay Building in 1951 from Michael Rogge's YouTube Channel**
