@@ -76,14 +76,14 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-mph-building-1.jpg) |
-| Known as the "Grand Dame of Bookstores", MPH began as Amelia Bishop Press in 1890. Originally, it was located in a shophouse at the junction of Selegie Road and Sophia Road. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/a22a5914-9360-461f-8281-7bf63a673538){:target="_blank"})|
+| Known as the “Grand Dame of Bookstores”, MPH began as Amelia Bishop Press in 1890. It was originally located in a shophouse at the junction of Selegie and Sophia roads. It then moved to Raffles Place in 1893 before ending up at the three-storey red-brick and plaster Vanguard building at the junction of Armenian Street and Stamford Road in 1908. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/a22a5914-9360-461f-8281-7bf63a673538){:target="_blank"})|
 |  ![Alt text for image on Isomer site](/images/bb-mph-building-2.jpg) |
-| This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH would remain at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"}) |
+| This Edwardian-style building was built in 1908 by architectural firm Swan and Maclaren. MPH remained at the Armenian Street and Stamford Road site until 2002 when it sold the building. A year later, the building was gazetted for conservation. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/6a51ef10-dcbb-4853-b3a3-dcda28826b0f){:target="_blank"}) |
 
 --------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Singaporean playwright Stella Kon used to visit the MPH in Bras Basah when she was young. Click or tap here to learn what the bookstore sell from her oral history interview. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Singaporean playwright Stella Kon used to visit MPH in Bras Basah when she was young. Find out what the bookstore sold from her oral history interview, here. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe02cf92-1161-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"There was the MPH at the Stamford Road side…they mostly sell I think textbooks and locally printed textbooks such as Mrs Handy Cookbook and their own range of workbook and stationery. For example, there was a workbook there for local schools showing a policeman with wings…[these] are [actually] boards sticking out from their backs so that they are more visible when they direct traffic. I think that was the intention. Obviously it was real wings so that he could fly after crooks to catch them."</span>
 	
@@ -92,7 +92,7 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg) |
-| Established in 1905 by Koh Hoon Teck, a Peranakan bookseller, Koh & Company was located inside Raffles Hotel. Other than selling postcards and stamps, it had also published Baba Malay titles as well as the only philatelic journal at the time - the monthly Postcard Exchange Register. Unfortunately, this unique bookstore had to cease operations in the 1920s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
+| Established by Peranakan bookseller Koh Hoon Teck, Koh & Company was located inside Raffles Hotel (pictured) in 1905. Other than selling postcards and stamps, it also published Baba Malay titles as well as the only philatelic journal at the time – the monthly *Postcard Exchange Register*. Unfortunately, this unique bookstore ceased operations in the 1920s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
 
 -------
 
