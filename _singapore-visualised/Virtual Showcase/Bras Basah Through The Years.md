@@ -14,8 +14,13 @@ To truly understand and feel Bras Basah’s past and present, we have to look pa
 
 Join us on this journey of discovery by either checking out our innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span> or <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">virtual showcase</span>.
 
-<br>
-<br>
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
