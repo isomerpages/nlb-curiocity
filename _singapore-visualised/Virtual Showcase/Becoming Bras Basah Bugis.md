@@ -136,6 +136,6 @@ _______
 
 ### **Resource Map Of Bras Basah**
 
-Geo-tagged on the map below are some of the key resources that were used in this showcase. Click on the map below to experience this. The resources have been categorised by format.
+Geo-tagged on the map below are some of the key resources that were used in this showcase. Click on the map below to experience this. The resources have been categorised by format using different coloured location pins.
 
 [![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-resource-map/index.html){:target="_blank"}
