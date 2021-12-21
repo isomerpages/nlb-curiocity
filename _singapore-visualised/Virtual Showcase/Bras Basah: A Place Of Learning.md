@@ -50,8 +50,6 @@ ____
 	
 </details>
 
-____
-
 |  | 
 | :--------: | 
 | ![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg) |
