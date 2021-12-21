@@ -187,7 +187,7 @@ With its iconic dome, the National Museum of Singapore has been a prominent land
 |    | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-museum-1.jpg) |
-| The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, it was not realised until 1849. Set up within the Singapore Library, it was located together with the library in the premises of the Singapore Institution (today's Raffles Institution) (shown above) before moving to the Town Hall (present-day Victoria Theatre) in 1862. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5418d0c-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The establishment of a museum was first mooted in 1823, when Sir Stamford Raffles proposed founding a college in Singapore. However, this was not realised until 1849. Set up within the Singapore Library, the museum was located together with the library in the premises of Singapore Institution (today’s Raffles Institution, shown above) before moving to the Town Hall (present-day Victoria Theatre) in 1862. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5418d0c-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |    | 
 |:--------:| 
