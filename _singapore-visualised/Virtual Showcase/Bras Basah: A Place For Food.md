@@ -17,19 +17,19 @@ The premises of today’s Hotel Rendezvous at the corner of Bras Basah Road and 
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/sample-bb-rendezvous-1.jpg) |
-|Considered as one of Singapore's finest Nasi Padang restaurants then, it started off as a coffeeshop before becoming a pub and restaurant serving Chinese and Western food to British forces. (Image Credit: [Ronni Pinsler Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| Considered as one of Singapore’s finest nasi padang restaurants then, Rendezvous started as a coffeeshop before becoming a pub and restaurant serving Chinese and Western fare to British forces. (Image Credit: [Ronni Pinsler Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/8782abeb-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-rendezvous-3.jpg)|
-|When the restaurant's British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving Nasi Padang. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/02575bc0-fe84-4aff-80aa-1a5cf8e4e990){:target="_blank"}) |
+| When the restaurant’s British clientele began to dwindle during the 1950s, its then owner Seah Soo Khoon brought in a chef from West Sumatra and began serving *nasi padang*. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/02575bc0-fe84-4aff-80aa-1a5cf8e4e990){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-rendezvous-4.jpg) |
-|In 1987, the restaurant moved out of its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so memorable that the hotel which occupied its former site named itself after it. (Image Credit: [Photo by Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
+| In 1987, the restaurant moved from its Bras Basah premises to Raffles City. Today, it is located at The Central in Clarke Quay. However, its presence in Bras Basah was so iconic that the hotel that occupied its former site named itself after the restaurant. (Image Credit: [Photo by Terence Ong via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Rendezvous.JPG){:target="_blank"})|
 
-**Watch this video by Singapore Best Food on  the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
+**Watch this video by Singapore Best Food on the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Local heritage enthusiast, Jerome Lim, is best know for his blog, <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">"The Long and Winding Road"</a>, in which he documents Singapore's evolving urban landscape. Having studied in St Jospeh's Institution during the 1970s, he has fond memories of this restaurant. Click or tap here to read what he wrote in his blog.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Local heritage enthusiast, Jerome Lim, is best know for his blog, <a href="https://thelongnwindingroad.wordpress.com/2009/05/10/bras-basah-road/" target="_blank">"The Long and Winding Road"</a>, where he documents Singapore's evolving urban landscape through words and images. A student at St Joseph's Institution during the 1970s, Jerome has fond memories of Rendezvous Nasi Padang Restaurant. Click or tap here to read what Jerome remembers about the restaurant.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"I do also have fleeting memories from my early childhood, of Rendezvous, a café of sorts, well known for its Nasi Padang, which my parents brought me to from time to time, which was located at the northern end of the road, in a shop house, where the Rendezvous Hotel is located now. I remember the glass windows decorated with gold letters, through which one could see the rows of Nasi Padang dishes displayed on the shelves of the glass cabinet beside the window."</span>
 	
@@ -39,14 +39,14 @@ The premises of today’s Hotel Rendezvous at the corner of Bras Basah Road and 
 
 ##### **Long Bar and the Singapore Sling**
 
-The Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area.  Sharing a history with the hotel itself, it was a popular haunt among plantation owners during the early 1900s and was commonly referred to as the ‘Rendezvous of Planters’ at the time.
+Long Bar in Raffles Hotel was among the oldest food establishments in the Bras Basah area. Sharing a history with the hotel itself, Long Bar was a popular haunt among plantation owners during the early 1900s and was commonly referred to as the ‘Rendezvous of Planters’ at the time.
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/sample-bb-long-bar-1.jpg)  |
-| Back then, Long Bar was not a formal bar. Rather it was just tables and chairs placed next to each other in the Cad Alley wing of the hotel facing Bras Basah Road. Visitors would use them to mingle and relax with drinks and snacks. (Image Credit: [Singapore Tourism Board Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| Back then, Long Bar was not a formal bar. It comprised tables and chairs put up in the Cad Alley wing of the hotel facing Bras Basah Road. Patrons would sit at there while mingling and relaxing with their drinks and snacks. (Image Credit: [Singapore Tourism Board Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/88ad427e-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-long-bar-2.jpg)  |
-| The bar is most well-known as the birthplace of the Singapore Sling which is an internationally recognised cocktail created by the hotel's bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public. (Image Credit: [G P Reichelt Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad){:target="_blank"})|
+| Long Bar is most well-known as the birthplace of the Singapore Sling, which is an internationally recognised cocktail. It was created by the hotel’s bartender Ngiam Tong Boon in 1915. Primarily a gin-based cocktail, Ngiam made the beverage pink so as to allow the ladies at the time to consume it in the public. (Image Credit: [G P Reichelt Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/52bfad4e-3c8e-11e4-859c-0050568939ad){:target="_blank"})|
 
 Watch the video below by Raffles Hotel explaining the history of the Singapore Sling.
 
@@ -85,9 +85,9 @@ A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken ri
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-1.jpg) |
-| The link between the Hainanese Chicken Rice as the name implies is due to the Hainanese community. Originated from Hainan province in China, they, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore including the Bras Basah area. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"})|
+| As its name implies, Hainanese chicken rice has links to the Hainanese community. Hailing from Hainan province in China, the Hainanese, like the other Chinese communities here, formed enclaves and settled in different parts of Singapore, including Middle Road (pictured) in the Bras Basah area. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/9c8d8068-9696-4f51-ae5b-e6717919ab3e){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-2.jpg)   |
-| In fact, the around area around Bras Basah could be seen as a Hainanese enclave. Besides having the presence of the Hainan Clan Association which still stands prominently along Seah Street today, Middle Road, Purvis Street and Seah Street were used to be called "Hainan First Street", "Hainan Second Street", and "Hainan Third Street" respectively. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"})|
+| In fact, the area around Bras Basah was a Hainanese enclave. Other than the presence of the Hainan Clan Association, which still stands prominently along Seah Street today, Middle Road, Purvis Street (pictured) and Seah Street were used to be called “Hainan First Street”, “Hainan Second Street”, and “Hainan Third Street” respectively. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/487b5bfd-e393-414c-88d2-7a9c7644c9b2){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-chicken-rice-3.jpg)   |
 | However, the Hainanese chicken rice was not the only famous delicacy that they created. There were others including Hainanese-inspired Western dishes (think Hainanese pork chops) and our local Nanyang coffee which in turn led to the creation of kopitams (or coffee shops). (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/3196fca9-7c51-432f-aa70-2b10049c3b50){:target="_blank"})|
 
