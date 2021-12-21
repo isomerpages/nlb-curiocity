@@ -6,7 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **In Need For Renewal**
 
-Up till the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife activities there. But like other inner city areas, the two districts were in need for a renewal. Not only its streets were congested and overcrowded, their colonial era shophouses were in dilapidated condition. To address these issues, the government led by the Urban Redevelopment Authority (URA) extended the urban renewal programme to the Bras Basah and Bugis area during the 1980s.
+Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife there. But like other inner-city areas, the two districts were in need of renewal as its streets were congested and colonial-era shophouses in dilapidated condition. To address these issues, the Urban Redevelopment Authority (URA) extended its urban renewal programme to Bras Basah and Bugis. This saw many buildings in the area being torn down and redeveloped.
 
 |   |
 |:-----:|
