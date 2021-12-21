@@ -101,6 +101,6 @@ _____
 
 ### **Bras Basah and Its Streets**
 
-The history of Bras Basah and its vicinity can also be told through the streets that crisscrossed the district. Click the story map below to find out more.
+The history of Bras Basah and its vicinity can also be told through the places of worship that can be found in the district. Click the story map below to explore some of these places.
 
 [![Alt text for image on Isomer site](/images/bb-storymap-streets.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/brash-basah-its-streets/index.html){:target="_blank"}
