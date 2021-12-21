@@ -202,7 +202,7 @@ With its iconic dome, the National Museum of Singapore has been a prominent land
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Christopher Hooi was the Director of the National Museum from 1979 to 1982. Click or tap here to find out from him why there was a shift in focus for the museum. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23239c76-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Christopher Hooi was the Director of the National Museum from 1979 to 1982. Click or tap here to find out why there was a shift in the museum’s focus. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23239c76-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore
 </a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"[T]raditionally, the museum should be a repository of the nation’s heritage. That is understood because without a museum then what is important to a national will be lost….[But] it should be not [just] a repository [but also] a fine centre of display…It should be a place of education. To teach people things; to entertain them; to educate them…it should draw them to come to the museum so that there is a meaning a reason to come to the museum." </span>
@@ -213,7 +213,7 @@ ______
 
 ##### **The National Library**
 
-The [former National Library Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_661_2004-12-27.html) was located at 91 Stamford Road. It was officially opened on 12 November 1960. Between 1887 and 1960, the National Library previously occupied the western wing of the Raffles Museum (now the National Museum of Singapore) at Stamford Road.
+The former National Library Building was located at 91 Stamford Road. It officially opened on 12 November 1960. Between 1887 and 1960, the National Library occupied the western wing of the Raffles Museum (now National Museum of Singapore) at Stamford Road.
 
 |  | 
 |:--------:| 
