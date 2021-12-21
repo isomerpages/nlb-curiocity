@@ -158,18 +158,18 @@ _____
 
 ##### **Street Hawkers of Old Bras Basah**
 
-During the pre-war years up till the late 1970s, the streets of Bras Basah, like many parts of the city area, were once lined with street hawkers. A trade that is considered as one of the most important components of our local heritage, food hawking has been around since the early 1800s, offering a livelihood for the early immigrants of Singapore.
+From the pre-war years until the late 1970s, the streets of Bras Basah, like many parts of the city, were lined with street hawkers. One of Singapore’s most valuable heritage traditions, food hawking has been around since the early 1800s, a livelihood for early immigrants of the island.
 
 |  |
 |:---:|
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-1.jpg) |
-|A 1963 photograph showing a back alley occupied by street hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
+| A 1963 photograph of a back alley occupied by street hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/be7b3ab6-1161-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-2.jpg) |
-| The street hawkers of old Bras Basah could be found in places such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| The street hawkers of old Bras Basah could be found on roads such as Middle Street and Queen Street. The former was lined with mostly Malay hawkers, while the latter Chinese. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b67c970b-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg) |
-| One of the most popular street food in the area was satay. In fact, the Satay Club that we know today in Gardens by the Bay started its days along a now expunged short thoroughfare near Middle Road known as Hoi How Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| A hawker selling satay (pieces of barbequed meat on a skewer) along Beach Road in 1955. One of the most popular street foods in the area was satay. In fact, today’s Satay Club at Gardens by the Bay started along a now expunged short thoroughfare near Middle Road known as Hoi How Road (shown above). (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg) |
-| Waterloo Street was another place in Bras Basah where street hawkers could be found. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins stretching as far back as the late 1800s. (Image Credit: [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
+| Waterloo Street was another place in Bras Basah where street food was sold. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins dating as far back as the late 1800s. (Image Credit: [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
 
 ______
 
