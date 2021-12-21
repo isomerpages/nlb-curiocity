@@ -169,7 +169,7 @@ From the pre-war years until the late 1970s, the streets of Bras Basah, like man
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-4.jpg) |
 | A hawker selling satay (pieces of barbequed meat on a skewer) along Beach Road in 1955. One of the most popular street foods in the area was satay. In fact, today’s Satay Club at Gardens by the Bay started along a now expunged short thoroughfare near Middle Road known as Hoi How Road (shown above). (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/6006ea41-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-hawkers-3.jpg) |
-| Waterloo Street was another place in Bras Basah where street food was sold. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins dating as far back as the late 1800s. (Image Credit: [pinterest](https://www.pinterest.com/pin/546413367275494712/){:target="_blank"})|
+| Waterloo Street was another place in Bras Basah where street food was sold. Famous for its Indian rojak and sarabat stalls, some of them were generations old, with their origins dating as far back as the late 1800s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/7f354fb3-1a39-4be4-bd20-3f5776c0d81e){:target="_blank"})|
 
 ______
 
