@@ -4,7 +4,7 @@ permalink: /singapore-visualised/virtual-showcase/bb-early
 third_nav_title: Virtual Showcase
 description: ""
 ---
-### **Early Maps on Bras Basah**
+### **Early Bras Basah In Maps**
 
 BBras Basah is one of the oldest districts in Singapore. Situated within the European part of Stamford Raffles’s 1822 plan for the town of Singapore (also known as the Raffles Town Plan), it served as the suburb just outside of Commercial Square (now known as Raffles Place). Over the next two centuries, Bras Basah would flourish: schools were established, religious buildings and some of the finest colonial structures in Singapore were constructed.
 
@@ -43,27 +43,27 @@ _____
 
 ---
 
-### **Bras Basah in Prints and Paintings**
+### **Early Bras Basah in Prints and Paintings**
 
-During the 19th century, much of Singapore's early growth and progress including those in Bras Basah was recorded in topographical prints. Usually published in the accounts of scientific voyages, travel books or bound folios, they form an historically significant and visually pleasing source of information on the settlement's history. Below are a selected few but more could be found in publications produced by the National Museum of Singapore as well as its collection made available in [Roots](https://www.roots.gov.sg/){:target="_blank"}.
+During the 19th century, much of Singapore’s early growth and progress, including those in Bras Basah, was recorded in topographical prints. Usually published in the accounts of scientific voyages, travel books or bound folios, they form a historically significant and visually pleasing source of information on the settlement’s history. Below are a selected few but more could be found in publications produced by the National Museum of Singapore as well as its collection made available in [Roots](https://www.roots.gov.sg/){:target="_blank"}.
 
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-1.jpg) |
-| This 1837 lithograph, titled *View of Singapore from Government Hill*, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew's Church. (Image Credit: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1837 lithograph, “View of Singapore from Government Hill”, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew’s Church. (Image Credit: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-3.jpg)|
-|This 1861 coloured lithograph by W. Gray gives a panoramic view of the town as seen from the harbour panning from Telok Blangah on the left to Beach Road on the right. Buildings visible in the lithograph includes St Andrew's Cathedral, Raffles Institution and others like the Court House. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1861 coloured lithograph by W. Gray provides a panoramic view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the right. Buildings including St Andrew’s Cathedral, Raffles Institution and others like the Court House can all be seen clearly. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-4.jpg)|
-|This 1852 tinted lithograph by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St. Andrew's Church and Raffles Institution. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1852 tinted lithograph by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St Andrew’s Church and Raffles Institution.  (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-2.jpg)|
-|This 1846 coloured lithograph by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah which is on the left. The buildings that can be seen are Raffles Institution and St Andrew's Church. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1846 coloured lithograph by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah (left). The buildings that can be seen are Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-5.jpg)|
-|This 1851 oil painting is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St. Andrew’s Church whose spiral can be seen at the far-right. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"})  |
+| This 1851 oil painting is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St Andrew’s Church whose spiral can be seen at the far right. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"})  |
 
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before photography was created, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Created by immensely talented painters, one who stood up the most is John Turnbull Thomson as his paintings are said to have captured much of Singapore’s built landscape in the mid 1840s and its cultural diversity. But who is he? Click or tap here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before the advent of photography, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Among the many talented painters, the one who stood out the most is John Turnbull Thomson. His paintings are said to have captured much of Singapore’s built landscape in the mid-1840s and its cultural diversity. But who is he? Click or tap here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
@@ -71,7 +71,7 @@ _____
 
 _____
 
-### **Bras Basah in Postcards**
+### **Early Bras Basah in Postcards**
 
 The first postcard in the Straits Settlements was issued in 1879. However, it was only until the late 1890s after the British postal authorities allowed privately printed postcards to be despatched at the same inexpensive postal rate as government issued ones that pictures began to appear on the otherwise blank postcards. A genre of picture postcards that quickly gained popularity was those that showed local views including the physical landscape of Singapore. Today these postcards, which can be found in the collections of the National Archives of Singapore and National Museum of Singapore, are able to provide us with an invaluable of the past.
 
