@@ -114,7 +114,7 @@ You can also watch this video to see how prominent local food consultant and fou
 
 ##### **Red House (Baker's Bakery)**
 
-At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably price set meals as well as signature cakes and curry puffs, it was very popular among the residents there and students who used to study in the area. The Red House was also said to be the place where eminent local watercolourist [Ong Kim Seng](https://www.esplanade.com/offstage/arts/ong-kim-seng) would meet fellow painters every Sunday before heading to the Singapore River to paint during his younger days in the 1960s.
+At the junction of Bras Basah Road and Victoria Street opposite present day CHIJMES where the Carlton Hotel now stands, there used to be a bakery called Baker's Bakery or better known as Red House. Due to its reasonably priced set meals as well as signature cakes and curry puffs, it was very popular among residents and students from schools in the area. The Red House was also said to be where eminent local watercolourist Ong Kim Seng would meet fellow painters every Sunday before heading to the Singapore River to paint during the 1960s.
 
 |  |
 |:---:|
@@ -136,12 +136,12 @@ A photograph showing the junction of Bras Basah Road and Victoria Street with th
 
 ##### **Magnolia Snack Bar**
 
-Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head down to the Magnolia Snack Bar at Capitol Building. Opened as the Creameries Milk Bar in 1937, it was also a popular haunt for both the young and the old for social gatherings, dates, as well as pre- and post-movie bites. 
+Before Swensen's and Haagen Dazs, Singaporeans after a sweet treat would head down to the Magnolia Snack Bar at Capitol Building. Opened as Creameries Milk Bar in 1937 within the premises of Capitol building, the Magnolia Snack Bar was a popular venue for social gatherings for both the young and old. It was also the go-to place for pre- and post-movie bites.
 
 |  |
 |:---:|
 | ![Alt text for image on Isomer site](/images/sample-bb-magnolia-1.jpg) |
-|Also referred to as "Magnolia Milk Bar", the diner, as seen on the extreme left of the photograph above, was well-known for its milkshakes and house brand ice creams along with sandwiches, hot dogs and hamburgers. The joint was also fondly remembered by Prime Minister Lee Hsien Loong who said in a [2001 interview](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010528-1.2.26.3.8) that it was "something special" to visit the snack bar when he was a young boy and his grandmother would bring him and his two siblings there for ice-cream. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.](https://eresources.nlb.gov.sg/pictures/Details/4e5db627-32c6-4bfb-a1f3-10c69081fc55){:target="_blank"})|
+| Also referred to as "Magnolia Milk Bar", the diner, as seen on the extreme left of the photograph above, was well-known for its milkshakes and house brand ice creams along with sandwiches, hot dogs and hamburgers. The joint was also fondly remembered by Prime Minister Lee Hsien Loong who said in a [2001 interview](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010528-1.2.26.3.8) that it was "something special" to visit the snack bar when he was a young boy and his grandmother would bring him and his two siblings there for ice-cream. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.](https://eresources.nlb.gov.sg/pictures/Details/4e5db627-32c6-4bfb-a1f3-10c69081fc55){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-magnolia-2.jpg)|
 |The snack bar was owned by the supermarket chain Cold Storage. During its heydays, the popular haunt had 20 branches spread across Singapore including Orchard Road. However, by 1988, all of them had winded up. (Image Credit: [The Business Times](https://www.businesstimes.com.sg/lifestyle/nostalgia/milk-bar-revival){:target="_blank"})|
 
