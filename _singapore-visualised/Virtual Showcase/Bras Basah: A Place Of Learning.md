@@ -160,7 +160,6 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 	
 </details>
 
-------
 
 |  | 
 |:--------:| 
