@@ -160,12 +160,12 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg) |
-|  Royal Theatre, shown above, was located along North Bridge Road. Originally called Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre's opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong's Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Couresty of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Royal Theatre was located where the current Raffles Hospital is now. Originally known as Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre’s opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong’s Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Couresty of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ---------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read Mohamed Sidek bin Siraj's, a former civil servant, account on the popularity of bangsawan during the pre-war years. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/beb55962-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap here to read former civil servant Mohamed Sidek bin Siraj’s account on the popularity of bangsawan during the pre-war years.  (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/beb55962-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">The third class is about $1 and the first class in front is about $3 or something… There’s no other entertainment for the Malays except bangsawan. Even that, it started after eight and then finished up at twelve. If you don’t have the transport you have to walk. People will use a bullock-cart from Tanjong Pagar to see bangsawan and say about 10 or 12 people will go back in a bullock cart to Tanjong Pagar.</span>
 	
@@ -180,12 +180,12 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-diamond-theatre-1.jpg) |
-|  Diamond Theatre, on the other hand, was located just a few doors away at 499 North Bridge Road. Formerly called Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, it was converted into a 600-seat "first-rate" cinema specialising in Indian films. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Diamond Theatre was located just a few doors away from Royal Theatre at 499 North Bridge Road. Formerly known as Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat “first-rate” cinema specialising in Indian films.(Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-2-1.jpg) |
-|  Both Diamond Theatre and Royal Theatre continued with their new leases of life as Indians cinemas until the late 1970s when the government announced its plans to renew the area, leading to the closure and demolition of the two theatres to make way for new development. Today, the space where they used to sit on is occupied by Raffles Hospital, shown above.  (Image Credit: [Photo by Bot T via Wikicommons](https://commons.wikimedia.org/wiki/File:Raffles_Hospital_in_Bugis,_Singapore.jpg#/media/File:Raffles_Hospital_in_Bugis,_Singapore.jpg){:target="_blank"}) |
+|  Both Diamond Theatre and Royal Theatre continued with their new leases of life as cinemas screening Indian films until the late 1970s when the government announced its plans to renew the area, leading to the closure and demolition of the two theatres to make way for new development. (Image Credit: [Photo by Bot T via Wikicommons](https://commons.wikimedia.org/wiki/File:Raffles_Hospital_in_Bugis,_Singapore.jpg#/media/File:Raffles_Hospital_in_Bugis,_Singapore.jpg){:target="_blank"}) |
 
 _______
 
