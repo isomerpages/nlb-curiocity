@@ -207,4 +207,6 @@ ______
 
 ### **Explore This Food Map of Old Bras Basah**
 
+Geo-tagged on the map below are the locations of the various eating places featured in this section. Click on the map below to find out where they once located. 
+
 [![Alt text for image on Isomer site](/images/bb-storymap-food.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-food-map/index.html){:target="_blank"}
