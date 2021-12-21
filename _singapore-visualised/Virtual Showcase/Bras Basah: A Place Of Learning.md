@@ -197,7 +197,7 @@ With its iconic dome, the National Museum of Singapore has been a prominent land
 |    | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-museum-4.jpg) |
-| Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to  portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore's independence, it shifted its focus to reflect the nation’s culture and history. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
+| Initially, the museum was positioned as repository of zoological specimens, documenting the natural history of Singapore and the region. Towards the end of the 1800s, it expanded its collection to include portraits, plans and photographs of old Singapore. After the museum was separated from the library and following Singapore’s independence, it shifted its focus to reflect the nation’s culture and history. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1062247){:target="_blank"}) |
 
 ----
 
