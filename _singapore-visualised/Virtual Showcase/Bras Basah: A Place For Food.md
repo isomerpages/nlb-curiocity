@@ -6,13 +6,13 @@ third_nav_title: Virtual Showcase
 ---
 ### **A Place for Food**
 
-Other than being a place for entertainment and recreation, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by students and residents either staying nearby or from different parts of the island, these places clearly show that Singapore's foodie culture has a history longer than most people think. Below is a photo essay that highlights some of these eating places.
+Besides leisure, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by people from all walks of life, these places clearly show the long history of Singapore’s foodie culture. Below is a photo essay that highlights some of these eateries.
 
 -----
 
 ##### **Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant**
 
-The premises of today's Hotel Rendezvous  at the corner of Bras Basah Road and Prinsep Street was once occupied by a stretch of shophouses. Constructed during the early 1900s, they were known for their businesses which included a hotel, photography studios,  sport equipment shops, bookshops and coffe shops. The most famous of them, however, was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant. 
+The premises of today’s Hotel Rendezvous at the corner of Bras Basah Road and Prinsep Street was once occupied by a stretch of shophouses. Constructed during the early 1900s, they were known for their businesses which included a hotel, photography studios, sport equipment shops, bookshops and coffeshops. The most famous of them, however, was Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.
 
 |  | 
 |:--------:| 
