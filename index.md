@@ -33,17 +33,15 @@ sections:
       alt: Story Maps banner
       button: Enter Showcase
   - infopic:
-      title: A Historic Tour of Battery Road
-      subtitle: Latest VR Tour
-      description: Ever dream about travelling back in time to see how Singapore was
-        like? Using the rich photograph collections of the National Library and
-        National Archives of Singapore, we have put together a selection of
-        virtual reality tours of some of the most interesting places on the
-        island.
-      url: /resource-room/vr-tours/battery-road
-      image: /images/banner-battery-road1.jpg
-      alt: VR Tours banner
-      button: View VR Tour
+      title: "Curiocity: Places & Perspective"
+      subtitle: Event
+      description: 'Presented in partnership with the Light to Night Festival 2022,
+        "Curiocity: Places & Perspectives" allows you to explore our island’s
+        history. '
+      url: /events/curiocity-showcase-2022
+      image: /images/curiocityshowcasemap2022jan.jpg
+      alt: Places & Perspective
+      button: Start Exploring
   - infopic:
       title: "Orchard Road: More than Just a Shopping District"
       subtitle: Latest Story Map
