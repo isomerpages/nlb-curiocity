@@ -121,12 +121,12 @@ At the junction of Bras Basah Road and Victoria Street opposite present day CHIJ
 | ![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-2.jpg)|
 A photograph showing the junction of Bras Basah Road and Victoria Street (circa 1972) with the Red House visible on the right. (Image Credit: [From the Lee Kip Lin Collection. All Rights Reserved. Lee Kip Lin and National Library Board Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/b3377b9d-d880-4cc3-9ef4-430cdf08bc78){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-red-house-bakery-1.jpg) |
-| This bakery, with its signage being partially obscured above on the left, was a popular haunt for the residents living in area and students studying nearby. It was famous for its signature cakes and curry puffs. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
+| This bakery, with its signage being partially obscured above on the left, was a popular haunt for the residents living in area and students studying at nearby schools. It was famous for its signature cakes and curry puffs. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b021b6b5-1162-11e3-83d5-0050568939ad){:target="_blank"})|
 
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read what how Sister Dolores Healy from the former CHIJ remembers the Red House in her 2001 oral history interivew. (<a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">Source</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click to read what Sister Dolores Healy from the former CHIJ remembers about the Red House in her 2001. (<a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/search-result" target="_blank">Source</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Oh yes, I was telling you the Red House over here near the entrance [of CHIJ]. This was the entrance and the Red House was at the top of Bras Basah Road, the corner of Bras Basah Road and Victoria Road. It was very famous, it was patronised by all the inmates of CHIJ and I am sure by many more. We got our fresh white bread from there in the morning. It was about the best part of our breakfast."</span>
 	
