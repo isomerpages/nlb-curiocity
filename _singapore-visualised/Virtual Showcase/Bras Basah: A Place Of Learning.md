@@ -192,7 +192,7 @@ With its iconic dome, the National Museum of Singapore has been a prominent land
 |    | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-museum-2.jpg) |
-| In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution was moved to the museum's present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1189977){:target="_blank"}) |
+| In 1874, the museum and the Singapore Library were combined to form the Raffles Library and Museum. However, it would take more than a decade before the new institution moved to the museum’s present building in 1887. Designed by Colonial Engineer Henry E. McCallum, it was built in a neo-Palladian style, characterised by a highly symmetrical facade, as well as the use of pediments above the windows, Doric columns and pilasters on the ground level and Ionic pilasters on the second level. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1189977){:target="_blank"}) |
 
 |    | 
 |:--------:| 
