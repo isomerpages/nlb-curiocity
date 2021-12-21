@@ -178,11 +178,11 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 ### **The National Museum and National Library**
 
-Besides the schools and the bookstores, Bras Basah was and continues to be a place for knowledge. This is largely because of the presence of both the National Library and National Museum in the district since the mid-1800s. 
+Between schools and bookstores, the Bras Basah area continues to be a place for knowledge today. This is largely due to the presence of both the National Library and National Museum in the district since the mid-1800s.
 
 ##### **The National Museum**
 
-With its wide facade and large dome, the [National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html) has been a prominent landmark on Stamford Road for over a century. Gazetted as a national monument on 14 February 1992, it is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
+With its iconic dome, the National Museum of Singapore has been a prominent landmark on Stamford Road for over a century. Gazetted as a national monument on 14 February 1992, it is Singapore’s oldest existing museum, currently devoted to the general history of Singapore.
 
 |    | 
 |:--------:| 
