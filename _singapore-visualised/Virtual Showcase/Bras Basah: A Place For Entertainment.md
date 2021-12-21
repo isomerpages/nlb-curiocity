@@ -91,7 +91,7 @@ The Capitol Theatre, located at the junction of Stamford Road and North Bridge R
 -------
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Do you know that there was a Mickey Mouse Club in the Capitol building? Set up by Joe and his brother, Julius Fisher, in 1933, members of the club could watch matinee shows for as little as 25 cents or for free. Click or tap here to read how architect Lee Kip Lin remembers his time as a club member. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19990102-1.2.16.3" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Do you know that there was a Mickey Mouse Club in the Capitol building? Set up in 1933 by Joe Fisher and his brother, Julius, members of the club could watch matinee shows for as little as 25 cents or for free. Click or tap here to read how architect Lee Kip Lin remembers his time as a club member. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19990102-1.2.16.3" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We school children flocked there during the weekends to enjoy the privilege of paying a 25-cent admission fee for any class of seat at the matinee upon identifying ourselves by our Mickey Mouse badges. On Saturdays, the kids would hang around the theatre. It was an occasion for committee members to exercise their authority and also to impress the girls. The films shown included the musicals featuring Deanna Durbin, Fred Astaire and Ginger Rogers."</span>
 	
