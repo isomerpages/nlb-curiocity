@@ -12,6 +12,8 @@ Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with ac
 |:-----:|
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)  |
 | A 1974 photograph of a traffic jam along Bras Basah Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
+| ![Alt text for image on Isomer site](/images/sample-bb-renewal-traffic-1.jpg)  |
+| A 1974 photograph of a traffic jam along Bras Basah Road. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/9bca7c69-1162-11e3-83d5-0050568939ad){:target="_blank"})  |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-1.jpg) |
 |  A photograph of dilapidated shophouses in Bras Basah taken in the 1980s. (Image Credit: [Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/5fa6593e-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-renewal-2.jpg) |
