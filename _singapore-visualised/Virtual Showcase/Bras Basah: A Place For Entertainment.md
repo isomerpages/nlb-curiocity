@@ -123,39 +123,39 @@ Rex Cinemas (or Rex Theatres) was located in a three-storey building along MacKe
 
 ----
 
-##### **Victoria Theatre**
+##### **Victoria Theatre and Concert Hall**
 
-The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. Historically, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
+The Victoria Theatre and Concert Hall (VTCH) along Empress Place is Singapore’s oldest performing arts venue. Gazetted as a national monument on 14 February 1992, the VTCH comprises two blocks of building constructed more than 43 years apart, in 1862 and 1905 respectively. They are joined by a 54-metre clock tower. In the past, VTCH was used for functions ranging from public events and political meetings to musical and stage performances.
 
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-victoria-2.jpg) |
-|  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall, completed in 1864, was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  The present theatre and concert hall were originally known as the Town Hall and Victoria Memorial Hall respectively. The Town Hall was designed by municipal engineer John Bennett to carry out the dual function as a theatre and office spaces for the municipality. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae820285-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-victoria-1.jpg) |
-|  As for the Memorial Hall, it was built to commemorate Queen Victoria. Designed by colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren in the Palladian style, which was popular in 19th-century Singapore, this new building was completed in 1908. Its completion also saw both the memorial hall and the Town Hall being joined in the middle by a 54-meter clock tower. About a decade later during the centennial celebrations to commemorate 100 years since the 1819 founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of the Victoria Memorial Hall. (Image Credit: [From the Kouo Shang-Wei Collection 郭尚慰珍藏. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007](https://eresources.nlb.gov.sg/pictures/details/8294b622-bd24-40ab-8b71-d14e627b6d95){:target="_blank"})|
+|  As for the Memorial Hall, it was built to commemorate Queen Victoria. Designed by colonial engineer Alexander Murray and R. A. J. Bidwell from Swan & Maclaren in the Palladian style, the memorial hall was completed in 1908. Its completion also saw both the memorial hall and the Town Hall being joined in the middle by a 54-meter clock tower. About a decade later during the centennial celebrations to commemorate 100 years since the 1819 founding of Singapore, the statue of Stamford Raffles was moved from the Padang to the front of the Victoria Memorial Hall. (Image Credit: [From the Kouo Shang-Wei Collection 郭尚慰珍藏. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007](https://eresources.nlb.gov.sg/pictures/details/8294b622-bd24-40ab-8b71-d14e627b6d95){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/sample-bb-victoria-3.jpg) |
-|  Over the ears, VTCH underwent many renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. (Image Credit: Photo by [Bjoertvedt via Wikicommons](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg){:target="_blank"}) |
+|  Over the years, VTCH has undergone a series of renovations. The most recent being a four-year restoration from 2010 to 2014 led by W Architects. After its completion, VTCH was reopened to the public in July 2014. (Image Credit: Photo by [Bjoertvedt via Wikicommons](https://commons.wikimedia.org/wiki/File:Singapore_-_Victoria_Theatre_and_Concert_Hall_IMG_9266.jpg){:target="_blank"}) |
 
 -------
 
 ##### **Jubilee Theatre**
 
-Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it was opened in 1929 and was among the first cinemas to be installed with the equipment to support "talkies" or sound films.
+Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside Raffles Hotel and opposite Odeon Theatre. Formerly known as Tivoli Hall, it opened in 1929 and was among the first cinemas to be installed with equipment to support “talkies” or sound films.
 
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-4.jpg) |
-|  During the 1950s, Jubilee Theatre was the one of the main theatres in Singapore that screened Cantonese films such as the one shown above from the collection of the National Museum. As a result, it was very popular and bookings had to be weeks in advance. In the 1960s, the theatre was brought over by Goh Eng Wah who would go on to establish the Eng Wah Theatres Organisation in 1968. (Image Credit: [Courtesy of National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1144919){:target="_blank"}) |
+|  During the 1950s, Jubilee Theatre was the premier theatre for Cantonese films and bookings had to be made weeks in advance. In 1966, the theatre was bought over by Goh Eng Wah who would go on to establish the Eng Wah Theatres Organisation in 1968. (Image Credit: [Courtesy of National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1144919){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-5.jpg) |
-|  In 1978, however, Eng Wah Theatres had to close the 800-seat theatre permanently. This was due to its lack of modern facilities and declining business. It was said that the theatre's screen was unable to compete with the newer cinemas which are equipped with wider and better screens, more comfortable seats and carparks. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a){:target="_blank"}) |
+|  In 1978, however, Eng Wah Theatres had to close the 800-seat theatre permanently due to its lack of modern facilities and declining business. It was said that the theatre’s screen was unable to compete with the newer cinemas that are equipped with wider and better screens, more comfortable seats and carparks.  (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/7c8de66e-a7ed-4463-b368-0017d7d7ba7a){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/sample-bb-jubilee-theatre-3.jpg) |
-|  The theatre was later demolished to make way for the extension of Raffles Hotel when the latter won the bid to redevelop the site in the late 1980s into a Victorian-styled theatre playhouse. The new playhouse, known today as Jubilee Hall, is named after the site's former occupant - Jubilee Theatre. (Image Credit: [Photo by Ondřej Žváček via Wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Raffles.jpg#/media/File:Hotel_Raffles.jpg){:target="_blank"}) |
+|  The theatre was later demolished to make way for the extension of Raffles Hotel when the latter won the bid to redevelop the site in the late 1980s into a Victorian-styled theatre playhouse. The new playhouse, known today as Jubilee Hall, is named after the site’s former occupant – Jubilee Theatre. (Image Credit: [Photo by Ondřej Žváček via Wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Raffles.jpg#/media/File:Hotel_Raffles.jpg){:target="_blank"}) |
 
 --------
 
 ##### **Royal Theatre and Diamond Theatre**
 
-Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They both shared a common history as they were both built to hold bangsawan performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
+Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They share a common history as they were both built to hold *bangsawan* performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
 
 |  |
 | :--------: |
