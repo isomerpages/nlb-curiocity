@@ -129,7 +129,7 @@ Bras Basah also used to house many Chinese bookstores. Among them were three tha
 
 #### **Bras Basah Complex**
 
-Towards the end of the 1970s, many bookstores along Bras Basah Road and North Bridge Road including Shanghai Book Company and Popular were moved to a new building known as Bras Basah Complex.
+Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge roads, including Shanghai Book Company and Popular, were moved to a new building known as Bras Basah Complex.
 
 |  | 
 |:--------:| 
