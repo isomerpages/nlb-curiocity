@@ -6,7 +6,7 @@ third_nav_title: Virtual Showcase
 ---
 ### **Cinemas in Bras Basah**
 
-As many of Singapore's first cinemas were located within and near Bras Basah during the colonial and post-colonial years, the district could be considered as a place for cinemas, movies and blockbusters. The photo essay below lays out seven most iconic cinemas of Bras Basah.
+As many of the first cinemas in Singapore were located within and near Bras Basah, the district could be considered as a haven for movies and blockbusters. The photo essay below revisits the seven most iconic cinemas in Bras Basah.
 
 _________
 
