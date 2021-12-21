@@ -136,7 +136,7 @@ _______
 
 ### **Tracking the History of Bras Basah Through Space and Time**
 
-The map below geo-tagged some of the key resources that were used in this showcase. To experience it, please click on the map below. The resources are categorised into its various format.
+In the next stage of Curiocity’s development, we will be using our and our partners’ resources as one of the methods to track the history of different places in Singapore including Bras Basah. Below are two ways we intend to do that, thus allowing us to connect the present to the past.
 
 [![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-resource-map/index.html){:target="_blank"} 
 
