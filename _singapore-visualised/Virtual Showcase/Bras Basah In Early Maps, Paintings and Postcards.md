@@ -8,12 +8,7 @@ description: ""
 
 BBras Basah is one of the oldest districts in Singapore. Situated within the European part of Stamford Raffles’s 1822 plan for the town of Singapore (also known as the Raffles Town Plan), it served as the suburb just outside of Commercial Square (now known as Raffles Place). Over the next two centuries, Bras Basah would flourish: schools were established, religious buildings and some of the finest colonial structures in Singapore were constructed.
 
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
+---
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">"Bras Basah” is a misspelling of "beras basah", which means “wet rice” in Malay. But why is it called this way? Click or tap here to read Victor Savage's and Brenda Yeoh's explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
@@ -21,13 +16,8 @@ BBras Basah is one of the oldest districts in Singapore. Situated within the Eur
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area before Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. One one occasion, high tides wet the rice."</span>
 	
 </details>
-<br>
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
+
+---
 
 The development of Bras Basah during its early days is recorded in the Maps Collection of the National Archives of Singapore. Scroll through some of them below. You can also click on the maps to overlay them with today's map using the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
@@ -51,8 +41,7 @@ _____
 	
 </details>
 
-_____
-
+---
 
 ### **Bras Basah in Prints and Paintings**
 
