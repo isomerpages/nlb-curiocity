@@ -19,7 +19,7 @@ BBras Basah is one of the oldest districts in Singapore. Situated within the Eur
 
 ---
 
-The development of Bras Basah during its early days is recorded in the Maps Collection of the National Archives of Singapore. Scroll through some of them below. You can also click on the maps to overlay them with today's map using the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
+The development of Bras Basah during its early days is recorded in the Maps Collection at the National Archives of Singapore. Witness its progress by scrolling through some of the maps below. You can also compare the changes by clicking on past maps and overlap them with the present one using our [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
 |   | 
 |:--------:| 
