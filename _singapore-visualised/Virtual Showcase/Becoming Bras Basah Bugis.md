@@ -21,7 +21,7 @@ Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with ac
 
 ________
 
-### **Revitalisation of Bras Basah and Bugis**
+### **Revitalisation Of Bras Basah And Bugis**
 
 By the early 1990s, the Bras Basah and Bugis districts had developed a new shine but they were quieter and less vibrant than before. To rejuvenate the area, the URA decided to develop them together as a heritage, arts and learning enclave. Guided by the Rochor Development Guide Plan (DGP), which was released in 1993, buildings in the area ranging from former school grounds to cinemas and shophouses were turned into commercial developments as well as cultural and heritage spaces. 
 
@@ -71,7 +71,7 @@ To capture the the arts and heritage identity of BBB, you can embark on these wa
 
 ____
 
-### **An Ode to Bras Basah**
+### **An Ode To Bras Basah**
 
 Emeritus Professor and Professorial Fellow of the National University of Singapore Edwin Thumboo has been involved in Singapore’s literary developments since the 1950s. Over the course of his illustrious career, where he received many awards including the Singapore Cultural Medallion and Singapore’s Meritorious Service Medal, he has published five volumes of poetry. While many of his poems address national issues, some are dedicated to places in Singapore. One of these is “Bras Basah”. It is a remarkable place poem as Thumboo was able to vividly capture the Bras Basah of old in just a few verses.
 
