@@ -41,7 +41,7 @@ For any local who lived through Singapore’s nation-building years, “books, s
 |  | 
 | :--------: | 
 | ![Alt text for image on Isomer site](/images/bb-bookstores-1.jpg) | 
-| As seen in the photograph above, there were many bookstores along Bras Basah Road during the nation-building years. The road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"}) |
+| As seen in the photograph above, there were many bookstores along Bras Basah Road during the nation-building years. The road thrived as a popular haunt for students searching for second-hand textbooks especially towards the end of the year-end school holidays. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"}) |
 
 ____
 
@@ -55,7 +55,7 @@ ____
 |  | 
 | :--------: | 
 | ![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg) |
-| The students who visited these bookstores such as Modern Book Store and National Book Store were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/91ef6d23-6132-4bb9-8717-77e316865920){:target="_blank"})   |
+| The students who visited these bookstores such as Modern Book Store and National Book Store were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"})   |
 |  ![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)  |
 |  Besides students, the general public was also drawn to the area for its affordable books and stationery, allowing Bras Basah to cement its reputation as the city of books. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
