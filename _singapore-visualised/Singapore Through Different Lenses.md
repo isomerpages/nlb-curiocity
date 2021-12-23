@@ -7,7 +7,7 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 
 | **<font size=5> Digital Stories</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/landing-singapore-revisualised-vr-tours1.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Transverse through these digital stories to learn  [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"} .
+| <img src="/images/landing-singapore-revisualised-vr-tours1.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Transverse through these digital stories to learn about   [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"} .
 |
 
 | **<font size=5> VR Tours</font>** |  | 
