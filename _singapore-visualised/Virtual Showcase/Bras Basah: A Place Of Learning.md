@@ -138,7 +138,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-4.jpg) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
 | Located along Bain Street, the complex was built by the Housing and Development Board. It was completed in 1979 and comprises two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Bras_Basah_Complex,_Dec_05.JPG#/media/File:Bras_Basah_Complex,_Dec_05.JPG){:target="_blank"}) |
 
 -----
@@ -154,8 +154,8 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-3.jpg){:target="_blank"} |
-| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. If you are not sure what is 'xinyao', click or tap on the question below to find out. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/ich-landing/ich/xinyao){:target="_blank"})  |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg){:target="_blank"} |
+| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. If you are not sure what is 'xinyao', click or tap on the question below to find out. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Bras_Basah_Complex,_Dec_05.JPG#/media/File:Bras_Basah_Complex,_Dec_05.JPG){:target="_blank"})  |
 
 ------
 
@@ -169,8 +169,8 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg){:target="_blank"} |
-| Although the Xinyao movement has faded into yet another page of our history, Bras Basah complex is still standing along Bras Basah Road, serving as a one-stop centre for educational books and art materials. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/bras-basah-complex){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-4.jpg){:target="_blank"} |
+| Although the Xinyao movement has faded into yet another page of our history, Bras Basah complex is still standing along Bras Basah Road, serving as a one-stop centre for educational books and art materials. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Bras_Basah_Complex,_Dec_05.JPG#/media/File:Bras_Basah_Complex,_Dec_05.JPG){:target="_blank"}) |
 
 ------
 
