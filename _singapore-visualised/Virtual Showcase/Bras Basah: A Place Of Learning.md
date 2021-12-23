@@ -154,7 +154,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-5.jpg){:target="_blank"} |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-5.jpg) |
 | During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. If you are not sure what is 'xinyao', click or tap on the question below to find out. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1334354){:target="_blank"})  |
 
 ------
@@ -169,7 +169,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-4.jpg){:target="_blank"} |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-4.jpg) |
 | Although the Xinyao movement has faded into yet another page of our history, Bras Basah complex is still standing along Bras Basah Road, serving as a one-stop centre for educational books and art materials. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Bras_Basah_Complex,_Dec_05.JPG#/media/File:Bras_Basah_Complex,_Dec_05.JPG){:target="_blank"}) |
 
 ------
