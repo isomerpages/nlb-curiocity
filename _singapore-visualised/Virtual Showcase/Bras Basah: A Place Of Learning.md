@@ -155,7 +155,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-5.jpg) |
-| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their albums. If you are not sure what xinyao is, click or tap on the question below to find out. You can also visit [MusicSG](https://eresources.nlb.gov.sg/music/search?page=1&q=xinyao&type=&fField=Genre&fKey=xinyao%2c+pop) to listen some of the xinyao songs. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1334354){:target="_blank"})  |
+| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their songs. To further help these amateur singers, the Young Songwriters’ Society (YSS) started the annual Xinyao Festival in 1986 as a platform for them to perform. If you are not sure what xinyao is, click or tap on the question below to find out. You can also visit [MusicSG](https://eresources.nlb.gov.sg/music/search?page=1&q=xinyao&type=&fField=Genre&fKey=xinyao%2c+pop) to listen some of the xinyao songs. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1334354){:target="_blank"})  |
 
 ------
 
