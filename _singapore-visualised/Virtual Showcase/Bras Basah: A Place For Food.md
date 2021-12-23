@@ -78,7 +78,7 @@ Long Bar in Raffles Hotel was among the oldest food establishments in the Bras B
 
 ##### **Hainanese Chicken Rice**
 
-A ubiquitous sight in hawker centres across Singapore, the [Hainanese chicken rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html) is also on the menu in many major restaurants and even hotel cafés. Regardless where it is found or how much it cost, this dish is more or less prepared this way: bite-sized slices of chicken — or a whole chicken if you’re eating as a big group — served with fragrant rice, spicy chilli and ginger paste. In Singapore, the Hainanese Chicken Rice is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years. As such, Bras Basah could be seen as the place of origin for the beloved local fare.
+A ubiquitous sight in hawker centres across Singapore, the Hainanese chicken rice is also on the menu in many major restaurants and even hotel cafés. Regardless where it is found or how much it cost, this dish is more or less prepared this way: bite-sized slices of chicken — or a whole chicken if you’re eating as a big group — served with fragrant rice, spicy chilli and ginger paste. In Singapore, the Hainanese Chicken Rice is said to have taken root in areas like Middle Road and Purvis Street during the pre-war years. As such, Bras Basah could be seen as the place of origin for the beloved local fare.
 
 | | 
 |:--------:| 
