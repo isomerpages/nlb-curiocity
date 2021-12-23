@@ -138,8 +138,8 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 |  | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/bb-bb-complex-1.jpg) |
-| Located along Bain Street, the complex was built by the Housing and Development Board. It was completed in 1979 and comprises two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d19889b-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-bb-complex-2.jpg) |
+| Located along Bain Street, the complex was built by the Housing and Development Board. It was completed in 1979 and comprises two blocks of 21-storey flats above an office-cum-shopping podium. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Bras_Basah_Complex,_Dec_05.JPG#/media/File:Bras_Basah_Complex,_Dec_05.JPG){:target="_blank"}) |
 
 -----
 
