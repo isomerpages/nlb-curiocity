@@ -4,11 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/conclude-bb
 description: ""
 third_nav_title: Virtual Showcase
 ---
-
-
-
-
-
 ### **In Need For Renewal**
 
 Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife there. But like other inner-city areas, the two districts were in need of renewal as its streets were congested and colonial-era shophouses in dilapidated condition. To address these issues, the Urban Redevelopment Authority (URA) extended its urban renewal programme to Bras Basah and Bugis. This saw many buildings in the area being torn down and redeveloped.
@@ -65,11 +60,11 @@ ______
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
-To capture the the arts and heritage identity of BBB, you can embark on these walking trials below.
+#### To capture the the arts and heritage identity of BBB, you can embark on these walking trials below.******
 
 |  |  |  |
 | :--------: | :--------: | :--------: |
-| ![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-1.jpg)     | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-2.jpg)     | ![Alt text for image on Isomer site](/images/story-map-journey.jpg)     |
+| [![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-1.jpg)](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"}      | [![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-2.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"}      | [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"}     |
 | [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017)     | [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"} (2004)    | [Bras Basah Through The Years Story Map](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"} (2021)    |
 
 
