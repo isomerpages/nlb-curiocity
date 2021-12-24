@@ -60,7 +60,7 @@ ______
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
-To capture the the arts and heritage identity of BBB, you can embark on these **heritage trials** below.
+To capture the the arts and heritage identity of BBB, you can embark on these <span style="font-weight: 700; font-size: 20px; font-style: strong; color:#eb7044">heritage trials</span> below.
 
 |  |  |  |
 | :--------: | :--------: | :--------: |
