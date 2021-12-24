@@ -4,11 +4,6 @@ permalink: /singapore-visualised/virtual-showcase/bb-early
 third_nav_title: Virtual Showcase
 description: ""
 ---
-
-
-
-
-
 ### **Early Bras Basah In Maps**
 
 Bras Basah is one of the oldest districts in Singapore. Situated within the European part of Stamford Raffles’s 1822 plan for the town of Singapore (also known as the Raffles Town Plan), it served as the suburb just outside of Commercial Square (now known as Raffles Place). Over the next two centuries, Bras Basah would flourish: schools were established, religious buildings and some of the finest colonial structures in Singapore were constructed.
@@ -55,7 +50,7 @@ During the 19th century, much of Singapore’s early growth and progress, includ
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-1.jpg) |
-| This 1837 lithograph, “View of Singapore from Government Hill”, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew’s Church. (Image Credit: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1837 lithograph, “View of Singapore from Government Hill”, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-3.jpg)|
 | This 1861 coloured lithograph by W. Gray provides a panoramic view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the right. Buildings including St Andrew’s Cathedral, Raffles Institution and others like the Court House can all be seen clearly. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-4.jpg)|
