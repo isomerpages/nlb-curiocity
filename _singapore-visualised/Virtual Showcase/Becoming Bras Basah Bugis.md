@@ -60,12 +60,12 @@ ______
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
-#### To capture the the arts and heritage identity of BBB, you can embark on these walking trials below.******
+To capture the the arts and heritage identity of BBB, you can embark on these **heritage trials** below.
 
 |  |  |  |
 | :--------: | :--------: | :--------: |
 | [![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-1.jpg)](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"}      | [![Alt text for image on Isomer site](/images/bb-renewal-bbb-trail-2.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"}      | [![Alt text for image on Isomer site](/images/story-map-journey.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"}     |
-| [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017)     | [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"} (2004)    | [Bras Basah Through The Years](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"} (2021)    |
+| [Bras Basah.Bugis pocket guide](https://www.nhb.gov.sg/brasbasahbugis/-/media/bbb/bras-basahbugis-pocket-guide-2017.pdf?la=en){:target="_blank"} (2017)     | [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"} (2004)    | [Bras Basah Through The Years Storymap](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html){:target="_blank"} (2021)    |
 
 
 
