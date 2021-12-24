@@ -50,14 +50,23 @@ sections:
       button: View the story map
       url: /resource-room/story-maps/bridges-singapore-river
       alt: Image alt text
-      image: /images/bridging1.jpg
+      image: /images/landing-bridge.jpg
   - infopic:
       title: Kampong Glam
       subtitle: Story Map
       description: Explore the old-world charm of Kampong Glam in this story map.
       button: View The Story Map
       url: /resource-room/story-maps/orchard-road
-      image: /images/kampong-glam-landing.png
+      image: /images/landing-kampong-glam.png
+      alt: Image alt text
+  - infopic:
+      title: The Civic District
+      subtitle: Story Map
+      description: Learn the historic landmarks and spaces of the Civic District in
+        this story map.
+      button: View Story Map
+      url: /resource-room/story-maps/civic-district
+      image: /images/landing-civic-district.jpg
       alt: Image alt text
 notification: Watch this space for the NLB TREASURE HUNT in late January 2022!
 ---
