@@ -7,17 +7,17 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 
 | **<font size=5>Virtual Showcase</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-digital-stories" style="width:500px;" />   | Transverse through these [virtual showcases](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-digital-stories" style="width:500px;" />](/singapore-visualised/virtual-showcase/bb-intro)   | Transverse through these [virtual showcases](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
 |
 
 | **<font size=5> VR Tours</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/landing-singapore-revisualised-vr-tours.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />   | Travel back in time and see the physical transformation of Singapore with these [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"}.
+| [<img src="/images/landing-singapore-revisualised-vr-tours.jpg" alt="singapore-revisualised-vr-tours" style="width:500px;" />](/singapore-visualised/vr-tours)   | Travel back in time and see the physical transformation of Singapore with these [virtual reality tours](/singapore-visualised/vr-tours){:target="_blank"}.
 |
 
 | **<font size=5> Before & After</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;" />      | Find out how much Singapore has changed with these [before and after images](/singapore-visualised/before-and-after){:target="_blank"} of places and buildings.
+| [<img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;" />](/singapore-visualised/before-and-after)      | Find out how much Singapore has changed with these [before and after images](/singapore-visualised/before-and-after){:target="_blank"} of places and buildings.
 |
 
 <details>
