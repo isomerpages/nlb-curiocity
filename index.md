@@ -46,9 +46,17 @@ sections:
       title: Kampong Glam
       subtitle: Story Map
       description: Explore the old-world charm of Kampong Glam in this story map.
-      button: View Story Map
+      button: View The Story Map
       url: /resource-room/story-maps/orchard-road
       image: /images/kampong-glam-landing.png
+      alt: Image alt text
+  - infopic:
+      title: Heritage Bridges of Singapore River
+      subtitle: Story Map
+      description: Trace the history of the bridges spanning the Singapore River that
+        have ties to the colonial period.
+      button: View the story map
+      url: /resource-room/story-maps/bridges-singapore-river
       alt: Image alt text
 notification: Watch this space for the NLB TREASURE HUNT in late January 2022!
 ---
