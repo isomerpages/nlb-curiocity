@@ -43,12 +43,12 @@ sections:
       alt: Places & Perspective
       button: Start Exploring
   - infopic:
-      title: "Orchard Road: More than Just a Shopping District"
+      title: Kampong Glam
       subtitle: Latest Story Map
-      description: Learn about the history of Orchard Road in this story map.
+      description: Explore the old-world charm of Kampong Glam in this story map.
       button: View Story Map
       url: /resource-room/story-maps/orchard-road
-      image: /images/banner-orchard-storymap1.jpg
+      image: /images/kampong-glam-landing.png
       alt: Image alt text
 notification: "\n"
 ---
