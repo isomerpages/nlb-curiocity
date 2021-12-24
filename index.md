@@ -44,7 +44,7 @@ sections:
       button: Start Exploring
   - infopic:
       title: Kampong Glam
-      subtitle: Latest Story Map
+      subtitle: Story Map
       description: Explore the old-world charm of Kampong Glam in this story map.
       button: View Story Map
       url: /resource-room/story-maps/orchard-road
