@@ -7,7 +7,7 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 
 | **<font size=5>Virtual Showcase</font>** |  | 
 | -------- | -------- | 
-| <img src="/images/sample-bb-showcase-landing-1.jpg" alt="singapore-revisualised-digital-stories" style="width:500px;" />   | Transverse through these [virtual showcases](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
+| <img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-digital-stories" style="width:500px;" />   | Transverse through these [virtual showcases](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
 |
 
 | **<font size=5> VR Tours</font>** |  | 
