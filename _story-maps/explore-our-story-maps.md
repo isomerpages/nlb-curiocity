@@ -29,17 +29,9 @@ To help you navigate through our collection of Story Maps, we have categorised t
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Old Raffles Place photo via National Archives of Singapore
-<br>2. Present day Raffles Place photo by Jukkabrother [CC BY-SA 4.0]
-<br>3. Raffles Place streets photo via PictureSG [CC BY-SA 4.0]
-<br>4. Bras Basah schools photo by Chen Siyuan [CC BY-SA 4.0]
-<br>5. Bras Basah places of worship photo by Zhenkang [CC BY-SA 4.0]
-<br>6. Bras Basah streets photo by Choo Yut Shing via Flickr
-<br>7. Civic District photo by William Cho [CC BY-SA 2.0]
-<br>8. Fort Canning photo by Matt Kieffer [CC BY-SA 2.0]
-<br>9. Old Kallang photo via National Archives of Singapore
-<br>10. Present day Kallang photo by William Cho via Flickr
-<br>11. Orchard Road photo by chensiyuan [CC BY-SA 4.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Central Area photo by chensiyuan [CC BY-SA 4.0]
+<br>2. Heartland photo by William Cho [CC BY-SA 2.0]
+<br>3. Green and Blue photo by chensiyuan [CC BY-SA 4.0]
 </span>
 	
 </details>
