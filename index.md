@@ -50,5 +50,5 @@ sections:
       url: /resource-room/story-maps/orchard-road
       image: /images/kampong-glam-landing.png
       alt: Image alt text
-notification: "\n"
+notification: ""
 ---
