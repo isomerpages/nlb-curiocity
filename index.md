@@ -58,5 +58,6 @@ sections:
       button: View the story map
       url: /resource-room/story-maps/bridges-singapore-river
       alt: Image alt text
+      image: /images/bridging1.jpg
 notification: Watch this space for the NLB TREASURE HUNT in late January 2022!
 ---
