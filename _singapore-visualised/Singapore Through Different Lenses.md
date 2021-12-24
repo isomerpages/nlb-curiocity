@@ -20,4 +20,14 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 | <img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;" />      | Find out how much Singapore has changed with these [before and after images](/singapore-visualised/before-and-after){:target="_blank"} of places and buildings.
 |
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Virtual Showcase photo by Erwin Soo [CC BY-SA 2.0]
+<br>2. VR Tours photo from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<br>3. Before & After photos from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+</span>
+	
+</details>
+
  Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
