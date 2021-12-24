@@ -2,4 +2,5 @@ collections:
   singapore-visualised-1:
     output: true
     order:
+      - Singapore Visual/test.md
       - Singapore Visual/.keep
