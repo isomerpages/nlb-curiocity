@@ -1,4 +1,5 @@
 collections:
   singapore-visualised-1:
     output: true
-    order: []
+    order:
+      - Singapore Visual/.keep
