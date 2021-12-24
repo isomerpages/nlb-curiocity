@@ -29,5 +29,3 @@ There is no doubt Singapore's physical landscape has undergone profound changes 
 </span>
 	
 </details>
-
- Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
