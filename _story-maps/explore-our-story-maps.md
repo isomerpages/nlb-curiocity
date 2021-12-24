@@ -8,7 +8,7 @@ To help you navigate through our collection of Story Maps, we have categorised t
 
 | [**<font size=5> Central Area </font>**](/story-maps/central-area){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/story-maps-landing-central-area1.jpg" alt="central-area" style="width:650px" />](/story-maps/central-area)   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
+| [<img src="/images/story-maps-landing-central-area.jpg" alt="central-area" style="width:650px" />](/story-maps/central-area)   | Also referred to as the city centre, this area is both the economic and historic heart of Singapore. Click [here](/story-maps/central-area){:target="_blank"}  to view the story maps of this area and discover its history.
 |
 
 | [**<font size=5> Historic Districts </font>**](/story-maps/historic-districts){:target="_blank"} |  | 
@@ -30,8 +30,9 @@ To help you navigate through our collection of Story Maps, we have categorised t
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Central Area photo by chensiyuan [CC BY-SA 4.0]
-<br>2. Heartland photo by William Cho [CC BY-SA 2.0]
-<br>3. Green and Blue photo by chensiyuan [CC BY-SA 4.0]
+<br>2. Historic Districts photo by Erwin Soo [CC BY-SA 2.0]
+<br>3. Heartland photo by William Cho [CC BY-SA 2.0]
+<br>4. Green and Blue photo by chensiyuan [CC BY-SA 4.0]
 </span>
 	
 </details>
