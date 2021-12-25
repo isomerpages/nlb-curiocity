@@ -33,11 +33,10 @@ sections:
       alt: Story Maps banner
       button: Enter Showcase
   - infopic:
-      title: "Curiocity: Places & Perspective"
+      title: Curiocity Showcase
       subtitle: Event
-      description: Examine the evolution of our spaces and discover our island’s
-        history through creative installations in this inaugural Curiocity
-        showcase.
+      description: Examine the evolution of our spaces this inaugural Curiocity
+        "Places and Perspective" showcase.
       url: /events/curiocity-showcase-2022
       image: /images/curiocityshowcasemap2022jan.jpg
       alt: Places & Perspective
