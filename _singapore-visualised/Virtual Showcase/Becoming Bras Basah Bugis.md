@@ -136,7 +136,7 @@ _______
 
 _______
 
-### **Resource Map Of Bras Basah**
+### **Bras Basah Resource Map**
 
 Geo-tagged on the map below are some of the key resources that were used in this showcase. Click on the map below to experience this. The resources have been categorised by format using different coloured location pins.
 
