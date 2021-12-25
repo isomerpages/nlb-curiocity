@@ -10,5 +10,5 @@ description: ""
 
 | **<font size=5> NLB Treasure Hunt </font>**  |  | 
 | -------- | -------- | 
-| <img src="/images/treasure-hunt-coming-soon-events-landing-1.png" alt="central-area" style="width:650px" />   | Do you want to treasure hunt and learn about the history of places in Singapore at the same time? If you find this prospect interesting, then remember to check out this space in late January 2022.
+| <img src="/images/treasure-hunt-coming-soon-events-landing-1.jpg" alt="central-area" style="width:650px" />   | Do you want to treasure hunt and learn about the history of places in Singapore at the same time? If you find this prospect interesting, then remember to check out this space in late January 2022.
 |
