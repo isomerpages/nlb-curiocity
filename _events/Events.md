@@ -10,8 +10,6 @@ Check out these exciting Curiocity events and programmes happening in 2022.
 | [<img src="/images/curiocityshowcasemap2022jan.jpg" alt="central-area" style="width:650px" />](/story-maps/central-area)   | To illustrate how Singapore's physical landscape has evolved over time, Curiocity is centering this year's showcase on"Places and Perspective". Click here to check it out.
 |
 
-https://d33wubrfki0l68.cloudfront.net/966533b7a6de9fba0bb36837cae3d1aff4f86dbf/06784/images/curiocityshowcasemap2022jan.jpg
-
 
 | [**<font size=5> Curiocity Showcase </font>**](/story-maps/central-area){:target="_blank"}  |  | 
 | -------- | -------- | 
