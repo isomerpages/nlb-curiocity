@@ -3,9 +3,7 @@ title: Events
 permalink: /events/overview
 description: ""
 ---
-Check out these exciting Curiocity events and programmes happening in 2022.
-
-<hr class="margin--top margin--bottom--lg">
+##### **Check out these exciting Curiocity events and programmes happening in 2022.**
 
 | [**<font size=5> Curiocity Showcase </font>**](/story-maps/central-area){:target="_blank"}  |  | 
 | -------- | -------- | 
