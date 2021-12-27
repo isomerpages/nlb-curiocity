@@ -12,7 +12,7 @@ To truly understand and feel Bras Basah’s past and present, we have to look pa
 
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">“Bras Basah Through The Years”</span> presents the district as documented in the resources and content from institutions such as the National Library Board, National Heritage Board and Urban Redevelopment Authority as well as those compiled or created by heritage bloggers, filmmakers and even YouTubers just to name a few.
 
-Join us on this journey of discovery by either checking out our innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span> or <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">virtual showcase</span>.
+Join us on this journey of discovery by either checking out our <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">virtual showcase</span> or innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span>.
 
 <div class="container__line padding--lg">
     <div class="row">
@@ -24,10 +24,10 @@ Join us on this journey of discovery by either checking out our innovative <span
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-	<a href="https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
+<a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-<a href="/singapore-visualised/virtual-showcase/bb-early"><img src="/images/showcase-journey.jpg" alt="image 2"></a>
+			<a href="https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html"><img src="/images/story-map-journey.jpg" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
