@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/hero-banner-curiocity3.jpg
+      background: /images/landing-banner-1.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
