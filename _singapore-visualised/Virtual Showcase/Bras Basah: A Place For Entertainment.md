@@ -155,12 +155,12 @@ Jubilee Theatre or Kwang Hwa Theatre was located along North Bridge Road beside 
 
 ##### **Royal Theatre and Diamond Theatre**
 
-Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They share a common history as they were both built to hold *bangsawan* performances before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
+Located along North Bridge Road, Royal Theatre and Diamond Theatre were among the string of theatres that used to line the street. They share a common history as they were both built to hold *bangsawan* performances, which is a form of Malay operatic theatre that focuses its stories predominantly on Malay nobles and royalty, before shifting focus to become among the most popular cinemas screening movies for the Indian community. Both buildings, however, were demolished in the 1970s.
 
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg) |
-|  Royal Theatre was located where the current Raffles Hospital is now. Originally known as Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances, which is a form of Malay operatic theatre that focuses its stories predominantly on Malay nobles and royalty, when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre’s opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong’s Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Royal Theatre was located where the current Raffles Hospital is now. Originally known as Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre’s opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong’s Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ---------
 
