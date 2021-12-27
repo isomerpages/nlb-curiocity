@@ -115,7 +115,7 @@ The structures in LUMBA capture the form of tilted sails at varying angles, all 
 Vibrant colours illuminate each structure, as the lights undulate on the fabric in the dark. The motion of light was designed to mimic the impact of wind upon the sails and the kolek’s smooth gliding through water. As visitors walk around the structures, the colourful lights dynamically move to express the intensity of the sport and excitement of the spectators. As the sequence draws to a close, the lights dance to evoke the celebratory spirit of the New Year.
 
 **Find out more**
-<br>Check out this **resource guide** to learn more about sports and recreation in the Civic District.
+<br>Check out this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river)** to learn more about sports and recreation in the Civic District.
 
 ___
 
