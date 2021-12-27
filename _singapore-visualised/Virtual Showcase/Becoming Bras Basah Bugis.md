@@ -53,6 +53,8 @@ The revitalisation of Bras Basah and Bugis following the launch of the Rochor DG
 |:-----:|
 | ![Alt text for image on Isomer site](/images/bb-renewal-bbb-map-1.jpg)  |
 | The Bras Basah.Bugis precinct, as shown in the map above, is bounded by Rochor Road, Beach Road, Selegie Road and Bras Basah Road. (Image Source: [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"})  |
+| ![Alt text for image on Isomer site](/images/bb-renewal-bbb-today.jpg)  |
+| A panoramic shot of the Bras Basah.Bugis precinct today. (Image Source: [Celebrating The City: Bras Basah.Bugis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200002682){:target="_blank"})  |
 
 
 
