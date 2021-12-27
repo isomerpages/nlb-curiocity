@@ -62,10 +62,13 @@ ___
 <br>[Ong Kian Peng](https://ongkianpeng.art/) is a media artist based in Singapore. Working at the intersection of art, technology and the environment, Ong creates immersive and reflective environments that offer alternate visions and imaginations of our relationship with nature. His works have been exhibited in spaces such as the Tainan Museum of Fine Art, Singapore Art Museum and Total Museum Seoul, as well as festivals like Siggraph Art Gallery and FILE Festival Brazil. Ong graduated from UCLA with an MFA in Design Media Art. He currently runs Supernormal.space, an independent art space focusing on emerging and experimental art practice.
 
 **Behind the work**
-<br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
+<br>The key inspiration behind *The River Connects* is the notion that we now live in such a hyperconnected world – digitally and physically – that we don't even wonder or know what it is like to be disconnected. In the context of the Singapore River, it is unimaginable how inconvenient life must have been before bridges were built across it. These bridges are transitional spaces that often pale in comparison to the grandeur of colonial buildings and bustle of F&B establishments that line either side of the river’s banks. 
+
+The challenge of this work was to shift the focus and attention of visitors to these bridges. I wanted to address this from a formal and conceptual perspective, bringing across the message of connection. With that as a starting point, I began to make connections between keywords such as “renew” and “digitisation”. That led me to explore point clouds, a spatial visualisation technique that recreates volumetric space with points. Point clouds are exciting as they are both abstract and familiar when viewing them from varying distances and perspectives. A Lidar scanner – a piece of optical survey equipment that maps out spaces by emitting pulses of laser light – was used to survey the featured bridges, and recorded data points to represent the bridges in a new visual format. Similarly, the data point visual language was applied to the representation of the river and the connection between people. 
+
 
 **Find out more**
-<br>To learn more about bridges along the Singapore River, check out [this](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river){:target="_blank"} **resource guide**\.
+<br>To learn more about bridges along the Singapore River, check out [this](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river ){:target="_blank"} **resource guide**\.
 
 ___
 
