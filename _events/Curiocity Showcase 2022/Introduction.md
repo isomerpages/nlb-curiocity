@@ -114,4 +114,4 @@ ________
 
 #### **Acknowledgements**
 
-(insert logos)
+![Alt text for image on Isomer site](/images/CuriocityShowcasePPLogos.jpg)
