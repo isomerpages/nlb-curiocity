@@ -127,3 +127,7 @@ ___
 Ready to explore this year’s Curiocity showcase? Start your journey using the map below.
 
 [![Alt text for image on Isomer site](/images/curiocityshowcasemap2022jan.jpg)](/events/curiocity-showcase-2022)
+
+Discover the Civic District using this story map below and learn more about the historic buildings in the area. Click the image or [here](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} to view.
+
+[![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"}
