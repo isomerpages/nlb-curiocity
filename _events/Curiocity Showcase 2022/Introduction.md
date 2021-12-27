@@ -19,7 +19,7 @@ third_nav_title: Curiocity Showcase 2022
 .clickbox.is-orange a:hover { background-color: #F3B69E; color: #000000; }	
 </style>
 
-![Alt text for image on Isomer site](/images/CuriocityShowcasePPmainbanner.jpg)
+![Alt text for image on Isomer site](/images/CuriocityShowcasePPwebtopbanner.jpg)
 ## **Curiocity: Places & Perspectives**
 Looking at Singapore today, it is easy to forget that it was once dotted with *kampungs* and plantations. And as we have changed, so has our cityscape. By spotlighting selected leisure and entertainment places in downtown Singapore as well as presenting fascinating histories hidden in plain sight, Curiocity gives us an opportunity to examine the evolution of our spaces and reflect on our relationship with them.
 
