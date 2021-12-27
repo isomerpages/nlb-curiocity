@@ -24,9 +24,9 @@ Looking at Singapore today, it is easy to forget that it was once dotted with *k
 
 Accessible both in-person and online, Curiocity invites you to discover, learn and engage with our island’s history through the content and collections from the National Library Board and its partners. Presented in partnership with the Light to Night Festival 2022, *Curiocity: Places & Perspectives* will be held at the National Library Building (3 January – 3 February 2022) and across several locations in the Civic District (14 January – 3 February 2022).
 
-Curiocity is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
+Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx){:target="_blank"}, a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
 
-Ready to explore this year’s Curiocity showcase? Start your journey using the map below! Please note that Safe Management Measures at the venues will prevail.
+Ready to explore this year’s Curiocity showcase? Start your journey using the map below! Please note that Safe Management Measures at the respective venues will prevail.
 
 ![Alt text for image on Isomer site](/images/curiocityshowcasemap2022jan.jpg)
 
