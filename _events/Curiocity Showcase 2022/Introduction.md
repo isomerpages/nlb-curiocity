@@ -68,7 +68,7 @@ Home to several iconic entertainment sites, there is never a dull moment in down
 ##### **Psychic Cinema 2065**
 **Dates: 14 January – 3 February 2022
 <br>Venue: The Plaza, National Library Building**
-<br>Explore an alternative cinema of the future through this immersive audio-visual installation that reimagines the former Jubilee Theatre.
+<br>Explore an alternative cinema of the future through an immersive audio-visual installation that reimagines the former Jubilee Theatre.
 
 #### **SATELLITE INSTALLATIONS**
 Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](/events/curiocity-showcase-2022/satellite){:target="_blank"}.
