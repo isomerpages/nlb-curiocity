@@ -29,7 +29,7 @@ sections:
       description: Take a journey through Bras Basah and learn about its history in
         this showcase.
       url: /singapore-visualised/virtual-showcase/bb-intro
-      image: /images/bb-aerial-1970s.png
+      image: /images/bb-showcase-cover.png
       alt: Story Maps banner
       button: Enter Showcase
   - infopic:
