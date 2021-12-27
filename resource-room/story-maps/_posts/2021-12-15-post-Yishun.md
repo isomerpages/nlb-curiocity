@@ -13,7 +13,7 @@ Discover more about its history in this story map.
 
 View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/yishun/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-qode-storymap-yishun.jpg" alt="qr-code-storymap-yishun" style="width:200px;" />
+<img src="/images/qr-code-storymap-yishun.png" alt="qr-code-storymap-yishun" style="width:200px;" />
 
 Notes:
 
