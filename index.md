@@ -35,11 +35,12 @@ sections:
   - infopic:
       title: Curiocity Showcase
       subtitle: Event
-      description: Examine the evolution of our spaces this inaugural Curiocity
-        "Places and Perspective" showcase.
+      description: Examine the evolution of our spaces and discover our island’s
+        history through creative installations in this inaugural Curiocity
+        showcase.
       url: /events/curiocity-showcase-2022
-      image: /images/curiocityshowcasemap2022jan.jpg
-      alt: Places & Perspective
+      image: /images/CuriocityShowcasePPmainbanner.jpg
+      alt: Places & Perspectives
       button: Start Exploring
   - infopic:
       title: Heritage Bridges of Singapore River
