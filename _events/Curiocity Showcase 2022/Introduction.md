@@ -26,7 +26,7 @@ Accessible both in-person and online, Curiocity invites you to discover, learn a
 
 Curiocity is part of NLB’s Libraries and Archives Blueprint 2025 (LAB25), a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
 
-Ready to explore this year’s Curiocity showcase? Start your journey using the map below. 
+Ready to explore this year’s Curiocity showcase? Start your journey using the map below! Please note that Safe Management Measures at the venues will prevail.
 
 ![Alt text for image on Isomer site](/images/curiocityshowcasemap2022jan.jpg)
 
