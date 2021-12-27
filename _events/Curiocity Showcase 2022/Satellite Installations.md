@@ -108,9 +108,9 @@ ___
 **Behind the work**
 <br>This work is based on archival photographs  of the New Year Regatta. Recreating the scene on the Esplanade’s sea wall, this site-specific work pays homage to the historic event that once marked the beginning of the new year in Singapore. 
 
-The crew of racing koleks  (small boat with a sail) were trained to manoeuvre the vessels under all weather conditions . They would stand on the gunwale at a perpendicular angle to the boat and expertly control its large sails to catch the wind.  They would also use their whole bodies to balance the sails as the winds changed, while guiding the boat towards the finishing point.
+The crew of racing *koleks* (small boat with a sail) were trained to manoeuvre the vessels under all weather conditions . They would stand on the gunwale at a perpendicular angle to the boat and expertly control its large sails to catch the wind.  They would also use their whole bodies to balance the sails as the winds changed, while guiding the boat towards the finishing point.
 
-The structures in LUMBA capture the form of tilted sails at varying angles, all headed towards a common direction. Their shapes reference the different profiles of sails balancing on shell-like bases — as seen on the koleks. 
+The structures in LUMBA capture the form of tilted sails at varying angles, all headed towards a common direction. Their shapes reference the different profiles of sails balancing on shell-like bases — as seen on the *koleks*. 
 
 Vibrant colours illuminate each structure, as the lights undulate on the fabric in the dark. The motion of light was designed to mimic the impact of wind upon the sails and the kolek’s smooth gliding through water. As visitors walk around the structures, the colourful lights dynamically move to express the intensity of the sport and excitement of the spectators. As the sequence draws to a close, the lights dance to evoke the celebratory spirit of the New Year.
 
