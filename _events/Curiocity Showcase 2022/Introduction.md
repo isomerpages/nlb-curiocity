@@ -91,20 +91,20 @@ Check out our Curiocity installations in the Civic District during the Light to 
 ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
-#### **Programmes**
+#### **PROGRAMMES**
 Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes).
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
 
-#### **A Virtual Showcase on Bras Basah**
+#### **A VIRTUAL SHOWCASE ON BRAS BASAH**
 
 There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} or view this [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
 
 
 ________
 
-#### **Civic District Story Map**
+#### **CIVIC DISTRICT STORY MAP**
 
 [![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"}
 
@@ -112,6 +112,6 @@ Explore the Curiocity visual installations in the Civic District using this stor
 
 ________
 
-#### **Acknowledgements**
+#### **ACKNOWLEDGEMENTS**
 
 ![Alt text for image on Isomer site](/images/CuriocityShowcasePPLogos2.jpg)
