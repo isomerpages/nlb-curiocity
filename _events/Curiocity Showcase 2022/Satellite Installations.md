@@ -65,7 +65,7 @@ ___
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
 
 **Find out more**
-<br>To learn more about bridges along the Singapore River, check out this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river){:target="_blank"}**\.
+<br>To learn more about bridges along the Singapore River, check out [this](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river){:target="_blank"} **resource guide**\.
 
 ___
 
@@ -87,7 +87,7 @@ ___
 <br>(PRE-EDITED) TRIBAL: In bringing to life these places, we pored over scores of old maps, photographs, articles and books. George D. Coleman’s [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad) formed the foundation for all our findings; Yu-Mei Balasingamchow’s observation of the district documented in her [Rambling Around Bras Basah](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue3_BrasBasah.pdf) article offered personal insights; and lastly, the portraitures by visitors from far and wide compiled in the [Travellers’ Tales of Old Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/272439404/324482546,1) book provided new, untold perspectives. These resources were invaluable in unveiling new facets to a district so familiar, yet so invisible to many of us — an outcome we hope to achieve for all our visitors. 
 
 **Find out more**
-<br>Curious about the history of notable landmarks in the Civic District? Explore this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/landmarks-bras-basah){:target="_blank"}** to learn more.
+<br>Curious about the history of notable landmarks in the Civic District? Explore [this](https://reference.nlb.gov.sg/guides/singapore/places/landmarks-bras-basah){:target="_blank"} **resource guide** to learn more.
 
 ___
 
@@ -115,7 +115,7 @@ The structures in LUMBA capture the form of tilted sails at varying angles, all 
 Vibrant colours illuminate each structure, as the lights undulate on the fabric in the dark. The motion of light was designed to mimic the impact of wind upon the sails and the kolek’s smooth gliding through water. As visitors walk around the structures, the colourful lights dynamically move to express the intensity of the sport and excitement of the spectators. As the sequence draws to a close, the lights dance to evoke the celebratory spirit of the New Year.
 
 **Find out more**
-<br>Check out this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/sports-recreation-civic-district){:target="_blank"}** to learn more about sports and recreation in the Civic District.
+<br>Check out [this](https://reference.nlb.gov.sg/guides/singapore/places/sports-recreation-civic-district){:target="_blank"} **resource guide** to learn more about sports and recreation in the Civic District.
 
 ___
 
