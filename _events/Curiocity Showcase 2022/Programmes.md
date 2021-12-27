@@ -16,7 +16,7 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 |**13 Jan**     | **Connecting with the Past: Reliving Memories with Building Blocks**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/connecting-with-the-past-reliving-memories-with-building-blocks-tickets-230684793427?aff=odcleoeventsincollection){:target="blank"} to register |
 |**15 Jan**     | **Map-Making and the Fiction of Knowledge**    | National Library Building | 10:00am to 11:00am    | Click [here](https://www.eventbrite.sg/e/map-making-and-the-fiction-of-knowledge-mapping-the-world-exhibition-tickets-227561732267?aff=odcleoeventsincollection){:target="blank"} to register |
 | **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/snapshots-in-time-tickets-230234005107?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
-| **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00 to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
+| **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
 | **26 Jan**     | **Pastimes from the Past**   | Zoom  | 7:00pm to 8:00pm    | Click [here](https://www.eventbrite.com/e/pastimes-from-the-past-tickets-230232721267?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
 
 ##### **Workshops**
