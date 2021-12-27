@@ -160,7 +160,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-theatre-royal-1.jpg) |
-|  Royal Theatre was located where the current Raffles Hospital is now. Originally known as Theatre Royal, it is believed to be the first “permanent” theatre that staged bangsawan performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre’s opening heralded the golden age of bangsawan in Singapore and Malaya which saw the proliferation of new bangsawan troupes including Cheong’s Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Royal Theatre was located where the current Raffles Hospital is now. Originally known as Theatre Royal, it is believed to be the first “permanent” theatre that staged *bangsawan* performances when it opened in 1908. Owned by Chinese Peranakan businessman Cheong Koon Seng, theatre’s opening heralded the golden age of *bangsawan* in Singapore and Malaya which saw the proliferation of new *bangsawan* troupes including Cheong’s Star Opera Company, and the increase in appetite for their performances. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d703c034-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ---------
 
@@ -179,7 +179,7 @@ Located along North Bridge Road, Royal Theatre and Diamond Theatre were among th
 |  |
 | :--------: |
 | ![Alt text for image on Isomer site](/images/sample-bb-diamond-theatre-1.jpg) |
-|  Diamond Theatre was located just a few doors away from Royal Theatre at 499 North Bridge Road. Formerly known as Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged bangsawan performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat “first-rate” cinema specialising in Indian films. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  Diamond Theatre was located just a few doors away from Royal Theatre at 499 North Bridge Road. Formerly known as Alexandra Hall, it was leased by bangsawan troupe Opera Yap Chow Tong. As such, during its early days, the theatre was used to staged *bangsawan* performances. In 1947, similar to Royal Theatre, the theatre was converted into a 600-seat “first-rate” cinema specialising in Indian films. (Image Credit: [The Straits Times © Singapore Press Holdings Limited. Reprinted with permission](https://www.nas.gov.sg/archivesonline/photographs/record-details/b7b3a723-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 |  |
 | :--------: |
