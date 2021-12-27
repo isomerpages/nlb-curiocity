@@ -99,6 +99,8 @@ ________
 
 #### **A VIRTUAL SHOWCASE ON BRAS BASAH**
 
+[![Alt text for image on Isomer site](/images/bb-showcase-cover.png)](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"}
+
 There is much to discover in Bras Basah. To gain fresh insight and new perspectives into what’s shaped the precinct into what it is today, check out our specially curated virtual online showcase [here](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} or view this [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
 
 
