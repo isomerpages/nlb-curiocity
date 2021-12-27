@@ -65,7 +65,7 @@ ___
 <br>TBC: To insert info about artist's inspiration and resources referenced from the collections.
 
 **Find out more**
-<br>To learn more about bridges along the Singapore River, check out this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river)**{:target="_blank"}.
+<br>To learn more about bridges along the Singapore River, check out this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/bridges-sg-river){:target="_blank"}**\.
 
 ___
 
@@ -87,7 +87,7 @@ ___
 <br>(PRE-EDITED) TRIBAL: In bringing to life these places, we pored over scores of old maps, photographs, articles and books. George D. Coleman’s [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad) formed the foundation for all our findings; Yu-Mei Balasingamchow’s observation of the district documented in her [Rambling Around Bras Basah](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue3_BrasBasah.pdf) article offered personal insights; and lastly, the portraitures by visitors from far and wide compiled in the [Travellers’ Tales of Old Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/272439404/324482546,1) book provided new, untold perspectives. These resources were invaluable in unveiling new facets to a district so familiar, yet so invisible to many of us — an outcome we hope to achieve for all our visitors. 
 
 **Find out more**
-<br>Curious about the history of notable landmarks in the Civic District? Explore this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/landmarks-bras-basah)**{:target="_blank"} to learn more.
+<br>Curious about the history of notable landmarks in the Civic District? Explore this **[resource guide](https://reference.nlb.gov.sg/guides/singapore/places/landmarks-bras-basah){:target="_blank"}** to learn more.
 
 ___
 
