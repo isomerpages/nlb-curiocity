@@ -6,13 +6,13 @@ layout: post
 description: ""
 ---
 [![Alt text for image on Isomer site](/images/storymap-image-raffles-place-sixties-1.png)
-](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html)
+](https://go.gov.sg/d5e157)
 
 Initially known as Commercial Square, Raffles Place has undergone many changes since it was demarcated as a commercial district in the 1822 Singapore Town Plan. During the colonial period, Raffles Place witnessed the construction of a series of architecturally beautiful buildings that housed mercantile companies, banks and shops. By the time Singapore gained independence in 1965, Raffles Place had become a prime location surrounded by some of the finest looking buildings in the country. 
 
 Find out the name and history of these buildings in this story map.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/mapbox/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/d5e157){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-raffles-place-60s.jpg" alt="qr-code-storymap-raffles-place-60s" style="width:200px;" />
 
