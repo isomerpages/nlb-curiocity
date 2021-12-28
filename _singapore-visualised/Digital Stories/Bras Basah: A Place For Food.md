@@ -4,8 +4,6 @@ permalink: /singapore-visualised/digital-stories/bb-food
 description: ""
 third_nav_title: Digital Stories
 ---
-
-
 ### **A Place for Food**
 
 Besides leisure, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by people from all walks of life, these places clearly show the long history of Singapore’s foodie culture. Below is a photo essay that highlights some of these eateries.
@@ -209,4 +207,4 @@ ______
 
 Geo-tagged on the map below are the locations of the various eating places featured in this section. Click on the map below to find out where they once located. 
 
-[![Alt text for image on Isomer site](/images/food-storymap.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-food-map/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/food-storymap.jpg)](https://go.gov.sg/hhdntq){:target="_blank"}
