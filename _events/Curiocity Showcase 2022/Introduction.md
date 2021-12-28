@@ -93,7 +93,7 @@ ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **PROGRAMMES**
-Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes).
+Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes){:target="_blank"}.
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
