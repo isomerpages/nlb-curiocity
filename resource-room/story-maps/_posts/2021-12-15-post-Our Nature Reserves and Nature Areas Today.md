@@ -5,11 +5,11 @@ permalink: /resource-room/story-maps/nature-reserves-areas
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-our-nature-reserves.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/nature-reserves-and-nature-areas-of-singapore/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-our-nature-reserves.png)](https://go.gov.sg/ei4a1v)
 
 Today, Singapore has four nature areas comprising the four main nature reserves – Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Sungei Buloh Wetland Reserve and Labrador Nature Reserve – as well as 20 other areas that are subject to administrative safeguards under the Parks and Waterbodies Plan. Discover what lies within these nature reserves and areas in this story map.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/ei4a1v){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-nature-reserves.jpg" alt="qr-code-storymap-islands" style="width:200px;" />
 
