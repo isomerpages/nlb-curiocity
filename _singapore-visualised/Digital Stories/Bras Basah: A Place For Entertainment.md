@@ -4,8 +4,6 @@ permalink: /singapore-visualised/digital-stories/bb-cinemas
 description: ""
 third_nav_title: Digital Stories
 ---
-
-
 ### **Cinemas In Bras Basah**
 
 As many of the first cinemas in Singapore were located within and near Bras Basah, the district could be considered as a haven for movies and blockbusters. The photo essay below revisits the seven most iconic cinemas in Bras Basah.
@@ -194,4 +192,4 @@ _______
 
 Besides cinemas, Bras Basah was dotted with hotels, clubs and cultural institutions. It was a place frequented by people in search of entertainment and recreation during the colonial period and nation-building years. While many of these entertainment and recreation places are no longer around, some still remain and they continue to be visited by people from the current generation. Below is a story map that lays out the entertainment and recreation places of Bras Basah in the past and present.
 
-[![Alt text for image on Isomer site](/images/entertainment-storymap.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-entertainment-in-the-past/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/entertainment-storymap.jpg)](https://go.gov.sg/yimlon){:target="_blank"}
