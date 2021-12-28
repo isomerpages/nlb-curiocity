@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-orchard-road.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/orchard-road/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-orchard-road.png)](https://go.gov.sg/7b4c3p)
 
 Originally a hilly suburban fringe sandwiched between the main commercial town area and Tanglin, Orchard Road is now arguably Singapore’s most iconic street. The bustling street lined with shiny megamalls is almost unrecognisable from the cluster of spice plantations and fruit orchards it was in the early 19th century, and later for a large part of the 20th century, a suburban residential and commercial street lined with low-rise shophouses.
 
 Take a trip back in time in this story map to learn more about the transformation of Orchard Road as well as the historical places that once stood along this iconic road.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/orchard-road/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/7b4c3p){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-orchard-road.jpg" alt="qr-code-storymap-orchard-road " style="width:200px;" />
 
