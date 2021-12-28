@@ -130,4 +130,4 @@ Ready to explore this year’s Curiocity showcase? Start your journey using the 
 
 Keen for more? Discover the Civic District using [this](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} story map and learn more about the historic buildings in the area. 
 
-[![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://go.gov.sg/lcy3re){:target="_blank"}
