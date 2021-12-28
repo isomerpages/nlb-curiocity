@@ -29,9 +29,9 @@ sections:
       description: Take a journey through Bras Basah and learn about its history in
         this showcase.
       url: /singapore-visualised/virtual-showcase/bb-intro
-      image: /images/bb-showcase-cover.png
+      image: /images/bb-showcase-cover-dg.png
       alt: Story Maps banner
-      button: Enter Showcase
+      button: Start the Journey
   - infopic:
       title: Curiocity Showcase
       subtitle: Event
