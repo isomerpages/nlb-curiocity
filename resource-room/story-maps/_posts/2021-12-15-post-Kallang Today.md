@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-kallang-today.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/kallang-water-bodies-parks-and-bridges/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-kallang-today.png)](https://go.gov.sg/d722m6)
 
 Do you know Kallang is home to Singapore’s longest river – the Kallang River, as well as Kolam Ayer ABC Waterfront which is the first project under the Active, Beautiful, Clean Waters (ABC) Programme? How about the fact that it used to have a park that was built by volunteers and underwent a major river clean-up programme together with the Singapore River? 
 
 Find out more about these interesting facts in this story map on the waterbodies and green spaces of Kallang.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/kallang-water-bodies-parks-and-bridges/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/d722m6){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-kallang-green-blue.jpg" alt="qr-code-storymap-kallang-green-blue" style="width:200px;" />
 
