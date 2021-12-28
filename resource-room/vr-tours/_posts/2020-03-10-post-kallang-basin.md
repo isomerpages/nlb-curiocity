@@ -3,13 +3,13 @@ title: Kallang Basin
 permalink: /resource-room/vr-tours/kallang-basin
 date: 2020-03-10T00:00:00.000Z
 ---
-[![Alt text for image on Isomer site](/images/vr-tour-image-kallang.png)](https://roundme.com/tour/704735/view/2220574)
+[![Alt text for image on Isomer site](/images/vr-tour-image-kallang.png)](https://go.gov.sg/sdljg4)
 
 Kallang Basin is an enclosed bay where the Kallang River, Rochor River and Geylang River empty into. In the past, its banks were lined with sawmills, oil and rice mills, abattoirs, engineering workshops and factories. Today, it is a beautiful waterfront district and a popular location for sports and recreational activities.
 
 Learn the changes that have taken place around the Kallang Basin in this VR tour.
 
-View this VR tour in [full screen](https://roundme.com/tour/704735/view/2220574){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://go.gov.sg/sdljg4){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-kallang-basin.png" alt="qr-code-vr-kallang-basin" style="width:200px;" />
 
