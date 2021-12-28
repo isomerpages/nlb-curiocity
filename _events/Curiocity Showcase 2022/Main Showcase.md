@@ -58,8 +58,6 @@ ___
 **Find out more**
 <br>Learn more about the history of entertainment spots in Bras Basah through [this](/singapore-visualised/virtual-showcase/bb-cinemas){:target="_blank"} **showcase** and [this](https://reference.nlb.gov.sg/guides/singapore/places/entertainment-bras-basah ){:target="_blank"} **resource guide**.
 
-Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/){:target="_blank"} **Bras Basah.Bugis digital trails**.
-
 ___
 
 <h5 class="margin--bottom--lg" id="psychiccinema2065"></h5>
