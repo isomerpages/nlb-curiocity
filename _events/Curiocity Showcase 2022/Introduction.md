@@ -102,7 +102,7 @@ ________
 
 [![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"}
 
-There is much to discover in Bras Basah. To gain fresh insight and new perspectives on the district in the past and how it became the Bras Basah.Bugis precinct of today, check out our specially curated digital story [here](/singapore-visualised/digital-story/bb-intro){:target="_blank"}. You can also view it as a [story map](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-the-complete-story-map/index.html){:target="_blank"}.
+There is much to discover in Bras Basah. To gain fresh insight and new perspectives on the district in the past and how it became the Bras Basah.Bugis precinct of today, check out our specially curated digital story [here](/singapore-visualised/digital-story/bb-intro){:target="_blank"}. You can also view it as a [story map](https://go.gov.sg/vigaqf){:target="_blank"}.
 
 
 ________
