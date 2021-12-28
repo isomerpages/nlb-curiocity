@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-raffles-place-streets-1.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/1966-map-1/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-raffles-place-streets-1.png)](https://go.gov.sg/8r9css)
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
 Take a look at some of them in this story map on the streets of Raffles Place.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/1966-map-1/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/8r9css){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-raffles-place-streets.jpg" alt="qr-code-storymap-raffles-place-streets" style="width:200px;" />
 
