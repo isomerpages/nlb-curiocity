@@ -62,17 +62,17 @@ ___
 Home to several iconic entertainment sites, there is never a dull moment in downtown Singapore. Discover our vibrant past and explore the ’hood in a different light this year. Find out more about Curiocity [here](/events/curiocity-showcase-2022/main){:target="_blank"}!
 
 ##### **Encore in the City**
-**Dates: 3 January – 3 February 2022
-<br>Venue: The Plaza, National Library Building**
+**Dates: 3 January – 3 February 2022** (closed on 1 & 2 February)
+<br>**Venue: The Plaza, National Library Building**
 <br>Iconic entertainment landmarks from our past return for an encore, sparking new perspectives in this installation.
 <br>
 ##### **Psychic Cinema 2065**
-**Dates: 14 January – 3 February 2022
-<br>Venue: The Plaza, National Library Building**
+**Dates: 14 January – 3 February 2022** (closed on 1 & 2 February)
+<br>**Venue: The Plaza, National Library Building**
 <br>Explore an alternative cinema of the future through an immersive audio-visual installation that reimagines the former Jubilee Theatre.
 
 #### **SATELLITE INSTALLATIONS**
-Check out our Curiocity installations in the Civic District during the Light to Night Festival 2022. Explore our history through new, creative works by our local artists. Find out more [here](/events/curiocity-showcase-2022/satellite){:target="_blank"}.
+Check out our Curiocity installations in the Civic District during the [Light to Night Festival 2022](https://www.nationalgallery.sg/lighttonight/){:target="_blank"}. Explore our history through new, creative works by our local artists. Find out more [here](/events/curiocity-showcase-2022/satellite){:target="_blank"}.
 
 ##### **The River Connects**
 **Dates: 14 January – 3 February 2022
@@ -93,7 +93,7 @@ ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **PROGRAMMES**
-Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes).
+Eager for more? Check out the programmes that we have lined up for you online and at various venues [here](/events/curiocity-showcase-2022/programmes){:target="_blank"}.
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>

@@ -46,7 +46,7 @@ ___
 ![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
 
 #### **Encore in the City**
-**3 January – 3 February 2022**
+**3 January – 3 February 2022** (closed on 1 & 2 February)
 <br>**The Plaza, National Library Building**
 
 **About the showcase**
@@ -58,8 +58,6 @@ ___
 **Find out more**
 <br>Learn more about the history of entertainment spots in Bras Basah through [this](/singapore-visualised/virtual-showcase/bb-cinemas){:target="_blank"} **showcase** and [this](https://reference.nlb.gov.sg/guides/singapore/places/entertainment-bras-basah ){:target="_blank"} **resource guide**.
 
-Keen to explore the precinct? Check out [these](https://www.nhb.gov.sg/brasbasahbugis/){:target="_blank"} **Bras Basah.Bugis digital trails**.
-
 ___
 
 <h5 class="margin--bottom--lg" id="psychiccinema2065"></h5>
@@ -67,7 +65,7 @@ ___
 ![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
 
 #### **Psychic Cinema 2065**
-**14 January – 3 February 2022**
+**14 January – 3 February 2022** (closed on 1 & 2 February)
 <br>**The Plaza, National Library Building**
 
 **About the installation**
