@@ -76,7 +76,7 @@ ____
 
 #### **Methodist Publishing House and Koh & Company**
 
-Two of the biggest English bookstores that used to be located in Bras Basah was [Methodist Publishing House (MPH)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_61_2004-12-27.html) and Koh & Company. Each of them offer a distinctive selection of books for their customers. Find out what they sell below.
+Two of the biggest English bookstores that used to be located in Bras Basah was Methodist Publishing House (MPH) and Koh & Company. Each of them offer a distinctive selection of books for their customers. Find out what they sell below.
 
 |   | 
 |:--------:| 
