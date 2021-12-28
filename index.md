@@ -25,9 +25,9 @@ sections:
           url: /singapore-visualised/before-and-after
   - infopic:
       title: Bras Basah Through Time
-      subtitle: Virtual Showcase
+      subtitle: Digital Stories
       description: Take a journey through Bras Basah and learn about its history in
-        this showcase.
+        this digital story.
       url: /singapore-visualised/virtual-showcase/bb-intro
       image: /images/bb-showcase-cover-dg.png
       alt: Story Maps banner
