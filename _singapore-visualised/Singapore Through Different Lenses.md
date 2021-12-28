@@ -5,9 +5,9 @@ description: ""
 ---
 There is no doubt Singapore's physical landscape has undergone profound changes over the past two centuries as it developed from a British trading post to one of the strongest economies in the region. These changes were captured in visual mediums such as photographs and paintings that are now part of the collections of the National Library and National Archives. Using these materials together with new visualisation tools including story maps and virtual reality, we have put together the following perspectives to observe the ever-changing physical transformation of Singapore.
 
-| **<font size=5>Virtual Showcase</font>** |  | 
+| **<font size=5>Digital Stories</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/singapore-visualised/virtual-showcase/bb-intro)   | Transverse through these [virtual showcases](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/singapore-visualised/virtual-showcase/bb-intro)   | Transverse through these [digital stories](/singapore-visualised/digital-stories/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
 |
 
 | **<font size=5> VR Tours</font>** |  | 
