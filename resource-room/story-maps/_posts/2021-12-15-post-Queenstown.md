@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-queenstown.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/queenstown/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-queenstown.png)](https://go.gov.sg/vfke8l)
 
 Development of Queenstown first began in 1952 by the Singapore Improvement Trust (SIT), and it was named as such to commemorate the coronation of Queen Elizabeth II. Formerly a swampy valley, it was developed into Singapore’s first satellite town, and holds many of Singapore’s firsts including the first branch library, the first neighbourhood sports complex and the first polyclinic. Today, Queenstown is filled with mementos of the past and there is a historical landmark at every turn. 
 
 Join us in walking down memory lane as we explore the heritage of Queenstown through this storymap.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/queenstown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/vfke8l){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-queenstown.jpg" alt="qr-code-storymap-queenstown" style="width:200px;" />
 
