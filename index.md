@@ -68,5 +68,5 @@ sections:
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
-notification: Watch this space for the NLB TREASURE HUNT in late January 2022!
+notification: ""
 ---
