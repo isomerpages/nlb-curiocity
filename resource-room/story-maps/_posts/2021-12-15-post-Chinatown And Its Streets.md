@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-chinatown-streets.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/chinatown/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-chinatown-streets.png)](https://go.gov.sg/hluf6q)
 
 The names of places tell us a lot about a country. These include its history, landscape, people, aspirations and self-image. By studying these names, we can unlock the myriad interlocking stories that are encoded in every street and landmark. 
 
 Find out in this story map on the streets of Chinatown and uncover the myriad interlocking stories encoded in the streets there.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/chinatown/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/hluf6q){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-chinatown-streets.jpg" alt="qr-code-storymap-chinatown-streets" style="width:200px;" />
 
