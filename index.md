@@ -28,7 +28,7 @@ sections:
       subtitle: Digital Stories
       description: Take a journey through Bras Basah and learn about its history in
         this digital story.
-      url: /singapore-visualised/virtual-showcase/bb-intro
+      url: /singapore-visualised/digital-stories/bb-intro
       image: /images/bb-showcase-cover-dg.png
       alt: Story Maps banner
       button: Start the Journey
