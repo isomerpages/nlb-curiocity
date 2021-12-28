@@ -100,9 +100,9 @@ ________
 
 #### **A DIGITAL STORY ON BRAS BASAH**
 
-[![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}
 
-There is much to discover in Bras Basah. To gain fresh insight and new perspectives on the district in the past and how it became the Bras Basah.Bugis precinct of today, check out our specially curated digital story [here](/singapore-visualised/digital-story/bb-intro){:target="_blank"}. You can also view it as a [story map](https://go.gov.sg/vigaqf){:target="_blank"}.
+There is much to discover in Bras Basah. To gain fresh insight and new perspectives on the district in the past and how it became the Bras Basah.Bugis precinct of today, check out our specially curated digital story [here](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}. You can also view it as a [story map](https://go.gov.sg/vigaqf){:target="_blank"}.
 
 
 ________
@@ -111,7 +111,7 @@ ________
 
 [![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://go.gov.sg/lcy3re){:target="_blank"}
 
-Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area. Click the image or [here](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} to view the story map.
+Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area. Click the image or [here](https://go.gov.sg/lcy3re){:target="_blank"} to view the story map.
 
 ________
 
