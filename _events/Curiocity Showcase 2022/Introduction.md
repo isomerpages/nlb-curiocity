@@ -100,7 +100,7 @@ ________
 
 #### **A DIGITAL STORY ON BRAS BASAH**
 
-[![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)](/singapore-visualised/virtual-showcase/bb-intro){:target="_blank"}
+[![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}
 
 There is much to discover in Bras Basah. To gain fresh insight and new perspectives on the district in the past and how it became the Bras Basah.Bugis precinct of today, check out our specially curated digital story [here](/singapore-visualised/digital-story/bb-intro){:target="_blank"}. You can also view it as a [story map](https://go.gov.sg/vigaqf){:target="_blank"}.
 
