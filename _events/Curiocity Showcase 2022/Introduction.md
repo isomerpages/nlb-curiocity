@@ -111,7 +111,7 @@ ________
 
 [![Alt text for image on Isomer site](/images/storymap-image-civic-district.png)](https://go.gov.sg/lcy3re){:target="_blank"}
 
-Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area. Click the image or [here](https://nlb.geoicon.com/spatialdiscovery/storymaps/the-civic-district-with-sliders-and-oh/index.html){:target="_blank"} to view the story map.
+Explore the Curiocity visual installations in the Civic District using this story map. You can also use it to learn more about the historic buildings in the area. Click the image or [here](https://go.gov.sg/lcy3re){:target="_blank"} to view the story map.
 
 ________
 
