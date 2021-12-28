@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-schools/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-bras-basah-schools.png)](https://go.gov.sg/36ymgh)
 
 Bras Basah is one of Singapore’s oldest districts. With a name derived from the Malay term ‘wet rice’ which were once laid out on the banks of Bras Basah River (today’s Stamford Canal), it was marked out by Sir Stamford Raffles as part of the European Town in 1822 and had served as the suburb to the built-up areas which included the Commercial Square (today’s Raffles Place) district. As a result, the Bras Basah area was considered an ideal location for the establishment of religious and public buildings including schools.
 
 Take a trip back in time in this story map to learn more about the schools that were established in Bras Basah during the colonial period.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-schools/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/36ymgh){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-bras-basah-schools.jpg" alt="qr-code-storymap-bras-basah-schools" style="width:200px;" />
 
