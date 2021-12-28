@@ -4,8 +4,6 @@ permalink: /singapore-visualised/digital-stories/conclude-bb
 description: ""
 third_nav_title: Digital Stories
 ---
-
-
 ### **In Need For Renewal**
 
 Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife there. But like other inner-city areas, the two districts were in need of renewal as its streets were congested and colonial-era shophouses in dilapidated condition. To address these issues, the Urban Redevelopment Authority (URA) extended its urban renewal programme to Bras Basah and Bugis. This saw many buildings in the area being torn down and redeveloped.
@@ -144,4 +142,4 @@ _______
 
 Geo-tagged on the map below are some of the key resources that were used in this showcase. Click on the map below to experience this. The resources have been categorised by format using different coloured location pins.
 
-[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/bras-basah-resource-map/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/sample-bb-resource-story-map.jpg)](https://go.gov.sg/nd6s8y){:target="_blank"}
