@@ -3,13 +3,13 @@ title: Raffles Place Today
 permalink: /resource-room/story-maps/raffles-place-today
 date: 2020-01-15T00:00:00.000Z
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-raffles-place-today-1.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/buildings-along-singapore-river/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-raffles-place-today-1.png)](https://go.gov.sg/2erjps)
 
 For almost two centuries, Raffles Place has been the designated business district of Singapore. Located southwest of the mouth of Singapore River, it was originally a hilly area before it was levelled under the 1822 Singapore Town Plan and made into a commercial district. Prior to 1858, Raffles Place was called Commercial Square, and in the past 50 years, the area has witnessed major transformation when many of its old iconic buildings were replaced by modern skyscrapers.
 
 Find out the name and history of these buildings in this story map.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/buildings-along-singapore-river/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/2erjps){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-raffles-place-today.jpg" alt="qr-code-storymap-raffles-place-today" style="width:200px;" />
 
