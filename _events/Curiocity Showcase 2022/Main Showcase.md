@@ -56,7 +56,7 @@ ___
 <br>[The Merry Men Works](https://tmmw.sg/){:target="_blank"} is an experiential studio that designs and builds experiences that evoke a sense of delight.
 
 **Find out more**
-<br>Learn more about the history of entertainment spots in Bras Basah through [this](/singapore-visualised/virtual-showcase/bb-cinemas){:target="_blank"} **showcase** and [this](https://reference.nlb.gov.sg/guides/singapore/places/entertainment-bras-basah ){:target="_blank"} **resource guide**.
+<br>Learn more about the history of entertainment spots in Bras Basah through [this](singapore-visualised/digital-stories/bb-intro){:target="_blank"} **showcase** and [this](https://reference.nlb.gov.sg/guides/singapore/places/entertainment-bras-basah ){:target="_blank"} **resource guide**.
 
 ___
 
