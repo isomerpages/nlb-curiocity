@@ -56,7 +56,7 @@ sections:
       subtitle: Story Map
       description: Explore the old-world charm of Kampong Glam in this story map.
       button: View The Story Map
-      url: /resource-room/story-maps/orchard-road
+      url: /resource-room/story-maps/kampong-glam
       image: /images/landing-kampong-glam.png
       alt: Image alt text
   - infopic:
