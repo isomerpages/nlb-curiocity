@@ -4,11 +4,11 @@ date: 2021-08-31
 permalink: /resource-room/before-and-after/arts-house
 layout: post
 ---
-[![Alt text for image on Isomer site](/images/before-after-image-arts-house.png)](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b42f957e-0a33-11ec-abb7-b9a7ff2ee17c)
+[![Alt text for image on Isomer site](/images/before-after-image-arts-house.png)](https://go.gov.sg/249bdx)
 
 The Arts House (also known as the Old Parliament House) is where the Singapore Parliament used to sit. Located at Empress Place, it was originally built as a residence in 1827 but was ended up being used as courthouse until 1865 and the the Supreme Court from 1875 to 1939. During this period, the building also underwent many alterations and extensions allowing the architecture of the building to be transformed from the Palladian style to Victorian. After the Supreme Court moved out, the building was used by the government as a storehouse and later to house the Department of Social Welfare. From 1954, it became the Legislative Assembly House before being renamed the Parliament House after Singapore achieved independence in 1965. After the Parliament moved out of the building in 1999, it was reopened in 2004 as The Arts House after undergoing a multi-million renovation. By then, the main building and the annex had been gazetted as national monuments.
 
-View the juxtapose in [full screen](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b42f957e-0a33-11ec-abb7-b9a7ff2ee17c){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the juxtapose in [full screen](https://go.gov.sg/249bdx){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-beforeafter-arts-house.png" alt="qr-code-before-after-arts-house" style="width:200px;" />
 
