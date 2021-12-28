@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-little-india.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-landmarks/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-little-india.png)](https://go.gov.sg/ioks1j)
 
 Unlike its sister conservation precincts of Chinatown and Kampong Gelam, Little India was never intended by Sir Stamford Raffles to be an area designated for Singapore’s Indian community. Instead, it developed its identity organically over the years, establishing itself as a melting pot of diverse communities and cultures, as well as an enclave for the Indian community.
 
 In this story map, learn more about the history of Little India told through its iconic landmarks.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/little-india-landmarks/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/ioks1j){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-little-india-landmarks.jpg" alt="qr-code-storymap-little-india-landmarks" style="width:200px;" />
 
