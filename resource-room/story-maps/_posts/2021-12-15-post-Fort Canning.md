@@ -5,13 +5,13 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-fort-canning.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/fort-canning/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-fort-canning.png)](https://go.gov.sg/km3hp5)
 
 Fort Canning Hill, formerly known as Bukit Larangan (Malay for “Forbidden Hill”) and Government Hill, is one of the most historic landmarks in Singapore. It housed many facilities and buildings including a military command centre and the Governor’s House. It also bore witness to many key historic events particularly Lieutenant-General Arthur Percival’s crucial decision to surrender to the Japanese. Today, the hill is known to many as Fort Canning Park.
 
 Take a trip back in time in this story map to learn more about the history of the iconic buildings and sites on this important hill.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/fort-canning/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/km3hp5){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-fort-canning.jpg" alt="qr-code-storymap-fort-canning" style="width:200px;" />
 
