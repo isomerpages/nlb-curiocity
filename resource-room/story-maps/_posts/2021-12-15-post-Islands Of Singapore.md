@@ -5,11 +5,11 @@ permalink: /resource-room/story-maps/islands-singapore
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-islands-singapore.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/our-islands-of-paradise/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-islands-singapore.png)](https://go.gov.sg/h5et7u)
 
 Off the shores of Singapore's main island lie dozens of little hidden slices of paradise, namely our offshore islands. Awaiting there are scenic areas of rustic charm, delicate ecological habitats and troves of cultural treasures - our very own Islands of Paradise. Discover some of our offshore islands around Singapore in this story map.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/our-islands-of-paradise/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/h5et7u){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-islands.jpg" alt="qr-code-storymap-islands" style="width:200px;" />
 
