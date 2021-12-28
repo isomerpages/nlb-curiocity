@@ -4,13 +4,6 @@ permalink: /singapore-visualised/digital-stories/bb-books
 description: ""
 third_nav_title: Digital Stories
 ---
-
-
-
-
-
-
-
 ### **Schools of Bras Basah**
 
 The close proximity of Bras Basah to the town centre and various ethnic enclaves of Singapore made it an ideal location for schools during the colonial period. Started by town planners, missionaries and philanthropists, these early schools provided local children an invaluable opportunity for education regardless of gender, race and religion. Here is a selection of those schools.
@@ -260,4 +253,4 @@ Though the old National Library was demolished in 2004, it will live on forever 
 
 While the photos and memories above might provide insight into how Bras Basah thrived as a place for books and knowledge, this becomes even clearer when we plot some of these places on a map. See the story map below to see what we mean.
 
-[![Alt text for image on Isomer site](/images/schools-storymap.jpg)](https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-places-of-knowledge/index.html){:target="_blank"}
+[![Alt text for image on Isomer site](/images/schools-storymap.jpg)](https://go.gov.sg/3korqg){:target="_blank"}
