@@ -5,11 +5,11 @@ date: 2021-12-15
 layout: post
 description: ""
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-kallang-past.png)](https://nlb.geoicon.com/spatialdiscovery/storymaps/historic-kallang/index.html)
+[![Alt text for image on Isomer site](/images/storymap-image-kallang-past.png)](https://go.gov.sg/uoxox8)
 
 Kallang is not only the home to Kallang River which is the longest river in Singapore, but also the district where many historic landmarks including the former National Stadium, the Kallang Gasworks and the Kallang Airport were located. Learn where these landmarks were located and their history in this story map.
 
-View the story map in [full screen](https://nlb.geoicon.com/spatialdiscovery/storymaps/historic-kallang/index.html){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/uoxox8){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-kallang-historic.jpg" alt="qr-code-storymap-kallang-historic" style="width:200px;" />
 
