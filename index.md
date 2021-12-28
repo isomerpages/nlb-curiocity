@@ -48,7 +48,7 @@ sections:
       description: Trace the history of the bridges spanning the Singapore River that
         have ties to the colonial period.
       button: View the story map
-      url: https://go.gov.sg/curiocity-tahsgriver
+      url: /resource-room/story-maps/bridges-singapore-river
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
