@@ -46,7 +46,7 @@ ___
 ![Alt text for image on Isomer site](/images/encoreinthecity.jpg)
 
 #### **Encore in the City**
-**3 January – 3 February 2022**
+**3 January – 3 February 2022** (closed on 1 & 2 February)
 <br>**The Plaza, National Library Building**
 
 **About the showcase**
@@ -67,7 +67,7 @@ ___
 ![Alt text for image on Isomer site](/images/psychiccinema2065.jpg)
 
 #### **Psychic Cinema 2065**
-**14 January – 3 February 2022**
+**14 January – 3 February 2022** (closed on 1 & 2 February)
 <br>**The Plaza, National Library Building**
 
 **About the installation**
