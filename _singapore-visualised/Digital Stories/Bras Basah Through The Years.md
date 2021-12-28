@@ -27,7 +27,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <a href="/singapore-visualised/digital-stories/bb-early"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-			<a href="https://nlb.geoicon.com/spatialdiscovery/storymaps/bras-basah-the-complete-story-map/index.html"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
+			<a href="https://go.gov.sg/vigaqf"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
