@@ -4,37 +4,39 @@ permalink: /story-maps/heartland
 ---
 'Heartland' refers to areas beyond the city centre, outside of the Central Area. Populated mostly by public housing, they are self-sufficient housing estates completed with amenities ranging from schools, shops, markets, cinemas, stadiums, shopping malls and places of worship. Beyond their functionalities, these housing estates are also rich in social memories thus allowing us obtain an invaluable part of Singapore history less seen in the mainstream historical narrative.
 
-|**<font size="5">Ang Mo Kio</font>**| 
-| -------- | 
-| [![Ang Mo Kio Story Map](/images/storymap-image-ang-mo-kio.png)](/resource-room/story-maps/ang-mo-kio) | 
+Learn more about the housing estates in our heartland through the story maps below.
 
+--------
 
-|**<font size="5">Jurong</font>**| 
-| -------- | 
-| [![Jurong Story Map](/images/storymap-image-jurong.png)](/resource-room/story-maps/jurong) | 
+[![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)](/resource-room/story-maps/ang-mo-kio)
 
+[![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
-|**<font size="5">Punggol</font>**| 
-| -------- |
-| [![Historical Punggol Story Map](/images/storymap-image-punggol.jpg)](/resource-room/story-maps/punggol) | 
+[![Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
 
-|**<font size="5">Queenstown</font>**| 
-| -------- |
-| [![Queenstown Story Map](/images/storymap-image-queenstown.JPG)](/resource-room/story-maps/queenstown-first-satellite-town) | 
+[![Queenstown Story Map](/images/storymap-image-queenstown.png)](/resource-room/story-maps/queenstown)
 
-|**<font size="5">Tampines</font>**| 
-| -------- | 
-|[![Tampines Story Map](/images/storymap-image-tampines.png)](/resource-room/story-maps/tampines) |
+[![Tampines Story Map](/images/storymap-image-tampines.jpg)](/resource-room/story-maps/tampines)
 
-|**<font size="5">Tiong Bahru</font>**| 
-| -------- | 
-| [![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru.png)](/resource-room/story-maps/tiong-bahru) | 
+[![Tiong Bahru Story Map](/images/storymap-image-tiong-bahru-1.png)](/resource-room/story-maps/tiong-bahru)
 
-|**<font size="5">Toa Payoh</font>**| 
-| -------- |
-| [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.JPG)](/resource-room/story-maps/toa-payoh-second-satellite-town) | 
+[![Toa Payoh Story Map](/images/storymap-image-toa-payoh.png)](/resource-room/story-maps/toa-payoh)
 
-|**<font size="5">Yishun</font>**| 
-| -------- | 
-| [![Yishun Story Map](/images/storymap-image-yishun.png)](/resource-room/story-maps/yishun) | 
+[![Yishun Story Map](/images/storymap-image-yishun.jpg)](/resource-room/story-maps/yishun)
 
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Ang Mo Kio photo by Chuttersnap [CC BY-4.0]
+<br>2. Jurong photo by Groyn88 [CC BY-SA 3.0]
+<br>3. Punggol photo by Deoma12 [CC BY-SA 4.0]
+<br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
+<br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
+<br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
+<br>7. Toa Payoh photo by Bob T [CC BY-SA 4.0]
+<br>8. Yishun photo by KTPH [CC BY-SA 4.0]
+</span>
+	
+</details>

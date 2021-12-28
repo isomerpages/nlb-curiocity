@@ -1,4 +1,4 @@
-logo: /images/logo-curiocity.png
+logo: /images/logo-curiocity-new-1.png
 links:
   - title: Story Maps
     url: /story-maps/explore
@@ -14,10 +14,17 @@ links:
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
+      - title: Digital Stories
+        url: /singapore-visualised/digital-stories/bb-intro
       - title: VR Tours
         url: /singapore-visualised/vr-tours
       - title: Before & After
         url: /singapore-visualised/before-and-after
+  - title: Events
+    url: /events/overview
+    sublinks:
+      - title: Curiocity Showcase
+        url: /events/curiocity-showcase-2022
   - title: Research Resources
     url: /research-resources/
   - title: About Us

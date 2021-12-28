@@ -1,18 +1,15 @@
 ---
-title: 'Raffles Place'
+title: Raffles Place
 permalink: /resource-room/vr-tours/raffles-place
 date: 2020-04-01T00:00:00.000Z
-
 ---
-
-
-<img src="/images/vr-tour-image-raffles-place.png" alt="vr-tour-image-raffles-place"/>
+[![Alt text for image on Isomer site](/images/vr-tour-image-raffles-place.png)](https://go.gov.sg/pmoaaj)
 
 As Singapore’s oldest commercial district, Raffles Place has witnessed some of the biggest changes on the island. Known as Commercial Square until 1858, Raffles Place was demarcated by Sir Stamford Raffles as a space for commercial activities in 1828. Since then, this piece of land has evolved from a swampland to become the commercial heart of Singapore.
 
 Embark on this VR tour on Raffles Place to learn about its history.
 
-View this VR tour in [full screen](https://roundme.com/tour/703159/view/2215722/){:target="_blank"} or on your mobile device by scanning the QR code below.
+View this VR tour in [full screen](https://go.gov.sg/pmoaaj){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-vr-raffles-place.png" alt="qr-code-vr-raffles-place" style="width:200px;" />
 

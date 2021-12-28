@@ -6,11 +6,22 @@ The green and blue spaces in Singapore take many forms. They range from  from bi
 
 In Curiocity, we have put up the following story maps to join the effort to bring our nature spaces and waterbodies closer to you.
 
-|**<font size="5">Our Nature Spaces</font>**| 
-| -------- | 
-| [![First-Nature-Reserves Story Map](/images/storymap-image-first-nature-reserves.PNG)](/resource-room/story-maps//resource-room/story-maps/nature-reserves-first) | 
-| [![nature-reserves-today Story Map](/images/storymap-image-nature-reserves-areas-today.JPG)](/resource-room/story-maps//resource-room/story-maps/nature-reserves-areas) | 
+______
 
-|**<font size="5">Our Islands</font>**| 
-| -------- | 
-| [![Islands Story Map](/images/storymap-image-islands-paradise.JPG)](/resource-room/story-maps//resource-room/story-maps/islands-paradise) | 
+[![First-Nature-Reserves Story Map](/images/storymap-image-first-reserves.png)](/resource-room/story-maps/nature-reserves-first) 
+
+[![nature-reserves-today Story Map](/images/storymap-image-our-nature-reserves.png)](/resource-room/story-maps/nature-reserves-areas)
+
+[![Islands Story Map](/images/storymap-image-islands-singapore.png)](/resource-room/story-maps/islands-singapore)
+
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. First nature reserves banner photo by Erwin Soo [CC BY-SA 2.0]
+<br>2. Our nature reserves and areas banner photo by travel oriented [CC BY-SA 2.0]
+<br>3. Islands of Singapore banner photo by Ria Tan via Flickr
+</span>
+	
+</details>
