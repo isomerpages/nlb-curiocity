@@ -5,8 +5,6 @@ date: 2021-12-30
 layout: post
 description: ""
 ---
-
-
 ### **Early Bras Basah In Maps**
 
 Bras Basah is one of the oldest districts in Singapore. Situated within the European part of Stamford Raffles’s 1822 plan for the town of Singapore (also known as the Raffles Town Plan), it served as the suburb just outside of Commercial Square (now known as Raffles Place). Over the next two centuries, Bras Basah would flourish: schools were established, religious buildings and some of the finest colonial structures in Singapore were constructed.
