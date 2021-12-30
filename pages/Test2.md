@@ -1,7 +1,8 @@
 ---
-title: Bras Basah In Early Maps, Paintings and Postcards
-permalink: /singapore-visualised/digital-stories/bb-early
-third_nav_title: Digital Stories
+title: Test2
+permalink: /test2
+date: 2021-12-30
+layout: post
 description: ""
 ---
 ### **Early Bras Basah In Maps**
@@ -11,7 +12,29 @@ Bras Basah is one of the oldest districts in Singapore. Situated within the Euro
 ---
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <mark><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">HERE</span></mark> to read below Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span>
+	
+</details>
+
+---
+
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style="text-decoration:underline">HERE</span> to reveal below Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span>
+	
+</details>
+
+---
+
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style="font-weight: 800; text-decoration:underline; color:#4372d6">HERE</span> to reveal below Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
 <br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span>
 	
@@ -35,7 +58,7 @@ The development of Bras Basah during its early days is recorded in the Maps Coll
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why was “Bras Bassa” relabelled “Bras Basah” in the maps of Singapore from the 1890s? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below an explanation from this 1899 issue of <span style="font-style: italic;">The Straits Times</span>. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why was “Bras Bassa” relabelled “Bras Basah” in the maps of Singapore from the 1890s? Click or tap here to find out more from this 1899 issue of <span style="font-style: italic;">The Straits Times</span>. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51" target="_blank">NewspaperSG</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The new enamelled street signs being put up by the Municipality are blue on white, instead of the old white on blue...The spelling seems to have received some attention, the "Bras Bassa Road" becomes "Bras Basah Road". The latter gives some indication of the meaning of the name and send thoughts back to the padi fields that at one time occupied the valley stretching from Fort Canning eastward."</span>
 	
@@ -63,7 +86,7 @@ During the 19th century, much of Singapore’s early growth and progress, includ
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before the advent of photography, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Among the many talented painters, the one who stood out the most is John Turnbull Thomson. His paintings are said to have captured much of Singapore’s built landscape in the mid-1840s and its cultural diversity. But who is he? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal the answer below. (Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_818_2005-01-22.html" target="_blank">Infopedia</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before the advent of photography, painting was one of the few ways that the British public could experience its overseas Empire including Singapore. Among the many talented painters, the one who stood out the most is John Turnbull Thomson. His paintings are said to have captured much of Singapore’s built landscape in the mid-1840s and its cultural diversity. But who is he? Click or tap here to find out.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">John Turnbull Thomson was the Government Surveyor of the Straits Settlements from 1841 to 1853. He made a number of important contributions during his 12 years in Singapore, including the creation of maps of early Singapore, as well as the design and construction of several buildings and other public infrastructure on the island. A self-taught artist and prolific writer, Thomson’s collection of paintings, books and articles now serve as invaluable records of the architecture and life of early Singapore.</span>
 	
@@ -91,7 +114,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap here to read about the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
 	
@@ -104,3 +127,5 @@ _____
 The history of Bras Basah and its vicinity can also be told through the places of worship that can be found in the district. Click the story map below to explore some of these places.
 
 [![Alt text for image on Isomer site](/images/bb-storymap-places-worship.jpg)](https://go.gov.sg/zkctni){:target="_blank"}
+
+<p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
