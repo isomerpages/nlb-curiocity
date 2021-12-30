@@ -26,7 +26,7 @@ Located at 2 Handy Road, Cathay Building originally comprised the current Cathay
 __________
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these schools were still located in Bras Basah. Click or tap here to read how Michael Lim, a former student from St Jospeh's Institution, remembered those days. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these schools were still located in Bras Basah. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read below how Michael Lim, a former student from St Jospeh's Institution, remembered those days. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Whenever the weather was hot, we would skip school and sneak into Cathay, which was one of the few places in town with air-conditioning…You can tell who went to the movies by the ice-cream stains on their shirts. Our teachers used to catch us that way. Actually, they themselves snuck off to the movies in the afternoons. I remember seeing a couple of them in the back row once. Maybe they were there to bust us."</span>
 	
@@ -43,7 +43,7 @@ The Cathay Building was such an iconic structure that it was featured in many hi
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Who is Michael Rogge? And why he has footages of old Singapore? Click or tap here to find out.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Who is Michael Rogge? And why he has footages of old Singapore? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out below.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Born IJsbrand Cornelius Rogge, Dutchman Michael Rogge has had a passion for photography since young. He took up residence in Hong Kong from 1949 to 1954 and captured the city’s scenery on film. During his time in the East Asia, he also travelled to other places including Japan, Malaya and Singapore. Through these journeys, he brought his camera along and recorded what he saw. Today, he has made them available on YouTube thus providing us the opportunity to experience how these places were like more than 50 years ago.</span>
 	
