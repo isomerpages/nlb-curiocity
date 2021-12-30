@@ -31,6 +31,17 @@ Bras Basah is one of the oldest districts in Singapore. Situated within the Euro
 
 ---
 
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style="text-decoration:underline; color:gray">HERE</span> to read Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span>
+	
+</details>
+
+---
+
 The development of Bras Basah during its early days is recorded in the Maps Collection at the National Archives of Singapore. Witness its progress by scrolling through some of the maps below. You can also compare the changes by clicking on past maps and overlap them with the present one using our [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
 |   | 
