@@ -55,6 +55,15 @@ ___
 **About the collective**
 <br>[The Merry Men Works](https://tmmw.sg/){:target="_blank"} is an experiential studio that designs and builds experiences that evoke a sense of delight.
 
+**Behind the work**
+<br>With The Merry Men Works’ office being located in the Bras Basah Bugis district, we pass by the landmarks in this showcase almost weekly. However, we have only experienced them in their present forms.
+
+Encountering materials in the National Library’s collection such as Bonny Tan’s *[Living It Up at the Capitol](https://biblioasia.nlb.gov.sg/files/pdf/vol-13/v13-issue4_Capitol.pdf){:target="_blank"}* and Lee Meiyu’s  *[Bugis Street: From Sleazy to Sanitised](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bugis){:target="_blank"}* made us see the Bras Basah district in a new light. 
+From a Capitol Theatre where affluent European patrons showed up in hats and coats to a Bugis where people partied until dawn, we saw each landmark through the lens of their past lives. 
+
+Inspired by how our entertainment culture connects us across space and time, we wanted this installation to be a singular and seamless structure. Through twists and turns, timeless spaces have been carved out, allowing old entertainment icons return to make a statement on entertainment culture today. Details within each space, such as the Art Deco touches of the Cathay building and Capitol Theatre as well as the signs at Rex Cinema and Odeon Cinema, present the essence of each landmark. These are based on images from the National Library’s [PictureSG](https://eresources.nlb.gov.sg/pictures){:target="_blank"}. Archival images from PictureSG also provide visitors with scenes from the past.
+
+
 **Find out more**
 <br>Learn more about the history of entertainment spots in Bras Basah through [this](/singapore-visualised/digital-stories/bb-cinemas){:target="_blank"} **showcase** and [this](https://reference.nlb.gov.sg/guides/singapore/places/entertainment-bras-basah ){:target="_blank"} **resource guide**.
 
