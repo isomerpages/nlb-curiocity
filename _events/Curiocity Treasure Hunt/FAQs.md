@@ -10,8 +10,8 @@ third_nav_title: Curiocity Treasure Hunt
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Yes, we welcome your entries for each and every hunt. However, do note that you are only allowed to submit only ONE answer, which will be tagged to your <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary" target="_blank">myLibrary</a> username.</span>
 	
 </details>
-<br>
 
+<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q2) Do I need to run all over Singapore to look for clues?</span></summary>
 <br>
@@ -19,9 +19,21 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q3) If I submit my answer on Saturday or Sunday, but forgot to borrow NLB books or ebooks, will I be disqualified?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Yes. Rightfully, you need to borrow 4 books to qualify for the email clues sent to all registered participants. Even if you have somehow secured a clue from a friend or from the Internet, you will still need to borrow 4 NLB books or ebooks in order to be eligible as a winner. </span>
+	
+</details>
 
-Q3) If I submit my answer on Saturday or Sunday, but forgot to borrow NLB books or ebooks, will I be disqualified?
-A3) Yes. Rightfully, you need to borrow 4 books to qualify for the email clues sent to all registered participants. Even if you have somehow secured a clue from a friend or from the Internet, you will still need to borrow 4 NLB books or ebooks in order to be eligible as a winner.   
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q4) If I submit my answer on Saturday or Sunday, but forgot to borrow NLB books or ebooks, will I be disqualified?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Yes. Rightfully, you need to borrow 4 books to qualify for the email clues sent to all registered participants. Even if you have somehow secured a clue from a friend or from the Internet, you will still need to borrow 4 NLB books or ebooks in order to be eligible as a winner. </span>
+	
+</details>
 
 Q4) Do I need to be knowledgeable in Singapore History / Archaeology to be able to win?
 A4) No. While possessing such knowledge may be advantageous in some cases, we have designed the weekly Hunts to be played by anyone aged 13 and above. (You did study Singapore History back in your school days, didn’t you?)
