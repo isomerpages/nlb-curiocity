@@ -57,7 +57,7 @@ third_nav_title: Curiocity Treasure Hunt
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q8) Can you split the prizes evenly between me and my friends? We worked on the clues together.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">No. We can only issue the prizes (vouchers) to the winners for each week, based on their myLibrary usernames.</span>
-	
+<br>	
 </details>
 
 <details>
