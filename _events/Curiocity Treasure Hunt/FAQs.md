@@ -11,7 +11,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q2) Do I need to run all over Singapore to look for clues?</span></summary>
 <br>
@@ -19,7 +18,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q3) If I submit my answer on Saturday or Sunday, but forgot to borrow NLB books or ebooks, will I be disqualified?</span></summary>
 <br>
@@ -27,7 +25,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q4) Do I need to be knowledgeable in Singapore History / Archaeology to be able to win?</span></summary>
 <br>
@@ -35,7 +32,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q5) Can all the answers be found on the Internet?</span></summary>
 <br>
@@ -43,7 +39,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q6) What kind of vouchers are you giving away as prizes?</span></summary>
 <br>
@@ -51,7 +46,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q7) Can I exchange the vouchers for cash instead?</span></summary>
 <br>
@@ -59,7 +53,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q8) Can you split the prizes evenly between me and my friends? We worked on the clues together.</span></summary>
 <br>
@@ -67,7 +60,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q9) Can I use my family members’ or friends’ myLibrary IDs to participate? They are not keen but gave me permission to do so. </span></summary>
 <br>
@@ -75,7 +67,6 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q10) Are the weekly Hunts connected? Do I need to solve Hunts 1 and/or 2  in order to solve Hunt 3?</span></summary>
 <br>
