@@ -35,8 +35,13 @@ third_nav_title: Curiocity Treasure Hunt
 	
 </details>
 
-Q4) Do I need to be knowledgeable in Singapore History / Archaeology to be able to win?
-A4) No. While possessing such knowledge may be advantageous in some cases, we have designed the weekly Hunts to be played by anyone aged 13 and above. (You did study Singapore History back in your school days, didn’t you?)
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q4) Can all the answers be found on the Internet?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">No. Otherwise, it wouldn’t be much of a challenge, would it? Some clues may require you to explore the designated locations to solve them.</span>
+	
+</details>
 
 Q5) Can all the answers be found on the Internet?
 A5) No. Otherwise, it wouldn’t be much of a challenge, would it? Some clues may require you to explore the designated locations to solve them.
