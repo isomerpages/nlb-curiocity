@@ -37,26 +37,48 @@ third_nav_title: Curiocity Treasure Hunt
 
 <br>
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q4) Can all the answers be found on the Internet?</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q5) Can all the answers be found on the Internet?</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">No. Otherwise, it wouldn’t be much of a challenge, would it? Some clues may require you to explore the designated locations to solve them.</span>
 	
 </details>
 
-Q5) Can all the answers be found on the Internet?
-A5) No. Otherwise, it wouldn’t be much of a challenge, would it? Some clues may require you to explore the designated locations to solve them.
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q6) What kind of vouchers are you giving away as prizes?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Shopping and Book vouchers.</span>
+	
+</details>
 
-Q6) What kind of vouchers are you giving away as prizes?
-A6) Shopping and Book vouchers.
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q7) Can I exchange the vouchers for cash instead?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Sorry, but that would not be possible. </span>
+	
+</details>
 
-Q7) Can I exchange the vouchers for cash instead?
-A7) Sorry, but that would not be possible. 
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q8) Can you split the prizes evenly between me and my friends? We worked on the clues together.</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">No. We can only issue the prizes (vouchers) to the winners for each week, based on their myLibrary usernames.</span>
+	
+</details>
 
-Q8) Can you split the prizes evenly between me and my friends? We worked on the clues together.
-A8) No. We can only issue the prizes (vouchers) to the winners for each week, based on their myLibrary usernames.
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q9) Can I use my family members’ or friends’ myLibrary IDs to participate? They are not keen but gave me permission to do so. </span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Sorry, but you should only use your own myLibrary username. You may wish to encourage them to participate using their own myLibrary usernames instead.</span>
+	
+</details>
 
-Q9) Can I use my family members’ or friends’ myLibrary IDs to participate? They are not keen but gave me permission to do so. 
-A9) Sorry, but you should only use your own myLibrary username. You may wish to encourage them to participate using their own myLibrary usernames instead. 
-
-Q10) Are the weekly Hunts connected? Do I need to solve Hunts 1 and/or 2  in order to solve Hunt 3?
-A10) No, each weekly Hunt is standalone, and is not connected to other Hunts.
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q10) Are the weekly Hunts connected? Do I need to solve Hunts 1 and/or 2  in order to solve Hunt 3?</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">No, each weekly Hunt is standalone, and is not connected to other Hunts.</span>
+	
+</details>
