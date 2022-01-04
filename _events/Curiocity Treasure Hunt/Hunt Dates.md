@@ -20,4 +20,4 @@ Keep track of our hunt dates so you do not miss out on the clues and prizes:
 * **28 Mar 2022 0000hrs to 3 Apr 2022 2359hrs**
 * **4 Apr 2022 0000hrs to 10 Apr 2022 2359hrs**
 
-We will be revealing the location for the first 3 hunts on 20 January. So remember to drop by here again!
+We will be revealing the location for the first **3 hunts** on **20 January 2022**. So remember to drop by here again!
