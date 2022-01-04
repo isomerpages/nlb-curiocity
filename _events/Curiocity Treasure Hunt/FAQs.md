@@ -13,7 +13,7 @@ third_nav_title: Curiocity Treasure Hunt
 
 <br>
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q1) Am I allowed to participate in every weekly Hunt?</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000000">Q2) Do I need to run all over Singapore to look for clues?</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:normal">Yes, we welcome your entries for each and every hunt. However, do note that you are only allowed to submit only ONE answer, which will be tagged to your myLibrary username.</span>
 	
