@@ -21,3 +21,10 @@ Keep track of our hunt dates so you do not miss out on the clues and prizes:
 * **4 Apr 2022 0000hrs to 10 Apr 2022 2359hrs**
 
 We will be revealing the location for the first **3 hunts** on **20 January 2022**. So remember to drop by here again!
+
+
+
+| <span class="font=strong;">Hunt 1</span> |
+| -------- |
+| <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span> <div style="font-size: 100%; line-height: 150%; padding-left: 2.3rem;">24 January 2022 (0000hrs) to 30 January 2022 (2259 hrs)</div><span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span> <div style="font-size: 100%; line-height: 150%; padding-left: 2.3rem;">The Civic District</div>|
+
