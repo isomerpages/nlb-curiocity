@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-howto.jpg
 ---
-
 **Here is what happens during each weekly hunt:**
 
 1. Borrow at least 4 NLB books or ebooks via our NLB Mobile App.
@@ -15,4 +14,16 @@ image: /images/sgth-howto.jpg
 5. Solve the clues using our Curiocity resources. Think you got all the answers? Submit them **HERE** and stand a chance to win attractive prizes. Remember to submit them before the closing date for that week.
 6. Every week, new hunts will begin and there will be new clues to be solved, which only means there are more prizes to be won!
 
-![Alt text for image on Isomer site](/images/sgth-howto.jpg)
+
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<img src="/images/sgth-howto.jpg" alt="how to">
+</div>
+    <div class="col is-half-desktop is-half-tablet">
+		
+</div>
+
+</div>    
+</div>	
+</div>
