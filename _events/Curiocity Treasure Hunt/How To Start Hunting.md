@@ -23,4 +23,4 @@ image: /images/sgth-howto.jpg
     <div class="col is-half-desktop is-half-tablet">
 </div>
 </div>    
-</div>	
+</div>
