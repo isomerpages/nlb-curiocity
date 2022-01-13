@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-prizes.jpg
 ---
-
 Each week, the first submission with all correct answers will be selected as the winner for the Grand Prize:
 
 * **1 x Grand Prize (S$1,000 in vouchers)**
@@ -23,4 +22,11 @@ Winners must meet the following conditions:
 * Winners must be contactable.
 * No sharing of points and books borrowed.
 
-![Alt text for image on Isomer site](/images/sgth-prizes.jpg)
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<img src="/images/sgth-prizes.jpg" alt="answers">
+</div>
+	<div class="col is-half-desktop is-half-tablet"></div>
+</div>    
+</div>
