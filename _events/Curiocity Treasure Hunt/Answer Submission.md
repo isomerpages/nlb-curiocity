@@ -5,7 +5,15 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-answers.jpg
 ---
+We will activate the answer link very soon.
+Watch this space!
 
-Submit your answer for this week’s Hunt **HERE** at any time of the week. Remember to submit before the closing date for each week’s hunt.
 
-![Alt text for image on Isomer site](/images/sgth-answers.jpg)
+<div>
+<div class="row is-multiline">
+    <div class="col is-half-desktop is-half-tablet">
+<img src="/images/sgth-answers.jpg" alt="answers">
+</div>
+	<div class="col is-half-desktop is-half-tablet"></div>
+</div>    
+</div>
