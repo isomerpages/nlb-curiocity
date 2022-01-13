@@ -23,3 +23,4 @@ Keep track of our hunt dates so you do not miss out on the clues and prizes:
 * **28 Mar 2022 0000hrs to 3 Apr 2022 2359hrs**
 * **4 Apr 2022 0000hrs to 10 Apr 2022 2359hrs**
 
+![Alt text for image on Isomer site](/images/kampongglam.jpg)
