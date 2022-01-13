@@ -20,3 +20,5 @@ Winners must meet the following conditions:
 * Has borrowed at least 4 NLB books/ebooks between 1 Dec 2022 to 28 Mar 2022.
 * Winners must be contactable.
 * No sharing of points and books borrowed.
+
+![Alt text for image on Isomer site](/images/sgth-prizes.jpg)
