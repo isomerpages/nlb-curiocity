@@ -20,8 +20,6 @@ image: /images/sgth-howto.jpg
     <div class="col is-half-desktop is-half-tablet">
 <img src="/images/sgth-howto.jpg" alt="how to">
 </div>
-	
-    <div class="col is-half-desktop is-half-tablet"></div>
-
-	</div>    
+	<div class="col is-half-desktop is-half-tablet"></div>
+</div>    
 </div>
