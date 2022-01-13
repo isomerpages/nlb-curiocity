@@ -15,7 +15,7 @@ You may wish to refer to the following NLB eResources to help you solve the week
 <div>
 <div class="row is-multiline">
     <div class="col is-half-desktop is-half-tablet">
-<img src="/images/sgth-resources.jpg" alt="resources">
+<img src="/images/sgth-resources2.jpg" alt="resources">
 </div>
 	<div class="col is-half-desktop is-half-tablet"></div>
 </div>    
