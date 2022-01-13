@@ -12,3 +12,5 @@ third_nav_title: Curiocity Treasure Hunt
 4. Every Wednesday: There will be an additional special clue dropped on our social media platforms. Do check National Library's [Instagram](https://www.instagram.com/NationalLibrarysg){:target="_blank"}  and [Facebook](https://www.facebook.com/NationalLibrarySG){:target="_blank"}  accounts for the additional clue. Pro Tip: Subscribe to our social media pages so you can get alerts and be the first to receive the special clue!
 5. Solve the clues using our Curiocity resources. Think you got all the answers? Submit them **HERE** and stand a chance to win attractive prizes. Remember to submit them before the closing date for that week.
 6. Every week, new hunts will begin and there will be new clues to be solved, which only means there are more prizes to be won!
+
+![Alt text for image on Isomer site](/images/sgth-howto.jpg)
