@@ -21,9 +21,6 @@ image: /images/sgth-howto.jpg
 <img src="/images/sgth-howto.jpg" alt="how to">
 </div>
     <div class="col is-half-desktop is-half-tablet">
-		
 </div>
-
 </div>    
 </div>	
-</div>
