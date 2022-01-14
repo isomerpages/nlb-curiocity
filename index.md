@@ -43,6 +43,15 @@ sections:
       alt: Places & Perspectives
       button: Start Exploring
   - infopic:
+      title: Curiocity Treasure Hunt
+      subtitle: Event
+      description: "How well do you know Singapore and its history? Pit your knowledge
+        against others in our Treasure Hunt! "
+      button: Join The Hunt
+      url: /events/curiocity-treasure-hunt/introduction
+      image: /images/treasure-hunt-infopic-banner.jpg
+      alt: Image alt text
+  - infopic:
       title: Heritage Bridges of Singapore River
       subtitle: Story Map
       description: Trace the history of the bridges spanning the Singapore River that
