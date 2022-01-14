@@ -68,5 +68,14 @@ sections:
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
+  - infopic:
+      title: Curiocity Treasure Hunt
+      subtitle: Event
+      description: "How well do you know Singapore and its history? Pit your knowledge
+        against others in our Treasure Hunt! "
+      button: START THE HUNT
+      url: /curiocity-treasure-hunt/introduction
+      image: /images/treasure-hunt-infopic-banner.jpg
+      alt: Image alt text
 notification: ""
 ---
