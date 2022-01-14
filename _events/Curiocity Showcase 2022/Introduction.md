@@ -107,8 +107,8 @@ There is much to discover in Bras Basah. To gain fresh insight and new perspecti
 **Is Bugis the Original Seedy Underbelly of Singapore?**
 <br>Curious about Bugis Street? Join our librarians in this episode of The Library Report to find out the history of olden-day Bugis and its rowdy and salacious reputation as the hottest place for entertainment, legal and illegal in Singapore.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7u8uNHRJ1HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7u8uNHRJ1HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ________
 
 #### **CIVIC DISTRICT STORY MAP**
