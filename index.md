@@ -73,7 +73,7 @@ sections:
       subtitle: Event
       description: "How well do you know Singapore and its history? Pit your knowledge
         against others in our Treasure Hunt! "
-      button: START THE HUNT
+      button: Start the Hunt
       url: /curiocity-treasure-hunt/introduction
       image: /images/treasure-hunt-infopic-banner.jpg
       alt: Image alt text
