@@ -10,5 +10,5 @@ description: ""
 
 | [**<font size=5> Curiocity Treasure Hunt </font>**](/events/curiocity-treasure-hunt/introduction){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/treasure-hunt-events-banner.jpg" alt="central-area" style="width:650px" />](/events/curiocity-treasure-hunt/introduction)   | How well do you know about Singapore? Pit your knowledge against others in this Treasure Hunt! If you are ready, click [here](/events/curiocity-treasure-hunt/introduction){:target="_blank"} to join the hunt and win great prizes!
+| [<img src="/images/treasure-hunt-events-banner.jpg" alt="central-area" style="width:650px" />](/events/curiocity-treasure-hunt/introduction)   | How well do you know about Singapore? Pit your knowledge against others in this Treasure Hunt! If you are ready, click [here](/events/curiocity-treasure-hunt/introduction){:target="_blank"} to join the hunt and win great prizes.
 |
