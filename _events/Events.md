@@ -10,5 +10,5 @@ description: ""
 
 | [**<font size=5> Curiocity Treasure Hunt </font>**](/events/curiocity-treasure-hunt/introduction){:target="_blank"}  |  | 
 | -------- | -------- | 
-| ![SGTH-banner](/images/treasurehuntbanner.jpg)  | Do you want to treasure hunt and learn about the history of places in Singapore at the same time? If you find this prospect interesting, then remember to check out this space in late January 2022.
+| [<img src="/images/treasurehuntbanner.jpg" alt="central-area" style="width:650px" />](/events/curiocity-treasure-hunt/introduction)   | Do you want to treasure hunt and learn about the history of places in Singapore at the same time? If you find this prospect interesting, then remember to check out this space in late January 2022.
 |
