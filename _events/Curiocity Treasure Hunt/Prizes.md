@@ -18,7 +18,7 @@ Winners must meet the following conditions:
 * Answers are submitted via the provided FormSG with full details (Name, HP, email)
 * All answers for that Hunt are correct.
 * Submitted myLibrary username is correct and verifiable.
-* Has borrowed at least 4 NLB books/ebooks between 1 Dec 2021 to 28 Mar 2022.
+* Has borrowed at least 4 NLB books/ebooks between 1 Dec 2021 to 10 Apr 2022.
 * Winners must be contactable.
 * No sharing of points and books borrowed.
 
