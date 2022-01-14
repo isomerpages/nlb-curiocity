@@ -11,3 +11,4 @@ Established in 1887, Raffles Hotel is an award-winning colonial-era hotel with a
 
 Click the interactive graph below to explore the building's history across time.
 
+![Alt text for image on Isomer site](/images/raffles-hotel-sample-timeline.jpg)
