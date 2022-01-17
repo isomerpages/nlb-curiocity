@@ -1,4 +1,5 @@
 collections:
   time-photographs:
     output: true
-    order: []
+    order:
+      - Raffles Hotel.md
