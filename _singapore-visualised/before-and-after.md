@@ -26,9 +26,9 @@ Click the name of the building or image to learn more about the building.
 |-------- | 
 | [<img src="/images/before-after-image-bank-of-china.png" alt="six-battery-road" style="width:500px" />](/resource-room/before-and-after/boc-maybank-tower)| 
 
-| [**<font size=5> Raffles Place MRT Station Exit A</font>**](/resource-room/before-and-after/raffles-place-mrt-station-exit-A){:target="_blank"} | 
+| [**<font size=5> Raffles Place MRT Station Exit A</font>**](/resource-room/before-and-after/raffles-place-mrt){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:500px" />](/resource-room/before-and-after/raffles-place-mrt-station)| 
+| [<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:500px" />](/resource-room/before-and-after/raffles-place-mrt)| 
 
 | [**<font size=5> UOB Plaza</font>**](/resource-room/before-and-after/uob-plaza){:target="_blank"} | 
 |-------- | 
