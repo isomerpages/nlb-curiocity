@@ -1,0 +1,5 @@
+collections:
+  time-photographs:
+    output: true
+    order:
+      - Raffles Hotel.md
