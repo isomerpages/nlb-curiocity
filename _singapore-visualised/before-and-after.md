@@ -30,9 +30,9 @@ Click the name of the building or image to learn more about the building.
 |-------- | 
 | [<img src="/images/before-after-image-raffles-place-mrt-station.png" alt="raffles-place-mrt-station-exit-A" style="width:500px" />](/resource-room/before-and-after/raffles-place-mrt-station)| 
 
-| [**<font size=5> UOB Tower</font>**](/resource-room/before-and-after/uob-plaza){:target="_blank"} | 
+| [**<font size=5> UOB Tower</font>**](/resource-room/before-and-after/uob-tower){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-uob-tower.png" alt="uob-tower" style="width:500px" />](/resource-room/before-and-after/uob-plaza)| 
+| [<img src="/images/before-after-image-uob-tower.png" alt="uob-tower" style="width:500px" />](/resource-room/before-and-after/uob-tower)| 
 
 | [**<font size=5>OCBC Centre</font>**](/resource-room/before-and-after/ocbc-centre){:target="_blank"} | 
 |-------- | 
