@@ -5,7 +5,7 @@ date: 2022-01-17
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/before-after-image-raffles-hotel.jpg)
+[![Alt text for image on Isomer site](/images/before-after-image-raffles-hotel.jpg)](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=001b3454-7747-11ec-abb7-b9a7ff2ee17c)
 
 For over a century, Raffles Hotel has shared Singapore’s prosperity and endured its vicissitudes, along the way becoming one of those rare places in the world where truth, legend, myth and mystery merge effortlessly together. 
 
