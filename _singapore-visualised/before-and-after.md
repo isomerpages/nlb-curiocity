@@ -37,3 +37,7 @@ Click the name of the building or image to learn more about the building.
 | [**<font size=5>OCBC Centre</font>**](/resource-room/before-and-after/ocbc-centre){:target="_blank"} | 
 |-------- | 
 | [<img src="/images/before-after-image-ocbc-centre.png" alt="ocbc-centre" style="width:500px" />](/resource-room/before-and-after/ocbc-centre)|
+
+| [**<font size=5>Raffles Hotel</font>**](/resource-room/before-and-after/raffles-hotel){:target="_blank"} | 
+|-------- | 
+| [<img src="/images/before-after-image-raffles-hotel.jpg" alt="raffles-hotel" style="width:500px" />](/resource-room/before-and-after/raffles-hotel)|
