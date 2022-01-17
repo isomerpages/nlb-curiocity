@@ -11,7 +11,7 @@ For over a century, Raffles Hotel has shared Singapore’s prosperity and endure
 
 View the juxtapose in [full screen](https://go.gov.sg/iyjja0){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-raffles-hotel.jpg" alt="qr-code-beforeafter-ocbc-centre" style="width:200px;" />
+<img src="/images/qr-code-beforeafter-raffles-hotel.png" alt="qr-code-beforeafter-ocbc-centre" style="width:200px;" />
 
 You can also click the interactive graph below to explore the building's history across time using our resources.
 
