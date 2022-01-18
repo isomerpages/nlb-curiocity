@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/kampongglam.jpg
 ---
-Hunting begins  **24th Jan 2022** at midnight. There are in total  **9** hunts; with a hunt lasting one week. Each with prizes to be won each week.
+Hunting begins  **24th Jan 2022** at midnight. There are in total  **9** hunts; with a hunt lasting one week. Each with prizes to be won.
 
 Keep track of our hunt dates so you do not miss out on the clues:
 
