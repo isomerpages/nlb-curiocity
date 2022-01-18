@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-howto.jpg
 ---
-**Here is what happens during each weekly hunt:**
+**Each weekly hunt will take place as follows:**
 
 1. Borrow at least 4 NLB books or ebooks via our NLB Mobile App.
 2. Go to the “Points & Rewards” section of the app and redeem for the Treasure Hunt clues for the week.
