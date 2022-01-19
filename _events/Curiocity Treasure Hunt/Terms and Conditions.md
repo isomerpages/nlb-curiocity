@@ -53,7 +53,7 @@ Note that points will be credited into the account within 24 hours from time of 
 
 (b)	will then receive the clues via their email account that is stated in their myLibrary account;
 
-(c)	must use the link in the email to access the quiz as well as the link provided on the Curiocity Treasure Hunt website. Note that answers are to be submitted only via these links and the provided FormSG, with complete details accurately provided. Answers are to be submitted by 23:59 of the deadline given for each round of the Competition; and
+(c)	must use the link in the email to access the quiz or the link provided on the Curiocity Treasure Hunt website. Note that answers are to be submitted only via these links and the provided FormSG, with complete details accurately provided. Answers are to be submitted by 23:59 of the deadline given for each round of the Competition; and
 
 (d)	must ensure that the myLibrary username he/she uses is correct and used for both the redemption of the clues and the corresponding submission of the answers.
 
