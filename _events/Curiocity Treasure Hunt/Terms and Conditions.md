@@ -99,6 +99,7 @@ For each round of the Competition:
 
 
 **Rights** 
+
 (a)	Check tnhe Curiocity Treasure Hunt webpage at https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/introduction for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the competition at NLB’s sole discretion.     . 
 
 (b)	Prizes are not exchangeable for other benefits or cash. 
