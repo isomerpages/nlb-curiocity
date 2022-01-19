@@ -41,7 +41,7 @@ d) For your convenience, we may also display to you data that you had previously
 
 #### **Contact Information**
 
-6. Please contact [qsm@nlb.gov.sg](qsm@nlb.gov.sg){:target=_blank} if you:
+6. Please contact [qsm@nlb.gov.sg](qsm@nlb.gov.sg){:target="_blank"} if you:
 
 a) have any enquiries or feedback on our data protection, policies and procedures; or
 
