@@ -24,8 +24,11 @@ The Curiocity Treasure Hunt will take place over 9 weeks on the following dates:
 * 28 Mar 2022 to 3 Apr 2022
 * 4 Apr 2022 to 10 Apr 2022
 
-Who can participate in the Curiocity Treasure Hunt Competition?
+
+**Who can participate in the Curiocity Treasure Hunt Competition?**
+
 The Competition is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at https://account.nlb.gov.sg/ if you do not yet have an account.  
+
 
 For clarity, individuals who are under the following library membership scheme are not allowed to participate:
 ●	DEAR Organisations;
@@ -34,14 +37,18 @@ For clarity, individuals who are under the following library membership scheme a
 
 NLB and NLB contractors involved in this Competition, as well as their immediate family members, are also not allowed to participate in this Competition.
 
-How do I participate in the Curiocity Treasure Hunt Competition?
+
+
+**How do I participate in the Curiocity Treasure Hunt Competition?**
+
 All participants:
 
 (a)	must redeem 4 points via the NLB mobile app from books borrowed between 1 Dec 2021 and 10 Apr 2022 (both dates inclusive) in order to get the clues for each round of the Competition. 
 
-	These points may be earned by borrowing either physical books (including physical magazines and audio-visual materials) or eBooks (including eMagazines and eAudiobooks borrowed via one of these websites or apps: NLB mobile app, catalogue.nlb.gov.sg, nlb.overdrive.com or Overdrive app for NLB collection only) from the NLB. 
+These points may be earned by borrowing either physical books (including physical magazines and audio-visual materials) or eBooks (including eMagazines and eAudiobooks borrowed via one of these websites or apps: NLB mobile app, catalogue.nlb.gov.sg, nlb.overdrive.com or Overdrive app for NLB collection only) from the NLB. 
 
-	Note that points will be credited into the account within 24 hours from time of borrowing (and not immediately upon borrowing);  
+Note that points will be credited into the account within 24 hours from time of borrowing (and not immediately upon borrowing);  
+
 
 (b)	will then receive the clues via their email account that is stated in their myLibrary account;
 
@@ -50,7 +57,8 @@ All participants:
 (d)	must ensure that the myLibrary username he/she uses is correct and used for both the redemption of the clues and the corresponding submission of the answers.
 
 
-How will the finalists be selected? 
+
+**How will the finalists be selected? **
 
 For each round of the Competition:
 
@@ -59,39 +67,28 @@ For each round of the Competition:
 (b)	The next 5 submissions received by NLB with all correct answers will be declared as the winners for each of the 5 Consolation Prizes
 
 
-What are the Prizes and Dates of the Competition?
+**What are the Prizes and Dates of the Competition?**
 
-Curiocity Treasure Hunt Period
-	Prize Offered
-Tranche 1
-24 Jan 2022 to 30 Jan 2022 	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
+ 
 
-31 Jan 2022 to 6 Feb 2022 	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
+| **Curiocity Treasure Hunt Period** | **Prize Offered**                                            |
+| ---------------------------------- | ------------------------------------------------------------ |
+| **Tranche 1**                      |                                                              |
+| 24 Jan 2022 to 30 Jan 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 31 Jan 2022 to 6 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 7 Feb 2022 to 13 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| **Traunch 2**                      |                                                              |
+| 21 Feb 2022 to 27 Feb 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 28 Feb 2022 to 6 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shropping vouchers worth  $200 |
+| 7 Mar 2022 to 13 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| **Tranche 3**                      |                                                              |
+| 21 Mar 2022 to 27 Mar 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 28 Mar 2022 to 3 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 4 Apr 2022 to 10 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
 
-7 Feb 2022 to 13 Feb 2022 	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
+ 
 
-Traunch 2
-21 Feb 2022 to 27 Feb 2022 	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
 
-28 Feb 2022 to 6 Mar 2022	1 winner of shopping vouchers worth $1,000 
-5 winners of shropping vouchers worth $200
-
-7 Mar 2022 to 13 Mar 2022	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
-
-Tranche 3
-21 Mar 2022 to 27 Mar 2022 	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
-
-28 Mar 2022 to 3 Apr 2022	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
-
-4 Apr 2022 to 10 Apr 2022	1 winner of shopping vouchers worth $1,000 
-5 winners of shopping vouchers worth $200
 
 
 
@@ -111,6 +108,4 @@ Rights
 
 (d)	There is no participation fee for joining the Competition. Participants agree that any costs incurred while participating in the activities of the Competition (e.g, transportation costs) is solely to be borne by the participant.
 
-(e)	Participants agree not to hold NLB responsible in any manner for any loss, damage or injury whatsoever that they may suffer resulting from participation in the Competition. 
- 
-
+(e)	Participants agree not to hold NLB responsible in any manner for any loss, damage or injury whatsoever that they may suffer resulting from participation in the Competition.
