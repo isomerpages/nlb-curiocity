@@ -75,17 +75,17 @@ For each round of the Competition:
 | **Curiocity Treasure Hunt Period** | **Prize Offered**                                            |
 | ---------------------------------- | ------------------------------------------------------------ |
 | **Tranche 1**                      |                                                              |
-| 24 Jan 2022 to 30 Jan 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| 31 Jan 2022 to 6 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| 7 Feb 2022 to 13 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 24 Jan 2022 to 30 Jan 2022         | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
+| 31 Jan 2022 to 6 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
+| 7 Feb 2022 to 13 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
 | **Tranche 2**                      |                                                              |
-| 21 Feb 2022 to 27 Feb 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| 28 Feb 2022 to 6 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shropping vouchers worth  $200 |
-| 7 Mar 2022 to 13 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 21 Feb 2022 to 27 Feb 2022         | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
+| 28 Feb 2022 to 6 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shropping vouchers worth  $200 |
+| 7 Mar 2022 to 13 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
 | **Tranche 3**                      |                                                              |
-| 21 Mar 2022 to 27 Mar 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| 28 Mar 2022 to 3 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| 4 Apr 2022 to 10 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
+| 21 Mar 2022 to 27 Mar 2022         | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
+| 28 Mar 2022 to 3 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
+| 4 Apr 2022 to 10 Apr 2022          | 1 winner of shopping vouchers worth  $1,000   <br>5 winners of shopping vouchers worth  $200 |
 
  
 
