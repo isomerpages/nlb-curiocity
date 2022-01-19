@@ -98,6 +98,7 @@ For each round of the Competition:
 (c)	Winners must personally collect their prizes from at the National Library Building (100, Victoria Street, Singapore 188064) and show proof of their full name, emails address/myLibrary username for verification purposes.
 
 
+
 **Rights** 
 
 (a)	Check tnhe Curiocity Treasure Hunt webpage at https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/introduction for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the competition at NLB’s sole discretion.     . 
