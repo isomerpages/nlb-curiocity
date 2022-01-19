@@ -89,18 +89,17 @@ For each round of the Competition:
  
 
 
+**How and when will winners be informed and collect their prizes?**
 
-
-
-How and when will winners be informed and collect their prizes?
 (a)	Winners will be contacted by email within 1 week from the end of each tranche. 
 
 (b)	Winners shall collect their prizes within 2 months from the date of the announcement, failing which their prizes will be forfeited. No appeals will be entertained. 
 
 (c)	Winners must personally collect their prizes from at the National Library Building (100, Victoria Street, Singapore 188064) and show proof of their full name, emails address/myLibrary username for verification purposes.
 
-Rights 
-(a)	Check the Curiocity Treasure Hunt webpage at https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/introduction for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the competition at NLB’s sole discretion.     . 
+
+**Rights** 
+(a)	Check tnhe Curiocity Treasure Hunt webpage at https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/introduction for updates. Unexpected circumstances may require NLB to change the rules or prizes at any time or to cancel the competition at NLB’s sole discretion.     . 
 
 (b)	Prizes are not exchangeable for other benefits or cash. 
 
