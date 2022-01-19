@@ -27,7 +27,7 @@ The Curiocity Treasure Hunt will take place over 9 weeks on the following dates:
 
 **Who can participate in the Curiocity Treasure Hunt Competition?**
 
-The Competition is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at https://account.nlb.gov.sg/ if you do not yet have an account.  
+The Competition is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/) if you do not yet have an account.  
 
 
 For clarity, individuals who are under the following library membership scheme are not allowed to participate:
