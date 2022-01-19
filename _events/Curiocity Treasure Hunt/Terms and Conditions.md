@@ -78,7 +78,7 @@ For each round of the Competition:
 | 24 Jan 2022 to 30 Jan 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
 | 31 Jan 2022 to 6 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
 | 7 Feb 2022 to 13 Feb 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
-| **Traunch 2**                      |                                                              |
+| **Tranche 2**                      |                                                              |
 | 21 Feb 2022 to 27 Feb 2022         | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
 | 28 Feb 2022 to 6 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shropping vouchers worth  $200 |
 | 7 Mar 2022 to 13 Mar 2022          | 1 winner of shopping vouchers worth  $1,000   5 winners of shopping vouchers worth  $200 |
