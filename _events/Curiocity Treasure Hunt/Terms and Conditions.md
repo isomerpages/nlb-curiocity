@@ -31,9 +31,10 @@ The Competition is open to citizens and permanent residents of Singapore who hav
 
 
 For clarity, individuals who are under the following library membership scheme are not allowed to participate:
-●	DEAR Organisations;
-●	DIYREAD@Community;
-●	Institutional Borrowers.
+
+* DEAR Organisations;
+* DIYREAD@Community;
+* Institutional Borrowers.
 
 NLB and NLB contractors involved in this Competition, as well as their immediate family members, are also not allowed to participate in this Competition.
 
