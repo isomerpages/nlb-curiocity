@@ -7,7 +7,7 @@ breadcrumb: Privacy
 
 1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
 
-#### Cookies
+#### **Cookies**
 
 2. For our digital services:
 
@@ -16,7 +16,7 @@ breadcrumb: Privacy
 b) You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the digital services. 
 
 
-#### Use of Data
+#### **Use of Data**
 
 3. If you provide us with personal data:
 
@@ -29,26 +29,26 @@ c) We may share your personal data with non-Government entities that have been a
 d) For your convenience, we may also display to you data that you had previously supplied us or other Government Agencies. This will speed up transactions and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
 
-#### Protection of Data
+#### **Protection of Data**
 
 4. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
 
 
-#### Links
+#### **Links**
 
 5. Our digital services may contain links to non-Government entity digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content, data protection and privacy practices of these other digital services and we encourage you to consult the privacy notices of these other digital services.  
 
 
-#### Contact Information
+#### **Contact Information**
 
-6. Please contact  qsm@nlb.gov.sg if you:
+6. Please contact [qsm@nlb.gov.sg](qsm@nlb.gov.sg) if you:
 
 a) have any enquiries or feedback on our data protection, policies and procedures; or
 
 b) need more information on or access to data, which you have provided directly to us in the past.
 
 
-#### Definitions
+#### **Definitions**
 
 7. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 
