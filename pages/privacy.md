@@ -37,7 +37,7 @@ breadcrumb: Privacy
 
 #### **Contact Information**
 
-6. Please contact [qsm@nlb.gov.sg](qsm@nlb.gov.sg){:target="_blank"} if you:
+6. Please contact <a target="_blank"><span style="color:#0088cc">qsm@nlb.gov.sg</span></a> if you:
 
 * have any enquiries or feedback on our data protection, policies and procedures; or
 
