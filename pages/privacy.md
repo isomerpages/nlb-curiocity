@@ -5,11 +5,11 @@ breadcrumb: Privacy
 ---
 ### **Privacy Statement**
 
-1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
+This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
 
 #### **Cookies**
 
-2. For our digital services:
+For our digital services:
 
 *  We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  
 
@@ -17,7 +17,7 @@ breadcrumb: Privacy
 
 #### **Use of Data**
 
-3. If you provide us with personal data:
+If you provide us with personal data:
 
 * We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.  
 
@@ -29,15 +29,15 @@ breadcrumb: Privacy
 
 #### **Protection of Data**
 
-4. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
+To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
 
 #### **Links**
 
-5. Our digital services may contain links to non-Government entity digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content, data protection and privacy practices of these other digital services and we encourage you to consult the privacy notices of these other digital services.  
+Our digital services may contain links to non-Government entity digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content, data protection and privacy practices of these other digital services and we encourage you to consult the privacy notices of these other digital services.  
 
 #### **Contact Information**
 
-6. Please contact <a target="_blank"><span style="color:#0088cc">qsm@nlb.gov.sg</span></a> if you:
+Please contact qsm@nlb.gov.sg if you:
 
 * have any enquiries or feedback on our data protection, policies and procedures; or
 
@@ -45,8 +45,8 @@ breadcrumb: Privacy
 
 #### **Definitions**
 
-7. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
+“Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 
-8. ”Non-Government entity” refers to a person or entity other than a Government Agency.
+”Non-Government entity” refers to a person or entity other than a Government Agency.
 
-9. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
+“Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
