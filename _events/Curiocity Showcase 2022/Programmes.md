@@ -18,6 +18,7 @@ Eager for more? Check out the [programmes](https://www.eventbrite.com/cc/curioci
 | **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/snapshots-in-time-tickets-230234005107?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
 | **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
 | **26 Jan**     | **Pastimes from the Past**   | Zoom  | 7:00pm to 8:00pm    | Click [here](https://www.eventbrite.com/e/pastimes-from-the-past-tickets-230232721267?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
+| **27 Jan**     | **Archives Invites: Dr Kristy Kang – Digital Placemaking & Public History**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/archives-invites-dr-kristy-kang-digital-placemaking-public-history-tickets-239056282777?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
 | **28 Jan**     | **Histories: Understanding Creative Placemaking**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/histories-understanding-creative-placemaking-tickets-252983840477?aff=odcleoeventsincollection&keep_tld=1){:target="blank"} to register |
 
 ##### **Workshops**
