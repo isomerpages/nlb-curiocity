@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-answers.jpg
 ---
-Submit your answers for the Kampong Glam Week 1 Hunt **[HERE](https://form.gov.sg/61ea27d5679496001473cefd){:target="_blank"}** by **30th January, 2359 hrs**!
+We will activate the answer link on 2nd February at 12pm, after the 4th and final clue has been released on National Library Singapore’s Facebook and Instagram. Submit your answers for this week by 6th February before midnight!
 
 <div>
 <div class="row is-multiline">
