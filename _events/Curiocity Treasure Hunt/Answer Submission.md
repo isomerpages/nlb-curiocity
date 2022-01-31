@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curiocity Treasure Hunt
 image: /images/sgth-answers.jpg
 ---
-We will activate the answer link on 2nd February at 12pm, after the 4th and final clue has been released on National Library Singapore’s Facebook and Instagram. Submit your answers for this week by 6th February before midnight!
+Submit your answers HERE from 2nd February at 12pm onwards once the 4th and final clue has been released on National Library Singapore’s Facebook and Instagram ! Make sure to submit them by 6th February, 23:59!
 
 <div>
 <div class="row is-multiline">
