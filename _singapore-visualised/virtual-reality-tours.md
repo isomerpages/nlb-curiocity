@@ -10,7 +10,7 @@ ______
 
 [![Battery Road VR Tour](/images/vr-tour-image-battery-road.png)](/resource-room/vr-tours/battery-road)
 
-[![Fullerton Square VR Tour](/images/vr-tour-image-fullerton.png)](/resource-room/vr-tours/fullterton-square)
+[![Fullerton Square VR Tour](/images/vr-tour-image-fullerton.png)](/resource-room/vr-tours/fullerton-square)
 
 [![Kallang Basin VR Tour](/images/vr-tour-image-kallang.png)](/resource-room/vr-tours/kallang-basin)
 
