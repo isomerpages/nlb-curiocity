@@ -7,7 +7,7 @@ image: /images/sgth-answers.jpg
 ---
 The first 3 Hunts set in Kampong Glam are now complete, and winners will be notified in due course.    
 
-The next 3 Hunts are set in **Yishun**, startting with 
+The next 3 Hunts are set in **Yishun**, starting with 
 Hunt #4,  which commenced at 00:00 on  **21 February 2022**. 
   You may wish to refer to **[this page](https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/hunt-dates)** for the rest of the Hunt dates.  
 
