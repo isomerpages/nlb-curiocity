@@ -7,7 +7,7 @@ third_nav_title: Curiocity Treasure Hunt
 ---
 Stumped by puzzles from our previous Hunts? Click on the links below to download the solutions in PDF format:
 
-*Kampong Glam*
+*KAMPONG GLAM*
 
 [ Solution to Hunt #1](https://go.gov.sg/cth-hunt1-answers)
 
