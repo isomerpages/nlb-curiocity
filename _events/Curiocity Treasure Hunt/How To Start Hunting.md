@@ -14,12 +14,5 @@ image: /images/sgth-howto.jpg
 5. Solve the clues using our Curiocity resources. Think you got all the answers? Submit them **[HERE](https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/submission){:target="_blank"}** and stand a chance to win attractive prizes. 
 6. Every week, there will be new hunts with new clues to be solved, and more prizes to be won!
 
+![How to hunt](/images/NLB_CurioCity_Infographic%20A3_04012022.jpg)
 
-<div>
-<div class="row is-multiline">
-    <div class="col is-half-desktop is-half-tablet">
-<img src="/images/sgth-howto.jpg" alt="how to">
-</div>
-	<div class="col is-half-desktop is-half-tablet"></div>
-</div>    
-</div>
