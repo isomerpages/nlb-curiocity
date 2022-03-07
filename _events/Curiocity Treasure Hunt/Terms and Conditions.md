@@ -26,18 +26,14 @@ The Curiocity Treasure Hunt will take place over 9 weeks on the following dates:
 
 
 **Who can participate in the Curiocity Treasure Hunt Competition?**
+The Competition is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at https://account.nlb.gov.sg/ if you do not yet have an account.  
 
-The Competition is open to citizens and permanent residents of Singapore who have their own NLB library membership and myLibrary account. Sign up at [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/) if you do not yet have an account.  
-
-
-For clarity, individuals who are under the following library membership scheme are not allowed to participate:
-
+Individuals who are under the following library membership scheme must not use their membership under these schemes to participate, but may participate using their personal NLB membership account:
 * DEAR Organisations;
 * DIYREAD@Community;
 * Institutional Borrowers.
 
-NLB and NLB contractors involved in this Competition, as well as their immediate family members, are also not allowed to participate in this Competition.
-
+NLB staff and NLB contractors involved in this Competition, as well as their immediate family members, are also not allowed to participate in this Competition.
 
 
 **How do I participate in the Curiocity Treasure Hunt Competition?**
@@ -96,7 +92,7 @@ For each round of the Competition:
 
 (b)	Winners shall collect their prizes within 2 months from the date of the announcement, failing which their prizes will be forfeited. No appeals will be entertained. 
 
-(c)	Winners must personally collect their prizes from at the National Library Building (100, Victoria Street, Singapore 188064) and show the winner's email notification from NLB, as well as proof of their full name, emails address/myLibrary username for verification purposes.
+(c)	Winners must personally collect their prizes from the National Library Building (100, Victoria Street, Singapore 188064) and show the winner's email notification from NLB, as well as proof of their full name, emails address/myLibrary username for verification purposes.
 
 
 
