@@ -92,7 +92,7 @@ For each round of the Competition:
 
 (b)	Winners shall collect their prizes within 2 months from the date of the announcement, failing which their prizes will be forfeited. No appeals will be entertained. 
 
-(c)	Winners must personally collect their prizes from at the National Library Building (100, Victoria Street, Singapore 188064) and show the winner's email notification from NLB, as well as proof of their full name, emails address/myLibrary username for verification purposes.
+(c)	Winners must personally collect their prizes from the National Library Building (100, Victoria Street, Singapore 188064) and show the winner's email notification from NLB, as well as proof of their full name, emails address/myLibrary username for verification purposes.
 
 
 
