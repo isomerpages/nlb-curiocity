@@ -7,7 +7,7 @@ image: /images/sgth-answers.jpg
 ---
 *The 3 Hunts set in Yishun are now complete, and winners will be notified in due course.* 
 
-For Hunt #7 set in [Punggol](https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/hunt-dates), you may submit your answers [**HERE**](https://go.gov.sg/curiocity-treasurehuntsubmission) from 23rd March at 12pm onwards once the 4th and final clue has been released on National Library Singapore’s Facebook and Instagram ! Make sure to submit them by 27th March, 23:59!
+For Hunt #8 set in [Punggol](https://curiocity.nlb.gov.sg/events/curiocity-treasure-hunt/hunt-dates), you may submit your answers [**HERE**](https://go.gov.sg/curiocity-treasurehuntsubmission) from 30th March at 12pm onwards once the 4th and final clue has been released on National Library Singapore’s Facebook and Instagram ! Make sure to submit them by 3rd April, 23:59!
 
 <div>
 <div class="row is-multiline">
