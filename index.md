@@ -33,16 +33,6 @@ sections:
       alt: Story Maps banner
       button: Start the Journey
   - infopic:
-      title: Curiocity Showcase
-      subtitle: Event
-      description: Examine the evolution of our spaces and discover our island’s
-        history through creative installations in this inaugural Curiocity
-        showcase.
-      url: /events/curiocity-showcase-2022
-      image: /images/CuriocityShowcasePPmainbanner.jpg
-      alt: Places & Perspectives
-      button: Start Exploring
-  - infopic:
       title: Curiocity Treasure Hunt
       subtitle: Event
       description: "How well do you know Singapore and its history? Pit your knowledge
