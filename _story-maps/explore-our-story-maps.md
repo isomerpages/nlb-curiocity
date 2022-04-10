@@ -2,7 +2,7 @@
 title: Explore Our Story Maps
 permalink: /story-maps/explore
 ---
-The Story Maps here tell the incredible stories that are embedded in the map collections of the National Library and National Archives of Singapore. Utilising maps, text and multimedia, they offer an interactive and engaging way to learn about the history of Singapore particularly its urban transformation.
+The Story Maps of Curiocity are immersive stories that combine text, interactive maps, digital photographs and other multimedia content. They are used to tell incredible stories, especially the urban transformation that Singapore has undergone since Independence.
 
 To help you navigate through our collection of Story Maps, we have categorised them into the following areas.
 
