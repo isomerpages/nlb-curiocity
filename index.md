@@ -41,6 +41,14 @@ sections:
       image: /images/landing-kampong-glam.png
       alt: Image alt text
   - infopic:
+      title: Raffles Place
+      subtitle: VR Tour
+      description: Embark on this VR tour to learn the history of Raffles Place.
+      button: View Tour
+      url: https://curiocity.nlb.gov.sg/resource-room/vr-tours/raffles-place
+      image: /images/banner-vr-tours-raffles-place.jpg
+      alt: Image alt text
+  - infopic:
       title: Heritage Bridges of Singapore River
       subtitle: Story Map
       description: Trace the history of the bridges spanning the Singapore River that
@@ -57,14 +65,6 @@ sections:
       button: View Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
-      alt: Image alt text
-  - infopic:
-      title: Raffles Place
-      subtitle: VR Tours
-      description: Embark on this VR tour to learn the history of Raffles Place.
-      button: View VR Tour
-      url: https://curiocity.nlb.gov.sg/resource-room/vr-tours/raffles-place
-      image: /images/banner-vr-tours-raffles-place.jpg
       alt: Image alt text
 notification: ""
 ---
