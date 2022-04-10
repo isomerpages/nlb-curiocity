@@ -58,15 +58,6 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
-      title: The Civic District
-      subtitle: Story Map
-      description: Learn the historic landmarks and spaces of the Civic District in
-        this story map.
-      button: View Story Map
-      url: /resource-room/story-maps/civic-district
-      image: /images/landing-civic-district.jpg
-      alt: Image alt text
-  - infopic:
       title: Raffles Hotel
       subtitle: Before & After
       description: Observe how Raffles Hotel have changed over time in this Before &
@@ -74,6 +65,15 @@ sections:
       button: Before & After Slider
       url: /resource-room/before-and-after/raffles-hotel
       image: /images/raffles-hotel.jpg
+      alt: Image alt text
+  - infopic:
+      title: The Civic District
+      subtitle: Story Map
+      description: Learn the historic landmarks and spaces of the Civic District in
+        this story map.
+      button: View Story Map
+      url: /resource-room/story-maps/civic-district
+      image: /images/landing-civic-district.jpg
       alt: Image alt text
 notification: ""
 ---
