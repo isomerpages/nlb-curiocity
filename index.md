@@ -44,7 +44,7 @@ sections:
       title: Raffles Place
       subtitle: VR Tour
       description: Embark on this VR tour to learn the history of Raffles Place.
-      button: View Tour
+      button: View VR Tour
       url: /resource-room/vr-tours/raffles-place
       image: /images/banner-vr-tours-raffles-place.jpg
       alt: Image alt text
