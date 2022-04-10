@@ -45,7 +45,7 @@ sections:
       subtitle: VR Tour
       description: Embark on this VR tour to learn the history of Raffles Place.
       button: View Tour
-      url: https://curiocity.nlb.gov.sg/resource-room/vr-tours/raffles-place
+      url: /resource-room/vr-tours/raffles-place
       image: /images/banner-vr-tours-raffles-place.jpg
       alt: Image alt text
   - infopic:
@@ -65,6 +65,15 @@ sections:
       button: View Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
+      alt: Image alt text
+  - infopic:
+      title: Raffles Hotel
+      subtitle: Before & After
+      description: Observe how Raffles Hotel have changed over time in this Before &
+        After slider.
+      button: Before & After Slider
+      url: /resource-room/before-and-after/raffles-hotel
+      image: /images/raffles-hotel.jpg
       alt: Image alt text
 notification: ""
 ---
