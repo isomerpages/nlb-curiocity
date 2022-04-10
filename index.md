@@ -33,13 +33,12 @@ sections:
       alt: Story Maps banner
       button: Start the Journey
   - infopic:
-      title: Curiocity Treasure Hunt
-      subtitle: Event
-      description: "How well do you know Singapore and its history? Pit your knowledge
-        against others in our Treasure Hunt! "
-      button: Join The Hunt
-      url: /events/curiocity-treasure-hunt/introduction
-      image: /images/treasure-hunt-infopic-banner.jpg
+      title: Kampong Glam
+      subtitle: Story Map
+      description: Explore the old-world charm of Kampong Glam in this story map.
+      button: View The Story Map
+      url: /resource-room/story-maps/kampong-glam
+      image: /images/landing-kampong-glam.png
       alt: Image alt text
   - infopic:
       title: Heritage Bridges of Singapore River
@@ -51,14 +50,6 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
-      title: Kampong Glam
-      subtitle: Story Map
-      description: Explore the old-world charm of Kampong Glam in this story map.
-      button: View The Story Map
-      url: /resource-room/story-maps/kampong-glam
-      image: /images/landing-kampong-glam.png
-      alt: Image alt text
-  - infopic:
       title: The Civic District
       subtitle: Story Map
       description: Learn the historic landmarks and spaces of the Civic District in
@@ -66,6 +57,14 @@ sections:
       button: View Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
+      alt: Image alt text
+  - infopic:
+      title: Raffles Place
+      subtitle: VR Tours
+      description: Embark on this VR tour to learn the history of Raffles Place.
+      button: View VR Tour
+      url: https://curiocity.nlb.gov.sg/resource-room/vr-tours/raffles-place
+      image: /images/banner-vr-tours-raffles-place.jpg
       alt: Image alt text
 notification: ""
 ---
