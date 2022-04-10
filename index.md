@@ -20,7 +20,7 @@ sections:
         - title: View our VR tours
           description: Travel back in time
           url: /singapore-visualised/vr-tours
-        - title: See Before & After images
+        - title: See Before & After Sliders
           description: Observe changes in places
           url: /singapore-visualised/before-and-after
   - infopic:
