@@ -62,7 +62,7 @@ sections:
       subtitle: Before & After
       description: Observe how Raffles Hotel have changed over time in this Before &
         After slider.
-      button: Before & After Slider
+      button: View Slider
       url: /resource-room/before-and-after/raffles-hotel
       image: /images/raffles-hotel.jpg
       alt: Image alt text
