@@ -20,7 +20,7 @@ sections:
         - title: View our VR tours
           description: Travel back in time
           url: /singapore-visualised/vr-tours
-        - title: See Before & After images
+        - title: See Before & After Sliders
           description: Observe changes in places
           url: /singapore-visualised/before-and-after
   - infopic:
@@ -33,23 +33,20 @@ sections:
       alt: Story Maps banner
       button: Start the Journey
   - infopic:
-      title: Curiocity Showcase
-      subtitle: Event
-      description: Examine the evolution of our spaces and discover our island’s
-        history through creative installations in this inaugural Curiocity
-        showcase.
-      url: /events/curiocity-showcase-2022
-      image: /images/CuriocityShowcasePPmainbanner.jpg
-      alt: Places & Perspectives
-      button: Start Exploring
+      title: Kampong Glam
+      subtitle: Story Map
+      description: Explore the old-world charm of Kampong Glam in this story map.
+      button: View The Story Map
+      url: /resource-room/story-maps/kampong-glam
+      image: /images/landing-kampong-glam.png
+      alt: Image alt text
   - infopic:
-      title: Curiocity Treasure Hunt
-      subtitle: Event
-      description: "How well do you know Singapore and its history? Pit your knowledge
-        against others in our Treasure Hunt! "
-      button: Join The Hunt
-      url: /events/curiocity-treasure-hunt/introduction
-      image: /images/treasure-hunt-infopic-banner.jpg
+      title: Raffles Place
+      subtitle: VR Tour
+      description: Embark on this VR tour to learn the history of Raffles Place.
+      button: View VR Tour
+      url: /resource-room/vr-tours/raffles-place
+      image: /images/banner-vr-tours-raffles-place.jpg
       alt: Image alt text
   - infopic:
       title: Heritage Bridges of Singapore River
@@ -61,12 +58,13 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
-      title: Kampong Glam
-      subtitle: Story Map
-      description: Explore the old-world charm of Kampong Glam in this story map.
-      button: View The Story Map
-      url: /resource-room/story-maps/kampong-glam
-      image: /images/landing-kampong-glam.png
+      title: Raffles Hotel
+      subtitle: Before & After
+      description: Observe how Raffles Hotel have changed over time in this Before &
+        After slider.
+      button: View Slider
+      url: /resource-room/before-and-after/raffles-hotel
+      image: /images/raffles-hotel.jpg
       alt: Image alt text
   - infopic:
       title: The Civic District

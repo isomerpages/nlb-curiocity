@@ -1,0 +1,5 @@
+collections:
+  sample:
+    output: true
+    order:
+      - "Fort Canning: Colonial.md"
