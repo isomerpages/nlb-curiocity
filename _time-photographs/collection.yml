@@ -2,4 +2,5 @@ collections:
   time-photographs:
     output: true
     order:
+      - National Threatre.md
       - Raffles Hotel.md
