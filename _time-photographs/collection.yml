@@ -2,5 +2,6 @@ collections:
   time-photographs:
     output: true
     order:
+      - Singapore Conference Hall.md
       - National Threatre.md
       - Raffles Hotel.md
