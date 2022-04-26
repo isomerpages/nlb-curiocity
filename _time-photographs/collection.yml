@@ -2,6 +2,7 @@ collections:
   time-photographs:
     output: true
     order:
+      - People's Park Complex.md
       - Singapore Conference Hall.md
       - National Threatre.md
       - Raffles Hotel.md
