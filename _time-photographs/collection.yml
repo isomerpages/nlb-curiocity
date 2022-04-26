@@ -2,7 +2,6 @@ collections:
   time-photographs:
     output: true
     order:
-      - Example Title.md
       - People's Park Complex.md
       - Singapore Conference Hall.md
       - National Threatre.md
