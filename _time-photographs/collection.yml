@@ -2,6 +2,7 @@ collections:
   time-photographs:
     output: true
     order:
+      - Golden Mile Complex.md
       - People's Park Complex.md
       - Singapore Conference Hall.md
       - National Threatre.md
