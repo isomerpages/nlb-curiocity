@@ -18,3 +18,7 @@ The Bute Map, late 1819
 Structures on the hill included the Governor's House
 
 And a Christian cemetery
+
+Becoming Fort Canning
+
+Paintings and Postcards
