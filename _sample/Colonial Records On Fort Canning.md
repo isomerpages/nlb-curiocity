@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when they hoisted the Union Jack on its top. They then renamed it "Singapore Hill" followed by "Government Hill" after they set up the Governor's House there in 1822.
+When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when they hoisted the Union Jack on its top. They then called the hill "Singapore Hill" followed by "Government Hill" after they set up the Governor's House there in 1822.
 
 Early Sketch
 
