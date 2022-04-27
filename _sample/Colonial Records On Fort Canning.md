@@ -25,6 +25,6 @@ And a Christian cemetery
 
 Quote on the cemetery
 
-Becoming Fort Canning
+### **Becoming Fort Canning**
 
-Paintings and Postcards
+### **Paintings and Postcards**
