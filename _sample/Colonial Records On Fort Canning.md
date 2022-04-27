@@ -15,7 +15,7 @@ The Bute Map, late 1819
 
 1836 Coleman Map (appeared most prominently in this map as Government Hill) (https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)
 
-Quote on the first flag
+Quote on the first flag (and lighthouse)
 
 Structures on the hill included the Governor's House
 
