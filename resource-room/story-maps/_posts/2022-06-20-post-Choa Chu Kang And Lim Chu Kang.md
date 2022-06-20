@@ -7,9 +7,9 @@ description: ""
 ---
 [<img src="/images/storymap-image-cck-lck.png" alt="storymap-choa-chu-kang-and-lim-chu-kang"/>](https://go.gov.sg/9hoyq5)
 
-Ang Mo Kio, which literally translates to “red-haired man’s bridge” in Hokkien, is located in the northeastern region of Singapore. It was developed as Singapore's seventh satellite town in the 1970s as a self-sufficient housing estate where commercial spaces, as well as cultural, community and recreational facilities were provided for its residents. Ang Mo Kio was also where the first town councils were set up as a pilot project in addition to being the first town designed in metric dimensions, allowing it to win the Singapore Institute of Architects (SIA) Outstanding Buildings Award in 1983.
-
-Join us as we explore the heritage of one of Singapore’s most quintessential housing estates with this story map.
+Choa Chu Kang and Lim Chu Kang derived their names from the village settlements that sprang out in the northwestern part of Singapore following the proliferation of gambier and pepper plantations in the area during the early 19th century. Since then, the area has witnessed significant changes. Today, Choa Chu Kang is a modern, self-sufficient new town, while Lim Chu Kang is Singapore’s agrotechnology hub and eco-tourism destination.  
+  
+Discover more about the two chukangs and their histories through this story map.
 
 View the story map in [full screen](https://go.gov.sg/9hoyq5){:target="_blank"} or on your mobile device by scanning the QR code below.
 
