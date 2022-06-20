@@ -11,7 +11,7 @@ Ang Mo Kio, which literally translates to “red-haired man’s bridge” in Hok
 
 Join us as we explore the heritage of one of Singapore’s most quintessential housing estates with this story map.
 
-View the story map in [full screen](https://go.gov.sg/8nf8pi){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/9hoyq5){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/qr-code-storymap-ang-mo-kio.jpg" alt="qr-code-storymap-ang-mo-kio" style="width:200px;" />
 
