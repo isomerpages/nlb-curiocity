@@ -5,7 +5,7 @@ date: 2022-06-20
 layout: post
 description: ""
 ---
-[<img src="/images/storymap-image-cck-lck.png" alt="storymap-choa-chu-kang-and-lim-chu-kang"/>](https://go.gov.sg/9hoyq5)
+[<img src="/images/storymap-image-cck-lck-1.png" alt="storymap-choa-chu-kang-and-lim-chu-kang"/>](https://go.gov.sg/9hoyq5)
 
 Choa Chu Kang and Lim Chu Kang derived their names from the village settlements that sprang out in the northwestern part of Singapore following the proliferation of gambier and pepper plantations in the area during the early 19th century. Since then, the area has witnessed significant changes. Today, Choa Chu Kang is a modern, self-sufficient new town, while Lim Chu Kang is Singapore’s agrotechnology hub and eco-tourism destination.  
   
