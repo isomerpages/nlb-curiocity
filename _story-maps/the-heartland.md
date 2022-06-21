@@ -10,7 +10,7 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)](/resource-room/story-maps/ang-mo-kio)
 
-[![Alt text for image on Isomer site](/images/storymap-image-cck-lck.png)](/resource-room/story-maps/ang-mo-kio)
+[![Alt text for image on Isomer site](/images/storymap-image-cck-lck-1.png)](/resource-room/story-maps/ang-mo-kio)
 
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
