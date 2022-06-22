@@ -12,3 +12,5 @@ description: ""
 ![](/images/pandan-valley-plans.jpg)
 
 ![](/images/pandan-valley-perspective-drawing.jpg)
+
+![](/images/pandan-valley-swimming-pool-1.jpg)
