@@ -10,6 +10,8 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)](/resource-room/story-maps/ang-mo-kio)
 
+[![Alt text for image on Isomer site](/images/storymap-image-cck-lck-1.png)](/resource-room/story-maps/choa-chu-kang-lim-chu-kang)
+
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
 [![Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
@@ -30,13 +32,14 @@ _______
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Ang Mo Kio photo by Chuttersnap [CC BY-4.0]
-<br>2. Jurong photo by Groyn88 [CC BY-SA 3.0]
-<br>3. Punggol photo by Deoma12 [CC BY-SA 4.0]
-<br>4. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
-<br>5. Tampines photo by Zhenkang [CC BY-SA 4.0]
-<br>6. Tiong Bahru photo by Choo Yut Shing via Flickr
-<br>7. Toa Payoh photo by Bob T [CC BY-SA 4.0]
-<br>8. Yishun photo by KTPH [CC BY-SA 4.0]
+<br>2. Choa Chu Kang MRT Station photo by zhenkang [CC BY-SA 3.0]
+<br>3. Jurong photo by Groyn88 [CC BY-SA 3.0]
+<br>4. Punggol photo by Deoma12 [CC BY-SA 4.0]
+<br>5. Queenstown photo by Chen Siyuan [CC BY-SA 4.0]
+<br>6. Tampines photo by Zhenkang [CC BY-SA 4.0]
+<br>7. Tiong Bahru photo by Choo Yut Shing via Flickr
+<br>8. Toa Payoh photo by Bob T [CC BY-SA 4.0]
+<br>9. Yishun photo by KTPH [CC BY-SA 4.0]
 </span>
 	
 </details>

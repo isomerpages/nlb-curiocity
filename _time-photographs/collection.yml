@@ -2,5 +2,10 @@ collections:
   time-photographs:
     output: true
     order:
+      - Pandan Valley.md
+      - Pearl Bank Apartments.md
+      - Golden Mile Complex.md
+      - People's Park Complex.md
+      - Singapore Conference Hall.md
       - National Threatre.md
       - Raffles Hotel.md
