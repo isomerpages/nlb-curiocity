@@ -5,9 +5,9 @@ description: ""
 ---
 ### **Government Hill**
 
-When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. By then, the hill had been renamed Government Hill.
+When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. By then, the hill had been renamed Government Hill although people also referred to it as Singapore Hill, Bukit Tuan Bonham or Sir Bonham's Hill after governor Sir Samuel George Bonham, and Bukit Bendera, which means Flag Hill.
 
-The Bute Map
+**The Bute Map**
 
 Known as "The Bute Map", this map was completed around 1820 and is the earliest known landward map of Singapore. It marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge. Fort Canning Hill, which is labeled "Singapore Hill" can also be seen in the map.
 
