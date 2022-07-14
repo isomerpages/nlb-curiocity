@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General William Farquhar climbed up the hill and hoisted the Union Jack. Later in 1822, Sir Stamford Raffles would build his residence there. A one-storey wood and atap structure, 
+When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. This was followed by Sir Stamford Raffles who built his residence there in 1822. A one-storey wood and atap structure, it was later occupied by the Second British Resident of Singapore John Crawfurd.
 
 Early Sketch
 
