@@ -9,7 +9,7 @@ When the British arrived in 1819, it did not take long for them to set their cla
 
 **The Bute Map**
 
-Known as "The Bute Map", this map was completed around 1820 and was attributed to Lieutenant Henry Ralfe of the Bengal Artillery, who was then the Assistant Engineer of Singapore. It is the earliest known landward map of Singapore. It marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge. Fort Canning Hill, which is labeled "Singapore Hill", can also be seen in the map. From the the north side of the hill to the the mouth of the Watering Place (Stamford Canal), an embankment was also demarcated as "the ancient lines of Singapore".
+Known as "The Bute Map", this map is the earliest known landward map of Singapore. It was completed around 1820 and attributed to Lieutenant Henry Ralfe of the Bengal Artillery who was then the Assistant Engineer of Singapore. The map marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge. Fort Canning Hill, which is labeled "Singapore Hill", can also be seen. From the the north side of the hill to the the mouth of the Watering Place (Stamford Canal), an embankment is also demarcated as "the ancient lines of Singapore".
 
 1836 Coleman Map (appeared most prominently in this map as Government Hill) (https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)
 
