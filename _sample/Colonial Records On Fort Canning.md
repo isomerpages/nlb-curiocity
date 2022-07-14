@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. The hill was then subsequently renamed Government Hill.
+When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. By then, the hill had been renamed Government Hill.
 
 Early Sketch
 
