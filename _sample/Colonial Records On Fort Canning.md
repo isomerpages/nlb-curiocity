@@ -7,9 +7,11 @@ description: ""
 
 When the British arrived in 1819, it did not take long for them to set their claims on Bukit Larangan when Major-General and first British Resident and Commandant of Singapore William Farquhar climbed up the hill and hoisted the Union Jack. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. By then, the hill had been renamed Government Hill.
 
-The Bute Map, late 1819
+The Bute Map
 
-This map was completed around 1820 and is the earliest known landward map of Singapore. It documents remnants of ancient Singapore, shown on the map as "the ancient lines of Singapore" - an embankment that ran westwards from the mouth of the Watering Place (Stamford Canal) towards the north side of Bukit Larangan (Fort Canning). The map also marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
+Known as "The Bute Map", this map was completed around 1820 and is the earliest known landward map of Singapore. It marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge. Fort Canning Hill, which is labeled "Singapore Hill" can also be seen in the map.
+
+documents remnants of ancient Singapore, shown on the map as "the ancient lines of Singapore" - an embankment that ran westwards from the mouth of the Watering Place (Stamford Canal) towards the north side of Bukit Larangan (Fort Canning). The map also marks out the palace of Sultan Husain in Kampong Glam, and includes infrastructure works that were in planning, such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
 
 1836 Coleman Map (appeared most prominently in this map as Government Hill) (https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)
 
