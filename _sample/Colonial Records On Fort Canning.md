@@ -13,7 +13,7 @@ Known as "The Bute Map", this is the earliest known landward map of Singapore. I
 
 1836 Coleman Map (appeared most prominently in this map as Government Hill) (https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)
 
-This 1839 map was one of the earliest survey maps of Singapore. Prepared by George Coleman, Fort Canning is labelled as “Bras Bassa Road”. Also visible are the former grounds
+This 1839 map was one of the earliest survey maps of Singapore. Prepared by George Coleman, Fort Canning Hill is . Also visible are the former grounds
 
 Gambier beneath the map
 
