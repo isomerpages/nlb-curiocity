@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-After the British arrived in 1819, they quickly set their claims on Bukit Larangan when they hoisted the Union Jack on it. Thereafter, Sir Stamford Raffles built his residence there in 1822 which later became the official residence of Singapore's colonial governors known as Government House in 1823. By then, the hill had been renamed Government Hill although people also referred to it as Singapore Hill, Bukit Tuan Bonham or Sir Bonham's Hill after Governor Sir Samuel George Bonham, and Bukit Bendera, which means Flag Hill.
+After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on it, a bungalow was also built there which intially was the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed Government Hill although people also referred to it as Singapore Hill, Bukit Tuan Bonham or Sir Bonham's Hill after Governor Sir Samuel George Bonham, Bukit Bendera which means Flag Hill, or simply the Hill.
 
 The Union Jack on Fort Canning Hill was hoisted by William Farquhar was recounted by...who described the locals' reaction after learning Farquhar's decision, what Farquahr saw on the hill, and...Click here to read an extract from his book.
 
