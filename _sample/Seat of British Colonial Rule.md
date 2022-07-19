@@ -18,6 +18,19 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 
 </details>
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| Fort Canning Hill is captured in many early maps of Singapore including this. Known as "The Brute Map", this 1820 map is the earliest known landward map of the island. The map, which was attributed to Lieutenant Henry Ralfe, labeled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". The map also identified other places including the palace of Sultan Husain in Kampong Glam, as well as infrastructure works that were in planning such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.. (Image Credit: [Survey Department, Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-2.jpg) |
+| This 1839 map was one of the earliest survey maps of Singapore. Prepared by George Coleman, Bras Basah Road is labelled as “Bras Bassa Road”. Also visible are the former grounds of Raffles Institution and a handful of churches including St Joseph’s, St Andrew’s and the Armenian Church. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/bb-map-3.jpg)|
+| By the mid-1800s, Bras Basah was already a busy area with rows of shophouses and roads crisscrossing the district. This can be seen in this 1846 survey map prepared by John Turnbull Thomson. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa3f6192-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/bb-map-4.jpg)|
+| From the 1890s, surveyors began to spell “Bras Basah Road” as we know it today. This 1893 map is among the earliest that carried out this change. (Image Credit: [Hon Sui Sen Collection, Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/c912530c-66c8-11e3-bb37-0050568939ad){:target="_blank"})|
+
+_____
+
 
 **The Bute Map**
 
