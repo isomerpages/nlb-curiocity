@@ -13,6 +13,12 @@ The Union Jack on Fort Canning Hill was hoisted by William Farquhar was recounte
 
 **Lt Jackson sketch**
 
+The earliest known drawing of a view of Singapore, sketched by Lt. Phillip Jackson on 5 June 1823. The drawing shows buildings of Singapore near the seafront and on High Street as viewed from the sea, with the Raffles' residence on Fort Canning Hill (known then simply as The Hill) near a flag pole in the background. On the left is the inlet of Singapore River. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles.
+
+Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch attributed to Lt. Phillip Jackson (JSTOR)
+
+https://commons.wikimedia.org/wiki/File:Singapore_from_the_Sea_June_1823_-_Lt._Phillip_Jackson.jpg 
+
 **The Bute Map**
 
 Fort Canning Hill is captured in many early maps of Singapore including this. Known as "The Brute Map", this 1820 map, which is attributed to Lieutenant Henry Ralfe of the Bengal Artillery who was then the Assistant Engineer of Singapore, is the earliest known landward map of the island. It labeled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". The map also identified other places including the palace of Sultan Husain in Kampong Glam, as well as infrastructure works that were in planning such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
