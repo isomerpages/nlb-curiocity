@@ -7,6 +7,20 @@ description: ""
 
 After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially was the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people also referred to it as "Singapore Hill", "Bukit Tuan Bonham" or "Sir Bonham's Hill" after Governor Sir Samuel George Bonham, "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
+---
+
+<details\>
+
+<summary\><span style\="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18"\>“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style\="font-weight: 700; text-decoration:underline; color:#4372d6"\>HERE</span\> to reveal below Victor Savage’s and Brenda Yeoh’s explanation in <span style\="font-style: italic;"\>Singapore Street Names: A Study of Toponymics</span\> (2013) (<a href\="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=200123850" target\="\_blank"\>Call no.: RSING 915.9570014 SAV</a\>).</span\></summary\>
+
+<br\>  
+
+<span style\="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044"\>"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span\>
+
+</details\>
+
+\---
+
 The Union Jack on Fort Canning Hill was hoisted by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was used, among other purposes, to inform the settlement of the approach of European- rigged vessels. The hoisting was recounted by the “father of modern Malay literature” Munshi Abdullah in his autobiography, *Hikayat Abdullah* (or *The Story of Abdullah*) (1849). Click here to read the extract.
 
 "One day Colonel Farquhar wanted to ascend the Forbidden Hill...The Temenggong's men said, 'None of us have the courage to go up the hill because there are many ghosts on it. Every day one can hear on it sounds as of hundreds of men. Sometimes one hears the sound of heavy drums and of people shouting.' Colonel Farquhar laughed and said, 'I should like to see your ghosts' and turning to his Malacca men 'Draw this gun to the top of the hill.' Among them there were several who were frightened, but having no option they pulled the gun up. All who went up were Malacca men, none of the Singapore men daring to approach the hill. On the hill there was not much forest and not many large trees, only a few shrubs here and there. Although the men were frightened, they were ashamed by the presence of Colonel Farquhar and went up whether they wanted or not. When they reached the top Colonel Farquhar ordered the gun to be loaded and then he himself fired twelve rounds in succession over the top of the hill in front of them. Then he ordered a pole to be erected on which he hoisted the English flag. He said, 'Cut down all these bushes.' He also ordered them to make a path for people to go up and down the hill. Everyday there was this work being done, the undergrowth being slashed down and a pathway cleared."
