@@ -44,7 +44,7 @@ This 1839 map was one of the earliest survey maps of Singapore. Prepared by Geor
 
 ### **Government House**
 
-Fort Canning Hill was renamed Government Hill after Raffles' bungalow was turned into the Government House following the former's return to England 
+Fort Canning Hill was renamed Government Hill after Raffles' bungalow was turned into the Government House following his return to England 
 
 **Lt Jackson sketch**
 
