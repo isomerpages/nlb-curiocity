@@ -7,7 +7,7 @@ description: ""
 
 After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially was the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people also referred to it as "Singapore Hill", "Bukit Tuan Bonham" or "Sir Bonham's Hill" after Governor Sir Samuel George Bonham, "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
----
+```
 
 <details\>
 
@@ -19,7 +19,7 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 
 </details\>
 
-\---
+```
 
 The Union Jack on Fort Canning Hill was hoisted by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was used, among other purposes, to inform the settlement of the approach of European- rigged vessels. The hoisting was recounted by the “father of modern Malay literature” Munshi Abdullah in his autobiography, *Hikayat Abdullah* (or *The Story of Abdullah*) (1849). Click here to read the extract.
 
