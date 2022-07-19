@@ -13,7 +13,7 @@ The Union Jack on Fort Canning Hill was hoisted by the first British Resident an
 
 **The Bute Map**
 
-Fort Canning Hill is captured in many early maps of Singapore including this. Known as "The Brute Map", this 1820 map, which is attributed to Lieutenant Henry Ralfe of the Bengal Artillery who was then the Assistant Engineer of Singapore, is the earliest known landward map of the island. It labeled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". The map also identified other places including the palace of Sultan Husain in Kampong Glam, as well as infrastructure works that were in planning such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
+Fort Canning Hill is captured in many early maps of Singapore including this. Known as "The Brute Map", this 1820 map is the earliest known landward map of the island. The map, which was attributed to Lieutenant Henry Ralfe, labeled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". The map also identified other places including the palace of Sultan Husain in Kampong Glam, as well as infrastructure works that were in planning such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
 
 **Coleman Map**
 
