@@ -44,6 +44,8 @@ This 1839 map was one of the earliest survey maps of Singapore. Prepared by Geor
 
 ### **Government House**
 
+Fort Canning Hill was renamed Government Hill after Raffles' bungalow was turned into the Government House following the former's return to England 
+
 **Lt Jackson sketch**
 
 The earliest known drawing of a view of Singapore, sketched by Lt. Phillip Jackson on 5 June 1823. The drawing shows buildings of Singapore near the seafront and on High Street as viewed from the sea, with the Raffles' residence on Fort Canning Hill (known then simply as The Hill) near a flag pole in the background. On the left is the inlet of Singapore River. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles.
