@@ -5,12 +5,12 @@ description: ""
 ---
 ### **Government Hill**
 
-After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially was the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people also referred to it as "Singapore Hill", "Bukit Tuan Bonham" or "Sir Bonham's Hill" after Governor Sir Samuel George Bonham, "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
+After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially served as the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people referred to it as "Singapore Hill", "Bukit Tuan Bonham" or "Sir Bonham's Hill" after Governor Sir Samuel George Bonham, "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Union Jack on Fort Canning Hill was hoisted by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was used, among other purposes, to inform the settlement of the approach of European- rigged vessels. The hoisting was recounted by the “father of modern Malay literature” Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the extract.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Union Jack on Fort Canning Hill was hoisted by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was used, among other purposes, to inform the settlement of the approach of European- rigged vessels. This event was recounted by Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the extract.</span></summary>
 
 <br>  
 
