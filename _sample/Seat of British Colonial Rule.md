@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially served as the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people referred to it as "Singapore Hill", "Bukit Tuan Bonham" or "Sir Bonham's Hill" after Governor Sir Samuel George Bonham, "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
+After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides hoisting the Union Jack on its summit, a bungalow was also built there which initially served as the residence of Sir Stamford Raffles before becoming the official residence of colonial governors. The hill was also renamed "Government Hill" although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
 -----
 
