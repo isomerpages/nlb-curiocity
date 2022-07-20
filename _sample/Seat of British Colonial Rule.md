@@ -21,7 +21,7 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bute-map.jpg)|
-| Fort Canning Hill is captured in many early maps of Singapore including this "Plan of the Singapore Harbour". Commissioned by Raffles days after his arrival at Singapore, it was prepared by Captain Daniel Ross and published in the Calcutta Journal in May 1819.  
+| Fort Canning Hill is captured in many early maps of Singapore including this survey map, titled "Plan of the Singapore Harbour", by Captain Daniel Ross. Commissioned by Raffles days after his arrival at Singapore, it was drawn in February 1819 and published in the *Calcutta Journal* in May 1819.  
 
 
 Known as "The Brute Map", it is the earliest known landward map of the island. The map, which was attributed to Lieutenant Henry Ralfe and named  after the Bute Archive in Scotland where it now resides, labelled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". (Image Credit: Courtesy of The Bute Archive at Mount Stuart; [image from the National Library Singapore Facebook page](https://www.facebook.com/NationalLibrarySG/photos/a.791644427525812/2699500620073507/?type=1&theater){:target="_blank"}) |
