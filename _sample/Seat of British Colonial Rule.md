@@ -31,11 +31,11 @@ _____
 
 ### **Government House**
 
-In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. Raffles enjoyed the location so much that he suggested to be buried here, mixed with the ashes of the Malayan kings
+In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. Raffles enjoyed the location so much that he suggested to be buried there. 
 
 **Lt Jackson sketch**
 
-The earliest known drawing of a view of Singapore, sketched by Lt. Phillip Jackson on 5 June 1823. The drawing shows buildings of Singapore near the seafront and on High Street as viewed from the sea, with the Raffles' residence on Fort Canning Hill (known then simply as The Hill) near a flag pole in the background. On the left is the inlet of Singapore River. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles.
+The earliest known drawing of a view of Singapore, sketched by Lt. Phillip Jackson on 5 June 1823. The drawing shows buildings of Singapore near the seafront and on High Street as viewed from the sea, with the Raffles' residence on Fort Canning Hill near a flag pole in the background. On the left is the inlet of Singapore River. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles.
 
 Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch attributed to Lt. Phillip Jackson (JSTOR)
 
