@@ -29,17 +29,6 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 
 _____
 
-
-**The Bute Map**
-
-Fort Canning Hill is captured in many early maps of Singapore including this. Known as "The Brute Map", this 1820 map is the earliest known landward map of the island. The map, which was attributed to Lieutenant Henry Ralfe, labeled Fort Canning Hill as "Singapore Hill" and marked out an embankment stretching from the north side of the hill to the mouth of the "Water Place" (Stamford Canal) as "the ancient lines of Singapore". The map also identified other places including the palace of Sultan Husain in Kampong Glam, as well as infrastructure works that were in planning such as a proposed bridge across the river, located between present-day Coleman Bridge and Elgin Bridge.
-
-**Coleman Map**
-
-1836 Coleman Map also marks out Fort Canning Hill (appeared most prominently in this map as Government Hill) (https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)
-
-This 1839 map was one of the earliest survey maps of Singapore. Prepared by George Coleman, Fort Canning Hill is . Also visible are the former grounds
-
 ### **Government House**
 
 Fort Canning Hill was renamed Government Hill after Raffles' bungalow was turned into the Government House following his return to England 
