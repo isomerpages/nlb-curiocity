@@ -53,8 +53,6 @@ paintings
 
 to explain government house extension
 
-painting
-
 flagstaff
 
 
