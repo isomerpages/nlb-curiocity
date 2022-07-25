@@ -53,7 +53,13 @@ paintings
 
 to explain government house extension
 
+https://www.roots.gov.sg/Collection-Landing/listing/1054842
+
 flagstaff
+
+painting
+
+https://www.roots.gov.sg/Collection-Landing/listing/1003385 
 
 
 
