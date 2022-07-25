@@ -61,15 +61,7 @@ Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch attribu
 
 https://commons.wikimedia.org/wiki/File:Singapore_from_the_Sea_June_1823_-_Lt._Phillip_Jackson.jpg 
 
-hill in turn was renamed Government Hill although people also referred to it as Singapore Hill, Bukit Tuan Bonham or Sir Bonham's Hill after governor Sir Samuel George Bonham, and Bukit Bendera, which means Flag Hill.
 
-A one-storey wood and atap structure, it was later occupied by the Second British Resident of Singapore John Crawfurd.
-
-https://www.roots.gov.sg/Collection-Landing/listing/1054842 
-
-Quote on the first flag (and lighthouse)
-
-Structures on the hill included the Governor's House
 
 Quote on the house  
 
