@@ -31,7 +31,7 @@ _____
 
 ### **Government House**
 
-Fort Canning Hill was renamed Government Hill after Raffles' bungalow was turned into the Government House following his return to England 
+In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. Raffles enjoyed the location so much that he suggested to be buried here, mixed with the ashes of the Malayan kings
 
 **Lt Jackson sketch**
 
