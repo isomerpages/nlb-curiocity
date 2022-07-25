@@ -33,10 +33,19 @@ _____
 
 In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. 
 
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Raffles enjoyed the location so much that he suggested to be buried there.  recounted by Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the extract.</span></summary>
+
+<br>  
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to sav the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rato, be better than leaving one's bones at Bencoolen..."</span>
+
+</details>
+
 (quote) Raffles enjoyed the location so much that he suggested to be buried there. 
 
-
-"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to sav the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rato, be better than leaving one's bones at Bencoolen..."
 
 |   | 
 |:--------:| 
