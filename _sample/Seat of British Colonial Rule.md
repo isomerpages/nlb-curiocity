@@ -51,6 +51,8 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 paintings
 
+to explain government house extension
+
 painting
 
 flagstaff
