@@ -44,9 +44,6 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 </details>
 
-(quote) Raffles enjoyed the location so much that he suggested to be buried there. 
-
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fc-sketch.jpg)|
