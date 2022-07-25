@@ -45,6 +45,8 @@ hill in turn was renamed Government Hill although people also referred to it as 
 
 A one-storey wood and atap structure, it was later occupied by the Second British Resident of Singapore John Crawfurd.
 
+https://www.roots.gov.sg/Collection-Landing/listing/1054842 
+
 Quote on the first flag (and lighthouse)
 
 Structures on the hill included the Governor's House
