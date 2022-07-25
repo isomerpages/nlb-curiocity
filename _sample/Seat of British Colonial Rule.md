@@ -31,12 +31,12 @@ _____
 
 ### **Government House**
 
-In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. 
+In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. It had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
 
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Raffles enjoyed the location so much that he suggested to be buried there.  recounted by Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the extract.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being made of attap, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his <a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">letter</a> to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote.</span></summary>
 
 <br>  
 
