@@ -36,7 +36,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being a simple structure, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">letter</a> to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being a simple structure, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his letter to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">National Archives of Singapore</a>)</span></summary>
 
 <br>  
 
