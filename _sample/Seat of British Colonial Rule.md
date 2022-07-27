@@ -36,11 +36,11 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being made of attap, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his <a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">letter</a> to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being a simple structure, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his <a href="https://eservice.nlb.gov.sg/item\_holding.aspx?bid=13606908" target="_blank">letter</a> to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote.</span></summary>
 
 <br>  
 
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to sav the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rato, be better than leaving one's bones at Bencoolen..."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rato, be better than leaving one's bones at Bencoolen..."</span>
 
 </details>
 
