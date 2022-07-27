@@ -47,7 +47,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fc-sketch.jpg)|
-| The earliest known drawing of a view of Singapore, sketched by Lt. Phillip Jackson on 5 June 1823. The drawing shows buildings of Singapore near the seafront and on High Street as viewed from the sea, with the Raffles' residence on Fort Canning Hill near a flag pole in the background. On the left is the inlet of Singapore River. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles. (Image Credit: Extracted from [The Calcutta Journal, 6 April and 1 May 1819](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203915124){:target="_blank"}) |
+| Sketched by Lt. Phillip Jackson on 5 June 1823, this is the earliest known drawing of a view of Singapore from the sea. The drawing provides a rare glimpse of how Singapore looked like at the time. Other than having a row of buildings with attap roof along the seafront, Raffles' residence on Fort Canning Hill can also be seen in the background standing near a flag pole. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles, and was published in the July 1953 issue of the Journal of the Malayan Branch of the Royal Asiatic Society. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203915124){:target="_blank"}) |
 
 paintings
 
