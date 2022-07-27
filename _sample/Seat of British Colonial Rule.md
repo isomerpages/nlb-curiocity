@@ -66,6 +66,8 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 
 
+
+
 Quote on the house  
 
 And a Christian cemetery
