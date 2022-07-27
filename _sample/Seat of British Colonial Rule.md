@@ -48,6 +48,8 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fc-sketch.jpg)|
 | Sketched by Lt. Phillip Jackson on 5 June 1823, this is the earliest known drawing of a view of Singapore from the sea. The drawing provides a rare glimpse of how Singapore looked like at the time. Other than having a row of buildings with attap roof along the seafront, Raffles' residence on Fort Canning Hill can also be seen in the background standing near a flag pole. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles, and was published in the July 1953 issue of the Journal of the Malayan Branch of the Royal Asiatic Society. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-bute-map.jpg) |
+| Known as "The Brute Map", this late 1819 map is the earliest known landward map of Singapore. Attributed to Lieutenant Henry Ralfe and named after the Bute Archive in Scotland where it now resides, the map labelled Fort Canning Hill as "Singapore Hill". It also marked out an embankment stretching from the north side of the hill to the mouth of "Water Place" (Stamford Canal) as "the ancient lines of Singapore". (Image Credit: Courtesy of The Bute Archive at Mount Stuart; [image from the National Library Singapore Facebook page]
 
 paintings
 
