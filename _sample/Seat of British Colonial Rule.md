@@ -64,7 +64,11 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 </details>
 
+_____
 
+### **Government House**
+
+In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
 
 
 
@@ -78,6 +82,3 @@ Quote on the cemetery
 
 ### **The Malayan Command**
 
-The Union Jack on Fort Canning Hill was hoisted by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was used, among other purposes, to inform the settlement of the approach of European- rigged vessels. The hoisting was recounted by the “father of modern Malay literature” Munshi Abdullah in his autobiography, *Hikayat Abdullah* (or *The Story of Abdullah*) (1849). Click here to read the extract.
-
-"One day Colonel Farquhar wanted to ascend the Forbidden Hill...The Temenggong's men said, 'None of us have the courage to go up the hill because there are many ghosts on it. Every day one can hear on it sounds as of hundreds of men. Sometimes one hears the sound of heavy drums and of people shouting.' Colonel Farquhar laughed and said, 'I should like to see your ghosts' and turning to his Malacca men 'Draw this gun to the top of the hill.' Among them there were several who were frightened, but having no option they pulled the gun up. All who went up were Malacca men, none of the Singapore men daring to approach the hill. On the hill there was not much forest and not many large trees, only a few shrubs here and there. Although the men were frightened, they were ashamed by the presence of Colonel Farquhar and went up whether they wanted or not. When they reached the top Colonel Farquhar ordered the gun to be loaded and then he himself fired twelve rounds in succession over the top of the hill in front of them. Then he ordered a pole to be erected on which he hoisted the English flag. He said, 'Cut down all these bushes.' He also ordered them to make a path for people to go up and down the hill. Everyday there was this work being done, the undergrowth being slashed down and a pathway cleared."
