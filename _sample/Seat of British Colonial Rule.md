@@ -48,7 +48,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fc-sketch.jpg)|
 | Sketched by Lt. Phillip Jackson on 5 June 1823, this is the earliest known drawing of a view of Singapore from the sea. The drawing provides a rare glimpse of how Singapore looked like at the time. Other than having a row of buildings with attap roof along the seafront, Raffles' bungalow on Fort Canning Hill can also be seen in the background standing near a flag pole. This picture comes from the Drake collection of documents and personal effects belonging to Stamford Raffles, and was published in the July 1953 issue of the Journal of the Malayan Branch of the Royal Asiatic Society. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/fc-bute-map.jpg) |
+| ![Alt text for image on Isomer site](/images/fc-1897-painting.jpg) |
 | Raffles' bungalow, which later became the Government House, was also captured in many early paintings at the time including this 1837 litograph. Painted and engraved by Barthelemy Lauvergne and Louis Bichebois respectively, it looks across an open space (today's Padang) towards a somewhat distorted interpretation of Fort Canning Hill. both the Government House and the flagstaff can be identified on top of a   (Image Credit: Courtesy of The Bute Archive at Mount Stuart; [image from the National Library Singapore Facebook page](https://www.facebook.com/NationalLibrarySG/photos/a.791644427525812/2699500620073507/?type=1&theater){:target="_blank"})|
 
 paintings (view of the seafront)
