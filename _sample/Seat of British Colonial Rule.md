@@ -53,6 +53,8 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 | ![Alt text for image on Isomer site](/images/fc-1828-painting.jpg) |
 | In 1828, Marianne Jane James, wife of the third Bishop of Calcutta Thomas James, painted this watercolour painting that not only provides a view of Singapore harbour, but also a close-up of Government House (right) and the flagstaff (centre-right). At the time, the Government House had been made the official residence of the Governor following Raffles' final departure from Singapore in June 1823. It had also been redesigned in the neoclassical style by George Dromgold Coleman with two new wings being added. In its augmented form, the building served the Governors until Fort Canning Hill was taken over by the military. Thereafter, the Governors began a sojourn of eleven years without an official residence, until the the new Government House (today's Istana) was completed in 1869. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1003385){:target="_blank"})|
 
+-----
+
 What is the use of the flagstaff?
 
 
