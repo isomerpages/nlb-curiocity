@@ -51,7 +51,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 | ![Alt text for image on Isomer site](/images/fc-1897-painting.jpg) |
 | Raffles' bungalow, which later became the Government House, was also captured in many early paintings at the time including this 1837 litograph. Painted and engraved by Barthelemy Lauvergne and Louis Bichebois respectively, it looks across an open space (today's Padang) towards a somewhat distorted perspective of Fort Canning Hill where Government House and the flagstaff can both be seen. Other 19th century paintings that provide a view of Fort Canning Hill with these structures include John Turnbull Thomson's <a href="https://www.roots.gov.sg/Collection-Landing/listing/1052004" target="_blank">"The Esplanade from Scandal Point"</a> (1851) and Percy Carpenter's <a href="https://www.roots.gov.sg/Collection-Landing/listing/1054842" target="_blank">"View of Singapore from Mount Wallich"</a> (1856). (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/fc-1828-painting.jpg) |
-| In 1828, artist produced one of the closet view of Government House. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
+| In 1828, Marianne James painted this watercolour painting that not only provides a view of Singapore harbour, but also a close-up of Government House (right) and the flagstaff (centre-right). (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
 
 paintings (view of the seafront)
 
