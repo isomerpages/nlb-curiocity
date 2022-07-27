@@ -53,23 +53,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 | ![Alt text for image on Isomer site](/images/fc-1828-painting.jpg) |
 | In 1828, Marianne Jane James, wife of the third Bishop of Calcutta Thomas James, painted this watercolour painting that not only provides a view of Singapore harbour, but also a close-up of Government House (right) and the flagstaff (centre-right). (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
 
-paintings (view of the seafront)
-
-government house and the flagstaff captured in paintings including this as well as other famous ones including Percy Carpenter and....
-
-https://www.roots.gov.sg/Collection-Landing/listing/1054842
-
-painting - always from a far away perspective, this painting provides the closet look on the building....house extension
-
-https://www.roots.gov.sg/Collection-Landing/listing/1003385 
-
-https://www.roots.gov.sg/Collection-Landing/listing/1407077 
-
-
-
-Singapore from the Sea, June 1823. Notes on a Recently Discovered Sketch attributed to Lt. Phillip Jackson (JSTOR)
-
-https://commons.wikimedia.org/wiki/File:Singapore_from_the_Sea_June_1823_-_Lt._Phillip_Jackson.jpg 
+What is the use of the flagstaff?
 
 
 
