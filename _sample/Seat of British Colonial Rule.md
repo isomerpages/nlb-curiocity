@@ -29,7 +29,7 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 
 _____
 
-### **Government House**
+### **The Government House and The Flagstaff**
 
 In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
 
