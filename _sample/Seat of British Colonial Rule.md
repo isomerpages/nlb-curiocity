@@ -61,19 +61,19 @@ Fort Canning Cemetery was one of the first burial grounds for Christians in Sing
 
 Malay annals pre-date cemetery as burial grounds for the kings
 
-Coleman map even the earliest map only shows the second cemetery
+**Coleman map even the earliest map only shows the second cemetery**
 
 The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery.
 
-Plate 21: painting with burial ground - 
+**Plate 21: painting with burial ground - **
 
 The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full so the then resident chaplain Reverend Robert Burn, the then resident chaplain applied for a new burial site in 1827. This request resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. These structures still stand today and are one of the main attractions there. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground.
 
-Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)
+**Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)**
 
 As the cemetery’s burial register had been lost, the government hired H. A. Stallwood, a clerk, to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. 
 
-Image: arches and monuments
+**Image: arches and monuments**
 
 By the end of 1863, the cemetery was full again, and a new site in [Bukit Timah](http://eresources.nlb.gov.sg/infopedia/articles/SIP_730_2005-01-25.html) was identified as an alternative burial site. Although Fort Canning cemetery was closed to further burials on 31 March 1865, the last burial at the cemetery was that of Marie Dominica Scott in December 1868, probably because her parents had been buried there.12  
   
@@ -81,7 +81,6 @@ Between 1822 and 1865, more than 600 burials took place at the Fort Canning Ceme
 
 They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates, the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas.
 
-closure
 
 Quote on the cemetery
 
