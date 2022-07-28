@@ -55,7 +55,7 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 _____
 
-### **Fort Canning Cemetery**
+### **Christian Cemetery**
 
 Fort Canning Cemetery was one of the first burial grounds for Christians in Singapore. Located on Fort Canning Hill, the grounds encompassed two burial sites. The first was used from 1819 to 1822, and the second from 1822 to 1865. Fort Canning Cemetery was closed to further burials in 1865, and eventually converted into a park.
 
