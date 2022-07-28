@@ -69,9 +69,7 @@ Plate 21: painting with burial ground -
 
 The second cemetery
 
-The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)
-
-Register lost so someone to re-do
+Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)
 
 As the cemetery’s burial register had been lost, the government hired H. A. Stallwood, a clerk, to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. 
 
