@@ -57,7 +57,7 @@ _____
 
 ### **Cemeteries**
 
-In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
+Besides raising the Union Jack and building a bungalow for Raffles, the British also established two Christian cemeteries on Fort Canning Hill. The first was created in 1820 and was said to be located near Raffles' residence. It was discontinued at the end of 1822 and replaced by a second cemetery. Located on the western slop of the hill near today's Stamford Road, it served the local Christian community until the Bukit Timah Cemetery was opened in 1865.
 
 
 
