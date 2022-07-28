@@ -82,7 +82,7 @@ The second burial site was located on the slopes of Fort Canning Hill. This two-
 
 As the cemetery’s burial register had been lost, the government hired H. A. Stallwood to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. 
 
-**Image: arches and monuments**
+**Image: arches and monuments or map**
 
 By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians.
 
