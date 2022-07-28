@@ -88,7 +88,7 @@ By the end of 1863, the cemetery was full again, and a new site in Bukit Timah�
 
 They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
 
-Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click here to find out from H. A. Stallwood what were the oldest and latest tombs that he discovered while compiling his burial register for the cemetery in 1912.
+Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click here to find out from H. A. Stallwood what were the oldest and latest tombs he discovered while compiling his burial register for the cemetery in 1912.
 
 The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan". It is surmised that this stone was taken from the old original Cemetery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here.
 
