@@ -93,7 +93,7 @@ They stood with the gates designed by...as well as other tombstones...designed b
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from H. A. Stallwood what were the oldest and latest tombs he discovered in the cemetery when he was compiling its burial registry which was published in the June 1912 issue of the <span style="font-style: italic;"> Journal of the Malayan Branch of the Royal Asiatic Society</span>. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709" target="_blank">Call no.: RSING 959.5703092 BAS</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from H. A. Stallwood what were the oldest and latest tombs he discovered in the cemetery when he was compiling its burial registry which was published in the June 1912 issue of the <span style="font-style: italic;"> Journal of the Malayan Branch of the Royal Asiatic Society</span>. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709" target="_blank">Call no.: RCLOS 959.5 JMBRAS</a>)</span></summary>
 
 <br>  
 
