@@ -79,7 +79,7 @@ By the end of 1863, the cemetery was full again, and a new site in [Bukit Timah
   
 Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians.
 
-They stood with the gates designed by...as well as other tombstones...designed by
+They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates, the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas.
 
 closure
 
