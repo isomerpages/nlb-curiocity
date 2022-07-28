@@ -53,17 +53,6 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 | ![Alt text for image on Isomer site](/images/fc-1828-painting.jpg) |
 | In 1828, Marianne Jane James, wife of the third Bishop of Calcutta Thomas James, painted this piece that not only provides a view of Singapore harbour, but also a close-up of Government House (right) and the flagstaff (centre-right). At the time, the Government House had been made the official residence of the Governor following Raffles' final departure from Singapore in June 1823. It had also been redesigned in the neoclassical style by G. D. Coleman with two new wings being added. In its augmented form, the building served the Governors until Fort Canning Hill was taken over by the military. Thereafter, the Governors began a sojourn of eleven years without an official residence, until the the new Government House (today's Istana) was completed in 1869. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1003385){:target="_blank"})|
 
------
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being a simple structure, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his letter to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">National Archives of Singapore</a>)</span></summary>
-
-<br>  
-
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rate, be better than leaving one's bones at Bencoolen..."</span>
-
-</details>
-
 _____
 
 ### **Cemeteries**
