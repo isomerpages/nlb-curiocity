@@ -67,6 +67,8 @@ Plate 21: painting with burial ground -
 
 extension
 
+monuments
+
 closure
 
 Quote on the house  
