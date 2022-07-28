@@ -78,20 +78,11 @@ Extension
 
 Monuments
 
-
-
-
-
-
 extension
 
 monuments
 
 closure
-
-Quote on the house  
-
-And a Christian cemetery
 
 Quote on the cemetery
 
