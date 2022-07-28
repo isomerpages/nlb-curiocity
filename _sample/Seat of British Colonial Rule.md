@@ -75,7 +75,7 @@ As the cemetery’s burial register had been lost, the government hired H. A. St
 
 By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians.
 
-They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas designed by G. D. Coleman.
+They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
 
 **Quote on the cemetery: ever wonder what could be the oldest and newest? Click here to read what Stallwood discovered find out.**
 
