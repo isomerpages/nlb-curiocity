@@ -90,6 +90,17 @@ So what happened
 
 They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
 
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from H. A. Stallwood what were the oldest and latest tombs he discovered in the cemetery when he was compiling its burial registry which was published in the <span style="font-style: italic;">Letters and books of Sir Stamford Raffles and Lady Raffles</span> (2009). (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13142840" target="_blank">Call no.: RSING 959.5703092 BAS</a>)</span></summary>
+
+<br>  
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rate, be better than leaving one's bones at Bencoolen..."</span>
+
+</details>
+
 Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click here to find out from H. A. Stallwood what could be the oldest and latest tombs in the cemetery.
 
 The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan". It is surmised that this stone was taken from the old original Cemetery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here.
