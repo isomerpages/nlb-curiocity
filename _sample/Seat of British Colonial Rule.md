@@ -57,7 +57,7 @@ _____
 
 ### **Cemeteries**
 
-Besides raising the Union Jack and building a bungalow for Raffles, the British also established two Christian cemeteries on Fort Canning Hill. The first was created in 1820 and was said to be located near Raffles' residence. It was discontinued at the end of 1822 and replaced by a second cemetery. Located on the western slop of the hill near today's Stamford Road, it served the local Christian community until the Bukit Timah Cemetery was opened in 1865.
+Besides raising the Union Jack and building a bungalow for Raffles, the British also established two Christian cemeteries on Fort Canning Hill. The first was created in 1820 and was said to be located near Raffles' residence. It was discontinued at the end of 1822 and replaced by a second cemetery. Located on the western slop of the hill near today's Stamford Road, it served the local Christian community until 1865.
 
 
 
