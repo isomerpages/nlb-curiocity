@@ -77,7 +77,9 @@ Image: arches and monuments
 
 By the end of 1863, the cemetery was full again, and a new site in [Bukit Timah](http://eresources.nlb.gov.sg/infopedia/articles/SIP_730_2005-01-25.html) was identified as an alternative burial site. Although Fort Canning cemetery was closed to further burials on 31 March 1865, the last burial at the cemetery was that of Marie Dominica Scott in December 1868, probably because her parents had been buried there.12  
   
-Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians.13
+Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians.
+
+They stood with the gates designed by...as well as other tombstones...designed by
 
 closure
 
