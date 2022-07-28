@@ -84,7 +84,9 @@ As the cemetery’s burial register had been lost, the government hired H. A. St
 
 **Image: arches and monuments or map**
 
-By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. The new site
+By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. 
+
+So what happened
 
 They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
 
