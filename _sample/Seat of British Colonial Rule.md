@@ -59,8 +59,6 @@ _____
 
 Fort Canning Cemetery was one of the first burial grounds for Christians in Singapore. Located on Fort Canning Hill, the grounds encompassed two burial sites. The first was used from 1819 to 1822, and the second from 1822 to 1865. Fort Canning Cemetery was closed to further burials in 1865, and eventually converted into a park.
 
-Malay annals pre-date cemetery as burial grounds for the kings
-
 **Coleman map even the earliest map only shows the second cemetery**
 
 The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery.
