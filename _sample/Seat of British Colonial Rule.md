@@ -65,6 +65,10 @@ Malay annals pre-date cemetery as burial grounds for the kings
 
 Plate 21: painting with burial ground - 
 
+extension
+
+closure
+
 Quote on the house  
 
 And a Christian cemetery
