@@ -97,13 +97,9 @@ They stood with the gates designed by...as well as other tombstones...designed b
 
 <br>  
 
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rate, be better than leaving one's bones at Bencoolen..."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan". It is surmised that this stone was taken from the old original Cemetery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here."</span>
 
 </details>
-
-Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click here to find out from H. A. Stallwood what could be the oldest and latest tombs in the cemetery.
-
-The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan". It is surmised that this stone was taken from the old original Cemetery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here.
 
 gardens and parks: botanical gardens and spice gardens
 
