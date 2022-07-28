@@ -59,6 +59,8 @@ _____
 
 Fort Canning Cemetery was one of the first burial grounds for Christians in Singapore. Located on Fort Canning Hill, the grounds encompassed two burial sites. The first was used from 1819 to 1822, and the second from 1822 to 1865. Fort Canning Cemetery was closed to further burials in 1865, and eventually converted into a park.
 
+As the cemetery’s burial register had been lost, the government hired H. A. Stallwood, a clerk, to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912.
+
 Coleman map even the earliest map only shows the second cemetery
 
 First cemetery
@@ -71,6 +73,9 @@ The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS
 
 Register lost so someone to re-do
 
+Extension
+
+Monuments
 
 
 Malay annals pre-date cemetery as burial grounds for the kings
