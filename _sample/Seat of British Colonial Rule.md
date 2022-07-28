@@ -75,7 +75,9 @@ As the cemetery’s burial register had been lost, the government hired H. A. St
 
 Extension
 
-Monuments
+Image: arches and monuments
+
+Arches designed by....other Monuments designed by...
 
 extension
 
