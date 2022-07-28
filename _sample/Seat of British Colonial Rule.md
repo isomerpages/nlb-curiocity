@@ -79,6 +79,8 @@ They stood with the gates designed by...as well as other tombstones...designed b
 
 **Quote on the cemetery: ever wonder what could be the oldest and newest? Click here to read what Stallwood discovered find out.**
 
+The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan" A 30. It is surmised that this stone was taken from the old original Ceme- tery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, (B 229) a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here
+
 gardens and parks: botanical gardens and spice gardens
 
 ### **Becoming Fort Canning**
