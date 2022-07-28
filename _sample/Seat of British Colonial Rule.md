@@ -67,11 +67,7 @@ The first burial site of Fort Canning Cemetery was located near the hilltop, clo
 
 Plate 21: painting with burial ground - 
 
-The second burial site was located on the slopes of Fort Canning Hill. This parcel of land was listed as “Lot 576 – Burial ground on Government Hill, two acres” in the register of lands issued by Raffles and the second Resident of Singapore, [John Crawfurd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_188_2005-01-20.html).7  
-  
-The small cemetery soon became full, and Reverend Robert Burn, the resident chaplain, applied for a new burial site in May 1827. In April 1830, after some delay, then Governor [Robert Fullerton](http://eresources.nlb.gov.sg/infopedia/articles/SIP_642_2005-01-10.html) authorised Reverend Burn to select and report on a more suitable site, or submit a proposal to enlarge the existing cemetery. Reverend Burn opted for the latter and included in his proposal a plan to enclose the newly enlarged area with a wall. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path. In 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery.9 These structures still stand today and are one of the main attractions of Fort Canning Park.10  
-  
-Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground.
+The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full so the then resident chaplain Reverend Robert Burn, the then resident chaplain applied for a new burial site in 1827. This request resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. These structures still stand today and are one of the main attractions there. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground.
 
 Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)
 
