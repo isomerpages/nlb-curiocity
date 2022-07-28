@@ -55,9 +55,9 @@ In November 1822, a residence was built for Raffles and his sister’s family on
 
 _____
 
-### **Cemeteries**
+### **Fort Canning Cemetery**
 
-Besides raising the Union Jack and building a bungalow for Raffles, the British also established two Christian cemeteries on Fort Canning Hill. The first was created in 1820 and was said to be located near Raffles' residence. It was discontinued at the end of 1822 and replaced by a second cemetery. Located on the north-western slop of the hill near today's Stamford Road, it served the local Christian community until 1865.
+Fort Canning Cemetery was one of the first burial grounds for Christians in Singapore. Located on Fort Canning Hill, the grounds encompassed two burial sites. The first was used from 1819 to 1822, and the second from 1822 to 1865. Fort Canning Cemetery was closed to further burials in 1865, and eventually converted into a park.
 
 
 
