@@ -75,6 +75,8 @@ And a Christian cemetery
 
 Quote on the cemetery
 
+gardens and parks: botanical gardens and spice gardens
+
 ### **Becoming Fort Canning**
 
 ### **The Malayan Command**
