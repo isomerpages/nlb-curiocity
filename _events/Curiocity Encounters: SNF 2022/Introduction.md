@@ -25,10 +25,10 @@ Experience Singapore’s familiar spaces and venues in fresh ways at this year�
 
 *Curiocity Encounters: Singapore Night Festival 2022* draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories.
 
-This showcase will run from 19 to 27 August 2022 at the National Archives Building and across several locations in the Bras Basah.Bugis precinct.
+This showcase will run from 19 August to 27 August 2022 at the National Archives Building and across several locations in the Bras Basah.Bugis precinct.
 
 Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx){:target="_blank"}, a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
-
+<br>
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-orange">
@@ -74,19 +74,17 @@ Visit Curiocity installations during the [Singapore Night Festival 2022](https:/
 <br>**National Archives Building, Level 1**
 <br>Take a trip down memory lane with this hyper colourful visual treat that highlights Singapore’s cinemas of times past.
 <br>
-#### **DISPLAY**
-Learn something new about Bras Basah.Bugis in this visual showcase at the National Archives of Singapore.
-
 ##### **Curiocity: Sights & Stories**
-**Dates: 3 January – 3 February 2022** (closed on 1 & 2 February)
+**Dates: 19 August – 27 August 2022**
 <br>**Venue: National Archives Building, Atrium, Level 3**
-<br>Check out the National Archives Building for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. 
+<br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. 
+<br>
 <br>
 ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **PROGRAMMES**
-That's not all! A series of Curiocity activities have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of programmes [here](/events/curiocity-encounters-snf/programmes){:target="_blank"}.
+That's not all! A series of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"}.
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
