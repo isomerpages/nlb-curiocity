@@ -44,7 +44,7 @@ Don't miss out on the folllowing [programmes](https://www.eventbrite.com/cc/curi
 
 **Traditional Puppetry Performance by San Chun Long**
 <br>Date: 27 August 2022
-<br>Time: 7 pm – 7.30 pm and 8 pm – 8:30pm
+<br>Time: 7 pm – 7.30 pm & 8 pm – 8:30pm
 <br>Venue: National Archives Building, Level 1
 <br>
 <br>When was the last time you saw a live Chinese puppetry performance? Once common sights at temples and in the heartlands of Singapore, they are now rarely seen. Experience this artform as Hainanese rod puppet troupe, San Chun Long, performs this traditional craft with miniature puppets dressed in traditional Chinese opera costumes. Click [here](){:target="_blank"} for details.
