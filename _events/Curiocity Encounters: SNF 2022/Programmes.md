@@ -26,4 +26,4 @@ Don't miss out on the folllowing [programmes](https://www.eventbrite.com/cc/curi
 | **Date** | **Title** | **Venue** | **Time** | **Info**|
 | -------- | -------- | -------- | -------- | -------- |
 |**20 & 26 Aug**    | **Cityscapes of Yesteryear: Screening and Music Performance**  | National Archives Building     | 7:30pm to 8:00pm  | Click [here](){:target="_blank"} for info |
-|**27 Aug**     | **Traditional Puppetry Performance by San Chun Long**    | Zoom  | 7:00pm to 7:30pm and 8:00pm to 8:30pm   | Click [here](){:target="blank"} for info |
+|**27 Aug**     | **Traditional Puppetry Performance by San Chun Long**    | National Archives Building  | 7:00pm to 7:30pm and 8:00pm to 8:30pm   | Click [here](){:target="blank"} for info |
