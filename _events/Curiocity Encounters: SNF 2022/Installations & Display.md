@@ -49,7 +49,7 @@ ___
 
 <h5 class="margin--bottom--lg" id="speakcryptic"></h5>
 
-![Alt text for image on Isomer site](/images/theriverconnectsacm.png)
+![Alt text for image on Isomer site](/images/SpeakCryptic_KV_Promo-01.jpg)
 
 #### **An Ocean Without the Anchor**
 **19 August – 27 August 2022**
@@ -60,19 +60,19 @@ ___
 
 Conveying the value of *bergotong-royong* (Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional *kampung* house, signifying shelter and safety as our community slowly transitions into “the new normal”.
 
-Creating an atmospheric auditory experience is an accompanying soundtrack featuring the sounds of the sea and *kampung* life drawn from SoundScapeSG and the National Archives of Singapore.
+Creating an atmospheric auditory experience is an accompanying [soundtrack](){:target="_blank"} featuring the sounds of the sea and *kampung* life drawn from SoundScapeSG and the National Archives of Singapore.
 
 **About the artist:**
 <br>Farizwan Fajari, professionally known as [Speak Cryptic](https://www.speakcryptic.com){:target="_blank"}, is a Singapore-based artist. Endless manifestations of the self are a feature of his work, depicting identity in the form of texts and phrases extracted from punk lyrics and intricate patterns and figures. His drawings, paintings and installations stem from inquiries into ancestral migration, ethnic dislocation, gentrification and alternative subcultures. Fajari has participated in exhibitions such as the Koganecho Art Bazaar (Yokohama, Japan, 2018), the 1st Kuala Lumpur Biennale (2017), Secret Archipelago (Paris, France, 2015), the Singapore Biennale (2013) and Future Proof (Singapore, 2012).
 
 **Learn more:**
-<br>To find out more the development of Bugis, check out [Becoming Bras Basah Bugis](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/conclude-bb){:target="_blank"} in Curiocity's Bras Basah digital story or watch this [episode](https://youtu.be/7u8uNHRJ1HM){:target="_blank"} of The Library Report.
+<br>To find out more about the development of Bugis, check out [Becoming Bras Basah Bugis](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/conclude-bb){:target="_blank"} in Curiocity's Bras Basah digital story or watch this [episode](https://youtu.be/7u8uNHRJ1HM){:target="_blank"} of The Library Report.
 
 ___
 
 <h5 class="margin--bottom--lg" id="farm"></h5>
 
-![Alt text for image on Isomer site](/images/atessellationofmemories.jpg)
+![Alt text for image on Isomer site](/images/FARM_KV1.jpg)
 
 #### **Paddy Fields**
 **19 August – 27 August 2022**
@@ -93,7 +93,7 @@ ___
 
 <h5 class="margin--bottom--lg" id="mojoko"></h5>
 
-![Alt text for image on Isomer site](/images/lumba.jpg)
+![Alt text for image on Isomer site](/images/MOJOKO_KV_HD.jpg)
 
 #### **Midnight Show at the Capitol**
 **19 August – 27 August 2022**
