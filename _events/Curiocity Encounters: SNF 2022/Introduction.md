@@ -56,8 +56,8 @@ Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](htt
 ___
 <h5 class="margin--bottom--lg" id="installations"></h5>
 
-#### **INSTALLATIONS**
-Visit Curiocity installations during the [Singapore Night Festival 2022](https://www.nightfestival.gov.sg){:target="_blank"} to explore local history reimagined, and experience how these creative works light up the Bras Basah.Bugis precinct. Find out more [here](/events/curiocity-encounters-snf/installations){:target="_blank"}.
+#### **INSTALLATIONS & DISPLAY**
+Visit Curiocity installations and display during the [Singapore Night Festival 2022](https://www.nightfestival.gov.sg){:target="_blank"} to explore local history reimagined, and experience how these creative works light up the Bras Basah.Bugis precinct. Find out more [here](/events/curiocity-encounters-snf/installations){:target="_blank"}.
 
 ##### **An Ocean Without the Anchor**
 **Dates: 19 August – 27 August 2022**
