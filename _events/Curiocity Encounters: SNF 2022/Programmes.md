@@ -12,7 +12,7 @@ Don't miss out on the folllowing [programmes](https://www.eventbrite.com/cc/curi
 
 **HEAT OF THE NIGHT**
 <br>Dates: 19 August – 27 August 2022
-<br>Time: 7.30pm – 11:00pm
+<br>Time: 7.30 pm – 11 pm
 <br>Starting point: National Museum of Singapore
 <br>
 <br>Experience a rush of memories this Singapore Night Festival 2022 and join a self-guided race down memory lane in the Bras Basah.Bugis (BBB) precinct. Fastest racers will be in the running to win attractive prizes, on top of bragging rights! Gather your friends and families to solve clues and uncover stories (and heritage) behind some beloved spots of the BBB city centre through interactive activities. Buy your tickets for this self-guided race now! Click [here](https://www.klook.com/activity/74704-heat-night-singapore/){:target="_blank"} to register for the self-guided race.
