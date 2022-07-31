@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - "Curiocity Encounters: SNF 2022/.keep"
       - Events.md
+      - "Curiocity Encounters: SNF 2022/.keep"
       - Curiocity Showcase 2022/.keep
       - Curiocity Showcase 2022/Introduction.md
       - Curiocity Showcase 2022/Main Showcase.md
