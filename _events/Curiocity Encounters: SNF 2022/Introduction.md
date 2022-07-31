@@ -77,7 +77,7 @@ Visit Curiocity installations during the [Singapore Night Festival 2022](https:/
 ##### **Curiocity: Sights & Stories**
 **Dates: 19 August – 27 August 2022**
 <br>**Venue: National Archives Building, Atrium, Level 3**
-<br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. 
+<br>Check out the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. 
 <br>
 <br>
 ________
