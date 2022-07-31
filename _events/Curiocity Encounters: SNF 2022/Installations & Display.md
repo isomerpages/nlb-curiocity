@@ -20,7 +20,10 @@ title: Installations & Display
 </style>
 
 ## **Installations**
-Explore Curiocity installations in the Bras Basah.Bugis precinct during the Singapore Night Festival 2022. See how our history comes alive through new creative works by artists based in Singapore.
+Explore Curiocity installations in the Bras Basah.Bugis precinct during the [Singapore Night Festival 2022](https://www.nightfestival.gov.sg){:target="_blank"}! See how our history comes alive through new creative works by artists based in Singapore.
+
+The installations are co-presented by the National Heritage Board (NHB) and National Library Board (NLB) as part of Singapore Night Festival and Curiocity, an NLB initiative, to discover hidden stories and facets of Singapore's past from the National Library and the National Archives of Singapore collections. #SGStoryTellers
+<br>
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-orange">
