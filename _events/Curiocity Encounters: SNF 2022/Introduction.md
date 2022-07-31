@@ -84,7 +84,8 @@ ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **PROGRAMMES**
-That's not all! A series of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"}.
+That's not all! A variety of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. 
+<br>View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"}.
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
@@ -100,7 +101,6 @@ There is much to discover in Bras Basah. To gain fresh insight and new perspecti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7u8uNHRJ1HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
 ________
 
 #### **ACKNOWLEDGEMENTS**
