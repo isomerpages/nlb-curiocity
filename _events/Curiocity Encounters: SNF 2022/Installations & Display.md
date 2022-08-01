@@ -56,7 +56,7 @@ ___
 
 #### **An Ocean Without the Anchor**
 **19 August – 27 August 2022**
-<br>**Outside Raffles City**
+<br>**Outside Raffles City** (facing Capitol; 252 North Bridge Road, Singapore 179103)
 
 **About the installation:**
 <br>*An Ocean Without the Anchor* is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers. 
@@ -79,7 +79,7 @@ ___
 
 #### **Paddy Fields**
 **19 August – 27 August 2022**
-<br>**Stamford Walkway**
+<br>**Stamford Walkway** (along Stamford Road, corner facing junction that leads towards SMU Lee Kong Chian School of Business)
 
 **About the installation:**
 <br>*Paddy Fields* recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19th-century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
@@ -100,7 +100,7 @@ ___
 
 #### **Midnight Show at the Capitol**
 **19 August – 27 August 2022**
-<br>**National Archives Building, Level 1**
+<br>**National Archives Building, Level 1** (1 Canning Rise, Singapore 179868)
 
 **About the installation:**
 <br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions, *Midnight Show at the Capitol* lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
@@ -116,5 +116,5 @@ ___
 ## **Display**
 #### **Curiocity: Sights & Stories**
 **19 August – 27 August 2022**
-<br>**National Archives Building, Atrium, Level 3**
+<br>**National Archives Building, Atrium, Level 3** (1 Canning Rise, Singapore 179868)
 <br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
