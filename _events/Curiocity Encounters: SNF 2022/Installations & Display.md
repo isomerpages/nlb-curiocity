@@ -56,10 +56,10 @@ ___
 
 #### **An Ocean Without the Anchor**
 **19 August – 27 August 2022**
-<br>**Outside Raffles City** (facing Capitol; 252 North Bridge Road, Singapore 179103)
+<br>**Outside Raffles City** (facing Capitol)
 
 **About the installation:**
-<br>*An Ocean Without the Anchor* is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers. 
+<br>*An Ocean Without the Anchor*  is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers. 
 
 Conveying the value of *bergotong-royong* (Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional *kampung* house, signifying shelter and safety as our community slowly transitions into “the new normal”.
 
@@ -82,7 +82,7 @@ ___
 <br>**Stamford Walkway** (along Stamford Road, corner facing junction that leads towards SMU Lee Kong Chian School of Business)
 
 **About the installation:**
-<br>*Paddy Fields* recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
+<br>*Paddy Fields*  recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
 
 Follow the text running along the clusters of rice paddy to trace the story of Bras Basah (which means “wet rice” in Malay) – from its agricultural roots to its history of redevelopment over the years. These quotes are extracted from poems (including “Bras Basah 1953” by Singapore poet Edwin Thumboo) and articles found in the collections of the National Archives of Singapore and National Library.
 
@@ -100,10 +100,10 @@ ___
 
 #### **Midnight Show at the Capitol**
 **19 August – 27 August 2022**
-<br>**National Archives Building, Level 1** (1 Canning Rise, Singapore 179868)
+<br>**National Archives Building** 
 
 **About the installation:**
-<br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions, *Midnight Show at the Capitol* lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
+<br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions, *Midnight Show at the Capitol*  lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
 
 **About the artist:**
 <br>If you are not already familiar with his work, [MOJOKO](https://mojoko.net){:target="_blank"}  is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of *EYEYAH!* Magazine, he hopes to share this creativity to inspire the next generation of artists.
