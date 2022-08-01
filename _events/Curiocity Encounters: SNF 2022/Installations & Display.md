@@ -82,7 +82,7 @@ ___
 <br>**Stamford Walkway** (along Stamford Road, corner facing junction that leads towards SMU Lee Kong Chian School of Business)
 
 **About the installation:**
-<br>*Paddy Fields* recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19th-century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
+<br>*Paddy Fields* recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
 
 Follow the text running along the clusters of rice paddy to trace the story of Bras Basah (which means “wet rice” in Malay) – from its agricultural roots to its history of redevelopment over the years. These quotes are extracted from poems (including “Bras Basah 1953” by Singapore poet Edwin Thumboo) and articles found in the collections of the National Archives of Singapore and National Library.
 
