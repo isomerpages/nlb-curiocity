@@ -23,7 +23,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 ## **Curiocity Encounters: Singapore Night Festival 2022**
 Experience Singapore’s familiar spaces and venues in fresh ways at this year’s Singapore Night Festival! Visit *Curiocity Encounters* and unearth old and new stories of the Bras Basah.Bugis precinct through a series of creative installations, programmes, tours and digital content.
 
-*Curiocity Encounters: Singapore Night Festival 2022* draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories.
+*Curiocity Encounters: Singapore Night Festival 2022*  draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories.
 
 This showcase will run from 19 August to 27 August 2022 at the National Archives Building and across several locations in the Bras Basah.Bugis precinct.
 
@@ -67,11 +67,11 @@ Visit Curiocity installations and display during the [Singapore Night Festival 2
 ##### **Paddy Fields**
 **Dates: 19 August – 27 August 2022**
 <br>**Venue: Stamford Walkway**
-<br>The artwork recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19th-century.
+<br>The artwork recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century.
 <br>
 ##### **Midnight Show at the Capitol**
 **Dates: 19 August – 27 August 2022**
-<br>**National Archives Building, Level 1**
+<br>**Venue: National Archives Building**
 <br>Take a trip down memory lane with this hyper colourful visual treat that highlights Singapore’s cinemas of times past.
 <br>
 ##### **Curiocity: Sights & Stories**
@@ -83,7 +83,7 @@ ________
 <h5 class="margin--bottom--lg" id="programmes"></h5>
 
 #### **PROGRAMMES**
-There's not all! A variety of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"} and join in!
+There's not all. A variety of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"} and join in!
 
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
