@@ -44,13 +44,6 @@ Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](htt
       </a>
     </div>
   </div>
-	<div class="col is-one-half">
-    <div class="clickbox is-orange">
-      <a href="#onlinecontent">
-        <span>Online Discovery</span>
-      </a>
-    </div>
-  </div>
   </div>
 
 ________
