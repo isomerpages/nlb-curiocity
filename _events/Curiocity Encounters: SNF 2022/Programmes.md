@@ -6,7 +6,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 ---
 ## **Programmes**
 
-Don't miss out on the following [programmes](https://www.eventbrite.com/cc/curiocity-encounterssingapore-night-festival-2022-955069){:target="_blank"} that we have for you at the National Archives Building and Bras Basah.Bugis precinct. Hope to see you there!
+Don't miss out on the following [programmes](https://www.eventbrite.com/cc/curiocity-encounterssingapore-night-festival-2022-955069){:target="_blank"} that we have curated for you at the National Archives Building and Bras Basah.Bugis precinct. Hope to see you there!
 
 ##### **Tours**
 
