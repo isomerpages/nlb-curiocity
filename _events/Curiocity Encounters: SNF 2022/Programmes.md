@@ -24,7 +24,7 @@ This programme is co-presented by the National Heritage Board (NHB) and National
 <br>Time: 8 pm – 9 pm
 <br>Starting point: National Archives Building, Archives Reading Room, Level 2
 <br>
-<br>Did you know that the National Archives of Singapore (NAS) sits on the site that was once Anglo-Chinese School (Primary)? Do you know which other schools used to be located in the Bras Basah.Bugis precinct? Join heritage guide Jerome Lim as he takes you on a journey to discover the interesting tales held at NAS, as well as former school buildings in the neighbourhood. Click to register for the tour on various dates: [19 Aug](https://www.eventbrite.com/e/school-bells-and-hallways-memories-of-former-school-buildings-tickets-394217203267), [20 Aug](https://www.eventbrite.com/e/394217393837), [26 Aug](https://www.eventbrite.com/e/394217544287) or [27 Aug](https://www.eventbrite.com/e/394217624527).
+<br>Did you know that the National Archives of Singapore (NAS) sits on the site that was once Anglo-Chinese School (Primary)? Do you know which other schools used to be located in the Bras Basah.Bugis precinct? Join heritage guide Jerome Lim as he takes you on a journey to discover the interesting tales held at NAS, as well as former school buildings in the neighbourhood. Click to register for the tour, various sessions available on: [19 Aug](https://www.eventbrite.com/e/school-bells-and-hallways-memories-of-former-school-buildings-tickets-394217203267), [20 Aug](https://www.eventbrite.com/e/394217393837), [26 Aug](https://www.eventbrite.com/e/394217544287) or [27 Aug](https://www.eventbrite.com/e/394217624527).
 
 ##### **Talk**
 
