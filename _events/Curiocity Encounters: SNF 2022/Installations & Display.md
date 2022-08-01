@@ -116,5 +116,5 @@ ___
 ## **Display**
 #### **Curiocity: Sights & Stories**
 **19 August – 27 August 2022**
-<br>**National Archives Building, Atrium, Level 3** (1 Canning Rise, Singapore 179868)
+<br>**National Archives Building, Atrium, Level 3** 
 <br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
