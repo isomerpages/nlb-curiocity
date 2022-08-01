@@ -63,7 +63,7 @@ ___
 
 Conveying the value of *bergotong-royong* (Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional *kampung* house, signifying shelter and safety as our community slowly transitions into “the new normal”.
 
-Creating an atmospheric auditory experience is an accompanying [soundtrack](){:target="_blank"} featuring the sounds of the sea and *kampung* life drawn from SoundScapeSG and the National Archives of Singapore.
+Creating an atmospheric auditory experience is an accompanying [soundtrack]([An Ocean Without The Anchor - SPEAK CRYPTIC](https://www.speakcryptic.com/an-ocean-without-the-anchor.html)){:target="_blank"} featuring the sounds of the sea and *kampung* life drawn from SoundScapeSG and the National Archives of Singapore.
 
 **About the artist:**
 <br>Farizwan Fajari, professionally known as [Speak Cryptic](https://www.speakcryptic.com){:target="_blank"}, is a Singapore-based artist. Endless manifestations of the self are a feature of his work, depicting identity in the form of texts and phrases extracted from punk lyrics and intricate patterns and figures. His drawings, paintings and installations stem from inquiries into ancestral migration, ethnic dislocation, gentrification and alternative subcultures. Fajari has participated in exhibitions such as the Koganecho Art Bazaar (Yokohama, Japan, 2018), the 1st Kuala Lumpur Biennale (2017), Secret Archipelago (Paris, France, 2015), the Singapore Biennale (2013) and Future Proof (Singapore, 2012).
