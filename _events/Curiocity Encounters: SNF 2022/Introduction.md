@@ -21,7 +21,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 
 ![Alt text for image on Isomer site](/images/CuriocitySNF%20Website%20Webbanner.png)
 ## **Curiocity Encounters: Singapore Night Festival 2022**
-Experience Singapore’s familiar spaces and venues in fresh ways at this year’s Singapore Night Festival! Visit *Curiocity Encounters* and unearth old and new stories of the Bras Basah.Bugis precinct through a series of creative installations, programmes, tours and digital content.
+Experience Singapore’s familiar spaces and venues in fresh ways at this year’s Singapore Night Festival! Visit *Curiocity Encounters*  and unearth old and new stories of the Bras Basah.Bugis precinct through a series of creative installations, programmes, tours and digital content.
 
 *Curiocity Encounters: Singapore Night Festival 2022*  draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories.
 
