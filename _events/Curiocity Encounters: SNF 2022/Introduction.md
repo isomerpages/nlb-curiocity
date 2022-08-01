@@ -19,7 +19,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 .clickbox.is-orange a:hover { background-color: #F3B69E; color: #000000; }	
 </style>
 
-![Alt text for image on Isomer site](/images/CuriocityShowcasePPwebtopbanner.jpg)
+![Alt text for image on Isomer site](/images/CuriocitySNF%20Website%20Webbanner.png)
 ## **Curiocity Encounters: Singapore Night Festival 2022**
 Experience Singapore’s familiar spaces and venues in fresh ways at this year’s Singapore Night Festival! Visit *Curiocity Encounters* and unearth old and new stories of the Bras Basah.Bugis precinct through a series of creative installations, programmes, tours and digital content.
 
