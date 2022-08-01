@@ -32,14 +32,14 @@ Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](htt
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-orange">
-      <a href="#installations">
+      <a href="events/curiocity-encounters-snf/installations">
         <span>Installations & Display</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-orange">
-      <a href="#programmes">
+      <a href="events/curiocity-encounters-snf/programmes">
         <span>Programmes</span>
       </a>
     </div>
