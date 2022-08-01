@@ -6,7 +6,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 ---
 ## **Programmes**
 
-Don't miss out on the following [programmes](){:target="_blank"} that we have lined up for you at the National Archives Building and Bras Basah.Bugis precinct. Register to secure a spot!
+Don't miss out on the following [programmes](){:target="_blank"} that we have lined up for you at the National Archives Building and Bras Basah.Bugis precinct. Hope to see you there!
 
 ##### **Tours**
 
