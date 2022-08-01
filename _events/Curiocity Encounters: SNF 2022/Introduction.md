@@ -28,6 +28,9 @@ Experience Singapore’s familiar spaces and venues in fresh ways at this year�
 This showcase will run from 19 August to 27 August 2022 at the National Archives Building and across several locations in the Bras Basah.Bugis precinct.
 
 Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx){:target="_blank"}, a five-year journey of our next phase of transformation. Curiocity contributes towards our role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process.
+
+Find out more about the events lined up:
+
 <br>
 <div class="row is-multiline">
   <div class="col is-one-half">
