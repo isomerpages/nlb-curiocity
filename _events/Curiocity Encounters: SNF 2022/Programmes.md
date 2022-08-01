@@ -6,7 +6,7 @@ third_nav_title: "Curiocity Encounters: SNF 2022"
 ---
 ## **Programmes**
 
-Don't miss out on the following [programmes](){:target="_blank"} that we have lined up for you at the National Archives Building and Bras Basah.Bugis precinct. Hope to see you there!
+Don't miss out on the following [programmes](){:target="_blank"} that we have for you at the National Archives Building and Bras Basah.Bugis precinct. Hope to see you there!
 
 ##### **Tours**
 
@@ -49,4 +49,4 @@ This programme is co-presented by the National Heritage Board (NHB) and National
 <br>Time: 7 pm – 7.30 pm & 8 pm – 8.30 pm
 <br>Venue: National Archives Building, Level 1
 <br>
-<br>When was the last time you saw a live Chinese puppetry performance? Once common sights at temples and in the heartlands of Singapore, they are now rarely seen. Experience this artform as Hainanese rod puppet troupe, San Chun Long, performs this traditional craft with miniature puppets dressed in traditional Chinese opera costumes. 
+<br>When was the last time you saw a live Chinese puppetry performance? Once common sights at temples and in the heartlands of Singapore, they are now rarely seen. Experience this artform as Hainanese rod puppet troupe, San Chun Long, performs this traditional craft with miniature puppets dressed in traditional Chinese opera costumes.
