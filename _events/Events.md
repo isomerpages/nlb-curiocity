@@ -8,7 +8,7 @@ description: ""
 | [<img src="/images/CuriocitySNF%20Website%20Webbanner.png" alt="central-area" style="width:650px" />](/events/curiocity-encounters-snf)   | Curiocity comes alive at night in the Bras Basah.Bugis precinct. Click [here](/events/curiocity-encounters-snf){:target="_blank"} to find out more.
 |
 
-| [**<font size=5> Curiocity Showcase </font>**](/events/curiocity-showcase-2022){:target="_blank"}  |  | 
+| [**<font size=5> Curiocity: Places & Perspectives </font>**](/events/curiocity-showcase-2022){:target="_blank"}  |  | 
 | -------- | -------- | 
 | [<img src="/images/CuriocityShowcasePPmainbanner.jpg" alt="central-area" style="width:650px" />](/events/curiocity-showcase-2022)   | To illustrate how Singapore's physical landscape has evolved over time, the theme for the inaugural Curiocity Showcase is "Places and Perspectives". Click [here](/events/curiocity-showcase-2022){:target="_blank"} to check it out.
 |
