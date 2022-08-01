@@ -42,11 +42,11 @@ This programme is co-presented by the National Heritage Board (NHB) and National
 <br>Time: 7.30 pm – 8 pm
 <br>Venue: National Archives Building, Atrium, Level 3
 <br>
-<br>Curious about how Singapore’s city centre looked like in the 1950s and 60s? Join us for a special screening of rare colour footage featuring Singapore’s streets and landmarks, and enjoy live music performed by M’Ode Wind Quintet, known for their unique yet flexible sound. Click [here](){:target="_blank"} for details.
+<br>Curious about how Singapore’s city centre looked like in the 1950s and 60s? Join us for a special screening of rare colour footage featuring Singapore’s streets and landmarks, and enjoy live music performed by M’Ode Wind Quintet, known for their unique yet flexible sound. 
 
 **Traditional Puppetry Performance by San Chun Long**
 <br>Date: 27 August 2022
 <br>Time: 7 pm – 7.30 pm & 8 pm – 8.30 pm
 <br>Venue: National Archives Building, Level 1
 <br>
-<br>When was the last time you saw a live Chinese puppetry performance? Once common sights at temples and in the heartlands of Singapore, they are now rarely seen. Experience this artform as Hainanese rod puppet troupe, San Chun Long, performs this traditional craft with miniature puppets dressed in traditional Chinese opera costumes. Click [here](){:target="_blank"} for details.
+<br>When was the last time you saw a live Chinese puppetry performance? Once common sights at temples and in the heartlands of Singapore, they are now rarely seen. Experience this artform as Hainanese rod puppet troupe, San Chun Long, performs this traditional craft with miniature puppets dressed in traditional Chinese opera costumes. 
