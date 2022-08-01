@@ -17,6 +17,8 @@ Don't miss out on the following [programmes](){:target="_blank"} that we have li
 <br>
 <br>Experience a rush of memories this Singapore Night Festival 2022 and join a self-guided race down memory lane in the Bras Basah.Bugis (BBB) precinct. Fastest racers will be in the running to win attractive prizes, on top of bragging rights! Gather your friends and families to solve clues and uncover stories (and heritage) behind some beloved spots of the BBB city centre through interactive activities. Buy your tickets for this self-guided race now! Click [here](https://www.klook.com/activity/74704-heat-night-singapore/){:target="_blank"} to register for the self-guided race.
 
+This programme is co-presented by the National Heritage Board (NHB) and National Library Board (NLB) as part of Singapore Night Festival and Curiocity, to discover hidden stories and facets of Singapore’s past from the National Library and the National Archives of Singapore collections. #SGStoryTellers
+
 **School Bells and Hallways: Memories of Former School Buildings**
 <br>Dates: 19, 20, 26 & 27 August 2022
 <br>Time: 8 pm – 9 pm
