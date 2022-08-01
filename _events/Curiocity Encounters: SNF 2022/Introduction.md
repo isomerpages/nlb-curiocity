@@ -53,38 +53,6 @@ Curiocity is part of NLB’s [Libraries and Archives Blueprint 2025 (LAB25)](htt
   </div>
   </div>
 
-___
-<h5 class="margin--bottom--lg" id="installations"></h5>
-
-#### **INSTALLATIONS & DISPLAY**
-Visit Curiocity installations and display during the [Singapore Night Festival 2022](https://www.nightfestival.gov.sg){:target="_blank"} to explore local history reimagined, and experience how these creative works light up the Bras Basah.Bugis precinct. Find out more [here](/events/curiocity-encounters-snf/installations){:target="_blank"}.
-
-##### **An Ocean Without the Anchor**
-**Dates: 19 August – 27 August 2022**
-<br>**Venue: Outside Raffles City**
-<br>Inspired by the lighthouse, this installation features a sturdy structure synonymous with being a beacon of hope shining in the darkness.
-<br>
-##### **Paddy Fields**
-**Dates: 19 August – 27 August 2022**
-<br>**Venue: Stamford Walkway**
-<br>The artwork recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century.
-<br>
-##### **Midnight Show at the Capitol**
-**Dates: 19 August – 27 August 2022**
-<br>**Venue: National Archives Building**
-<br>Take a trip down memory lane with this hyper colourful visual treat that highlights Singapore’s cinemas of times past.
-<br>
-##### **Curiocity: Sights & Stories**
-**Dates: 19 August – 27 August 2022**
-<br>**Venue: National Archives Building, Atrium, Level 3**
-<br>Check out the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. 
-
-________
-<h5 class="margin--bottom--lg" id="programmes"></h5>
-
-#### **PROGRAMMES**
-There's not all. A variety of Curiocity programmes have been lined up for you at the National Archives Building and Bras Basah.Bugis precinct. View the list of activities [here](/events/curiocity-encounters-snf/programmes){:target="_blank"} and join in!
-
 ________
 <h5 class="margin--bottom--lg" id="onlinecontent"></h5>
 
