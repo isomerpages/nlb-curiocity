@@ -114,7 +114,7 @@ ___
 ___
 
 ## **Display**
-![Alt text for image on Isomer site](/images/NASdisplay_Overallview.png)
+![Alt text for image on Isomer site](/images/NASdisplay_Overallview2.png)
 #### **Curiocity: Sights & Stories**
 **19 August – 27 August 2022**
 <br>**National Archives Building, Atrium, Level 3** 
