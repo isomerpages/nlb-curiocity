@@ -114,7 +114,6 @@ https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
 
 
-
 ### **The Malayan Command**
 
 **Coleman map even the earliest map only shows the second cemetery**
