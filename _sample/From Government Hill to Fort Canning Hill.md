@@ -97,6 +97,8 @@ Image: Map
 
 What the fort had
 
+The fort had extensive defences; there was a moat that ran around the thick fort walls, which were able to withstand artillery bombardment. In addition, the main fort housed amenities such as officers’ quarters. The firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
+
 The end
 
 ### **The Malayan Command**
