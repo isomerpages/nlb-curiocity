@@ -75,6 +75,6 @@ sections:
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
-notification: "Visit Curiocity Encounters: Singapore Night Festival 2022 (19-27
-  August) at the National Archives Building and Bras Basah.Bugis precinct!"
+notification: "Visit Curiocity Encounters: Singapore Night Festival 2022 at the
+  National Archives Building and Bras Basah.Bugis precinct, 19 to 27 August!"
 ---
