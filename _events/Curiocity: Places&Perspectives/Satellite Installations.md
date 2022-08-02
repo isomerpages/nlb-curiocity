@@ -2,8 +2,9 @@
 title: Satellite Installations
 permalink: /events/Curiocity-Showcase-2022/satellite
 description: ""
-third_nav_title: Curiocity Showcase 2022
+third_nav_title: "Curiocity: Places&Perspectives"
 ---
+
 <style type="text/css">
 	/* Click Box */
 .clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
