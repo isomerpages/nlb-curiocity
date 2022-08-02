@@ -94,7 +94,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 <br>  
 
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rate, be better than leaving one's bones at Bencoolen..."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"...On the hill overlooking the Settlement, and commanding it and a considerable portion of the anchorage, a small Fort, capable of mounting 8 or 10 pounders together with a barrack for the permanent residence of 30 European artillery, and of temporary accommodation of the rest of the garrison in case of emergency."</span>
 
 </details>
 
