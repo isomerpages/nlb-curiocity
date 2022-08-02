@@ -57,7 +57,7 @@ _____
 
 ### **Christian Cemetery**
 
-Besides Government House and the flagstaff, Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian cemetery.
+Besides Government House and the flagstaff, Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian cemetery. Today, the former burial grounds are now part of the Fort Canning Park.
 
 |   | 
 |:--------:| 
