@@ -87,6 +87,8 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was eventually demolished in 1907, with only the archway entrance still standing today.
 
+
+
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
