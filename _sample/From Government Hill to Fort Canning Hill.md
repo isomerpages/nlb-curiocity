@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides raising the Union Jack on its summit, a bungalow, which initially served as the residence of Sir Stamford Raffles before becoming the official residence of colonial governors, was built as well. The hill was also renamed "Government Hill" although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
+After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides raising the Union Jack on its summit, a bungalow was built there as well. The hill was also renamed "Government Hill" in 1823 although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
 -----
 
@@ -31,7 +31,7 @@ _____
 
 ### **Government House**
 
-In November 1822, a residence was built for Raffles and his sister’s family on the hill. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
+The bungalow on the summit of Fort Canning Hill was built in late 1822 for Raffles and his sister’s family. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
 
 -----
 
@@ -57,7 +57,7 @@ _____
 
 ### **Christian Cemetery**
 
-Fort Canning Cemetery was one of the first burial grounds for Christians in Singapore. Located on Fort Canning Hill, the grounds encompassed two burial sites. The first was used from 1819 to 1822, and the second from 1822 to 1865. Fort Canning Cemetery was closed to further burials in 1865, and eventually converted into a park.
+Besides Government House and the flagstaff, Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of the Bukit Timah Christian cemetery.
 
 |   | 
 |:--------:| 
@@ -89,7 +89,7 @@ https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
 
-Government Hill until 1861 when a fort was completed on the hill and named after Viscount Charles John Canning, the Governor-General and First Viceroy of India. Various buildings were constructed on the hill for the garrison stationed there, including a hospital. The fort was eventually demolished in 1907, with only the archway entrance still standing today.
+In 1861, when a fort was completed on the hill and named after Viscount Charles John Canning, the Governor-General and First Viceroy of India. Various buildings were constructed on the hill for the garrison stationed there, including a hospital. The fort was eventually demolished in 1907, with only the archway entrance still standing today.
 
 In 1859, Government House was demolished and the construction of an artillery fort was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. Built on an excavated plateau, the fort was completed in 1861 by 400 Chinese coolies. It was named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862).
 
