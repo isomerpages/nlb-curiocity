@@ -109,7 +109,7 @@ Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of v
 
 Image: Cannon
 
-...and the firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
+Did not see any battles...and the firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
 
 quote? was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. 
 
