@@ -105,7 +105,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 Image: Map
 
- the fort was completed in 1861 by 400 Chinese coolies. Various buildings were constructed on the hill for the garrison stationed there, including a hospital. The fort had extensive defences; there was a moat that ran around the thick fort walls, which were able to withstand artillery bombardment. In addition, the main fort housed amenities such as officers’ quarters. The firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
+Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there, including messes, officers' quarters and a hospital. The fort also had extensive defences. For instance, there was a moat that ran around the thick fort walls, which were able to withstand artillery bombardment. Furthermore, there were also XXX number of cannons...and the firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
 
 quote? was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. 
 
