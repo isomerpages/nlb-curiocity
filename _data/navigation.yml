@@ -23,7 +23,9 @@ links:
   - title: Events
     url: /events/overview
     sublinks:
-      - title: Curiocity Showcase
+      - title: "Curiocity Encounters: SNF 2022"
+        url: /events/curiocity-encounters-snf
+      - title: "Curiocity: Places&Perspectives"
         url: /events/curiocity-showcase-2022
       - title: Curiocity Treasure Hunt
         url: /events/curiocity-treasure-hunt/introduction
