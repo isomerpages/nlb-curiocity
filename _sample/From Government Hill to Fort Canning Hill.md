@@ -83,6 +83,8 @@ Fort Canning Cemetery was one of the first burial grounds for Christians in Sing
 
 ### **Becoming Fort Canning**
 
+In 1859, Government House was demolished and the construction of an artillery fort was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. Built on an excavated plateau, the fort was completed in 1861 by 400 [Chinese coolies](http://eresources.nlb.gov.sg/infopedia/articles/SIP_87_2004-12-15.html).25 It was named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862).26
+
 ### **The Malayan Command**
 
 **Coleman map even the earliest map only shows the second cemetery**
