@@ -87,6 +87,17 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was eventually demolished in 1907, with only the archway entrance still standing today.
 
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Despite being a simple structure, Raffles enjoyed staying in his bungalow on Fort Canning Hil. In fact, he liked it so much that he even suggested in his letter to William Marsden dated 21 January 1823 that he wanted to be buried there. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote which can be found in <span style="font-style: italic;">Letters and books of Sir Stamford Raffles and Lady Raffles</span> (2009). (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13142840" target="_blank">Call no.: RSING 959.5703092 BAS</a>)</span></summary>
+
+<br>  
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"We have lately built a small bungalow on Singapore Hill, where though the height is inconsiderable, we find a great difference of climate. Nothing can be more interesting and beautiful than the view from this spot. I am happy to say the change has had a very beneficial effect on my health, which has been better during the last fortnight than I have known it for two years before. The tombs of the Malay Kings are however, close at hand; and I have settled that if it is my fate to die here, I shall take my place amongst them: this will, at any rate, be better than leaving one's bones at Bencoolen..."</span>
+
+</details>
+
 
 
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
