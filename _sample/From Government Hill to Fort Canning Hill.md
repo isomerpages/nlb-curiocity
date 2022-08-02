@@ -91,7 +91,7 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-1
 
 Government Hill until 1861 when a fort was completed on the hill and named after Viscount Charles John Canning, the Governor-General and First Viceroy of India. Various buildings were constructed on the hill for the garrison stationed there, including a hospital. The fort was eventually demolished in 1907, with only the archway entrance still standing today.
 
-In 1859, Government House was demolished and the construction of an artillery fort was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. Built on an excavated plateau, the fort was completed in 1861 by 400 [Chinese coolies](http://eresources.nlb.gov.sg/infopedia/articles/SIP_87_2004-12-15.html).25 It was named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862).26
+In 1859, Government House was demolished and the construction of an artillery fort was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. Built on an excavated plateau, the fort was completed in 1861 by 400 Chinese coolies. It was named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862).
 
 Quote - Raffles call for a fort
 
