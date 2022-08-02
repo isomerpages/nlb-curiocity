@@ -112,10 +112,8 @@ Image: Map
 
  the fort was completed in 1861 by 400 Chinese coolies. Various buildings were constructed on the hill for the garrison stationed there, including a hospital. The fort had extensive defences; there was a moat that ran around the thick fort walls, which were able to withstand artillery bombardment. In addition, the main fort housed amenities such as officers’ quarters. The firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
 
-was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. 
+quote? was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. 
 
-
-The end
 
 ### **The Malayan Command**
 
