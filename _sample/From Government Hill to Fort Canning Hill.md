@@ -101,11 +101,11 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg)|
-| The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
+| Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
 
 Image: Map
 
-Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. The fort also had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and XXX number of cannons.
+Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars.
 
 Image: Cannon
 
@@ -116,6 +116,10 @@ quote? was started despite protests from some quarters which believed it was a m
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
+
+Malayan command
+
+pre-war: layout
 
 
 ### **The Malayan Command**
