@@ -254,3 +254,8 @@ Though the old National Library was demolished in 2004, it will live on forever 
 While the photos and memories above might provide insight into how Bras Basah thrived as a place for books and knowledge, this becomes even clearer when we plot some of these places on a map. See the story map below to see what we mean.
 
 [![Alt text for image on Isomer site](/images/schools-storymap.jpg)](https://go.gov.sg/3korqg){:target="_blank"}
+
+
+
+|![Alt text for image on Isomer site](/images/bb-showcase-acs.jpg) |
+| The Anglo-Chinese School (ACS) in Singapore was founded on 1 March 1886 by Reverend William Fitzjames Oldham, the founder and bishop of the Methodist Church in Malaya. The school started with only 13 pupils in a shophouse at 70 Amoy Street. It relocated to bigger premises on Coleman Street the following year. In 1956, the old school building and chapel were demolished and replaced by a new 30-classroom block in 1959. It served as the home of Anglo-Chinese Primary School until it moved to Barker Road in 1994. ACS now has six related schools around Singapore serving primary, secondary and junior college students. It has an international school as well. Part of ACS’ former premises on Coleman Street is presently occupied by the National Archives of Singapore. The Singapore Philatelic Museum next door uses what was an old ACS old school building as well. Currently closed for upgrading, it will reopen as the Children’s Museum Singapore by the end of 2022. (Image Credit: [Tan Kok Kheng Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d3fa939d-1161-11e3-83d5-0050568939ad){:target="_blank"})|
