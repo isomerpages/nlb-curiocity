@@ -90,7 +90,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it In one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote which can be found in <span style="font-style: italic;">Letters and books of Sir Stamford Raffles and Lady Raffles</span> (2009). (Source: <a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/b5523940-e33b-11e9-b18a-001a4a5ba61b" target="_blank">Call no.: RSING 959.5703092 BAS</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it in one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/b5523940-e33b-11e9-b18a-001a4a5ba61b" target="_blank">National Archives of Singapore</a>)</span></summary>
 
 <br>  
 
