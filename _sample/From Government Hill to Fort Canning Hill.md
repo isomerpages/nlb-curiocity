@@ -105,7 +105,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 Image: Map
 
-Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including 68-pounders, shellguns and mortars.
+Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars.
 
 Image: Cannon
 
