@@ -107,25 +107,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 | ![Alt text for image on Isomer site](/images/fc-fort-3.jpg)|
 | In the end, Fort Canning never saw battle. Instead, its 68-pounder cannons were used to indicate time and signal the outbreak of fire. The fort was eventually decommissioned in 1907 and demolished in 1926 to make way for a reservoir. By then, a time-ball, a lighthouse and a telegraph office were erected on the hill. Together with the existing flag staff, Fort Canning Hill was functioning as a signal and communication station. Today, only the archway entrance to the fort and a couple of cannons are still standing.(Image Credit: [Photo by Uwe Schwarzbach via Flickr](https://flic.kr/p/WqvZSJ){:target="_blank"}) |
 
-Image: Map
-
-https://www.nas.gov.sg/archivesonline/watermark/cards/jpgcd/2016HDD0001/img0725_WO78_5365%286%29.jpg
-
-Imae: barracks
-
-https://commons.wikimedia.org/wiki/File:Fort_Canning_from_the_Singapore_River_-_1860%E2%80%931900.jpg
-
-Image: Cannon
-
-
-https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
-
-Malayan command
-
-pre-war: layout
-
+-----
 
 ### **The Malaya Command**
 
@@ -160,3 +142,7 @@ So what happened
 They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
 
 gardens and parks: botanical gardens and spice gardens
+
+https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
