@@ -85,7 +85,7 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 ### **Becoming Fort Canning**
 
-In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances, such as the Indian Mutiny in 1857. It was eventually demolished in 1907, with only the archway entrance still standing today.
+In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances, such as the Indian Mutiny in 1857. It was eventually decommissioned in 1907 and demolished in 1926, with only the archway entrance still standing today.
 
 -----
 
