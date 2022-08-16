@@ -109,6 +109,12 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 Image: Map
 
+https://www.nas.gov.sg/archivesonline/watermark/cards/jpgcd/2016HDD0001/img0725_WO78_5365%286%29.jpg
+
+Imae: barracks
+
+https://commons.wikimedia.org/wiki/File:Fort_Canning_from_the_Singapore_River_-_1860%E2%80%931900.jpg
+
 Image: Cannon
 
 
