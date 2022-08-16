@@ -111,7 +111,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 ### **The Malaya Command**
 
-The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British 
+The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British placed the headquarters of the Malaya Command there. To support its operations
 
 Fort Canning Centre
 
