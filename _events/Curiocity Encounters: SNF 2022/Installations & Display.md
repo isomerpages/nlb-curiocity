@@ -120,6 +120,6 @@ ___
 ![Alt text for image on Isomer site](/images/NASdisplay_Overallview2.png)
 #### **Curiocity: Sights & Stories**
 **19 August – 27 August 2022**
-<br>**10 am – 9 pm (except 19/20/21/26/27 August: 10 am – 12am)**
+<br>**10 am – 9 pm (except 19, 20, 21, 26 & 27 August: 10 pm – 12am)**
 <br>**National Archives Building, Atrium, Level 3** 
 <br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
