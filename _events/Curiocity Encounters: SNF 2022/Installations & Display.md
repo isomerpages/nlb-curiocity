@@ -81,7 +81,7 @@ ___
 #### **Paddy Fields**
 **19 August – 27 August 2022**
 <br>**7.30 pm – 12 am**
-<br>**Stamford Walkway** (along Stamford Road, corner facing junction that leads towards SMU Lee Kong Chian School of Business)
+<br>**Stamford Walkway** (along Stamford Road, opposite Capitol)
 
 **About the installation:**
 <br>*Paddy Fields*  recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
