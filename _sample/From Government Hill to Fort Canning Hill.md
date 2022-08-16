@@ -121,7 +121,7 @@ Malayan command
 pre-war: layout
 
 
-### **The Malayan Command**
+### **The Malaya Command**
 
 The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill
 
