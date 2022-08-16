@@ -111,7 +111,6 @@ Image: Map
 
 Image: Cannon
 
-quote? was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. Decomissioned
 
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
 
