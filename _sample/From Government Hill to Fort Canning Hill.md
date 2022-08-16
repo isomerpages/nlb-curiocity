@@ -85,7 +85,7 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 ### **Becoming Fort Canning**
 
-In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was eventually demolished in 1907, with only the archway entrance still standing today.
+In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances, such as the Indian Mutiny in 1857. It was eventually demolished in 1907, with only the archway entrance still standing today.
 
 -----
 
@@ -103,7 +103,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 | ![Alt text for image on Isomer site](/images/fc-fc-1.jpg)|
 | Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-fc-2.jpg)|
-| Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
+| Despite its extensive defences, Fort Canning never saw battle. Instead, its cannon (68-pounder) was used to indicate time. It was fired 3 times a day to announce the time at 5 am, 1pm and 9pm. It was also used as an alarm system for town fires. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
 
 Image: Map
 
