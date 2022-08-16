@@ -116,7 +116,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
-| Fort Canning was built by some 400 Chinese coolies, and had several buildings for the garrison stationed there. They included barracks, officers quarters, a hospital and two gun-powder magazines. The fort also had a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. By the early 1900s, as seen in the plan here, the fort had expanded considerably with more barracks, a parade ground and even tennis courts. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| Comprising a  (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 Fort Canning Centre
 
