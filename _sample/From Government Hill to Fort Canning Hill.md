@@ -64,11 +64,11 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 | ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg)|
 | The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-cemetery-2.jpg) |
-| The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full so the then resident chaplain Reverend Robert Burn, the then resident chaplain applied for a new burial site in 1827. This request resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. These structures still stand today and are one of the main attractions there. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
-| ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg) |
-| As the cemetery’s burial register had been lost, the government hired H. A. Stallwood to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1003385){:target="_blank"})|
-| ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg) |
-| By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1003385){:target="_blank"})|
+| The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full so the then resident chaplain Reverend Robert Burn, the then resident chaplain applied for a new burial site in 1827. This request resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/fc-cemetery-3.jpg) |
+| As the cemetery’s burial register had been lost, the government hired H. A. Stallwood to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. (Image Credit:  Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/fc-cemetery-4.jpg) |
+| By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians. Today, visitors can still find the traces of the old Christian cemetery on Fort Canning Hill. These include the cemetery’s two Gothic gates, the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas. (Image Credit: [Photo by Francisco Anzola via Flickr](https://www.flickr.com/photos/fran001/){:target="_blank"})|
 
 -----
 
@@ -85,63 +85,59 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 ### **Becoming Fort Canning**
 
-In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was eventually demolished in 1907, with only the archway entrance still standing today.
+In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances such as the Indian Mutiny in 1857.
 
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it In one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what Raffles wrote which can be found in <span style="font-style: italic;">Letters and books of Sir Stamford Raffles and Lady Raffles</span> (2009). (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13142840" target="_blank">Call no.: RSING 959.5703092 BAS</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it in one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/b5523940-e33b-11e9-b18a-001a4a5ba61b" target="_blank">National Archives of Singapore</a>)</span></summary>
 
 <br>  
 
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"...On the hill overlooking the Settlement, and commanding it and a considerable portion of the anchorage, a small Fort, capable of mounting 8 or 10 pounders together with a barrack for the permanent residence of 30 European artillery, and of temporary accommodation of the rest of the garrison in case of emergency."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"...On the hill overlooking the Settlement and commanding it and a considerable portion of the anchorage, a secure? fort, or a commodious blockhead on the principle which I have already described to you, capable of mounting 8 or 10 twelve-pounders, and of containing a magazine of brick or stone, together with a barrack for the permanent residence of 30 European artillery, and for the temporary accommodation of the rest of the garrison, in case of emergency."</span>
 
 </details>
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg)|
-| Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. (Image Credit: Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
+| Fort Canning was built by some 400 Chinese coolies, and had several buildings for the garrison stationed there. They included barracks, officers quarters, a hospital and two gun-powder magazines. The fort also had a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. By the early 1900s, as seen in the plan here, the fort had expanded considerably with more barracks, a parade ground and even tennis courts. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-fort-2.jpg)|
+| Despite offering extensive defences, the local European community questioned the decision to build the fort on the hill as it was too far from the shore thus putting the cannons and guns at a disadvantage against enemy ships at sea.  Furthermore, when the fort was completed, the soldiers complained they were unable to use the cannons because their aim was obstructed by the neighbouring Pearl's Hill which was 4 metres higher. This prompted the colonial government to order the Military Engineer to cut the top off Pearl's Hill. (Image Credit: [Courtesy of National Archives UK via wikicommons](https://commons.wikimedia.org/wiki/File:Fort_Canning_from_the_Singapore_River_-_1860%E2%80%931900.jpg){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-fort-3.jpg)|
+| In the end, Fort Canning never saw battle. Instead, its 68-pounder cannons were used to indicate time and signal the outbreak of fire. The fort was eventually decommissioned in 1907 and demolished in 1926 to make way for a reservoir. By then, a time-ball, a lighthouse and a telegraph office were erected on the hill. Together with the existing flag staff, Fort Canning Hill was functioning as a signal and communication station. Today, remnants of the old fort can still be found scattered on the hill. These include the main gate, a sally port and parts of the original wall.(Image Credit: [Photo by Uwe Schwarzbach via Flickr](https://flic.kr/p/WqvZSJ){:target="_blank"}) |
 
-Image: Map
+-----
 
-Fort Canning was completed in 1861 by 400 Chinese coolies, and was made up of various buildings for the garrison stationed there such as officers' quarters and a hospital. Furthermore, the fort had extensive defences which included a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars.
+### **The Malaya Command**
 
-Image: Cannon
+The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British went on to place the headquarters of the Malaya Command there. 
 
-Did not see any battles...and the firing of a 68-pound carronade at 5am daily indicated the start of the day for those within a two-mile radius. Up until 1896, the cannons were also used to signal the outbreak of fire.
+This arrangement would last till the fall of Singapore in 1942. After the war, the returning British used the building as the Singapore Base District Headquarters before it became the headquarters of the 4th Malaysian Infantry Brigade in 1963. When Singapore gained independence in 1965, the Singapore Armed Forces converted the premises into the Singapore Command and Staff College.
 
-quote? was started despite protests from some quarters which believed it was a mistake to locate the fort on a hill so far removed from shore. 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
+| Fort Canning was built by some 400 Chinese coolies, and had several buildings for the garrison stationed there. They included barracks, officers quarters, a hospital and two gun-powder magazines. The fort also had a moat, thick fort walls that were able to withstand artillery bombardment, and a wide variety of armaments including seven 68-pounders, eight 8-inch shell guns, and two 13-inch mortars. By the early 1900s, as seen in the plan here, the fort had expanded considerably with more barracks, a parade ground and even tennis courts. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
-https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
+Fort Canning Centre
 
-https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
+Architecture
 
-Malayan command
+Fort Canning Bunker
 
-pre-war: layout
+After independence
 
-
-### **The Malayan Command**
+Reinvent
 
 **Coleman map even the earliest map only shows the second cemetery**
 
 The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery.
 
-**Plate 21: painting with burial ground**
-
-The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full leading the then resident chaplain Reverend Robert Burn to apply for a new burial site in 1827 which resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. These structures still stand today and are one of the main attractions there. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground.
-
 **Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)**
 
-As the cemetery’s burial register had been lost, the government hired H. A. Stallwood to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. 
-
-**Image: arches and monuments or map**
-
-By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. 
-
-So what happened
-
-They stood with the gates designed by...as well as other tombstones...designed by These include the cemetery’s two Gothic gates and other tombstones the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas said to be designed by G. D. Coleman.
-
 gardens and parks: botanical gardens and spice gardens
+strolling
+https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad

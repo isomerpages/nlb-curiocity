@@ -56,6 +56,7 @@ ___
 
 #### **An Ocean Without the Anchor**
 **19 August – 27 August 2022**
+<br>**7.30 pm – 12 am**
 <br>**Outside Raffles City** (facing Capitol)
 
 **About the installation:**
@@ -79,7 +80,8 @@ ___
 
 #### **Paddy Fields**
 **19 August – 27 August 2022**
-<br>**Stamford Walkway** (along Stamford Road, corner facing junction that leads towards SMU Lee Kong Chian School of Business)
+<br>**7.30 pm – 12 am**
+<br>**Stamford Walkway** (along Stamford Road, opposite Capitol)
 
 **About the installation:**
 <br>*Paddy Fields*  recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
@@ -100,13 +102,14 @@ ___
 
 #### **Midnight Show at the Capitol**
 **19 August – 27 August 2022**
+<br>**7.30 pm – 12 am**
 <br>**National Archives Building** 
 
 **About the installation:**
 <br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions, *Midnight Show at the Capitol*  lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
 
 **About the artist:**
-<br>If you are not already familiar with his work, [MOJOKO](https://mojoko.net){:target="_blank"}  is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of *EYEYAH!* Magazine, he hopes to share this creativity to inspire the next generation of artists.
+<br>If you are not already familiar with his work, [MOJOKO](https://mojoko.net){:target="_blank"}  is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of EYEYAH! Magazine, he hopes to share this creativity to inspire the next generation of artists.
 
 **Learn more:**
 <br>Check out [Bras Basah: A Place For Entertainment](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/bb-cinemas){:target="_blank"} in Curiocity's Bras Basah digital story to revisit the seven most iconic cinemas in the area.
@@ -117,5 +120,6 @@ ___
 ![Alt text for image on Isomer site](/images/NASdisplay_Overallview2.png)
 #### **Curiocity: Sights & Stories**
 **19 August – 27 August 2022**
+<br>**10 am – 9 pm (except 19, 20, 21, 26 & 27 August: 10 pm – 12am)**
 <br>**National Archives Building, Atrium, Level 3** 
 <br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
