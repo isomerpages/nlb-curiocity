@@ -70,8 +70,6 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 | ![Alt text for image on Isomer site](/images/fc-cemetery-4.jpg) |
 | By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians. Today, visitors can still find the traces of the old Christian cemetery on Fort Canning Hill. These include the cemetery’s two Gothic gates, the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas. (Image Credit: [Photo by Francisco Anzola via Flickr](https://www.flickr.com/photos/fran001/){:target="_blank"})|
 
-[Photo by Francisco Anzola via Flickr](https://www.flickr.com/photos/fran001/)
-
 -----
 
 <details>
