@@ -124,7 +124,9 @@ Architecture
 
 Fort Canning Bunker
 
-WW2
+After independence
+
+Reinvent
 
 **Coleman map even the earliest map only shows the second cemetery**
 
