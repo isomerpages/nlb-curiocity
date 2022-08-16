@@ -132,4 +132,3 @@ strolling
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
-
