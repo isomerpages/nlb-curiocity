@@ -117,6 +117,8 @@ What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Comm
 
 https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park%20and%20Hotel%20Fort%20Canning%20Building.pdf
 
+https://www.ura.gov.sg/Corporate/Get-Involved/Conserve-Built-Heritage/Architectural-Heritage-Season/-/media/0659CBAA95674019AD931F194BD52118.ashx
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
