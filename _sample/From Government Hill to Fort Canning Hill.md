@@ -127,11 +127,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
-| Built at a cost of $650,000, the military complex of the headquarters of the Malaya Command on Fort Canning comprised an administration building, barracks and quarters for married soldiers and warrant officers. It was conceived to replace 
-
-administration building at 11 Canning Walk was part of a military complex at Fort Canning which served as the headquarters for the British Far East Command.
-
-The headquarters consisted of an administration building, barracks and quarters for married soldiers and warrant officers. It was built in part due to the need for a new location to construct a service reservoir and to replace run-down offices and quarters for the British Far East Command.  (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| Built at a cost of $650,000 in 1926, the military complex of the headquarters of the Malaya Command on Fort Canning Hill comprised an administration building, barracks and quarters for married soldiers and warrant officers. It was conceived as a replacement for Fort Canning which had been decommissioned earlier in 1907 and slated to be demolished to make way for a service reservoir. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 Fort Canning Centre
 
