@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Government Hill**
 
-After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides raising the Union Jack on its summit, a bungalow was built there as well. The hill was also renamed "Government Hill" in 1823 although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
+After the British arrived in 1819, they quickly set their claims to Bukit Larangan. Besides raising the Union Jack on its summit, a bungalow was built there as well. The hill was also renamed "Government Hill" in 1823 although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" which means "Flag Hill", or simply "The Hill".
 
 -----
 
