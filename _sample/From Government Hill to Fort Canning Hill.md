@@ -111,7 +111,11 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 ### **The Malaya Command**
 
-The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command there. This arrangement would last till the fall of Singapore in 1942. After the war, the returning British used the building as the Singapore Base District Headquarters before it became the headquarters of the 4th Malaysian Infantry Brigade in 1963. When Singapore gained independence in 1965, the Singapore Armed Forces converted the premises into the Singapore Command and Staff College.
+The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command there. This arrangement would last till the fall of Singapore in 1942. Thereafater, the premises of the Malaya Command 
+
+was used by the Defence Headquarters of the _Japanese_ Imperial _Army_
+
+After the war, the British returned and used the premises of the Malaya Command for headquarters of the Singapore Base District Headquarters before it became the headquarters of the 4th Malaysian Infantry Brigade in 1963. When Singapore gained independence in 1965, the Singapore Armed Forces converted the premises into the Singapore Command and Staff College.
 
 What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Command
 
