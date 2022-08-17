@@ -111,7 +111,7 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 ### **The Malaya Command**
 
-The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command in a new military complex on the northern side of the hill. After the fall of Singapore in 1942, the Japanese Army took over the compound before it was returned to the British in 1945. In 1963, the complex was handed over to 4th Malaysian Infantry Brigade followed by the Singapore Armed Forces in 1970. Today, the premises is occupied by the Legends at Fort Canning Club, a 5-star luxury heritage boutique hotel known as Hotel Fort Canning, and the Fort Canning Centre.
+The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command in a new military complex there. After the fall of Singapore in 1942, the Japanese Army took over the compound before it was returned to the British in 1945. In 1963, the complex was handed over to 4th Malaysian Infantry Brigade followed by the Singapore Armed Forces in 1970. Today, the premises is occupied by the Legends at Fort Canning Club, a 5-star luxury heritage boutique hotel known as Hotel Fort Canning, and the Fort Canning Centre.
 
 -----
 
@@ -130,6 +130,8 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | Built at a cost of $650,000 in 1926, the military complex of the headquarters of the Malaya Command on Fort Canning Hill comprised an administration building, a barracks block, and quarters for married soldiers and warrant officers. The project was conceived as a replacement for Fort Canning which had been decommissioned earlier in 1907 and slated to be demolished to make way for a service reservoir. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-command-2.jpg)|
 | The administration building and the barracks were centrepieces of the new military complex. Designed in the Neo-classical architectural style by the Municipal Architects Department, they were both about 300 feet long, had 10-feet tall verandah around them and high ceilings to ensure plenty of ventilation. Both buildings also had large roof overhangs to provide shelter from sun and rain. Facing the main entrance of the administration building was a double staircase 24 feet in width. Within the building, there were garage spaces and storerooms and various military offices including the office of the General Officer Commanding for Malaya on the third floor. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-command-2.jpg)|
+| As for the barracks, which was located southnear the old Christian cemetery,  (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 
 
