@@ -132,6 +132,8 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | The administration building and the barracks were the centrepieces of the new military complex. Designed in the Neo-classical architectural style by the Municipal Architects Department, they were both about 300 feet long, had 10-feet tall verandah around them and high ceilings to ensure plenty of ventilation. Both buildings also had large roof overhangs to provide shelter from sun and rain. Facing the main entrance of the administration building was a double staircase 24 feet in width. Within the building, there were garage spaces and storerooms and various military offices including the office of the General Officer Commanding for Malaya on the third floor. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 
+
+
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
 | Lieutenant-General Arthur Percival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. Built in 1941 to prepare Singapore for the Japanese, this bunker was like no others... (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
@@ -181,3 +183,5 @@ https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park
 https://www.ura.gov.sg/Corporate/Get-Involved/Conserve-Built-Heritage/Architectural-Heritage-Season/-/media/0659CBAA95674019AD931F194BD52118.ashx
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Legends-Fort-Canning-Park-Hotel-Fort-Canning
+
+http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19261020-1.2.41
