@@ -111,7 +111,9 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 ### **The Malaya Command**
 
-The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command there. This arrangement would last till the fall of Singapore in 1942. Thereafater, the premises of the Malaya Command 
+The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command there. The premises was then used by the Japanese after the fall of Singapore and the British again as the Singapore Base District Headquarters. In 1963, it was handed over to 4th Malaysian Infantry Brigade and then the Singapore Armed Forces in 1965. Today, it is a 5-star luxury heritage boutique hotel known as Hotel Fort Canning.
+
+Thereafater, the premises of the Malaya Command 
 
 was used by the Defence Headquarters of the _Japanese_ Imperial _Army_
 
