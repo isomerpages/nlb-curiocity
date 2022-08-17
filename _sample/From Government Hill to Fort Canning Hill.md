@@ -133,7 +133,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
 | As for the barracks, there were dinning rooms for NCOs (Non-commissioned officers) and other ranks, each with its own kitchen, a canteen and billiard room and a lecture room. The dormitory within provided accommodation for up to a hundred men, and was divided into three sections, each with cubicles for NCOs at the end. Finally, scattered between the barracks and the administration buildings were five blocks of quarters for married soldiers that "command a fine view of the harbour and town". (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
-Five blocks of married soldiers quarters...with good view
+between 1936 and 1941, the British built a tunnel network under the military complex. Known today as the Battlebox, the 9-metre-deep maze functioned as the command centre for the Malaya Command during World War II. Bomb- and flood-proof, the underground structure was “a self-containing centre” equipped with an electricity generator, a ventilation system and over 20 purpose-built rooms.
 
 
 Bunker
