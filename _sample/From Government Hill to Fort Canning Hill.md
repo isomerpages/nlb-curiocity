@@ -124,12 +124,6 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 
 </details>
 
-What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Command
-
-https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park%20and%20Hotel%20Fort%20Canning%20Building.pdf
-
-https://www.ura.gov.sg/Corporate/Get-Involved/Conserve-Built-Heritage/Architectural-Heritage-Season/-/media/0659CBAA95674019AD931F194BD52118.ashx
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-fort-1.jpg)|
@@ -156,3 +150,9 @@ strolling
 https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
+
+What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Command
+
+https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park%20and%20Hotel%20Fort%20Canning%20Building.pdf
+
+https://www.ura.gov.sg/Corporate/Get-Involved/Conserve-Built-Heritage/Architectural-Heritage-Season/-/media/0659CBAA95674019AD931F194BD52118.ashx
