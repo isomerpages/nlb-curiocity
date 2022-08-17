@@ -135,11 +135,6 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
 | General perceival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. Built in 1941 to prepare Singapore for the Japanese, this bunker was like no others... (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
-Fort Canning Centre
-
-Architecture
-
-Fort Canning Bunker
 
 After independence
 
