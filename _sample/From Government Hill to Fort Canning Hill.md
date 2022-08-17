@@ -116,7 +116,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it in one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/b5523940-e33b-11e9-b18a-001a4a5ba61b" target="_blank">National Archives of Singapore</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is the Malaya Command?. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833" target="_blank">Singapore : The encyclopedia Call no.: RSING 959.57003 SIN</a>)</span></summary>
 
 <br>  
 
