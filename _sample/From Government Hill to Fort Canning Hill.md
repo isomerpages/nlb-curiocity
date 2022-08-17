@@ -120,7 +120,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 
 <br>  
 
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"...On the hill overlooking the Settlement and commanding it and a considerable portion of the anchorage, a secure? fort, or a commodious blockhead on the principle which I have already described to you, capable of mounting 8 or 10 twelve-pounders, and of containing a magazine of brick or stone, together with a barrack for the permanent residence of 30 European artillery, and for the temporary accommodation of the rest of the garrison, in case of emergency."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"From 1929 to 1957, overall control of British land forces in Malaya and Singapore came under the Malaya Command...[It] was divided into sub-districts. Singapore was one of these sub-districts, being referred to as 'Singapore Fotress' up until World War II, and Singapore Base District thereafter."</span>
 
 </details>
 
