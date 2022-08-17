@@ -139,8 +139,6 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | For a short period between 1942 to 1945 during the Japanese Occupation, the Japanese Army occupied the administration building. After they surrendered, it was reverted to the British army as the headquarters of the Singapore Base District from 1945 to 1963. Between 1963 and 1965, it became the headquarters for the Fourth Federal Infantry Brigade before serving as the Singapore Armed Forces' Singapore Command and Staff College from 1970 to 1976. Since 1995, the building has been functioning as a country club and continues to be one today called Legends Fort Canning Park. The club shares the premises with a 5-star boutique hotel called Hotel Fort Canning. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 
-
-
 Fort Canning Centre
 
 Originally constructed as British army barracks in 1926, the centre’s colonial origin is reflected in its architecture. A pitched roof with wide overhanging eaves – a feature prevalent in British military buildings of the time – protected residents from the heat of tropical weather.
