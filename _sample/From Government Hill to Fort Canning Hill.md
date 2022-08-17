@@ -113,6 +113,17 @@ In 1859, Government House was demolished to make way for an artillery fort. Buil
 
 The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command in a new compound on the northern side of the hill. After the fall of Singapore in 1942, this premises was by the Japanese Army before being taken over by the British again after they returned in 1945. In 1963, it was handed over to 4th Malaysian Infantry Brigade and then the Singapore Armed Forces in 1965. Today, it is a 5-star luxury heritage boutique hotel known as Hotel Fort Canning.
 
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The idea of building a fort on Fort Canning Hill could be traced to Sir Stamford Raffles when he proposed for it in one of his letters to the first Resident of colonial Singapore William Farquhar in 1819. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.nas.gov.sg/archivesonline/private_records/record-details/b5523940-e33b-11e9-b18a-001a4a5ba61b" target="_blank">National Archives of Singapore</a>)</span></summary>
+
+<br>  
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"...On the hill overlooking the Settlement and commanding it and a considerable portion of the anchorage, a secure? fort, or a commodious blockhead on the principle which I have already described to you, capable of mounting 8 or 10 twelve-pounders, and of containing a magazine of brick or stone, together with a barrack for the permanent residence of 30 European artillery, and for the temporary accommodation of the rest of the garrison, in case of emergency."</span>
+
+</details>
+
 What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Command
 
 https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park%20and%20Hotel%20Fort%20Canning%20Building.pdf
