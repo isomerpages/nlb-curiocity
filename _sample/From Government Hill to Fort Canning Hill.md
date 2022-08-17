@@ -133,7 +133,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
 | As for the barracks, there were dinning rooms for NCOs (Non-commissioned officers) and other ranks, each with its own kitchen, a canteen and billiard room and a lecture room. The dormitory with accommodation of a hundred men, was divided into three sections and at each end were cubicles for NCOs. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
-
+Five blocks of married soldiers quarters
 
 
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
