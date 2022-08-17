@@ -138,12 +138,10 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 
 For a short period between 1942 to 1945 during the Japanese Occupation, the Japanese Army occupied the administration building. After they surrendered, it was reverted to the British army as the headquarters of the Singapore Base District from 1945 to 1963. Between 1963 and 1965, it became the headquarters for the Fourth Federal Infantry Brigade, and then served as the Singapore Armed Forces' Singapore Command and Staff College from 1970 to 1976 before becoming a country club in 1995. Today, it continues to be a country club called Legends Fort Canning Park. The club shares the premises with a 5-star boutique hotel called Hotel Fort Canning.
 
-Fort 
+Fort Canning Centre
 
 
-After independence
 
-Reinvent
 
 **Coleman map even the earliest map only shows the second cemetery**
 
