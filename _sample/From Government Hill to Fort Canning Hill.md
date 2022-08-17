@@ -31,7 +31,7 @@ _____
 
 ### **Government House**
 
-The bungalow on the summit of Fort Canning Hill was built in late 1822 for Raffles and his sister’s family. It was a wooden bungalow 100 ft long and 50 ft wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
+The bungalow on the summit of Fort Canning Hill was built in late 1822 for Raffles and his sister’s family. It was a wooden bungalow 100 feet long and 50 feet wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
 
 -----
 
@@ -116,7 +116,7 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is the Malaya Command?. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833" target="_blank">Singapore : The encyclopedia Call no.: RSING 959.57003 SIN</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is the Malaya Command? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from <span style="font-style: italic;">Singapore: The Encyclopedia</span>. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833" target="_blank">Singapore : The encyclopedia Call no.: RSING 959.57003 SIN</a>)</span></summary>
 
 <br>  
 
