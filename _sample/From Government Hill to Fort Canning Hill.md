@@ -133,7 +133,12 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 
 
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
-| General perceival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. Built in 1941 to prepare Singapore for the Japanese, this bunker was like no others... (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| Lieutenant-General Arthur Percival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. Built in 1941 to prepare Singapore for the Japanese, this bunker was like no others... (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+
+
+For a short period between 1942 to 1945 during the Japanese Occupation, the Japanese Military occupied the building. After World War II, the military complex reverted to be an administration building for the British from 1945 to 1963. It later became the headquarters for the Fourth Federal Infantry Brigade between 1963 and 1965.
+
+The building was later officially opened on 13 February 1970 by then Prime Minister Lee Kuan Yew as the Singapore Command and Staff College (SCSC), a training institute for the Singapore Armed Forces to develop professional skills and innovation for its soldiers. In 1976, SCSC relocated to Seletar and it remained unoccupied until 1995, when it housed Fort Canning country club, a space catered to members to pursue sports and leisure activities.
 
 
 After independence
