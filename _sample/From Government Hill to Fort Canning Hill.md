@@ -142,8 +142,6 @@ Reinvent
 
 **Coleman map even the earliest map only shows the second cemetery**
 
-The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery.
-
 **Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)**
 
 gardens and parks: botanical gardens and spice gardens
