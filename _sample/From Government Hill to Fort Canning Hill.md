@@ -140,6 +140,8 @@ For a short period between 1942 to 1945 during the Japanese Occupation, the Japa
 
 Fort Canning Centre
 
+both buildings conserved
+
 
 
 
