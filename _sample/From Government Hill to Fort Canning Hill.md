@@ -136,10 +136,9 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 between 1936 and 1941, the British built a tunnel network under the military complex. Known today as the Battlebox, the 9-metre-deep maze functioned as the command centre for the Malaya Command during World War II. Bomb- and flood-proof, the underground structure was “a self-containing centre” equipped with an electricity generator, a ventilation system and over 20 purpose-built rooms.
 
 
-Bunker
 
 | ![Alt text for image on Isomer site](/images/fc-command-3.jpg)|
-| Lieutenant-General Arthur Percival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. Built in 1941 to prepare Singapore for the Japanese, this bunker was like no others... (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
+| Lieutenant-General Arthur Percival was the general officer commanding for malaya from 1940-1942, and it was said that he preferred his office on the third floor over the bunker located beneath. On 15 February 1942, it was here that Lieutenant-General Arthur E. Percival and the Allied forces made the decision to surrender to the invading Japanese forces. Thereafter, the bunker was abandoned but reopened on 15 February 1997 as The Battlebox, an educational and tourist destination where World War II events are recreated. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 Changing of hands and Hotel then Fort Canning Centre
 
