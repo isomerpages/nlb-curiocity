@@ -140,31 +140,6 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | The administration block, on the other hand, has been functioning as a country club since 1995. It continues to be one today called Legends Fort Canning Park. The club shares the premises with a 5-star boutique hotel called Hotel Fort Canning. (Image Credit: [Courtesy of the National Archives UK via National Archives of Singapore website](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b8979847-57a3-11e6-b4c5-0050568939ad){:target="_blank"}) |
 
 
-Fort Canning Centre
-
-Originally constructed as British army barracks in 1926, the centre’s colonial origin is reflected in its architecture. A pitched roof with wide overhanging eaves – a feature prevalent in British military buildings of the time – protected residents from the heat of tropical weather.
-
-Graced with streamlined motifs in the Neo-Classical style, the grand building is renowned for its dignified symmetry: a prominent central bay defines its main entrance, flanked by long wide-open corridors on both wings.
-
-Time has greatly altered the initial function of the site on Fort Canning Hill. Following periods of military use by the Malaya Command, the British army, and the Singapore Armed Forces in turn, Fort Canning Centre was converted into squash courts and offices in the 1970s.
-
-It was later reinvented as a place for the arts. In the 1990s, Fort Canning Centre was home to two of Singapore’s prominent arts groups – the Singapore Dance Theatre (SDT) and Theatre Works. Both have since moved to new premises.
-
-Between 2015 and 2016, the centre briefly housed the private art museum Singapore Pinacotheque de Paris.
-
-Extending beyond Fort Canning Centre, the shift towards the arts is reflected in the programmes held at Fort Canning Park – the site of several renowned outdoor art events, such as SDT’s “Ballet Under the Stars”, “Festival Village” (part of Singapore’s Festival of the Arts) and “World of Music, Arts and Dance”.
-
-In 2019, the nation’s bicentennial showcase, exploring Singapore’s history from 1819 onwards as well as beyond 1819, was centred at Fort Canning.
-
-Notably, the Bicentennial Experience – the centrepiece event of the bicentennial – was hosted at Fort Canning Centre and closed on 31 December 2019.
-
-The building is also being considered by NParks to be adaptively reuse as a heritage museum in the future, featuring exhibits that celebrate the history and natural history of Fort Canning area through the 14th, 19th, and 20th centuries.
-
-both buildings conserved
-
-
-
-
 **Coleman map even the earliest map only shows the second cemetery**
 
 **Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)**
