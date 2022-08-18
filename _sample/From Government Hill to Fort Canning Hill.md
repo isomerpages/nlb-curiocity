@@ -138,24 +138,3 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | The administration building and barracks were also converted to civilian use in the 1970s. For instance, the barracks, which is known today as The Fort Canning Centre, was converted into a squash courts venue and later reinvented as a place for the arts in the 1990s housing two of Singapore’s prominent arts groups – the Singapore Dance Theatre (SDT) and Theatre Works. Between 2015 and 2016, it briefly served as the private art museum Singapore Pinacotheque de Paris. It then became the venue for The Bicentennial Experience, the nation’s bicentennial showcase in 2019. (Image Credit: [Photo by jean-michel gobet via wikicommons](https://commons.wikimedia.org/wiki/File:Fort_Canning_Centre,_Singapore_-_20080612.jpg#/media/File:Fort_Canning_Centre,_Singapore_-_20080612.jpg){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-command-6.jpg)|
 | The administration block, on the other hand, has been functioning as a country club since 1995. It continues to be one today called Legends Fort Canning Park. Incorporated in 2002, the club offers its members world-class amenities and recreational facilities. It also set up a  a 5-star boutique hotel within its premises called Hotel Fort Canning. (Image Credit: [Photo by Nicolas Lannuzel via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Fort_Canning,_Singapore_-_20120422.jpg#/media/File:Hotel_Fort_Canning,_Singapore_-_20120422.jpg){:target="_blank"}) |
-
-
-**Coleman map even the earliest map only shows the second cemetery**
-
-**Image: The Old Cemetery on Fort Canning, Singapore. With a plan and four plates (JMBRAS)**
-
-gardens and parks: botanical gardens and spice gardens
-strolling
-https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19600101-1.2.33
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/a19aea83-1162-11e3-83d5-0050568939ad
-
-What is the Malaya Command: https://military-history.fandom.com/wiki/Malaya_Command
-
-https://hfcsingapore.com/images/pressroom/3/History%20of%20Fort%20Canning%20Park%20and%20Hotel%20Fort%20Canning%20Building.pdf
-
-https://www.ura.gov.sg/Corporate/Get-Involved/Conserve-Built-Heritage/Architectural-Heritage-Season/-/media/0659CBAA95674019AD931F194BD52118.ashx
-
-https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Legends-Fort-Canning-Park-Hotel-Fort-Canning
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19261020-1.2.41
