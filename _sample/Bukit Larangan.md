@@ -3,13 +3,18 @@ title: Bukit Larangan
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-### **Bukit Larangan: Ancient Singapore in Maps, Texts, and Artifacts**
+### **Bukit Larangan**
 
 The island of Singapore has had [many names in the past](https://www.roots.gov.sg/stories-landing/stories/the-land-before-1819/the-land-before-1819), including Singapura (“Lion City”) and Temasek. Prior to 1822, [Fort Canning Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_8_2004-12-10.html) was known by locals as Bukit Larangan (meaning “Forbidden Hill”), where ancient kings were believed to be buried. What kind of evidence do we have of ancient Singapore, particularly by way of maps, texts, and artifacts?
 
-### **Ancient Singapore in Maps**
+### **Seat of Power of Old Singapore**
 
-Ancient maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
+
+### **Archeology Digs**
+
+
+
+### **Capturing Old Singapore in Maps**
 
 |   | 
 |:--------:| 
@@ -19,5 +24,3 @@ Ancient maps are a useful way to find out if a particular location such as Temas
 | This _Mao Kun_ 茅坤 Map from _Wu Bei Zhi_ 武备志 (1628 CE) depicted places in or around the Singapore Straits, such as [Temasek](https://eresources.nlb.gov.sg/history/events/d24d6da6-0013-4a12-a6bc-68ad1497148e) 淡马锡, Long Ya Men 龍牙門 ([Dragon’s Tooth Strait](https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait), or [Batu Berlayar](https://www.roots.gov.sg/places/places-landing/Places/historic-sites/batu-berlayar)), and [Banzu](https://www.jstor.org/stable/41493463) 班卒 Pancur. A Chinese military treatise compiled by Mao Yuanyi 茅元儀, the _Wu Bei Zhi_ is said to have been based on Admiral Zheng He’s 郑和 expeditions of the Indian Ocean (see [Wade 2005](https://www.jstor.org/stable/41493537)). The map is believed to have been made in 1425-1430 and the chart used two navigational techniques: the Chinese 24-point compass and the “star altitude” technique ([Mok 2019](https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx)). (Image Credit: 武备志. 1册(卷238-240)(1628) (Call no. [RRARE Chinese 355.00951 WBZ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201126833) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/a73bab0e-5143-4dde-ae0a-99f80cbdc0a6.aspx))) |
 | ![Alt text for image on Isomer site](/images/fc-plan-singapore-harbour-ross.jpg)|
 | These map of the Straits of Singapore (1604 CE) are part of a larger work called _[Malaca, L'Inde Orientale et le Cathay ; Malaca, L'Inde Méridionale et le Cathay](https://eresources.nlb.gov.sg/printheritage/detail/b44dd395-4a9a-4394-a9bf-4b7745a8eb74.aspx)_ by Manuel Godinho de Erédia, a Melaka-born half-Portuguese half-Bugis naval commander. He led a squadron of 70 ships that guarded the southern end of the Straits of Melaka and is known for his blockade of Johor and the destruction of Johor Lama. The map is significant in that it shows place names on Singapore island itself such as Blakang Mati (now Sentosa), Tanjong Rhu, Sungei Bedok, Tanah Merah, Tanjong Rusa, and Selat Tebrau (see Gibson-Hill [1956](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)). Erédia created the maps sometime around 1564, and ordered that a fort be built in Singapore in 1604, but it is unclear whether one was ever built. J. V. Mills ([1930](https://www.jstor.org/stable/41560454)) has translated the work into English. (Image Credit: Manuel Godinho de Erédia, _Malaca, L'Inde Orientale et le Cathay ; Malaca, L'Inde Méridionale et le Cathay_ (1881), page 60-61 (Call no. [RRARE 959.5141 ERE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4403074) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/b44dd395-4a9a-4394-a9bf-4b7745a8eb74.aspx)) |
-
-
