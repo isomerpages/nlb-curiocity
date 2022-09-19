@@ -14,7 +14,7 @@ The island of Singapore has had [many names in the past](https://www.roots.gov.s
 
 
 
-### **Capturing Old Singapore in Maps**
+### **Capturing Early Singapore in Maps**
 
 |   | 
 |:--------:| 
