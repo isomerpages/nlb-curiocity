@@ -41,15 +41,6 @@ _____
 
 ---
 
-
-
-“I walked this morning round the walls and limits of the ancient town of Singapore, for such in reality had been the site of our modern settlement. It was bounded to the east by the sea, to the north by a wall, and to the west by a salt creek or inlet of the sea. The inclosed space is a plain, ending in a hill of considerable extent, and a hundred and fifty feet in height. The whole is a kind of triangle, of which the base is the sea-side, about a mile in length. The wall, which is about sixteen feet in breadth at its base, and at present about eight or nine in height, runs very near a mild from the sea-coast to the base of the hill, until it meets a salt marsh. As long as it continues in the plain, it is skirted by little rivulet running at the foot of it, and forming a kind of moat; and where it attains the elevated side of the hill, there there are apparent the remains of a dry ditch. On the western side, which extends from the termination of the wall to the sea, the distance, like that of the northern side, is very near a mile, This last has the natural and strong defence of a salt marsh, overflown at high-water, and of a deep and broad creek. In the wall there are no embrasures or loop-holes; and neither on the sea-side, nor on that skirted by the creek and marsh, is there any appearance whatever of artificial defences. We may conclude from these circumstances, that the works of Singapore were not intended against fire-arms, or an attack by the sea; or that if the latter, the inhabitants considered themselves strong in their naval force, and therefore thought any other defences in that quarter superfluous.” (pages 68-70)
-
-
-
-
-
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-maps-1.jpg)|
