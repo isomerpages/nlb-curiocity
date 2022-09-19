@@ -20,4 +20,4 @@ Ancient maps are a useful way to find out if a particular location such as Temas
 
 ### **Forbidden Hill**
 
-### **Early Singapore In Arcaeloology Digs**
+### **Early Singapore In Archaeology Digs**
