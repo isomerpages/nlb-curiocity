@@ -3,9 +3,9 @@ title: Bukit Larangan
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-### **Bukit Larangan**
 
-The island of Singapore has had [many names in the past](https://www.roots.gov.sg/stories-landing/stories/the-land-before-1819/the-land-before-1819), including Singapura (“Lion City”) and Temasek. Prior to 1822, [Fort Canning Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_8_2004-12-10.html) was known by locals as Bukit Larangan (meaning “Forbidden Hill”), where ancient kings were believed to be buried. What kind of evidence do we have of ancient Singapore, particularly by way of maps, texts, and artifacts?
+
+Before the British arrival in 1819, Singapore was already a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in historical texts as Chiamassie and Danmaxi among others.
 
 ### **Seat of Power of Old Singapore**
 
