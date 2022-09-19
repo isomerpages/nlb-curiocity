@@ -3,11 +3,9 @@ title: Bukit Larangan
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-
-
 Before the British arrival in 1819, Singapore was already a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in historical texts as Chiamassie and Danmaxi among others.
 
-### **Seat of Power of Old Singapore**
+### **Capturing Early Singapore in Maps**
 
 
 ### **Archeology Digs**
