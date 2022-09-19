@@ -18,12 +18,16 @@ Ancient maps are a useful way to find out if a particular location such as Temas
 | ![Alt text for image on Isomer site](/images/fc-bl-maps-3.jpg)|
 | These map of the Straits of Singapore (1604 CE) are part of a larger work called [*Malaca, L'Inde Orientale et le Cathay ; Malaca, L'Inde Méridionale et le Cathay*](https://eresources.nlb.gov.sg/printheritage/detail/b44dd395-4a9a-4394-a9bf-4b7745a8eb74.aspx) by Manuel Godinho de Erédia, a Melaka-born half-Portuguese half-Bugis naval commander. He led a squadron of 70 ships that guarded the southern end of the Straits of Melaka and is known for his blockade of Johor and the destruction of Johor Lama. The map is significant in that it shows place names on Singapore island itself such as Blakang Mati (now Sentosa), Tanjong Rhu, Sungei Bedok, Tanah Merah, Tanjong Rusa, and Selat Tebrau (see Gibson-Hill [1956](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)). Erédia created the maps sometime around 1564, and ordered that a fort be built in Singapore in 1604, but it is unclear whether one was ever built. J. V. Mills ([1930](https://www.jstor.org/stable/41560454)) has translated the work into English. (Image Credit: Manuel Godinho de Erédia, *Malaca, L'Inde Orientale et le Cathay; Malaca, L'Inde Méridionale et le Cathay* (1881), page 60-61 (Call no. [RRARE 959.5141 ERE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4403074) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/b44dd395-4a9a-4394-a9bf-4b7745a8eb74.aspx))|
 
+-----
+
 ### **Forbidden Hill**
 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-maps-1.jpg)|
 | This “Undecima Asiae Tabula” (1478 CE) map is possibly one of the oldest maps of Singapore. It depicts one of twelve regions of Asia and is based on Claudius Ptolemaeus’ 2nd century work *Hyphegesis Geographike* (“Guide to Geography”). Southeast Asia is depicted as *India Extra Gangem* (Further India). Ptolemaeus’ work gave 16 coordinates for the Aurea *Khersonesos* (Golden Peninsula), a location which scholars such as Wheatley ([1966](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442)) interpret to be the Malay Peninsula. Two were mentioned as *emporio* or places where foreign trade was allowed and taxed; Takola in the north and *Sabana* (possibly Singapore) at the southern end. Wheatley ([1955](https://www.jstor.org/stable/621273)) and Colless ([1969](https://www.jstor.org/stable/20067728)) were the main proponents of this theory while others such as Gerini ([1909](https://eresources.nlb.gov.sg/printheritage/detail/7aba5b63-ee38-4765-937c-1ea035bf1ba2.aspx)) and Linehan ([1951](https://www.jstor.org/stable/41503002)) thought *Sabana* might be in Selangor, further north in the Malay Peninsula. (Image Credit: Ptolemy, *Vndecima Asiae Tabvla* (1478) (Call no. [RRARE912.54 PTO](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143293) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/ecec93db-7cc8-493c-98f5-53e1d6034169.aspx)){:target="_blank"}) |
+
+-----
 
 ### **Early Singapore In Archaeology Digs**
 
