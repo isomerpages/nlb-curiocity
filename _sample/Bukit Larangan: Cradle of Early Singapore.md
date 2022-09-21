@@ -3,11 +3,11 @@ title: "Bukit Larangan: Cradle of Early Singapore"
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in maps and historical texts as *Chiamassie*, *Danmaxi* and*Sabana* to name a few.
+Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also referred to by a myriad of names such as *Pulau Panjang*, *Cinca Pula*, *Chiamassie*, *Danmaxi* and*Sabana* in historical text and maps.
 
 ### **Early Singapore in Maps**
 
-Ancient maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
+Maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
 
 |   | 
 |:--------:| 
