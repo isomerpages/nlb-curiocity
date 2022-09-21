@@ -3,7 +3,7 @@ title: "Bukit Larangan: Cradle of Early Singapore"
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in historical texts as *Chiamassie* and *Danmaxi* among others.
+Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in maps and historical texts as *Chiamassie*, *Danmaxi* and*Sabana* to name a few.
 
 ### **Early Singapore in Maps**
 
