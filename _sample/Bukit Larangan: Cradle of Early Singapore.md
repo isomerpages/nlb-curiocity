@@ -5,7 +5,7 @@ description: ""
 ---
 Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also referred to by a myriad of names such as *Pulau Panjang*, *Cinca Pula*, *Chiamassie*, *Danmaxi* and*Sabana* in historical text and maps.
 
-### **Pre-colonial Singapore in Maps**
+### **Early Singapore in Maps**
 
 Singapore's history during the pre-colonial period can be told through old maps of the region. Hand-drawn, painted or printed by European and Asian cartographers and explorers who traversed South-east Asia by ship in search of spices such as cloves, pepper and cinnamon, they are among the earliest material evidence of our past. 
 
