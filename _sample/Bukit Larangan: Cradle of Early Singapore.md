@@ -5,7 +5,7 @@ description: ""
 ---
 Before the British arrival in 1819, Singapore already has a settlement with a history that stretches back to the 14th century. Commonly referred to as Singapura (“Lion City”) or Temasek, this early settlement was also mentioned in historical texts as *Chiamassie* and *Danmaxi* among others.
 
-### **Capturing Early Singapore in Maps**
+### **Early Singapore in Maps**
 
 Ancient maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
 
