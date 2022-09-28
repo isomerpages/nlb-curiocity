@@ -66,7 +66,6 @@ _____
 
 -----
 
-
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The archaeological discoveries on Fort Canning Hill confirms that there was a thriving community in Singapore long before the arrival of the British in 1819. They also provide proof that Singapore was an international provenance as well. This assessment was made by John Crawfurd as early as 1822 after he unearthed Chinese brass coins dating back to the 10th century. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>to read his assessment. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
 <br>
