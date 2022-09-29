@@ -28,6 +28,9 @@ Singapore's history during the pre-colonial period can be told through old maps 
 
 ### **Forbidden Hill**
 
+Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") as well as "Singapura" in indigenous Malay text, the inhabitants settled on the north bank of Singapore River around Fort Canning Hill. 
+
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
