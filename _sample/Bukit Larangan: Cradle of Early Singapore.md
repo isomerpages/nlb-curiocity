@@ -28,9 +28,11 @@ Singapore's history during the pre-colonial period can be told through old maps 
 
 ### **Forbidden Hill**
 
-Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") as well as "Singapura" in indigenous Malay text, it is said that this early settlement was founded by Sang Nila Utama. It then thrived under the leadership of four other kings, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah.
+Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea"), the island was renamed "Singapura" (meaning "Lion City") by Sang Nila Utama. Under his leadership as well as his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, early Singapore thrived as a sea-port before it was invaded by the Majapahit Empire in 1398.
 
 the inhabitants settled on the north bank of Singapore River around Fort Canning Hill. It
+
+In the *Sejarah Melayu* (or the "Malay Annals"), Sang Nila Utama is a reference to a 13th-century Palembang prince from the Srivijaya ruling house. His link to the pre-1819 history of Singapore is his founding of a settlement called Singapura on the island Temasek sometime in 1299. The sighting of a lion by Sang Utama is often told to explain the renaming of Temasek to Singapura.
 
 
 |   | 
