@@ -28,7 +28,7 @@ Singapore's history during the pre-colonial period can be told through old maps 
 
 ### **Forbidden Hill**
 
-Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") as well as "Singapura" in indigenous Malay text, it is said that this early settlement was founded by Sang Nila Utama and thrived under the leadership of four other kings, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah.
+Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") as well as "Singapura" in indigenous Malay text, it is said that this early settlement was founded by Sang Nila Utama. It then thrived under the leadership of four other kings, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah.
 
 the inhabitants settled on the north bank of Singapore River around Fort Canning Hill. It
 
