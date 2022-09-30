@@ -39,8 +39,6 @@ _____
 	
 </details>
 
----
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
@@ -56,8 +54,6 @@ The rulers of early Singapore established its palace grounds on the slopes of Fo
 part of the structure was of perishable materials; an observation which, no doubt, applies to the rest of the buildings as well as to this."</span>
 
 </details>
-
-----
 
 |   | 
 |:--------:| 
@@ -79,8 +75,6 @@ were killed on either side that blood flowed like a river in spate and flooded t
 
 </details>
 
-----
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
@@ -99,8 +93,6 @@ _____
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"On the stony point which forms the western side of the entrance of the salt creek, on which the modern town of Singapore is building, there was discovered, two years ago, a tolerably hard block of stand-stone, with an inscription upon it…The stone, in shape, is a rude mass, and formed of the one-half of a great nodule broken into two nearly equal parts by artificial means; for the two portions now face each other, separated at the base by a distance of not more than two feet and a half, and reclining opposite to each other at an angle of about forty degrees. It is upon the inner surface of the stone that the inscription is engraved. The workmanship is far ruder than any thing of the time that I have seen in Java or India; and the writing, perhaps from time, in some degree but more from the natural decomposition of rock, so much obliterated as to be quite illegible as a composition. Here and there, however, a few letters seem distinct enough. The character is rather round than square. It is probably the Pali, or religious character used by the followers of Buddha, and of which abundant examples are to be found in Java and Sumatra; while no monuments exist in these countries in their respective vernacular alphabets."</span>
 	
 </details>
-
----
 
 |   | 
 |:--------:| 
