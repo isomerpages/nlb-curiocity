@@ -44,7 +44,7 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The five kings? (Image Credit: Ptolemy, *Vndecima Asiae Tabvla* (1478) (Call no. [RRARE912.54 PTO](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143293) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)){:target="_blank"}) |
+| The five kings? |
 
 -----
 
@@ -63,7 +63,7 @@ part of the structure was of perishable materials; an observation which, no doub
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| Tales in Malay Annals (Image Credit: Ptolemy, *Vndecima Asiae Tabvla* (1478) (Call no. [RRARE912.54 PTO](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143293) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)){:target="_blank"}) |
+| Tales in Malay Annals? |
 
 -----
 
