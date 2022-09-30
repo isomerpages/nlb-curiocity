@@ -59,7 +59,6 @@ part of the structure was of perishable materials; an observation which, no doub
 
 ----
 
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
