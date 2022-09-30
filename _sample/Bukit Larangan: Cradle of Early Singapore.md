@@ -41,7 +41,10 @@ _____
 
 ---
 
-the inhabitants settled on the north bank of Singapore River around Fort Canning Hill. It
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
+The rulers of early Singapore established its palace grounds on the slopes of Fort Canning Hill, and its ruins were recorded by John Crawfurd in 1822. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>to read John Crawfurd’s account of the stone including his assessment of the writings on it in 1822. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
+<br>
 
 
 |   | 
