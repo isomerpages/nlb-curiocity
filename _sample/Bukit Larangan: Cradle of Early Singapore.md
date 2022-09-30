@@ -44,7 +44,7 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The five kings? Wang Dayuan? |
+| The five kings? |
 
 -----
 
