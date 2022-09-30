@@ -130,12 +130,3 @@ were killed on either side that blood flowed like a river in spate and flooded t
 </details>
 
 -----
-
-Click or tap HERE to reveal below how Singapura was invaded by the
-Majapahit. (Source: C. C. Brown, Sejarah Melayu: Malay Annals (1976), p. 41.
-(Call no. RSING 959.5 SEJ))
-
-Sang Ranjuna Tapa, a Treasury Officer of Singapura, had felt humiliated by the treatment of his daughter by the King of Singapura and sent a letter to the Batara of Majapahit inviting him to attack Singapura. “When the Batara of Majapahit heard
-what was in the letter of the Treasury officer of the Raja of Singapura he forthwith ordered a fleet of three hundred ships to be made ready, together with a force of two hundred thousand Javanese fighting men. And the expedition set out; and when it reached Singapura battle was engaged with the men of Singapura. After the battle had lasted for some days Sultan Iskandar Shah ordered the Treasury to issue rice
-for the provisioning of the troops, but Sang Ranjuna Tapa replied that there was no rice left...at dawn Sang Ranjuna Tapa opened the gate of the fort, whereupon the Javanese entered and fought with the men of Singapura inside the fort. So many
-were killed on either side that blood flowed like a river in spate and flooded the fort of Singapura on the sea shore, and that was the blood which exists to this day on the plain of Singapura. And the men of Singapura were defeated, and Sultan Iskandar Shah fled, going by way of Saletar and thence to Muar. By the will of Almighty God the house of Sang Ranjuna Tapa and his wife was turned into rock, and that is the rock which exists to this day in the moat of Singapura. After the Javanese had conquered Singapura they returned to Majapahit.”
