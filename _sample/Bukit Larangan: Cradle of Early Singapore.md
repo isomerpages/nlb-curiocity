@@ -28,7 +28,7 @@ Singapore's history during the pre-colonial period can be told through old maps 
 
 ### **Forbidden Hill**
 
-Singapore's pre-colonial history can be traced back to the 13th century. Known in Chinese historical text as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea"), the island was renamed "Singapura" (meaning "Lion City") by [Sang Nila Utama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html). Under his leadership as well as his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, early Singapore thrived as a sea-port before it was invaded by the Majapahit Empire in 1398.
+The island of pre-colonial Singapore was referred to as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") in Chinese historical text. The island was renamed "Singapura" (meaning "Lion City") by [Sang Nila Utama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html) around 1299. Under his leadership as well as his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, this early settlement in Singapore thrived as a sea-port before it was invaded by the Majapahit Empire in 1398.
 
 _____
 
