@@ -44,7 +44,7 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The five kings? |
+| The five kings? Malay Annals or the tales? |
 
 -----
 
@@ -62,7 +62,7 @@ part of the structure was of perishable materials; an observation which, no doub
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| Malay Annals? Wang Dayuan? |
+| Malay Annals or the tales? Wang Dayuan? |
 
 -----
 
