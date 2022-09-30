@@ -7,7 +7,7 @@ Before the British arrival in 1819, Singapore already has a settlement with a hi
 
 ### **Early Singapore in Maps**
 
-Singapore's history during the pre-colonial period can be told through old maps of the region. Hand-drawn, painted or printed by European and Asian cartographers and explorers who traversed South-east Asia by ship in search of spices such as cloves, pepper and cinnamon, they are among the earliest material evidence of our past. 
+Singapore's history during the pre-colonial period can be told through old maps of the region. Hand-drawn, painted or printed by European and Asian cartographers as well as explorers who traversed Southeast Asia by ship in search of spices such as cloves, pepper and cinnamon, they are among the earliest material evidence of our past. 
 
 |   | 
 |:--------:| 
