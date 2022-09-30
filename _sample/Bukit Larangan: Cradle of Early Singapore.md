@@ -41,11 +41,23 @@ _____
 
 ---
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
+| This “Undecima Asiae Tabula” (1478 CE) map is possibly one of the oldest maps of Singapore. It depicts one of twelve regions of Asia and is based on Claudius Ptolemaeus’ 2nd century work *Hyphegesis Geographike* (“Guide to Geography”). Southeast Asia is depicted as *India Extra Gangem* (Further India). Ptolemaeus’ work gave 16 coordinates for the Aurea *Khersonesos* (Golden Peninsula), a location which scholars such as Wheatley ([1966](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442)) interpret to be the Malay Peninsula. Two were mentioned as *emporio* or places where foreign trade was allowed and taxed; Takola in the north and *Sabana* (possibly Singapore) at the southern end. Wheatley ([1955](https://www.jstor.org/stable/621273)) and Colless ([1969](https://www.jstor.org/stable/20067728)) were the main proponents of this theory while others such as Gerini ([1909](https://eresources.nlb.gov.sg/printheritage/detail/7aba5b63-ee38-4765-937c-1ea035bf1ba2.aspx)) and Linehan ([1951](https://www.jstor.org/stable/41503002)) thought *Sabana* might be in Selangor, further north in the Malay Peninsula. (Image Credit: Ptolemy, *Vndecima Asiae Tabvla* (1478) (Call no. [RRARE912.54 PTO](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143293) and digitally via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)){:target="_blank"}) |
+
+-----
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 The rulers of early Singapore established its palace grounds on the slopes of Fort Canning Hill, and its ruins were recorded by John Crawfurd in 1822. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>to read John Crawfurd’s account of the stone including his assessment of the writings on it in 1822. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Then Sang Nila Utama reached a stone of great height and size, on which he mounted and viewed the opposite shore, with its sands white as cotton; and enquiring what sands were these which he saw, Indra B’hupala informed him they were the sands of the extensive country of Tamasek. The prince immediately proposed to visit them…But as they were passing over, they were caught in a severe storm, and the vessels began to leak, and the crews were unable, after repeated exertions, to throw out the water. They were accordingly compelled to throw overboard the greater part of the baggage in the vessel…The water nevertheless continued to gain ground, and every thing was thrown overboard till nothing now remained except the diadem…The prince ordered the diadem to be thrown overboard, the storm ceased and the vessel rose in the water, and the rowers pulled her ashore, and Sang Nila Utama with his attendants, immediately landed on the sands, and went to amuse themselves on the plain near the mouth of the river of Tamasek. There they saw an animal extremely swift and beautiful, its body of a red colour, it head black and its breast white, extremely agile, and of great strength, and its size a little larger than a he-goat. When it saw a great many people, it went towards the island and disappeared. Sang Nila Utiama enquired what animal was this, but none could them, till he enquired Damang Lebar Dawn, who informed him that the histories of ancient time, the sangha or lion was described in the same manner as this animal appeared. This is a fine place which contains so fierce and powerful an animal. Then Sang Nila Utama directed Indra B’hupala to go and inform his mother-in-law, that he should not return…and thus Sang Nila Utama settled the country of Tamasak, named it Singhapura, and reigned over it, and was panegyrized by Bat’h, who gave him the name of Sri Tri-buana."</span>
+
+</details>
+
+----
+
 
 |   | 
 |:--------:| 
