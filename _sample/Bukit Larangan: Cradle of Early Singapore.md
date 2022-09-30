@@ -84,7 +84,7 @@ were killed on either side that blood flowed like a river in spate and flooded t
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| Tales in Malay Annals? |
+| The Pararaton? |
 
 -----
 
