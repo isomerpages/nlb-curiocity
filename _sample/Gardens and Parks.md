@@ -16,3 +16,7 @@ Table: History of botanical gardens? Penang?
 Raffles reply
 
 Table: Map Jackson plan
+
+Development of the garden? (Map or painting)?
+
+Demise and the 2nd botanical gardens
