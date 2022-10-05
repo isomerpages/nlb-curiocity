@@ -7,7 +7,7 @@ Besides being a site for the British to project its power, Fort Canning Hill was
 
 ### **The First Botanic Garden**
 
-The Singapore Botanic Gardens today is not the first botanic garden of Singapore. Prior to its establishment in 1859, the British had already explored this idea when they set up a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
+The [Singapore Botanic Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_545_2005-01-24.html) today is not the first botanic garden of Singapore. Prior to its establishment in 1859, the British had already explored this idea when they set up a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
 
 _____
 
