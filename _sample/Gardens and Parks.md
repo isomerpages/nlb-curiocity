@@ -49,6 +49,8 @@ King George Park
 
 Swimming pool (forbidden spring)
 
+maps
+
 https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html 
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
