@@ -78,7 +78,7 @@ The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted 
 
 -----
 
-### **Early Singapore In Archaeology Digs**
+### **Early Singapore In Artifacts**
 
 Artifacts can provide some physical evidence for whether a site was settled and how long it might have been in use prior to abandonment, and the information can test or complement the known textual evidence. The existing [open air museum of the 1988 Fort Canning excavation site](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Archaeological-Excavation-Site-at-Fort-Canning-Park) (FTC) which is open daily to visitors suggests that Fort Canning Hill area was part of a larger 14th century settlement in Singapore which includes the parts of the Civic District as well as the banks of the Singapore River.
 
