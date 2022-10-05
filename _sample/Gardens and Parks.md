@@ -49,6 +49,36 @@ Quote: 2nd garden
 
 In 1836, the Government Hill botanical garden was revived briefly on a much smaller 2.8-hectare (7 ac) portion of the original site. Led by the newly formed Singapore Agricultural and Horticultural Society, of which Montgomerie was vice-president,12 the garden was used for the cultivation of nutmeg. A decade later, however, this plantation was also abandoned after the price of nutmeg declined
 
+----
+
+### **Christian Cemetery**
+
+Besides Government House and the flagstaff, Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian Cemetery. Today, the former Fort Canning Cemetery has been converted into a park.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-cemetery-1.jpg)|
+| The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery unlike the second site which is shown here. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae0977b4-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-cemetery-2.jpg) |
+| The second burial site was located on the slopes of Fort Canning Hill. This two-acre parcel soon became full so the then resident chaplain Reverend Robert Burn, the then resident chaplain applied for a new burial site in 1827. This request resulted in the cemetery to be enlarged instead. Due to the restricted size of the cemetery, segregation of Protestant and Catholic burials was not enforced strictly until 1845. In the same year, the cemetery was again extended to include land to the east of the central path, and in 1846, a brick wall and a pair of gates of Gothic design were built to enclose the cemetery. Around the time of the wall’s construction, two arches were built on the south (seaward) and the land-facing sides of the burial ground. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/fc-cemetery-3.jpg) |
+| As the cemetery’s burial register had been lost, the government hired H. A. Stallwood to recompile the burial register by copying details from gravestones. Although his task was complicated by the poor condition of some of the tombstones as well as the haphazard and crowded layout of the cemetery, he was able to complete it. His findings, which came with the above plan showing the locations of all the tombs and monuments there, were later published in the Journal of the Straits Branch of the Royal Asiatic Society in 1912. (Image Credit:  Extracted from [Journal of the Malayan Branch of the Royal Asiatic Society, July 1953](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709){:target="_blank"})|
+| ![Alt text for image on Isomer site](/images/fc-cemetery-4.jpg) |
+| By the end of 1863, the cemetery was full again, and a new site in Bukit Timah was identified as an alternative burial site. Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Around one-third of these burials were those of Chinese Christians. Today, visitors can still find the traces of the old Christian cemetery on Fort Canning Hill. These include the cemetery’s two Gothic gates, the James Brooke Napier Memorial that was built in memory of the infant son of William and Maria Frances Napier, as well as two dome-shaped cupolas. (Image Credit: [Photo by Francisco Anzola via Flickr](https://www.flickr.com/photos/fran001/){:target="_blank"})|
+
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Between 1822 and 1865, more than 600 burials took place at the Fort Canning Cemetery. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from H. A. Stallwood what were the oldest and latest tombs he discovered in the cemetery when he was compiling its burial registry which was published in the June 1912 issue of the <span style="font-style: italic;"> Journal of the Malayan Branch of the Royal Asiatic Society</span>. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709" target="_blank">Call no.: RCLOS 959.5 JMBRAS</a>)</span></summary>
+
+<br>  
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The oldest tomb discovered is that dated 1821, erected to the memory of John C. Collingwood of the ship "Susan". It is surmised that this stone was taken from the old original Cemetery and re-erected here, as this Cemetery was not opened until 1822. The latest discovered is dated 1868, erected to the memory of Marie Dominica Scott, a child of only two years of age, and the interment presumably took place after the Cemetery was closed in 1865, as the parents were possibly interred here."</span>
+
+</details>
+
+----
+
 
 **King George V Park**
 
