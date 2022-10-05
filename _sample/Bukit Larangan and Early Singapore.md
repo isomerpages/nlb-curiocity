@@ -3,7 +3,6 @@ title: Bukit Larangan and Early Singapore
 permalink: /sample/bukit-larangan/
 description: ""
 ---
-
 Before the British arrival in 1819, Singapore already had a settlement with a history that stretches back to the 14th century. This early settlement was not fictional as it was captured in historical text and maps.
 
 ### **Early Singapore in Maps**
