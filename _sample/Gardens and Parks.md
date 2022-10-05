@@ -25,7 +25,7 @@ _____
 
 -----
 
-In his reply to Wallich, Raffles agreed that Singapore's location was "admirably" suitable to have a botanic garden. 
+In his reply to Wallich, Raffles enthusiastically bought the botanic garden idea. He also agreed that Singapore's location was "admirably" suitable to have a botanic garden. 
 
 Table: Raffles's spice gardens
 
