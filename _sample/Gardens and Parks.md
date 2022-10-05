@@ -41,7 +41,7 @@ _____
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-4.jpg)|
 | By 1823, the garden had grown to occupy the 19 ha of land as initially planned, and was focused on the cultivation of nutmeg, cocoa and cloves. This led to the establishment of the spice industry in Singapore, which became the mainstay of the island’s economy at the time. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-5.jpg)|
-| Unfortunately, rising costs of maintenance and the lack of government support saw the closure of the experimental spice gardens in June 1829. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
+| However, due to high upkeep, coupled with a lack of funding and government support – especially after Raffles’s permanent departure from Singapore in June 1823 – the garden, which was under the supervision of surgeon William Montgomerie, was closed in June 1829. Its land was then used for various public projects, including an [Armenian church](http://eresources.nlb.gov.sg/infopedia/articles/SIP_809_2004-12-23.html), a school and a hospital.(Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 
 Development of the garden? (Map or painting)?
 
