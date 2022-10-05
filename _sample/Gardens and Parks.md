@@ -37,7 +37,7 @@ _____
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
 | Jackson map |
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-3.jpg)|
-| Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich made his proposal, Raffles had already set up a "spice garden" near his residence on the summit of Fort Canning Hill. |
+| Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich made his proposal, Raffles had already set up an experimental "spice garden" near his residence on the summit of Fort Canning Hill. The garden had some 125 nutmeg trees, 1,000 seeds of nutmeg and 450 clove plants planted. |
 
 
 Table: Raffles's spice gardens
