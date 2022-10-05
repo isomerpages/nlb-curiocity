@@ -25,9 +25,6 @@ _____
 
 -----
 
-
-Tradition
-
 Raffles reply
 
 Table: Raffles's spice gardens
