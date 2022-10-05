@@ -13,7 +13,7 @@ Danish surgeon and naturalist Nathaniel Wallich and Sir Stamford Raffles were th
 
 
 
-Apart from being a keen naturalist, Raffles’s motivation to set up a botanical garden in Singapore was linked to the colonial tradition of developing such spaces in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...this letter is now part of the collection but has been reproduced in 1913 JMBRAS
+
 
 Table: Raffles's spice gardens
 
@@ -22,6 +22,8 @@ Raffles reply
 Table: Map Jackson plan
 
 Development of the garden? (Map or painting)?
+
+developing such spaces in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...this letter is now part of the collection but has been reproduced in 1913 JMBRAS
 
 Demise and the 2nd botanical gardens
 
