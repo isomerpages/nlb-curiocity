@@ -35,16 +35,10 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-3.jpg)|
-| Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich submitted his proposal in 1822, Raffles had already set up an experimental "spice garden" near his residence (later the Governor's House) on the summit of Fort Canning Hill. The garden had at least some 125 nutmeg trees and other crops including clove trees. These were planted using the seeds that Raffles had brought along. |
+| Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich submitted his proposal in 1822, Raffles had already set up an experimental "spice garden" near his residence (later the Governor's House) on the summit of Fort Canning Hill. The garden had at least some 125 nutmeg trees and other crops including clove trees. These were planted using the seeds that Raffles had brought with him. |
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
 | Jackson map |
 
-
-Table: Raffles's spice gardens
-
-Apart from being a keen naturalist, Raffles’s motivation to set up a botanical garden in Singapore was linked to the colonial tradition of developing such gardens in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...In fact, shortly after Raffles arrived in Singapore in 1819, he had a garden set up beside his home on Government Hill, where spices and trees that he had brought with him were planted.
-
-In fact, shortly after Raffles arrived in Singapore in 1819, he had a garden set up beside his home on Government Hill, where spices and trees that he had brought with him were planted.
 
 Table: Farquhar garden
 
