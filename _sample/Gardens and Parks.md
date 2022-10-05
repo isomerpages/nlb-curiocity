@@ -25,11 +25,6 @@ _____
 
 -----
 
-Click or tap here to read an excerpt of the letter calling for the establishment of "a Botanical and Experimental Garden" on Singapore Island.
-
-
-
-
 Table: Raffles's spice gardens
 
 When Wallich proposed the idea, Raffles had set up 
