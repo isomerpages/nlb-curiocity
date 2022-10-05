@@ -42,7 +42,6 @@ _____
 
 Development of the garden? (Map or painting)?
 
-
 Table: Demise and the 2nd botanical gardens
 
 **King George V Park**
