@@ -43,9 +43,12 @@ _____
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-5.jpg)|
 | However, due to high upkeep, coupled with a lack of funding and government support – especially after Raffles’s permanent departure from Singapore in June 1823 – the garden, which was under the supervision of surgeon William Montgomerie, was closed in June 1829. Its land was then used for various public projects, including an [Armenian church](http://eresources.nlb.gov.sg/infopedia/articles/SIP_809_2004-12-23.html), a school and a hospital.(Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 
-Development of the garden? (Map or painting)?
+----
 
-Table: Demise and the 2nd botanical gardens
+Quote: 2nd garden
+
+In 1836, the Government Hill botanical garden was revived briefly on a much smaller 2.8-hectare (7 ac) portion of the original site. Led by the newly formed Singapore Agricultural and Horticultural Society, of which Montgomerie was vice-president,12 the garden was used for the cultivation of nutmeg. A decade later, however, this plantation was also abandoned after the price of nutmeg declined
+
 
 **King George V Park**
 
