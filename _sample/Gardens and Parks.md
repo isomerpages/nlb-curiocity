@@ -37,7 +37,7 @@ _____
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
 | Jackson map |
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-3.jpg)|
-| Jackson map |
+| spice garden |
 
 
 Table: Raffles's spice gardens
