@@ -14,8 +14,9 @@ Danish surgeon and naturalist Nathaniel Wallich and Sir Stamford Raffles were th
 
 
 
-
 Table: Raffles's spice gardens
+
+When Wallich proposed the idea, Raffles had set up 
 
 Raffles reply
 
