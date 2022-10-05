@@ -64,6 +64,6 @@ https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
 
-National Theatre
+**National Theatre**
 
-Aquarium
+**Aquarium**
