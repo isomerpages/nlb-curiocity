@@ -39,11 +39,11 @@ Table: Farquhar garden
 
 Table: Map Jackson plan
 
-Development of the garden? (Map or painting)?
+Letter? Development of the garden? (Map or painting)?
 
 developing such spaces in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...this letter is now part of the collection but has been reproduced in 1913 JMBRAS
 
-Demise and the 2nd botanical gardens
+Table: Demise and the 2nd botanical gardens
 
 King George Park
 
