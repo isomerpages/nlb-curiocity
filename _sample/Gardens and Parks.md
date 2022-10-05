@@ -40,9 +40,8 @@ _____
 | To enable the establishment of the botanic garden, Raffles made a personal donation of 1,000 dollars and allocated a 19-hectare site on the eastern slope of Fort Canning Hill as shown in this 1828 "Plan of the Town of Singapore". Encompassing the "Government Garden" that he had created earlier, the grounds of the botanic garden was bounded by Selegie Road to the east, Hill Street to the south and "any extent of ground required" to the north. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 
 
-Letter? Development of the garden? (Map or painting)?
+Development of the garden? (Map or painting)?
 
-developing such spaces in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...this letter is now part of the collection but has been reproduced in 1913 JMBRAS
 
 Table: Demise and the 2nd botanical gardens
 
