@@ -62,5 +62,3 @@ https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Cannin
 National Theatre
 
 Aquarium 
-
-Central Park to Fort Canning Park
