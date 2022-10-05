@@ -47,6 +47,10 @@ Table: Demise and the 2nd botanical gardens
 
 **King George V Park**
 
+Central park
+
+Fort Canning Park today
+
 **Swimming pool (forbidden spring)**
 
 maps
