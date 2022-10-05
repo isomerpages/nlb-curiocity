@@ -24,3 +24,13 @@ Table: Map Jackson plan
 Development of the garden? (Map or painting)?
 
 Demise and the 2nd botanical gardens
+
+King George Park
+
+Swimming pool
+
+National Theatre
+
+Aquarium 
+
+Central Park to Fort Canning Park
