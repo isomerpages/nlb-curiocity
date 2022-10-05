@@ -35,6 +35,8 @@ Table: Raffles's spice gardens
 
 Apart from being a keen naturalist, Raffles’s motivation to set up a botanical garden in Singapore was linked to the colonial tradition of developing such gardens in the tropics for the experimental cultivation of cash crops as well as for the research and preservation of native plants...In fact, shortly after Raffles arrived in Singapore in 1819, he had a garden set up beside his home on Government Hill, where spices and trees that he had brought with him were planted.
 
+Table: Farquhar garden
+
 Table: Map Jackson plan
 
 Development of the garden? (Map or painting)?
