@@ -45,9 +45,9 @@ developing such spaces in the tropics for the experimental cultivation of cash c
 
 Table: Demise and the 2nd botanical gardens
 
-King George Park
+**King George V Park**
 
-Swimming pool (forbidden spring)
+**Swimming pool (forbidden spring)**
 
 maps
 
