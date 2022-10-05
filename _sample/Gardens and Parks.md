@@ -25,7 +25,6 @@ _____
 
 -----
 
-Table: other botanic gardens in the empire
 
 Tradition
 
