@@ -5,11 +5,11 @@ description: ""
 ---
 Besides being a site for the British to project its power, Fort Canning Hill was also used for recreational activities. In fact, for the past two centuries, the hill was home to not only parks and gardens, but also an aquarium, a swimming pool and even a theatre.
 
-### **The First Botanical Gardens**
+### **The First Botanic Garden**
 
-The Singapore Botanic Gardens today is not the first botanical gardens of Singapore. Prior to its establishment in 1859, the British had already explored this idea when they set up a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
+The Singapore Botanic Gardens today is not the first botanic garden of Singapore. Prior to its establishment in 1859, the British had already explored this idea when they set up a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
 
-Danish surgeon and naturalist Nathaniel Wallich and Sir Stamford Raffles were the figures behind the first botanical gardens. The duo started to work together on this idea after the former proposed it in his letter to the latter on 2 November 1822. Click or tap here to read an excerpt of the letter calling for the establishment of "a Botanical and Experimental Garden" on Singapore Island.
+Danish surgeon and naturalist Nathaniel Wallich and Sir Stamford Raffles were the figures behind the first botanic garden. The duo started to work together on the concept after the former proposed it in his letter to the latter on 2 November 1822. Click or tap here to read an excerpt of the letter calling for the establishment of "a Botanical and Experimental Garden" on Singapore Island.
 
 
 
