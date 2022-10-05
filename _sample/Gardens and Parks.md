@@ -40,6 +40,8 @@ _____
 | To enable the establishment of the botanic garden, Raffles made a personal donation of 1,000 dollars and allocated a 19-hectare site on the eastern slope of Fort Canning Hill as shown in this 1828 "Plan of the Town of Singapore". Encompassing the "Government Garden" that he had created earlier, the grounds of the botanic garden was bounded by Selegie Road to the east, Hill Street to the south and "any extent of ground required" to the north. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-4.jpg)|
 | By 1823, the garden had grown to occupy the 19 ha of land as initially planned, and was focused on the cultivation of nutmeg, cocoa and cloves. This led to the establishment of the spice industry in Singapore, which became the mainstay of the island’s economy at the time. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-gardens-botanic-5.jpg)|
+| Unfortunately, rising costs of maintenance and the lack of government support saw the closure of the experimental spice gardens in June 1829. (Image Credit: [Courtesy of the National Library Board](https://commons.wikimedia.org/wiki/File:Nutmeg_Tree_-_40_drawings_of_plants_at_Bencoolen,_Sumatra_(c.1824)_-_BL_NHD_48-23.jpg)|
 
 Development of the garden? (Map or painting)?
 
