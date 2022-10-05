@@ -36,7 +36,7 @@ _____
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
 | Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich submitted his proposal in 1822, Raffles had already set up an experimental "spice garden" near his residence (later the Governor's House) on the summit of Fort Canning Hill. The garden had at least some 125 nutmeg trees and other crops including clove trees. These were planted using the seeds that Raffles had brought with him. |
-| ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-gardens-botanic-3.jpg)|
 | Jackson map |
 
 
