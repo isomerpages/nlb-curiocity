@@ -25,7 +25,7 @@ _____
 
 -----
 
-In his reply to Wallich, Raffles agreed 
+In his reply to Wallich, Raffles agreed that Singapore's location was "admirably" suitable to 
 
 Table: Raffles's spice gardens
 
