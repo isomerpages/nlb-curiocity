@@ -26,7 +26,7 @@ _____
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In his reply to Wallich, Raffles enthusiastically supported the proposal to create a botanic garden in Singapore. He also agreed that the island's location was "admirably" suitable to host such an establishment. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an excerpt of his 15 November 1822 reply to Wallich, reproduced in the 1981 issue of the <span style="font-style: italic;"> Journal of the Malaysian Branch of the Royal Asiatic Society</span> that no. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709" target="_blank">Call no.: RCLOS 959.5 JMBRAS</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In his reply to Wallich, Raffles enthusiastically supported the proposal to create a botanic garden in Singapore. Like Wallich, he agreed that the island's location had made it "remarkably" suitable to host such an establishment. and Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an excerpt of his 15 November 1822 reply to Wallich, reproduced in the 1981 issue of the <span style="font-style: italic;"> Journal of the Malaysian Branch of the Royal Asiatic Society</span> that no. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709" target="_blank">Call no.: RCLOS 959.5 JMBRAS</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"I have to acknowledge the receipt of your letter…submitting for my consideration the advantage of establishing a Botanic and experimental Garden at this Settlement. Situated as Singapore is, in the very heart of the Malayan Archipelago and midway between India China and New Holland it is hardly possible to conceive a position more admirably calculated for such an establishment as your active zeal in the cause of Science has prompted you to suggest…The advantages are obvious and I rejoice that I am enabled to avail myself of your superior genius and experience in laying down a Plan for its' commence."</span>
 	
@@ -37,7 +37,7 @@ _____
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-2.jpg)|
 | Jackson map |
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-3.jpg)|
-| spice garden |
+| Raffles had been toying with the idea of establishing a botanic garden in Singapore since his arrival in 1819. In fact, by the time Wallich made his proposal, Raffles had already set up a "spice garden" near his residence on the summit of Fort Canning Hill. |
 
 
 Table: Raffles's spice gardens
@@ -73,4 +73,3 @@ https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Cannin
 National Theatre
 
 Aquarium
-
