@@ -73,7 +73,7 @@ Besides the Botanic Garden, Fort Canning Hill was also the site of one of Singap
 
 ----
 
-### **King George V Park**
+### **King George V Park (Today's Fort Canning Park)**
 
 In 1936, Fort Canning Hill saw another park being built within its grounds. Known as King George V Park, it is known today as Fort Canning Park. 
 
