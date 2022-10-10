@@ -82,9 +82,9 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | The site where King George V Park sat was the railway yard of the former Tank Road Railway Station. Opened in 1906, it served as the terminus for passenger trains in Singapore for the [Singapore Railway Line](https://eresources.nlb.gov.sg/infopedia/articles/SIP_953_2005-01-25.html) until the completion of the Tanjong Pagar Railway Station in 1932. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| King George V Park was completed around 1938. It became very popular during the postwar period and was known for its abundant lush greenery. The park was also equipped with amenities including benches and children playgrounds. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| King George V Park was completed around 1938. It was known for its abundant lush greenery and became very popular during the postwar period. The park was also equipped with amenities including benches and children playgrounds. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-municipal called for a park to be built and the park was completed (map)
+King George V Park transformed its surrounding area as it was 
 
 Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
 
