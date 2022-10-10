@@ -88,6 +88,8 @@ Central park
 
 Fort Canning Park today
 
+**Aquarium**
+
 **Swimming pool (forbidden spring)**
 
 Yan Kit Road swimming pool
@@ -98,4 +100,3 @@ https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Cannin
 
 **National Theatre**
 
-**Aquarium**
