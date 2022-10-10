@@ -116,7 +116,7 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 
 ---
 
-Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
+
 
 Central park (1960s?) (photograph)
 
