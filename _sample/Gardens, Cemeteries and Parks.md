@@ -95,10 +95,13 @@ Having transformed the area from an ["uninviting spot" to an "outstanding"](http
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Meanwhile the mid, from pleasure less,
 <br>Withdraws into its happiness;
+<br>
 <br>The mind, that ocean where each kind
 <br>Does straight its own resemblance find;
+<br>
 <br>Yet it creates, transcending these,
 <br>Far other worlds and other seas;
+<br>
 <br>Annihilating all that's made
 <br>To a green thought in a green shade.
 <br>
