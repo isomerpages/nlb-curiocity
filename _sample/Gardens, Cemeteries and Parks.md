@@ -84,12 +84,19 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | King George V Park was completed around 1938. It became very popular during the postwar period and was known for its abundant lush greenery. The park was also equipped with pathways and amenities such as benches and swings. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+---
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Having transformed the area from an <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42" target="_blank">"uninviting spot" to an "outstanding park"</a>, King George V Park was described as a <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520712-1.2.55.18" target="_blank">"haven" and "the Colony's most beautiful public garden"</a>for the people living in the area. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an excerpt from The Straits Times on how the park had impacted their lives. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The children from the slums off River Valley Road have a haven - the King George V Park bounded by Clemenceau Avenue at the foot of Fort Canning, Singapore's famous landmark. Scores of scraggy kids can be seen emerging from their rambling homes a stone's throw away, like rabbits out of their holes, to play on the green grass in the cool of the evening. It is a familiar sight to see a group of five or six boys lolling on the grass in a shady nook or playing a game of imitation Blind Man's Bluff. From 5.30 or 6 p.m. onwards every day, one can see a flow of these children into the park, from babes-in-arms to the age of adolescence. Some are accompanied by their parents. Peals of laughter rise above the din of the busy traffic and the park rings with a hundred gay young voices of children at play. The few swings and chutes that are there to delight the kiddies and young visitors are always occupied. In another corner, some wide-eyed toddler is being fed by Mama. A large number of these children, shut out from all sunlight in their rickety homes across the road, are in need of fresh air and sunshine more than food. Although it doesn't boast of being a second Hype Park, this green enclosure with its many shady trees and flowering shrubs is regarded by many as the Colony's most beautiful public garden."</span>
 	
 </details>
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
+| The site where King George V Park sat was the railway yard of the former Tank Road Railway Station. Opened in 1906, it served as the terminus for passenger trains in Singapore for the [Singapore Railway Line](https://eresources.nlb.gov.sg/infopedia/articles/SIP_953_2005-01-25.html) until the completion of the Tanjong Pagar Railway Station in 1932. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ---
 
