@@ -84,7 +84,6 @@ The Fort Canning Park that we know today was formerly known as King George V Jub
 
 municipal called for a park to be built and the park was completed
 
-Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad
 
 Parks in 1936
 
