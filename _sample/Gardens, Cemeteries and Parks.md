@@ -84,7 +84,7 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | King George V Park was completed around 1938. It became very popular during the postwar period and was known for its abundant lush greenery. The park was also equipped with pathways and amenities such as benches and swings. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-King George V Park transformed its surrounding area as it was 
+Having transformed the area from an "uninviting spot" to an "outstanding" park, King George V Park was described as a "haven" for the people living in the city area. 
 
 Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
 
