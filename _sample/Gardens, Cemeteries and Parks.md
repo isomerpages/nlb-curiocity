@@ -84,7 +84,7 @@ The Fort Canning Park that we know today was formerly known as King George V Jub
 
 municipal called for a park to be built and the park was completed (map)
 
-Central park
+Central park (1960s?) (photograph)
 
 Fort Canning Park today
 
