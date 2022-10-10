@@ -94,6 +94,8 @@ Fort Canning Park today
 
 Yan Kit Road swimming pool/River Valley Swimming Complex
 
+YMCA swimming pool
+
 https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html 
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
