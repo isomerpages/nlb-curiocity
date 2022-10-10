@@ -75,7 +75,7 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ### **Fort Canning Park**
 
-The Fort Canning Park that we know today was formerly known as King George V Jubilee Park. Completed in 1938, it was a beautifully landscape park with....
+The Fort Canning Park that we know today was formerly known as King George V Park. Completed in 1938, it was a beautifully landscape park with....
 
 |   | 
 |:--------:| 
