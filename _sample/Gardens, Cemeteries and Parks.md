@@ -86,7 +86,7 @@ municipal called for a park to be built and the park was completed (map)
 
 Central park (1960s?) (photograph)
 
-Fort Canning Park today
+Fort Canning Park today (photograph)
 
 **Aquarium**
 
