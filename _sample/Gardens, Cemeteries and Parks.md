@@ -73,8 +73,9 @@ Besides the Botanic Garden, Fort Canning Hill was also the site of one of Singap
 
 ----
 
-
 **King George V Park**
+
+In 1936, Fort Canning Hill saw another park being built within its grounds. Known as King George V Park, it is known today as Fort Canning Park. 
 
 Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad
 
