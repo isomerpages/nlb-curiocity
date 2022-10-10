@@ -76,7 +76,7 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 **King George V Park**
 
-Parks in 1935
+Parks in 1936
 
 Central park
 
