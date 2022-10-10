@@ -80,7 +80,7 @@ The Fort Canning Park that we know today was formerly known as King George V Jub
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| The site where King George V Park (today's Fort Canning Park)  (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae0977b4-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The site where Fort Canning Park stands today was once the railway yard of the former Tank Road Railway.   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae0977b4-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad
 
