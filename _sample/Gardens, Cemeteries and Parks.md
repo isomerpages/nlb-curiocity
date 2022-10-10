@@ -76,6 +76,8 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 **King George V Park**
 
+Tank Road Railway
+
 Parks in 1936
 
 Central park
