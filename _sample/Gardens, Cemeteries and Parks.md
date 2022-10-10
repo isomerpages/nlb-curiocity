@@ -86,6 +86,8 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 
 Having transformed the area from an ["uninviting spot" to an "outstanding"](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42) park, King George V Park was described as a ["haven"](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19520712-1.2.55.18) for the people living in the area. Click here to read an excerpt from The Straits Times on how the park had impacted the people.
 
+
+
 Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
 
 Central park (1960s?) (photograph)
