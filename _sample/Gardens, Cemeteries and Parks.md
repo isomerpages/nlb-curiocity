@@ -90,10 +90,8 @@ Having transformed the area from an ["uninviting spot" to an "outstanding"](http
 
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal Edwin Thumboo's "Bras Basah" poem below.</span></summary>
-
-Besides reporting on how King George V Park had improved the lives of the people living nearby, The Straits Times even crafted a poem to describe the park. Click or tap here to read the poem.
-
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Besides reporting on how King George V Park had improved the lives of the people living nearby, The Straits Times even crafted a poem to describe the park. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the poem.</span></summary>
+<br>
 "Meanwhile the mid, from pleasure less,
 <br>Withdraws into its happiness;
 <br>The mind, that ocean where each kind
