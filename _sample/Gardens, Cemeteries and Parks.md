@@ -90,7 +90,7 @@ Having transformed the area from an ["uninviting spot" to an "outstanding"](http
 
 Besides reporting on how King George V Park had improved the lives of the people living nearby, The Straits Times even crafted a poem to describe the park. Click or tap here to read the poem.
 
-"
+"Meanwhile the mid, from pleasure less,
 
 Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
 
