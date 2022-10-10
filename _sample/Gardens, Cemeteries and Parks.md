@@ -75,7 +75,7 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ### **Fort Canning Park**
 
-King George V Park was completed around 1938. Located at the southwest section of Fort Canning Hill, it was a very popular park during the postwar period. Today, the park has been renamed Fort Canning Park and it continues to be one of the most frequented parks of Singapore.
+King George V Park was completed around 1938. Located at the southwest section of Fort Canning Hill, it was a very popular park during the postwar period. Today, the park has been renamed Fort Canning Park and it continues to be one of the most frequented parks in Singapore.
 
 |   | 
 |:--------:| 
