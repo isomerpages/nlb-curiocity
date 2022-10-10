@@ -77,6 +77,11 @@ Besides the Botanic Garden, Fort Canning Hill was also the site of one of Singap
 
 In 1936, Fort Canning Hill saw another park being built within its grounds. Known as King George V Park, it is known today as Fort Canning Park. 
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
+| The first burial site of Fort Canning Cemetery was located near the hilltop, close to the bungalow that Raffles built. At least three burials were made here. The first was that of John Casamajor, a Commercial Resident of the British East India Company and judge who was visiting from India. He died in Singapore on 1 February 1821. The other two burials were those of John Carnegy, a ship captain who died on 12 February 1821, and John Collingwood, a ship commander who died on 21 November 1821. The cemetery was discontinued at the end of 1822 after it was found to be too close to Raffles’s residence. There are no visible traces of this cemetery unlike the second site which is shown here. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ae0977b4-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad
 
 Parks in 1936
