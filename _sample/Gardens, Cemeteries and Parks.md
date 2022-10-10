@@ -92,7 +92,7 @@ Fort Canning Park today
 
 **Swimming pool (forbidden spring)**
 
-Yan Kit Road swimming pool
+Yan Kit Road swimming pool/River Valley Swimming Complex
 
 https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html 
 
