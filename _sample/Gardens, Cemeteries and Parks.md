@@ -88,6 +88,7 @@ Having transformed the area from an ["uninviting spot" to an "outstanding"](http
 
 "The children from the slums off River Valley Road have a haven - the King George V Park bounded by Clemenceau Avenue at the foot of Fort Canning, Singapore's famous landmark. Scores of scraggy kids can be seen emerging from their rambling homes a stone's throw away, like rabbits out of their holes, to play on the green grass in the cool of the evening. It is a familiar sight to see a group of five or six boys lolling on the grass in a shady nook or playing a game of imitation Blind Man's Bluff. From 5.30 or 6 p.m. onwards every day, one can see a flow of these children into the park, from babes-in-arms to the age of adolescence. Some are accompanied by their parents. Peals of laughter rise above the din of the busy traffic and the park rings with a hundred gay young voices of children at play. The few swings and chutes that are there to delight the kiddies and young visitors are always occupied. In another corner, some wide-eyed toddler is being fed by Mama. A large number of these children, shut out from all sunlight in their rickety homes across the road, are in need of fresh air and sunshine more than food. Although it doesn't boast of being a second Hype Park, this green enclosure with its many shady trees and flowering shrubs is regarded by many as the Colony's most beautiful public garden."
 
+---
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Besides reporting on how King George V Park had improved the lives of the people living nearby, The Straits Times even crafted a poem to describe the park. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the poem.</span></summary>
@@ -105,6 +106,8 @@ Having transformed the area from an ["uninviting spot" to an "outstanding"](http
 </span>
 	
 </details>
+
+---
 
 Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
 
