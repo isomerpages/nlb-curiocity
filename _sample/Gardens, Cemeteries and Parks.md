@@ -76,7 +76,7 @@ Besides Government House and the flagstaff, Fort Canning Hill was also the site 
 
 **King George V Park**
 
-Tank Road Railway
+Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb6389fe-115c-11e3-83d5-0050568939ad 
 
 Parks in 1936
 
