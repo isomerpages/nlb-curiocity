@@ -75,12 +75,12 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ### **Fort Canning Park**
 
-King George V Park was completed around 1938. Located at the southwest section of Fort Canning Hill, it was a very popular park during the postwar period. Today, the park has been renamed Fort Canning Park and it continues to be one of the most frequented parks in Singapore.
+King George V Park was completed around 1938. Located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue, it was a very popular park during the postwar period. Today, the park is known as Fort Canning Park and it continues to be one of the most frequented parks in Singapore.
 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| The site where Fort Canning Park stands today was once the railway yard of the former Tank Road Railway Station. Opened in 1906, it replaced the Singapore Station which was opened earlier in 1903 at the corner of Tank Road and River Valley Road. The Tank Road Railway Station as well as its predecessor served as the terminus of the first railway line of Singapore - the Singapore-Kranji Railway - until 1932 when it was taken over by Tanjong Pagar Railway Station. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| King George V Park was once the railway yard of the former Tank Road Railway Station. Opened in 1906, it replaced the Singapore Station which was opened earlier in 1903 at the corner of Tank Road and River Valley Road. The Tank Road Railway Station as well as its predecessor served as the terminus of the first railway line of Singapore - the Singapore-Kranji Railway - until 1932 when it was taken over by Tanjong Pagar Railway Station. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 municipal called for a park to be built and the park was completed (map)
 
