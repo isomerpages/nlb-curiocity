@@ -82,9 +82,7 @@ The Fort Canning Park that we know today was formerly known as King George V Jub
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | The site where Fort Canning Park stands today was once the railway yard of the former Tank Road Railway Station. Opened in 1906, it replaced the Singapore Station which was opened earlier in 1903 at the corner of Tank Road and River Valley Road. The Tank Road Railway Station as well as its predecessor served as the terminus of the first railway line of Singapore - the Singapore-Kranji Railway - until 1932 when it was taken over by Tanjong Pagar Railway Station. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-municipal called for a park to be built
-
-the park was completed
+municipal called for a park to be built and the park was completed
 
 Tank Road Railway: https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad
 
