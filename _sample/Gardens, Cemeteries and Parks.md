@@ -84,6 +84,8 @@ The Fort Canning Park that we know today was formerly known as King George V Par
 
 municipal called for a park to be built and the park was completed (map)
 
+Quote: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480507-1.2.42
+
 Central park (1960s?) (photograph)
 
 Fort Canning Park today (photograph)
