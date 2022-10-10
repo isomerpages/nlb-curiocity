@@ -43,6 +43,8 @@ _____
 | ![Alt text for image on Isomer site](/images/bb-map-2.jpg)|
 | However, due to high upkeep, coupled with a lack of funding and government support, the garden was eventually closed in June 1829. Its land was then parcelled out for various public projects including the [Armenian Apostolic Church of St. Gregory the Illuminator](http://eresources.nlb.gov.sg/infopedia/articles/SIP_809_2004-12-23.html) as shown in 1839 survey map of Singapore town prepared by George D. Coleman.(Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"})|
 
+-----
+
 ### **Christian Cemetery**
 
 Besides Government House and the flagstaff, Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian Cemetery. Today, the former Fort Canning Cemetery has been converted into a park.
