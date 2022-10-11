@@ -160,6 +160,8 @@ https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
 
+-----
+
 ##### **National Theatre**
 
 Completed in 1963, the National Theatre was one of the most iconic buildings of the nation-building years. Situated near King George V Park, it was used as a cultural venue for performances, concerts and conferences before being demolished in 1986 due to structural reasons.
