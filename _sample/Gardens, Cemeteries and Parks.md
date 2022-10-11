@@ -75,7 +75,7 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ### **King George V Park**
 
-King George V Park was completed around 1938. Located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue, it was named this way to to mark the 1935 silver jubilee of King George V and Queen Mary. The park was very popular park during the postwar period. In 1972, it was incorporated into today's Fort Canning Park which is one of the most frequented parks in Singapore.
+King George V Park was completed around 1938. Located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue, it was named this way to to mark the 1935 silver jubilee of King George V and Queen Mary. The park was very popular park during the postwar period and was known for its lush greenery and towering trees. In 1972, King George V Park was incorporated into today's Fort Canning Park before being turned into Jubilee Park in 2019.
 
 |   | 
 |:--------:| 
@@ -128,7 +128,7 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 | ![Alt text for image on Isomer site](/images/fc-parks-4.jpg)|
 | In 1972, King George V Park was incorporated into a larger park. Initially called Central Park before being renamed Fort Canning Park in 1981, this new 100-acre park was dubbed the "biggest ever green lung" in the city area at the time. It included King George V Park and the former grounds of the headquarters of the Malaya Command on Fort Canning Hill which by then had come under the purview of the Singapore Armed Forces. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f31c2dc5-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-5.jpg)|
-| Today, Fort Canning Park continues to be a public park. It is also a venue for celebrations and events, having hosted concerts, theatre productions and festivals. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f31c2dc5-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| In 2019, a new park called Jubilee Park was created within the grounds of Fort Canning Park. The park is situated at the same site as King George V Park. It is also modelled after the latter as a family-friendly leisure space, with giant seesaws, slides and climbing frames made out of natural logs. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f31c2dc5-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
