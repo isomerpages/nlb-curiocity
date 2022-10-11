@@ -138,6 +138,21 @@ King George V Park was not the only recreational grounds in Fort Canning Hill, t
 
 _________
 
+##### **National Theatre**
+
+Completed in 1963, the National Theatre was one of the most iconic buildings of the nation-building years. Situated near King George V Park, it was used as a cultural venue for performances, concerts and conferences before being demolished in 1986 due to structural reasons.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-parks-theatre-1.jpg)|
+| The National Theatre was known for its iconic architecture. Designed by local architect Alfred Wong, it featured an open-air auditorium with a magnificent 150-tonne cantilevered steel roof overhanging an open-air auditorium. The supporting wall for the roof had five vertical diamond-shaped bays that formed the distinctive frontage of the theatre. In 1965, a crescent-shaped fountain was added in front of the five diamond frontage of the theatre. This led many to it being representing the symbols of the [National Flag](https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html)’s crescent moon and five stars (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1190128){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-parks-theatre-2.jpg)|
+| The National Theatre was built to commemorate Singapore's achievement of self-government in 1959. It was also known as the “People’s Theatre” as members of the public had contributed towards the theatre’s building fund through various fundraising activities including the "A-Dollar-A-Brick" campaign. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1321389){:target="_blank"})|
+ ![Alt text for image on Isomer site](/images/fc-parks-theatre-3.jpg)|
+| During its years of operation between 1963 and 1984, the National Theatre was the venue of many important events including the annual National Day rallies from 1966 to 1982. It was also used for performances and concerts featuring famous artistes and performing groups such as the Louis Armstrong Jazz Band, the Duke Ellington Orchestra, the Bee Gees and the Walker Brothers and the Yardbirds (shown above).(Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1401986){:target="_blank"}) |
+
+----
+
 ##### **Van Kleef Aquarium**
 
 |   | 
@@ -162,15 +177,3 @@ https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Cannin
 
 -----
 
-##### **National Theatre**
-
-Completed in 1963, the National Theatre was one of the most iconic buildings of the nation-building years. Situated near King George V Park, it was used as a cultural venue for performances, concerts and conferences before being demolished in 1986 due to structural reasons.
-
-|   | 
-|:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-parks-theatre-1.jpg)|
-| The National Theatre was known for its iconic architecture. Designed by local architect Alfred Wong, it featured an open-air auditorium with a magnificent 150-tonne cantilevered steel roof overhanging an open-air auditorium. The supporting wall for the roof had five vertical diamond-shaped bays that formed the distinctive frontage of the theatre. In 1965, a crescent-shaped fountain was added in front of the five diamond frontage of the theatre. This led many to it being representing the symbols of the [National Flag](https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html)’s crescent moon and five stars (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1190128){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/fc-parks-theatre-2.jpg)|
-| The National Theatre was built to commemorate Singapore's achievement of self-government in 1959. It was also known as the “People’s Theatre” as members of the public had contributed towards the theatre’s building fund through various fundraising activities including the "A-Dollar-A-Brick" campaign. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1321389){:target="_blank"})|
- ![Alt text for image on Isomer site](/images/fc-parks-theatre-3.jpg)|
-| During its years of operation between 1963 and 1984, the National Theatre was the venue of many important events including the annual National Day rallies from 1966 to 1982. It was also used for performances and concerts featuring famous artistes and performing groups such as the Louis Armstrong Jazz Band, the Duke Ellington Orchestra, the Bee Gees and the Walker Brothers and the Yardbirds (shown above).(Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1401986){:target="_blank"}) |
