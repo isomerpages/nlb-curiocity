@@ -126,7 +126,7 @@ King George V Park was completed around 1938. It was named this way to to mark t
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| In 1972, King George V Park was incorporated into a larger park. Initially called Central Park before being renamed Fort Canning Park in 1981, this 100-acre park was dubbed the "biggest ever green lung" in the city area at the time. It included King George V Park and the former grounds of the headquarters of the Malaya Command on Fort Canning Hill which by then had come under the purview of the Singapore Armed Forces. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| In 1972, King George V Park was incorporated into a larger park. Initially called Central Park before being renamed Fort Canning Park in 1981, this 100-acre park was dubbed the "biggest ever green lung" in the city area at the time. It included King George V Park and the former grounds of the headquarters of the Malaya Command on Fort Canning Hill which by then had come under the purview of the Singapore Armed Forces. Today, Fort Canning Park continues to be a public park. It is also a venue for celebrations and events, having hosted concerts, theatre productions and festivals. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 Fort Canning Park today (photograph)
 
