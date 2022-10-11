@@ -132,11 +132,13 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 
 ### **Former Recreational Grounds of Fort Canning Hill**
 
+King George V Park was not the only recreational spots in Fort Canning Hill, there were also others including the River Valley Swimming Complex, the Van Kleef Aquarium and the National Theatre.
+
 **Aquarium**
 
 **Swimming pool (forbidden spring)**
 
-King George V Park was not the only recreational spot in Fort Canning Hill
+
 
 YMCA swimming pool
 
