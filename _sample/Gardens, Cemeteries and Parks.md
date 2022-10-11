@@ -128,7 +128,7 @@ King George V Park was located southwest of Fort Canning Hill at the junction of
 | ![Alt text for image on Isomer site](/images/fc-parks-4-1.jpg)|
 | In 1972, King George V Park was incorporated into a larger park. Initially called Central Park before being renamed Fort Canning Park in 1981, this new 100-acre park was dubbed the "biggest ever green lung" in the city area at the time. It included King George V Park and the former grounds of the headquarters of the Malaya Command on Fort Canning Hill which by then had come under the purview of the Singapore Armed Forces. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9ec085de-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-5-1.jpg)|
-| In 2019, a new park called Jubilee Park was created within the grounds of Fort Canning Park. The park is situated at the same site as King George V Park. It is also modelled after the latter as a family-friendly leisure space, with giant seesaws, slides and climbing frames made out of natural logs. (Image Credit: [Photo by Choo Yut Shing [CC BY-NC-SA 2.0]](https://flic.kr/p/nvLmVa){:target="_blank"}) |
+| In 2019, a new park called Jubilee Park was created within the grounds of Fort Canning Park. The park is situated at the same site as King George V Park. It is also modelled after the latter as a family-friendly leisure space, and is known for its giant seesaws, slides and climbing frames made out of natural logs. (Image Credit: [Photo by Choo Yut Shing [CC BY-NC-SA 2.0]](https://flic.kr/p/nvLmVa){:target="_blank"}) |
 
 -----
 
