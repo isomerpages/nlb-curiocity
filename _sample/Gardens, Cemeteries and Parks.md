@@ -96,7 +96,7 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-3.jpg)|
-| Some of the trees in the dense mass of variegated foliage of King George V Park included Flame of the forest, the Yellow flame, the Bungor tree, Jacarandas, Cassias and Tembusu. They were planted when the park was built before the war. As it became a Japanese military area during the Japanese Occupation, these plantings were left undisturbed and thus able to flourish. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| Some of the trees in the dense mass of variegated foliage of King George V Park included Flame of the forest, the Yellow flame, the Bungor tree, Jacarandas, Cassias and Tembusu. They were planted when the park was built before the war. As it became a Japanese military area during the Japanese Occupation, these plantings were left undisturbed and thus able to flourish. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.roots.gov.sg/Collection-Landing/listing/1263760){:target="_blank"}) |
 
 ---
 
