@@ -75,7 +75,7 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ### **King George V Park (Today's Jubilee Park)**
 
-King George V Park was completed around 1938. Located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue, it was named this way to to mark the 1935 silver jubilee of King George V and Queen Mary. The park was very popular during the postwar period and was known for its lush greenery and towering trees. In 1972, it was incorporated into today's Fort Canning Park before being revived as Jubilee Park in 2019.
+King George V Park was located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue. It was named this way to to mark the 1935 silver jubilee of King George V and Queen Mary. The park was very popular during the postwar period and was known for its lush greenery and towering trees. In 1972, it was incorporated into today's Fort Canning Park before being revived as Jubilee Park in 2019.
 
 |   | 
 |:--------:| 
