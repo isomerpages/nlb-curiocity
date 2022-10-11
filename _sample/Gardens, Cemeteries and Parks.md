@@ -130,6 +130,8 @@ King George V Park was completed around 1938. Located southwest of Fort Canning 
 
 -----
 
+### **Former Recreational Grounds of Fort Canning Hill**
+
 **Aquarium**
 
 **Swimming pool (forbidden spring)**
