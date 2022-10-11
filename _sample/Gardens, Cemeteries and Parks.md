@@ -73,7 +73,7 @@ Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the 
 
 ----
 
-### **King George V Park (Today's Fort Canning Park)**
+### **King George V Park**
 
 King George V Park was completed around 1938. Located southwest of Fort Canning Hill at the junction of River Valley Road and Clemenceau Avenue, it was named this way to to mark the 1935 silver jubilee of King George V and Queen Mary. The park was very popular park during the postwar period. In 1972, it was incorporated into today's Fort Canning Park which is one of the most frequented parks in Singapore.
 
