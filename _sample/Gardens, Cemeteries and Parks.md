@@ -162,6 +162,8 @@ https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Cannin
 
 ##### **National Theatre**
 
+Completed in 1963, the National Theatre was one of the most iconic buildings of the nation-building years. Situated near King George V Park, it was used as a cultural venue for performances, concerts and conferences before being demolished in 1986 due to structural reasons.
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
