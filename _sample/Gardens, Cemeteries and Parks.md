@@ -165,7 +165,7 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| The YMCA swimming pool on Fort Canning Hill was opened in 1919.  (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The YMCA swimming pool on Fort Canning Hill was located off Fort Canning Rise near today's Fort Canning Centre. Retrofitted from a salt water tank, it was a 36 metres long pool equipped with a spring board, a diving stage, a freshwater bath and dressing sheds. and  .   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | swimming pool (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
