@@ -160,6 +160,8 @@ Completed in 1963, the National Theatre was one of the most iconic buildings of 
 
 ##### **Swimming Pools**
 
+Fort Canning Hill was once the site of two swimming pools. The first was the Young Men's Christian Association (YMCA) swimming pool, while the second was the River Valley Swimming Complex. Opened in 1919 and 1956 respectively, the two pools provided swimming  
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
