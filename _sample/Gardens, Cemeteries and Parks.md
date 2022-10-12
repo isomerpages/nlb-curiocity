@@ -171,6 +171,9 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | After the closure of the YMCA swimming pool, Fort Canning Hill would open another one over a decade later in 195X. Located in King George V Park, it was called River Valley Swimming Pool. The 36-metres long swimming   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+
+
+
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200310-1.2.66 
 
 http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501205-1.2.77 
