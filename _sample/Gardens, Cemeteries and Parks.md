@@ -173,4 +173,6 @@ https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html
 
 https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
 
+memory: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/streats20030417-1.2.15.2 
+
 -----
