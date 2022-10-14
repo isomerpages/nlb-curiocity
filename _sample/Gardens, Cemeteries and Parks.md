@@ -169,7 +169,7 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | Before the swimming pool ceased operations after the outbreak of the Second World War in Malaya and Singapore in 1941, it was regularly used by YMCA to conduct swimming lessons for its members. It was also the venue for swimming events such as the annual Swimming Carnival. Started in 1920, the event was a swim meet for clubs and schools in Singapore. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| After the closure of the YMCA swimming pool, Fort Canning Hill would open another pool over a decade later in 1959. Located in King George V Park, it was called River Valley Swimming Complex. Built by then the Singapore City Council, the swimming complex featured a....metres swimming pool, but eventually closed in 2003.   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The River Valley Swimming Complex was the other swimming pool that was located in Fort Canning Hill. Situated within the grounds of King George V Park, it was built by the Singapore City Council, the swimming complex featured a....metres swimming pool, but eventually closed in 2003.   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 
 
