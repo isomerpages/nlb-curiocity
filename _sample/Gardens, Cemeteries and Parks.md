@@ -175,7 +175,7 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 YMCA also started conducting swimming lessons
 
-However, from the 1970s, the swimming complex's visitorship began to decline as residents began to move away from the city area.
+However, from the 1970s, the swimming complex's visitorship began to decline as residents moved away from the city area.
 
 , however, began to decline...nonetheless, its lease was renewed   (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
