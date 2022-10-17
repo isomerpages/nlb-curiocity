@@ -153,6 +153,8 @@ Completed in 1963, the National Theatre was one of the most iconic buildings of 
 
 ##### **Van Kleef Aquarium**
 
+The Van Kleef Aquarium was Singapore’s first public aquarium. Located at the foot of Fort Canning Hill, the aquarium was opened in 1955. It was a prominent landmark and a popular place of interest for Singaporeans and tourists alike. The aquarium underwent a series of revamps and was closed for good in 1996 with the building structure demolished in 1998.
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
