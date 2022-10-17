@@ -134,8 +134,6 @@ King George V Park was located southwest of Fort Canning Hill at the junction of
 
 King George V Park was not the only recreational grounds in Fort Canning Hill, there were also others including the River Valley Swimming Complex, the Van Kleef Aquarium and the National Theatre. Although these places are no longer around, they were very popular during the postwar period right up to the nation-building years.
 
-_________
-
 ##### **National Theatre**
 
 Completed in 1963, the National Theatre was one of the most iconic buildings of the nation-building years. Situated in King George V Park, it was used as a cultural venue for performances, concerts and conferences before being demolished in 1986 due to structural reasons.
