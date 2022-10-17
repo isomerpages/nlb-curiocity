@@ -158,7 +158,9 @@ The Van Kleef Aquarium was Singapore’s first public aquarium. Located at the f
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
-| conceptual (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The Van Kleef Aquarium took its name from a Dutch businessman, Karl Willem Benjamin van Kleef, who lived in Singapore from the late 19th to the early 20th century. When he died in 1930, he bequeathed the net proceeds of his estates, valued at around $160,000, to the municipal government for the “embellishment of the town”. In the end, after much discussions and delays, the municipal government decided to build an aquarium on the western slopes of Fort Canning Hill between Tank Road and [River Valley](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-08-02_161313.html) Road. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
+| The municipal government formed a committee to look into the use of Van Kleef’s bequest and solicited suggestions from the public.  (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ##### **Swimming Pools**
 
