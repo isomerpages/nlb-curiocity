@@ -166,6 +166,8 @@ The Van Kleef Aquarium was Singapore’s first public aquarium. Located at the f
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | However, the popularity of the aquarium began to decline following the opening of new attractions such as the [Singapore Zoo](http://infopedia.nl.sg/articles/SIP_403_2005-01-19.html), the [Jurong Bird Park](http://infopedia.nl.sg/articles/SIP_444_2004-12-16.html) and the [Underwater World](http://infopedia.nl.sg/articles/SIP_1855_2011-11-11.html). In May 1991, the aquarium closed its doors. Subsequently, the aquarium was reopened as World of Aquarium and Fort Canning Aquarium in October 1991 and 1993 respectively. But both endeavours were short-lived and the aquarium closed its doors for the final time in 1996. The building was then demolished in 1998. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+------
+
 ##### **Swimming Pools**
 
 Fort Canning Hill was once the site of two swimming pools. The first was the Young Men's Christian Association (YMCA) swimming pool, while the second was the River Valley Swimming Complex. Opened in 1919 and 1956 respectively, the two pools provided swimming  
