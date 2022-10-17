@@ -180,22 +180,3 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 | The River Valley Swimming Complex was the other swimming pool that was once located in Fort Canning Hill. Situated between Van Kleef Aquarium and King George V Park, it was built by the Singapore City Council to provide a recreational outlet for the residents staying in the Chinatown area. The pool, which cost a whopping half a million dollars, was considered [a "sister" pool](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19570124-1.2.188) to Farrer Park Swimming Pool. Like the latter, it had two pools, one for advanced swimmers and another for children and beginners. Furthermore, it also had a diving stage. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-1.jpg)|
 | The River Valley Swimming Complex started operations in 1959. It was very popular and was used to hold many swimming events and activities including YMCA's swimming lessons for children and Pesta Sukan water events. However, from the 1970s, the swimming complex's visitorship started to decline as residents moved away from the city area before it was evenutally closed in 2003. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-
-
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200310-1.2.66 
-
-http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501205-1.2.77 
-
-YMCA swimming pool
-
-Yan Kit Road swimming pool/River Valley Swimming Complex
-
-https://eresources.nlb.gov.sg/infopedia/articles/SIP_1470_2009-02-24.html 
-
-https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Fort-Canning-Service-Reservoir 
-
-memory: http://eresources.nlb.gov.sg/newspapers/Digitised/Article/streats20030417-1.2.15.2 
-
------
