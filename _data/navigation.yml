@@ -11,8 +11,6 @@ links:
         url: /story-maps/heartland
       - title: Green and Blue
         url: /story-maps/green-and-blue
-  - title: Digital Stories
-    collection: digital-stories
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
@@ -33,3 +31,8 @@ links:
     url: /research-resources/
   - title: About Us
     url: /about/
+  - title: Digital Stories
+    url: /digital-stories/introduction
+    sublinks:
+      - title: Fort Canning Hill
+        url: /digital-stories/Fort-Canning-Hill/bukit-larangan/
