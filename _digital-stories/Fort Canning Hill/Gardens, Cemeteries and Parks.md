@@ -4,10 +4,6 @@ permalink: /digital-stories/Fort-Canning-Hill/fort-canning-gardens-parks/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-
-
-
-
 Besides being a site for the British to project its power, Fort Canning Hill was also used for recreational activities. In fact, for the past two centuries, the hill was home to not only parks and gardens, but also an aquarium, a swimming pool and even a theatre.
 
 ### **The First Botanic Garden**
@@ -153,6 +149,8 @@ Completed in 1963, the National Theatre was one of the most iconic buildings of 
 | During its years of operation between 1963 and 1984, the National Theatre was the venue of many important events including the annual National Day rallies from 1966 to 1982. It was also used for performances and concerts featuring famous artistes and performing groups such as the Louis Armstrong Jazz Band, the Duke Ellington Orchestra, the NHK Symphony Orchestra, the Bee Gees, the Walker Brothers and the Yardbirds (shown above).(Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1401986){:target="_blank"}) |
 
 ----
+
+The National Theatre was a significant cultural icon for Singapore in the nation's fledging years and was remembered by many including Public Service Medal recipient Robert Iau Kuo Kwong. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the poem.
 
 ##### **Van Kleef Aquarium**
 
