@@ -1,4 +1,5 @@
 collections:
   digital-stories:
     output: true
-    order: []
+    order:
+      - Bras Basah/.keep
