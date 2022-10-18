@@ -193,13 +193,6 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 ----
 
-
-Jenica Tan
-
-https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb
-
-
-
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In her contribution to the Singapore Memory Project, Jenica Tan talks about how fondly her father remembered Van Kleef Aquarium when he was growing up. Click or tap HERE to reveal below what she shared. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below what he shared. (Source: <a href="https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb" target="_blank">Singapore Memory Project</a>)</span></summary>
 <br>
