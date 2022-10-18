@@ -2,10 +2,10 @@ collections:
   digital-stories:
     output: true
     order:
-      - Bras Basah/Becoming Bras Basah Bugis.md
-      - "Bras Basah/Bras Basah: A Place Of Learning.md"
-      - "Bras Basah/Bras Basah: A Place For Food.md"
       - Bras Basah/.keep
       - Bras Basah/Bras Basah Through The Years.md
       - Bras Basah/Bras Basah In Early Maps, Paintings and Postcards.md
       - "Bras Basah/Bras Basah: A Place For Entertainment.md"
+      - "Bras Basah/Bras Basah: A Place For Food.md"
+      - "Bras Basah/Bras Basah: A Place Of Learning.md"
+      - Bras Basah/Becoming Bras Basah Bugis.md
