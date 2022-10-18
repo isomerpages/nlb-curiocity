@@ -11,6 +11,8 @@ links:
         url: /story-maps/heartland
       - title: Green and Blue
         url: /story-maps/green-and-blue
+  - title: Digital Stories
+    collection: digital-stories
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
