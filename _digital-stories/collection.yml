@@ -2,7 +2,6 @@ collections:
   digital-stories:
     output: true
     order:
-      - Fort Canning.md
       - Bras Basah/Example Title 2.md
       - Bras Basah/Example Title.md
       - Bras Basah/.keep
