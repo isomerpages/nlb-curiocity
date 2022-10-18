@@ -1,5 +1,4 @@
 collections:
   sample:
     output: true
-    order:
-      - Gardens, Cemeteries and Parks.md
+    order: []
