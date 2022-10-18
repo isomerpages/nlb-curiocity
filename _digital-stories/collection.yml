@@ -2,6 +2,7 @@ collections:
   digital-stories:
     output: true
     order:
+      - Fort Canning/Bukit Larangan and Early Singapore.md
       - Fort Canning/.keep
       - Bras Basah/.keep
       - Bras Basah/Bras Basah Through The Years.md
