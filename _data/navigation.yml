@@ -11,6 +11,13 @@ links:
         url: /story-maps/heartland
       - title: Green and Blue
         url: /story-maps/green-and-blue
+  - title: Digital Stories
+    url: /digital-stories/introduction
+    sublinks:
+      - title: Fort Canning Hill
+        url: /digital-stories/Fort-Canning-Hill/bukit-larangan/
+      - title: Bras Basah
+        url: /digital-stories/Bras-Basah/bb-intro/
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
@@ -31,10 +38,3 @@ links:
     url: /research-resources/
   - title: About Us
     url: /about/
-  - title: Digital Stories
-    url: /digital-stories/introduction
-    sublinks:
-      - title: Fort Canning Hill
-        url: /digital-stories/Fort-Canning-Hill/bukit-larangan/
-      - title: Bras Basah
-        url: /digital-stories/Bras-Basah/bb-intro/
