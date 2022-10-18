@@ -201,4 +201,3 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 | The River Valley Swimming Complex started operations in 1959. It was very popular and was used to hold many swimming events and activities including YMCA's swimming lessons for children and Pesta Sukan water events. However, from the 1970s, the swimming complex's visitorship started to decline as residents moved away from the city area before it was evenutally closed in 2003. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1193002){:target="_blank"}) |
 
 ---
-
