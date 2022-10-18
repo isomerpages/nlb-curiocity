@@ -2,10 +2,10 @@ collections:
   digital-stories:
     output: true
     order:
-      - Fort Canning/Gardens, Cemeteries and Parks.md
-      - Fort Canning/From Government Hill to Fort Canning Hill.md
-      - Fort Canning/Bukit Larangan and Early Singapore.md
       - Fort Canning/.keep
+      - Fort Canning/Bukit Larangan and Early Singapore.md
+      - Fort Canning/From Government Hill to Fort Canning Hill.md
+      - Fort Canning/Gardens, Cemeteries and Parks.md
       - Bras Basah/.keep
       - Bras Basah/Bras Basah Through The Years.md
       - Bras Basah/Bras Basah In Early Maps, Paintings and Postcards.md
