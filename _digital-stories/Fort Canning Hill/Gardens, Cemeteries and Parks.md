@@ -150,7 +150,28 @@ Completed in 1963, the National Theatre was one of the most iconic buildings of 
 
 ----
 
-The National Theatre was a significant cultural icon for Singapore in the nation's fledging years and was remembered by many including Public Service Medal recipient Robert Iau Kuo Kwong. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read how he reacted when he first heard about the theatre. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/31119b28-1160-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The National Theatre was a significant cultural icon for Singapore in the nation's fledging years and was remembered by many including Public Service Medal recipient Robert Iau Kuo Kwong. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read how he reacted when he first heard about the theatre. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/31119b28-1160-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Meanwhile the mid, from pleasure less,
+<br>Withdraws into its happiness;
+<br>
+<br>The mind, that ocean where each kind
+<br>Does straight its own resemblance find;
+<br>
+<br>Yet it creates, transcending these,
+<br>Far other worlds and other seas;
+<br>
+<br>Annihilating all that's made
+<br>To a green thought in a green shade.
+<br>
+<br>
+
+</span>
+	
+</details>
+
+----
 
 ##### **Van Kleef Aquarium**
 
