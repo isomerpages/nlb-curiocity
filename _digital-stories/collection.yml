@@ -2,6 +2,7 @@ collections:
   digital-stories:
     output: true
     order:
+      - Bras Basah/Becoming Bras Basah Bugis.md
       - "Bras Basah/Bras Basah: A Place Of Learning.md"
       - "Bras Basah/Bras Basah: A Place For Food.md"
       - Bras Basah/.keep
