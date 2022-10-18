@@ -150,7 +150,7 @@ Completed in 1963, the National Theatre was one of the most iconic buildings of 
 
 ----
 
-The National Theatre was a significant cultural icon for Singapore in the nation's fledging years and was remembered by many including Public Service Medal recipient Robert Iau Kuo Kwong. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the poem.
+The National Theatre was a significant cultural icon for Singapore in the nation's fledging years and was remembered by many including Public Service Medal recipient Robert Iau Kuo Kwong. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read how he reacted when he first heard about the theatre. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/31119b28-1160-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)
 
 ##### **Van Kleef Aquarium**
 
