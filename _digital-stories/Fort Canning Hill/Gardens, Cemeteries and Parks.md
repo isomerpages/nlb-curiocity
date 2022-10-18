@@ -193,10 +193,18 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 ----
 
-In her contribution to the Singapore Memory Project, Jenica Tan talks about how fondly her father remembered Van Kleef Aquarium when he was growing up. Click or tap HERE to reveal below what she shared.
 
 Jenica Tan
 
 https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb
 
-When my father was a primary school student, his teachers had often brought his school to visit the Van Kleef Aquarium as it was in close proximity to his school...[He also] went to this aquarium regularly, as he had a special liking for animals, such as fishes and other marine species. The aquarium housed many fascinating sea creatures, such as piranhas, crocodiles, electric eels and various exotic fishes from all over the world...According to [him], there were also park events and parties at the greenery outside the aquarium. Families with young children frequented the aquarium to view the colourful marine exhibits. My father had explained that he always looked forward to the visit and found each trip interesting and rewarding. It was especially delightful to see marine life in the flesh because there were hardly any interesting documentaries in the 1970s, there were no colour television sets and of course, no internet or YouTube at that time. My father said that he had been quite sad when the government decided to demolish the Van Kleef Aquarium in 1998...many Singaporeans would forget about this important tourist attraction of the past and we have lost a fraction of our national history. In fact, I would not have even known about it and its significance to Singapore if not for my father’s sharing. It is truly a pity that people in our generation did not even have a chance to know about this aquarium.
+
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In her contribution to the Singapore Memory Project, Jenica Tan talks about how fondly her father remembered Van Kleef Aquarium when he was growing up. Click or tap HERE to reveal below what she shared. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below what he shared. (Source: <a href="https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb" target="_blank">Singapore Memory Project</a>)</span</summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"When my father was a primary school student, his teachers had often brought his school to visit the Van Kleef Aquarium as it was in close proximity to his school...[He also] went to this aquarium regularly, as he had a special liking for animals, such as fishes and other marine species. The aquarium housed many fascinating sea creatures, such as piranhas, crocodiles, electric eels and various exotic fishes from all over the world...According to [him], there were also park events and parties at the greenery outside the aquarium. Families with young children frequented the aquarium to view the colourful marine exhibits. My father had explained that he always looked forward to the visit and found each trip interesting and rewarding. It was especially delightful to see marine life in the flesh because there were hardly any interesting documentaries in the 1970s, there were no colour television sets and of course, no internet or YouTube at that time. My father said that he had been quite sad when the government decided to demolish the Van Kleef Aquarium in 1998...many Singaporeans would forget about this important tourist attraction of the past and we have lost a fraction of our national history. In fact, I would not have even known about it and its significance to Singapore if not for my father’s sharing. It is truly a pity that people in our generation did not even have a chance to know about this aquarium." </span>
+	
+</details>
+
+------
