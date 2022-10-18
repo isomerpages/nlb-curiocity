@@ -1,0 +1,4 @@
+collections:
+  digital-stories:
+    output: true
+    order: []
