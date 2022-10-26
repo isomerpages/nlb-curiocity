@@ -4,10 +4,6 @@ permalink: /digital-stories/Fort-Canning-Hill/fort-canning-colonial/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-
-
-
-
 ### **Government Hill**
 
 After the British arrived in 1819, they quickly set their claims on Bukit Larangan. Besides raising the Union Jack on its summit, a bungalow was built as well. They also renamed the hill "Government Hill" in 1823 although people sometimes referred to it as "Singapore Hill", "Bukit Bendera" (meaning "Flag Hill") or simply "The Hill".
@@ -62,7 +58,7 @@ _____
 
 ### **Becoming Fort Canning**
 
-In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). The fort was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances such as the Indian Mutiny in 1857.
+In 1859, Government House was demolished to make way for an artillery fort. Built on an excavated plateau, the fort was completed in 1861 and named Fort Canning, after Viscount Charles John Canning, Governor-General and First Viceroy of India (1856–1862). It was built to protect Singapore from a sea attack, oversee the security of the town, and served as a place of refuge for Europeans in Singapore in the event of social disturbances such as the Indian Mutiny in 1857.
 
 -----
 
