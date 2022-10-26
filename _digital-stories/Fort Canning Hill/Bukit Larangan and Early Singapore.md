@@ -29,7 +29,7 @@ Singapore's history during the pre-colonial period can be told through historica
 
 ### **Forbidden Hill**
 
-The island of pre-colonial Singapore was referred to as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") in Chinese historical text. It was also known as "Singapura" (meaning "Lion City") after [Sang Nila Utama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html) established a settlement there around 1299. Under his leadership and his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, this early settlement thrived as a sea-port. But it came to an end after it was invaded by the Majapahit Empire in 1398.
+The island of pre-colonial Singapore was referred to as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") in Chinese historical text. It was also known as "Singapura" (meaning "Lion City") after [Sang Nila Utama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html) established a settlement there around 1299. Under his leadership and his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, Singapura thrived as a sea-port with a palace perched on Fort Canning Hill, which was then known as "Bukit Larangan" or the "Forbidden Hill". But this kingdom of Singapura came to an end after it was invaded by the Majapahit Empire in 1398.
 
 _____
 
