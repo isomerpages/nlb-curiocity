@@ -11,7 +11,7 @@ After the British arrived in 1819, they quickly set their claims on Bukit Larang
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Union Jack on Fort Canning Hill was raised by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was later used, among other things, to inform the settlement on the arrival of ships in the harbour. The hoisting was recounted by Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). The action captivated the locals as the hill was deserted and was believed to be haunted at the time. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the account in full.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Union Jack on Fort Canning Hill was raised by the first British Resident and Commandant of Singapore (1819 to 1823) William Farquhar. It was later used, among other things, to inform the settlement on the arrival of ships in the harbour. The hoisting was recounted by Munshi Abdullah in his autobiography, <span style="font-style: italic;">Hikayat Abdullah</span> (1849) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908" target="_blank">Call no.: RSING 959.5 ABD</a>). The action captivated the locals as the hill was deserted and was believed to be haunted at the time. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the account.</span></summary>
 
 <br>  
 
