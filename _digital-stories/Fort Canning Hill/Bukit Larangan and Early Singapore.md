@@ -4,11 +4,6 @@ permalink: /digital-stories/Fort-Canning-Hill/bukit-larangan/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-
-
-
-
-
 Before the British arrival in 1819, Singapore already had a settlement with a history that stretches back to the 14th century. This early settlement was not fictional as it was captured in historical text and maps.
 
 ### **Early Singapore in Maps**
@@ -54,7 +49,7 @@ _____
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
-The rulers of early Singapore established its palace grounds on the slopes of Fort Canning Hill, and its ruins were recorded by John Crawfurd in 1822. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read John Crawfurd’s account of the stone including his assessment of the writings on it in 1822. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
+The rulers of early Singapore established its palace grounds on Fort Canning Hill, which was then known as "Bukit Larangan" or "Forbidden Hill", and its ruins were recorded by John Crawfurd in 1822. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read John Crawfurd’s account of the stone including his assessment of the writings on it in 1822. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The greater part of the west and northern side of the mountain is covered with the remains of the foundations of buildings, some compose of baked brick of good quality. Among these ruins, the most distinguished are those seated, near the summit of the hill. On the edge of this terrace, we find fourteen large blocks of sand-stone; which, from the hole in each, had probably been the pedestals of as many wooden-posts which supported the building. This shows us, at once, that the upper part of the structure was of perishable materials; an observation which, no doubt, applies to the rest of the buildings as well as to this."</span>
 
