@@ -4,8 +4,6 @@ permalink: /digital-stories/Bras-Basah/bb-intro/
 description: ""
 third_nav_title: Bras Basah
 ---
-
-
 ![Alt text for image on Isomer site](/images/bb-showcase-cover-dg.png)
 
 Bras Basah is one of the oldest districts in Singapore. With buildings both old and new lining manicured and landscaped streets as old as the island’s modern history, Bras Basah reflects Singapore’s unique identity as a multicultural society that thrives on its energetic future and vibrant past. 
@@ -26,7 +24,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-<a href="/singapore-visualised/digital-stories/bb-early"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
+<a href="/digital-stories/Bras-Basah/bb-early/"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
 			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
