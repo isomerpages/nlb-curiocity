@@ -7,10 +7,10 @@ Transverse through these digital stories to learn how places in Singapore have
 
 | **<font size=5>Fort Canning Hill</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Transverse through these [digital stories](/singapore-visualised/digital-stories/bb-intro){:target="_blank"} to learn how places in Singapore have evolved through time and space.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Previously known as Bukit Larangan and Government Hill, Fort Canning Hill has been a landmark since Singapore’s earliest recorded history. Explore its history in this [digital story](/singapore-visualised/digital-stories/bb-intro){:target="_blank"} .
 |
 
 | **<font size=5>Bras Basah</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest districts in Singapore. Explore the district's history in this [digital story](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest and most vibrant districts in Singapore known for its historical buildings and entertainment places. Explore the district's history in this [digital story](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}.
 |
