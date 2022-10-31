@@ -12,5 +12,5 @@ Transverse through these digital stories to learn how places in Singapore have
 
 | **<font size=5>Bras Basah</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest and most vibrant districts in Singapore known for its historical buildings and entertainment places. Explore itshistory in this [digital story](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest districts in Singapore known for its historical buildings and vibrant past. Explore the district's history in this [digital story](/singapore-visualised/digital-stories/bb-intro){:target="_blank"}.
 |
