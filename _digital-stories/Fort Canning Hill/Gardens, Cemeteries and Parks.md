@@ -48,7 +48,7 @@ _____
 
 ### **Christian Cemetery**
 
-Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian Cemetery. Today, the former [Fort Canning Cemetery](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1685_2010-07-14.html) is known as Fort Canning Green and is part of Fort Canning Park.
+Besides the "Botanical and Experimental Garden", Fort Canning Hill was also the site of one of Singapore's earliest Christian burial grounds. Encompassing two burial sites, with the first being used from 1819 to 1822 and the second from 1822 to 1865, the cemetery was closed to further burials after the completion of Bukit Timah Christian Cemetery. Today, the former grounds of [Fort Canning Cemetery](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1685_2010-07-14.html) is known as Fort Canning Green and is part of Fort Canning Park.
 
 |   | 
 |:--------:| 
