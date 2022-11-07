@@ -206,7 +206,9 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 ##### **Fort Canning Service Reservoir**
 
-Swimming pools were not only the waterbodies on Fort Canning Hill. 
+Swimming pools were not only the waterbodies on Fort Canning Hill. When the British arrived in 1819, they built aqueducts to bring water from the hill to the ships. They also dug wells and even built a service reservoir there. During ancient times, it was also said that there used to be a spring in the hill that was forbidden.
+
+When the British arrived in 1819, they were told that the west side of the hill had a pancur larangan (or "forbidden spring"). The spring was forbidden because it was where the women of the royal household of ancient Singapore bathed. 
 
 |   | 
 |:--------:| 
