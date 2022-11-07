@@ -27,9 +27,9 @@ Ancient maps are a useful way to find out if a particular location such as Temas
 
 -----
 
-### **Forbidden Hill**
+### **Early Singapore in Texts**
 
-The island of pre-colonial Singapore was referred to as "Danmaxi" or "Temasek" (meaning "place surrounded by the sea") in Chinese historical text. It was also known as "Singapura" (meaning "Lion City") after [Sang Nila Utama](https://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html) established a settlement there around 1299. Under his leadership and his descendants, namely Seri Wikrama Wira, Seri Rana Wikrama, Seri Maharaja and Iskandar Shah, this kingdom of Singapura thrived as a sea-port with a palace perched on Fort Canning Hill, which was then known as "Bukit Larangan" or the "Forbidden Hill". But it came to an end after it was invaded by the Majapahit Empire in 1398.
+Another way to figure out if a particular location such as Temasek was strategically significant is through the study of ancient texts. Most of the early ancient local historical sources for Southeast Asia were either palm-leaf manuscripts (Indonesian: _lontar_) or stone inscriptions. However, as the manuscripts were perishable and written in ancient languages or kept as sacred heirlooms, many are not accessible to modern readers today. Foreign textual sources included travellers’ tales and trade compendiums.
 
 _____
 
