@@ -227,3 +227,5 @@ Swimming pools were not only the waterbodies on Fort Canning Hill. When the Brit
 | Presently inaccessible to the public and still functioning today, the reservoir is a service reservoir. Instead of collecting water like water catchment, it stores treated water that is ready to drink. The water is stored underground in two tanks that are held up by 264 enormous hexagonal domes laid side by side, spanning an area of over seven acres underground. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1192102){:target="_blank"}) |
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h9WnPJ_6B88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
