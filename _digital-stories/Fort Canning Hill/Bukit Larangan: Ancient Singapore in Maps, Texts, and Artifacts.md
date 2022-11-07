@@ -8,7 +8,7 @@ The island of Singapore has had [many names in the past](https://www.roots.gov.s
 
 ### **Early Singapore in Maps**
 
-Singapore's history during the pre-colonial period can be told through historical maps of the region. Hand-drawn, painted or printed by European and Asian cartographers as well as explorers who traversed Southeast Asia by ship in search of spices such as cloves, pepper and cinnamon, they are among the earliest material evidence of our past. 
+Ancient maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
 
 |   | 
 |:--------:| 
