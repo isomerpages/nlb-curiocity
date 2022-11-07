@@ -43,7 +43,7 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The five kings? Malay Annals or the tales? |
+| This book on the Malay Annals ([Sejarah Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-05-08_152858.html)/ Sulalat al-Salatin) by [Tun Sri Lanang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1086_2006-08-03.html) is based on a Jawi manuscript that depicts [Sang Nila Utama](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/sangnila) (also known as Sri Tri Buana) as the founder of Singapura on the island of Temasek around 1299 CE. The fifth and last ruler of Singapura is said to have fled to Melaka and established the Melaka Sultanate after an attack on Temasek. There are [several versions of the Sejara](https://www.jstor.org/stable/27860878)h Melayu, with the oldest version currently thought to be [Raffles MS18](https://eresources.nlb.gov.sg/printheritage/detail/4a4479e1-da34-45f6-8daa-7939adfee87a.aspx) (1021H/1612 CE). Several English translations exist for this version, including one by [C. C. Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=116811) (depicted above) and [Prof Muhammad Haji Salleh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205292608). It should be noted that the establishment of Melaka described in the Sejarah Melayu differs from Portuguese accounts like the [Suma Oriental](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054171) (c. 1513 CE) by Tomé Pires. |
 
 -----
 
