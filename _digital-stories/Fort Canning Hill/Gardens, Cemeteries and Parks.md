@@ -206,7 +206,7 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 ##### **Fort Canning Service Reservoir**
 
-Fort Canning Hill was once the site of two swimming pools. The first was the Young Men's Christian Association (YMCA) swimming pool, while the second was the River Valley Swimming Complex. Opened in 1919 and 1956 respectively, the two pools provided swimming  
+Swimming pools were not only the waterbodies on Fort Canning Hill.  
 
 |   | 
 |:--------:| 
