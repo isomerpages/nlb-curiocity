@@ -4,7 +4,7 @@ permalink: /digital-stories/Fort-Canning-Hill/fort-canning-gardens-parks/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-Besides being a site for the British to project its power, Fort Canning Hill was also used for recreational activities. In fact, for the past two centuries, the hill was home to not only parks and gardens, but also an aquarium, a swimming pool and even a theatre.
+Besides being a site for the British to project its power, Fort Canning Hill was also used for recreational activities. In fact, for the past two centuries, the hill was home to not only parks and gardens, but also an aquarium, swimming pools and a theatre.
 
 ### **The First Botanic Garden**
 
