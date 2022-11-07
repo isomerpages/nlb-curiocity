@@ -230,4 +230,6 @@ Swimming pools were not only the waterbodies on Fort Canning Hill. When the Brit
 
 **Diving into Fort Canning Service Reservoir**
 
+If you would like to know more about this near century-old service reservoir including what lies beneath, watch this video for an exclusive peek and see how it has stood the test of time.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9WnPJ_6B88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
