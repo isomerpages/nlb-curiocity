@@ -12,3 +12,7 @@ The Fort Canning Hill we know today is more than a hilltop park with nine histor
 
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
 
+**Performance on Fort Canning Hill**
+
+**Fort Canning Hill revamp**
+
