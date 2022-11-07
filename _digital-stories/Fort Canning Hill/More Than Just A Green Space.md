@@ -15,4 +15,3 @@ https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-
 **Performance on Fort Canning Hill**
 
 **Fort Canning Hill revamp**
-
