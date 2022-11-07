@@ -228,4 +228,6 @@ Swimming pools were not only the waterbodies on Fort Canning Hill. When the Brit
 
 ---
 
+**Diving into Fort Canning Service Reservoir**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9WnPJ_6B88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
