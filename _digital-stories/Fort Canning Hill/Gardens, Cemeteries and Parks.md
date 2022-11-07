@@ -210,13 +210,13 @@ Swimming pools were not only the waterbodies on Fort Canning Hill.
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-parks-pool-1-1.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-parks-water-1.jpg)|
 | The YMCA swimming pool on Fort Canning Hill was located off Fort Canning Rise near today's Fort Canning Centre. Opened in 1919, it was originally a salt water tank. The pool was [36 metres long](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200310-1.2.66) and had a spring board, a diving stage, a freshwater bath and dressing sheds. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/faf1cf78-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/fc-parks-pool-2-1.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-parks-water-2.jpg)|
 | Before the swimming pool ceased operations due to the outbreak of the Second World War in Malaya and Singapore in 1941, it was regularly used by YMCA to conduct swimming lessons for its members. It was also the venue for swimming events such as the annual Swimming Carnival. Started in 1920, the event was a swim meet for clubs and schools in Singapore. (Image Credit: [Singapore Memory Project, Photo Courtesy of YMCA of Singapore](https://www.singaporememory.sg/contents/SMA-813c3b3a-cf5b-43e4-8549-020c180181fc){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/fc-parks-pool-3-1.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-parks-water-3.jpg)|
 | The River Valley Swimming Complex was the other swimming pool that was once located in Fort Canning Hill. Situated between Van Kleef Aquarium and King George V Park, it was built by the Singapore City Council to provide a recreational outlet for the residents staying in the Chinatown area. The pool, which cost a whopping half a million dollars, was considered [a "sister" pool](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19570124-1.2.188) to Farrer Park Swimming Pool. Like the latter, it had two pools, one for advanced swimmers and another for children and beginners. Furthermore, it also had a diving stage. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1192102){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/fc-parks-pool-4-1.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-parks-water-4.jpg)|
 | The River Valley Swimming Complex started operations in 1959. It was very popular and was used to hold many swimming events and activities including YMCA's swimming lessons for children and Pesta Sukan water events. However, from the 1970s, the swimming complex's visitorship started to decline as residents moved away from the city area before it was evenutally closed in 2003. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1193002){:target="_blank"}) |
 
 ---
