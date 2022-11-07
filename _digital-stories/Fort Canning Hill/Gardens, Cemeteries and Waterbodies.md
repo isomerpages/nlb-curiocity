@@ -204,7 +204,7 @@ Fort Canning Hill was once the site of two swimming pools. The first was the You
 
 ---
 
-##### **Fort Canning Service Reservoir**
+##### **The Forbidden Spring and Fort Canning Service Reservoir**
 
 Swimming pools were not only the waterbodies on Fort Canning Hill. When the British arrived in 1819, they built aqueducts to bring water down from the hill, dug wells around it and even built a service reservoir on its summit. During ancient times, it was also said that there used to be a spring in the hill that was "forbidden".
 
