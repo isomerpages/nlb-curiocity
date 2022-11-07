@@ -215,7 +215,7 @@ This locality is the hill behind Longyamen. It resembles a truncated coil. It ri
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-water-1.jpg)|
-| The YMCA swimming pool on Fort Canning Hill was located off Fort Canning Rise near today's Fort Canning Centre. Opened in 1919, it was originally a salt water tank. The pool was [36 metres long](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200310-1.2.66) and had a spring board, a diving stage, a freshwater bath and dressing sheds. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/faf1cf78-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+|  (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/faf1cf78-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-2.jpg)|
 | Before the swimming pool ceased operations due to the outbreak of the Second World War in Malaya and Singapore in 1941, it was regularly used by YMCA to conduct swimming lessons for its members. It was also the venue for swimming events such as the annual Swimming Carnival. Started in 1920, the event was a swim meet for clubs and schools in Singapore. (Image Credit: [Singapore Memory Project, Photo Courtesy of YMCA of Singapore](https://www.singaporememory.sg/contents/SMA-813c3b3a-cf5b-43e4-8549-020c180181fc){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-3.jpg)|
