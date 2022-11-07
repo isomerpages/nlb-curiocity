@@ -215,7 +215,7 @@ This locality is the hill behind Longyamen. It resembles a truncated coil. It ri
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-water-1.jpg)|
-| British aqueducts and wells (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/faf1cf78-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| When the British arrived, they were told of the forbidden spring. Although they did not find any remains of the ancient "pancur larangan", they were able to locate a spring on the hill. To bring the spring's water to visiting ships, the British built an aqueduct. When the spring started to dry up, they dug wells on the western foothill in the 1830s. They then built a water tank there in the late 1850s to store water as shown in this 1893 map. The presence of the water tank led to the naming of Tank Road, and the site was later turned into River Valley Swimming Pool. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f986ee6a-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-2.jpg)|
 | 1929 service reservoir (Image Credit: [Singapore Memory Project, Photo Courtesy of YMCA of Singapore](https://www.singaporememory.sg/contents/SMA-813c3b3a-cf5b-43e4-8549-020c180181fc){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-3.jpg)|
