@@ -105,8 +105,6 @@ Artifacts on the other hand can provide some physical evidence for whether a sit
 	
 </details>
 
-----
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-digs-1.jpg)|
