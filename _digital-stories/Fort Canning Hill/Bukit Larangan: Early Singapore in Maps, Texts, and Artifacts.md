@@ -122,8 +122,12 @@ Artifacts on the other hand can provide some physical evidence for whether a sit
 
 ----
 
-**Professor John Miksic**
+**Learn More About Professor John Miksic and the Archaeological Digs On Fort Canning Hill**
 
-Primary school history lessons teach that Sir Stamford Raffles founded Singapore in 1819. But excavation at Fort Canning by NUS Professor John N Miksic and archaeologists has proved that a large, diverse community thrived here more than 700 years ago. Find out in this video on who he is.
+Primary school history lessons teach that Sir Stamford Raffles founded Singapore in 1819. But excavation at Fort Canning by NUS Professor John N Miksic and archaeologists has proved that a large, diverse community thrived here more than 700 years ago. Find out in this video by NTUC on who he is.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5aVKLnfmL2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In addition, the National Museum of Singapore also has a short video that showcases the key archaeological finds on Fort Canning Hill. Watch it here nad learn what they are and their significance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAVuE2Ehtp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
