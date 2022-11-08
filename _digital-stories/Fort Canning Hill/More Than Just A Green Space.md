@@ -48,3 +48,5 @@ This multi-faceted function of Fort Canning Hill was due to the introduction of 
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
 
 **Performance on Fort Canning Hill**
+
+Fort Canning Park is a venue for celebrations. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
