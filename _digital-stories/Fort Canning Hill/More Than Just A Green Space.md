@@ -16,7 +16,7 @@ https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-
 
 **The Nine Gardens of Fort Canning Park**
 
-Today, Fort Canning Park features nine historical gardens. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, the gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
+Today, Fort Canning Park features nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
 
 would be designated as the venue of the bicentennial showcase in 2019. Led by the Prime Minister’s Office, the bicentennial commemoration will be a year-long event at the park.35  
   
