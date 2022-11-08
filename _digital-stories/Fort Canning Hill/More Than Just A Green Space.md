@@ -11,6 +11,7 @@ The Fort Canning Hill we know today is more than a hilltop park with nine histor
 Today, Fort Canning Park features nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
 
 **Sang Nila Utama Garden**
+The Sang Nila Utama Garden is named after the first ancient king of Singapore and reimagines the Southeast Asian gardens of old. Such gardens were integral parts of palaces such as the one which stood on this hill in the 14th century. The garden has traditional features such as a symmetrical layout typical of these spaces, a series of Javanese split gates that mark the entrance of new zones/’realms’, and a reflective pool which can serve as a meditative refuge. Ornamentals such as Magnolias, Ixoras and perfume plants such as Gardenias, Vallaris are planted for their significance in ancient Javanese culture. Fruit trees such as Duku, Rambutan & Pomelo are planted too; John Crawfurd recorded seeing giant specimens of these when he first arrived at Fort Canning and concluded that they were likely cultivated by the earlier settlement that lived on the hill.
 
 **Pancur Lanrangan**
 This garden aims to recreate the Pancur Lanrangan (or the "Forbidden Spring"). A water feature and stone murals will also be erected on the western part of the hill. The spot is likely where a forbidden spring, where royal women once bathed, used to be located. The objective of the spring structure is to create a focal point to depict the significance of water to the Fort Canning site in the past.
@@ -24,7 +25,8 @@ This garden is named after Sir Stamford Raffles (1781–1826), the founder of mo
 The Farquhar Garden is named after Major-General William Farquhar, the first British Resident and Commandant of Singapore. As a keen naturalist, Farquhar commissioned and compiled natural history drawings of the unique wildlife he encountered in the Malay Peninsula. In this garden, visitors are invited to explore and interact with some of the species that Farquhar found noteworthy through ‘living paintings’ in giant frames. Examples include guava, jujube, taro and gambier.
 
 **Spice Garden**
-  
+In 1819, Raffles started a spice plantation at Fort Canning which proved successful and later inspired Singapore's first botanical garden. The current Spice Garden comprises three zones – the existing Spice Garden area, the pedestrianised Canning Rise and the Spice Gallery. It features more than 180 varieties of plants, such as spice trees and herbs.
+
 **First Botanic Garden**
 The original and Singapore’s first botanic garden, which Sir Stamford Raffles had established on the eastern slope of the hill in 1822 will be recreated in Armenian Street. It will showcase plant spices such as clove and nutmeg introduced to Singapore between the 1820s and 1840s. Trees and shrubs will also be planted along [Hill Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_269_2005-01-19.html), Victoria Street, [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html), Handy Road and Canning Rise, forming the boundaries of the original Botanic Garden.
 
