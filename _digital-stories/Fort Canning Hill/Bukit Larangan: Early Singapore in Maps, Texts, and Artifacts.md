@@ -79,7 +79,7 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted for nearly a century before it came to an end in 1398 when the Majapahit Empire invaded the island. This historical event was mentioned in many historical sources including John Crawfurd's *Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin China* which is shown here. Published in 1828, this work is a record of the second resident of Singapore's commercial and diplomatic mission to the courts of Siam and Cochin China from 1821–22. (Image Credit: Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin China () (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
+| The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted for nearly a century before it came to an end in 1398 when the Majapahit Empire invaded the island. This historical event was mentioned in many historical sources including John Crawfurd's *Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin China* which is shown here. Published in 1828, this work is a record of the second resident of Singapore's commercial and diplomatic mission to the courts of Siam and Cochin China from 1821–22. (Image Credit: Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830) |
 
 -----
 
