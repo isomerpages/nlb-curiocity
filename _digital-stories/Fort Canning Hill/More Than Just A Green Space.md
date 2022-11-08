@@ -6,14 +6,6 @@ third_nav_title: Fort Canning Hill
 ---
 The Fort Canning Hill we know today is more than a hilltop park with nine historical gardens. It is also a gateway to the history of Singapore as well as a venue for celebrations and recreational activities.
 
-**Civic District Master Plan**
-
- inclusion of Fort Canning Hill in the Museum Planning Area of the
-
-https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
-
-**Performance on Fort Canning Hill**
-
 **The Nine Gardens of Fort Canning Park**
 
 Today, Fort Canning Park features nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
@@ -46,3 +38,13 @@ Sited within the park at the junction of River Valley Road and [Clemenceau Aven
 A new heritage gallery covering the history and natural history of the Fort Canning area since the 14th to the 19th and 20th centuries will be opened at the Fort Canning Centre. The highlight of the gallery includes artefacts such as jewellery, ceramics and coins dug up from various archaeological excavations at the Fort Canning site.
   
 New and permanent features will be introduced to Fort Canning Park by the National Parks Board (NParks) as part of the agency’s ongoing efforts to liven up the site that will coincide with the bicentennial celebrations. Plans include recreating three historical gardens, a new heritage gallery and a creative reproduction of an ancient spring. These new features will pay homage to the historical landscapes of the past
+
+**Civic District Master Plan**
+
+This multi-faceted function of Fort Canning Hill was due to the introduction of the Civic District Master Plan in 1988.
+
+ inclusion of Fort Canning Hill in the Museum Planning Area of the
+
+https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
+
+**Performance on Fort Canning Hill**
