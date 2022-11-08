@@ -64,7 +64,9 @@ The rulers of early Singapore established its palace grounds on Fort Canning Hil
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| Malay Annals or the tales? Wang Dayuan? |
+| The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
+
+
 
 -----
 
@@ -97,6 +99,19 @@ Artifacts on the other hand can provide some physical evidence for whether a sit
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"On the stony point which forms the western side of the entrance of the salt creek, on which the modern town of Singapore is building, there was discovered, two years ago, a tolerably hard block of stand-stone, with an inscription upon it…The stone, in shape, is a rude mass, and formed of the one-half of a great nodule broken into two nearly equal parts by artificial means; for the two portions now face each other, separated at the base by a distance of not more than two feet and a half, and reclining opposite to each other at an angle of about forty degrees. It is upon the inner surface of the stone that the inscription is engraved. The workmanship is far ruder than any thing of the time that I have seen in Java or India; and the writing, perhaps from time, in some degree but more from the natural decomposition of rock, so much obliterated as to be quite illegible as a composition. Here and there, however, a few letters seem distinct enough. The character is rather round than square. It is probably the Pali, or religious character used by the followers of Buddha, and of which abundant examples are to be found in Java and Sumatra; while no monuments exist in these countries in their respective vernacular alphabets."</span>
 	
 </details>
+
+----
+
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
+The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted for nearly a century before it came to an end in 1398 when the Majapahit Empire invaded the island. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below why and how the Majapahit captured the island. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Sang Ranjuna Tapa, a Treasury Officer of Singapura, had felt humiliated by the treatment of his daughter by the King of Singapura and sent a letter to the Batara of Majapahit inviting him to attack Singapura. “When the Batara of Majapahit heard what was in the letter of the Treasury officer of the Raja of Singapura he forthwith ordered a fleet of three hundred ships to be made ready, together with a force of two hundred thousand Javanese fighting men. And the expedition set out; and when it reached Singapura battle was engaged with the men of Singapura. After the battle had lasted for some days Sultan Iskandar Shah ordered the Treasury to issue rice for the provisioning of the troops, but Sang Ranjuna Tapa replied that there was no rice left...at dawn Sang Ranjuna Tapa opened the gate of the fort, whereupon the Javanese entered and fought with the men of Singapura inside the fort. So many were killed on either side that blood flowed like a river in spate and flooded the fort of Singapura on the sea shore, and that was the blood which exists to this day on the plain of Singapura. And the men of Singapura were defeated, and Sultan Iskandar Shah fled, going by way of Saletar and thence to Muar. By the will of Almighty God the house of Sang Ranjuna Tapa and his wife was turned into rock, and that is the rock which exists to this day in the moat of Singapura. After the Javanese had conquered Singapura they returned to Majapahit."</span>
+
+</details>
+
 
 |   | 
 |:--------:| 
