@@ -6,7 +6,7 @@ third_nav_title: Fort Canning Hill
 ---
 The Fort Canning Hill we know today is more than a hilltop park with nine historical gardens. It is also a gateway to the history of Singapore as well as a venue for celebrations and recreational activities.
 
-**The Nine Gardens of Fort Canning Park**
+### **The Nine Gardens of Fort Canning Park**
 
 Today, Fort Canning Park features nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
 
@@ -53,6 +53,6 @@ This multi-faceted function of Fort Canning Hill was due to the introduction of 
 
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
 
-**Performance on Fort Canning Hill**
+### **Performance on Fort Canning Hill**
 
 Fort Canning Park is a venue for celebrations. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
