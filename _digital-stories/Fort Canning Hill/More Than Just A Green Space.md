@@ -25,23 +25,25 @@ This garden aims to recreate the Pancur Lanrangan (or the "Forbidden Spring"). A
 
 **Artisan's Garden**
 
-Raffles Garden
+**Raffles Garden**
 
-Farquhar Garden
+**Farquhar Garden**
 
 The Royal Garden  
-Facing Stamford Road, the Royal Garden will feature plants such as jackfruit and rambutan. These were previously observed by [John Crawfurd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_188_2005-01-20.html), the second British resident in Singapore, on the hill in 1822 as evidence of a 14th century palace garden.37  
+Facing Stamford Road, the Royal Garden will feature plants such as jackfruit and rambutan. These were previously observed by [John Crawfurd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_188_2005-01-20.html), the second British resident in Singapore, on the hill in 1822 as evidence of a 14th century palace garden.
+
+**Spice Garden**
   
-Botanic Garden  
-The original and Singapore’s first botanic garden, which Sir Stamford Raffles had established on the eastern slope of the hill in 1822 will be recreated in Armenian Street. It will showcase plant spices such as clove and nutmeg introduced to Singapore between the 1820s and 1840s. Trees and shrubs will also be planted along [Hill Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_269_2005-01-19.html), Victoria Street, [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html), Handy Road and Canning Rise, forming the boundaries of the original Botanic Garden.38  
+**First Botanic Garden**
+The original and Singapore’s first botanic garden, which Sir Stamford Raffles had established on the eastern slope of the hill in 1822 will be recreated in Armenian Street. It will showcase plant spices such as clove and nutmeg introduced to Singapore between the 1820s and 1840s. Trees and shrubs will also be planted along [Hill Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_269_2005-01-19.html), Victoria Street, [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html), Handy Road and Canning Rise, forming the boundaries of the original Botanic Garden.
+
+**Armenian Street Park**
   
 Jubilee Park  
-Sited within the park at the junction of River Valley Road and [Clemenceau Avenue](https://eresources.nlb.gov.sg/infopedia/articles/SIP_803_2004-12-16.html), Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances.39 The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary.40
+Sited within the park at the junction of River Valley Road and [Clemenceau Avenue](https://eresources.nlb.gov.sg/infopedia/articles/SIP_803_2004-12-16.html), Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances.39 The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary.
 
-
-  
 Heritage Gallery  
-A new heritage gallery covering the history and natural history of the Fort Canning area since the 14th to the 19th and 20th centuries will be opened at the Fort Canning Centre. The highlight of the gallery includes artefacts such as jewellery, ceramics and coins dug up from various archaeological excavations at the Fort Canning site.43
+A new heritage gallery covering the history and natural history of the Fort Canning area since the 14th to the 19th and 20th centuries will be opened at the Fort Canning Centre. The highlight of the gallery includes artefacts such as jewellery, ceramics and coins dug up from various archaeological excavations at the Fort Canning site.
 
 would be designated as the venue of the bicentennial showcase in 2019. Led by the Prime Minister’s Office, the bicentennial commemoration will be a year-long event at the park.35  
   
