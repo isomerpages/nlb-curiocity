@@ -68,9 +68,11 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 
 -----
 
+汪大渊, 岛夷志略校释[Dao yi zhi lue jiao shi] (1981), edited by Su Jiqing 苏继庼 (Call no. Chinese [RSEA 915.904 SJQ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199)**
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
-Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's The Malay Annals: Attack of the Garfish and Other Adventures (2021)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
+Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an excerpt of Long Ya Men by Wang Dayuan. (Source: 岛夷志略校释[Dao yi zhi lue jiao shi] (1981)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199" target="_blank">RSEA 915.904 SJQ</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Tun Jana Khatib, a man with magical powers, was ambushed and killed by people in Singapura because they didn’t trust him or his powers. Before he passed away, he cursed Singapura. When the garfish began to attack fishermen who went out to sea with their long jaws and teeth, Nelayan the fisherman thought it might be because of the curse. A young boy named Hang Nadim eventually advised the king to use banana trunks to ward off the garfish attack and the king constructed a fence made of banana trunks along the shoreline. When the garfish attacked, they could not escape, and the king’s men managed to kill the garfish. The king invited Hang Nadim to his palace with the intent to reward him but the King’s adviser, Pembesar Raja, became jealous and whispered rumors about how the boy might be a threat to the throne when he grows up. The king ordered Hang Nadim killed; some people believed he was stabbed or others thought he was chained and put into a sack and then thrown into the river....Even today, when the wind sighs and the water laps, some people claim to hear chains clanking in the Singapore river.” (pages 44-59)"</span>
 
