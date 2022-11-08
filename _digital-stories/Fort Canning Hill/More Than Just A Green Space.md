@@ -18,11 +18,10 @@ This garden aims to recreate the Pancur Lanrangan (or the "Forbidden Spring"). A
 **Artisan's Garden**
 
 **Raffles Garden**
+This garden is named after Sir Stamford Raffles (1781–1826), the founder of modern Singapore. Whilst Raffles is most remembered for his public life in the former British colonies in Southeast Asia, he was also an avid naturalist, who spent his free time studying botany and wildlife. Inspired by his love for plants, the Raffles Garden showcases the diverse plant species that Raffles encountered in Southeast Asia. It includes species collected, studied or planted by Raffles and his fellow naturalists, some of whom were also his closest friends.
 
 **Farquhar Garden**
-
-The Royal Garden  
-Facing Stamford Road, the Royal Garden will feature plants such as jackfruit and rambutan. These were previously observed by [John Crawfurd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_188_2005-01-20.html), the second British resident in Singapore, on the hill in 1822 as evidence of a 14th century palace garden.
+The Farquhar Garden is named after Major-General William Farquhar, the first British Resident and Commandant of Singapore. As a keen naturalist, Farquhar commissioned and compiled natural history drawings of the unique wildlife he encountered in the Malay Peninsula. In this garden, visitors are invited to explore and interact with some of the species that Farquhar found noteworthy through ‘living paintings’ in giant frames. Examples include guava, jujube, taro and gambier.
 
 **Spice Garden**
   
