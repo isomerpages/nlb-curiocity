@@ -68,8 +68,6 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 
 -----
 
-汪大渊, 岛夷志略校释[Dao yi zhi lue jiao shi] (1981), edited by Su Jiqing 苏继庼 (Call no. Chinese [RSEA 915.904 SJQ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199)**
-
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an excerpt of Long Ya Men by Wang Dayuan. (Source: 岛夷志略校释[Dao yi zhi lue jiao shi] (1981)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199" target="_blank">RSEA 915.904 SJQ</a>) </span></summary>
