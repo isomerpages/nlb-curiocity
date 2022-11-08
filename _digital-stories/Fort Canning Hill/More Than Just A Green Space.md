@@ -30,6 +30,7 @@ Located at the foot of Raffles House, this garden is named after Sir Stamford Ra
 The Farquhar Garden is named after Major-General William Farquhar, the first British Resident and Commandant of Singapore. As a keen naturalist, Farquhar commissioned and compiled natural history drawings of the wildlife he encountered in the Malay Peninsula. In this garden, visitors can explore these drawings as it contains a gallery containing watercolour paintings from the William Farquhaur Collection of Natural History Drawings. The featured drawings there feature plants that were important in the early agronomy of Singapore such as Gambier, Coffee, Sugarcane, Taro, Screwpine and Common Red-stemmed Fig.
 
 **Spice Garden**
+
 In 1819, Raffles started a spice plantation at Fort Canning which proved successful and later inspired Singapore's first botanical garden. This Spice Garden is to recognise this endeavour. Comprises three zones including a Spice Gallery. It features more than 180 varieties of plants, such as spice trees and herbs.
 
 **First Botanic Garden**
@@ -41,6 +42,7 @@ To mark the existence of the original and Singapore’s first botanic garden on 
 This park connects Fort Canning Park, Bras Basah, Bugis, and the Civic District together to form an expanded arts, cultural and heritage precinct. It showcases plants in mobile planter boxes that represent the Peranakan food and culture. These include Jasmine, Champaca, the Chinese Rose and the Fingered Citron. The street park also contains sculptures and buildings related to the Armenian community. One of them is the Vanda Miss Joaqium Sculpture. Contributed by the Armenian Community and designed by the Armenian sculptor Artush Papoyan, it was unveiled in 2019 by Armenian Prime Minister Nikol Pashinyan to commemorate Vanda Miss Joaqium, the national flower of Singapore.
 
 **Jubilee Park**  
+
 Sited within the park at the junction of River Valley Road and Clemenceau Avenue, Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances. The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary.
 
 **Civic District Master Plan**
