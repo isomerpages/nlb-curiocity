@@ -45,14 +45,15 @@ This park connects Fort Canning Park, Bras Basah, Bugis, and the Civic District 
 
 Sited within the park at the junction of River Valley Road and Clemenceau Avenue, Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances. The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary.
 
-**Civic District Master Plan**
+
+### **A Place For Celebrations, Festivals and Theatre Productions**
+
+Fort Canning Park is a venue for celebrations. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
+
+### **Civic District Master Plan**
 
 This multi-faceted function of Fort Canning Hill was due to the introduction of the Civic District Master Plan in 1988.
 
  inclusion of Fort Canning Hill in the Museum Planning Area of the
 
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
-
-### **A Place For Celebrations, Festivals and Theatre Productions**
-
-Fort Canning Park is a venue for celebrations. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
