@@ -14,7 +14,7 @@ Today, Fort Canning Park features nine historical gardens - the Pancur Larangan,
 Named after the first king of early Singapore, Sang Nila Utama Garden reimagines the Southeast Asian gardens of the 14th century. The garden has features typical of these early gardens such as a symmetrical layout, Javanese split gates to denote the entrance into its different zones or realms, reflective pools and statues of frogs, fishes and ducks. Ornamental and perfume plants ranging from Magnolias and Ixoras to Gardenias and Vallaris are also planted there to reflect their significance in ancient Javanese culture.
 
 **Pancur Lanrangan**
-This garden aims to recreate the Pancur Lanrangan (or the "Forbidden Spring"). A water feature and stone murals will also be erected on the western part of the hill. The spot is likely where a forbidden spring, where royal women once bathed, used to be located. The objective of the spring structure is to create a focal point to depict the significance of water to the Fort Canning site in the past.
+Comprising a water feature and stone murals, this garden is named after the "Forbidden Spring" (or "Pancur Lanrangan"). Believed to be used by the women of the royal household for bathing, the objective of this garden is to create a focal point to depict the significance of water to the Fort Canning site in the past.
 
 **Artisan's Garden**
 
