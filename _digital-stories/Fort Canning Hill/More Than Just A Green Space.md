@@ -14,4 +14,10 @@ https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-
 
 **Performance on Fort Canning Hill**
 
-**Fort Canning Hill revamp**
+**The Nine Gardens of Fort Canning Park**
+
+Today, Fort Canning Park features nine historical gardens. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, the gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
+
+would be designated as the venue of the bicentennial showcase in 2019. Led by the Prime Minister’s Office, the bicentennial commemoration will be a year-long event at the park.35  
+  
+New and permanent features will be introduced to Fort Canning Park by the National Parks Board (NParks) as part of the agency’s ongoing efforts to liven up the site that will coincide with the bicentennial celebrations. Plans include recreating three historical gardens, a new heritage gallery and a creative reproduction of an ancient spring. These new features will pay homage to the historical landscapes of the past
