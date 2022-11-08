@@ -49,21 +49,6 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| This book on the Malay Annals ([Sejarah Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-05-08_152858.html)/ Sulalat al-Salatin) by [Tun Sri Lanang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1086_2006-08-03.html) is based on a Jawi manuscript that depicts [Sang Nila Utama](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/sangnila) (also known as Sri Tri Buana) as the founder of Singapura on the island of Temasek around 1299 CE. The fifth and last ruler of Singapura is said to have fled to Melaka and established the Melaka Sultanate after an attack on Temasek. There are [several versions of the Sejara](https://www.jstor.org/stable/27860878)h Melayu, with the oldest version currently thought to be [Raffles MS18](https://eresources.nlb.gov.sg/printheritage/detail/4a4479e1-da34-45f6-8daa-7939adfee87a.aspx) (1021H/1612 CE). Several English translations exist for this version, including one by [C. C. Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=116811) (depicted above) and [Prof Muhammad Haji Salleh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205292608). It should be noted that the establishment of Melaka described in the Sejarah Melayu differs from Portuguese accounts like the [Suma Oriental](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054171) (c. 1513 CE) by Tomé Pires. |
-
------
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
-The rulers of early Singapore established its palace grounds on Fort Canning Hill, which was then known as "Bukit Larangan" or "Forbidden Hill", and its ruins were recorded by John Crawfurd in 1822. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read John Crawfurd’s account of the stone including his assessment of the writings on it in 1822. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The greater part of the west and northern side of the mountain is covered with the remains of the foundations of buildings, some compose of baked brick of good quality. Among these ruins, the most distinguished are those seated, near the summit of the hill. On the edge of this terrace, we find fourteen large blocks of sand-stone; which, from the hole in each, had probably been the pedestals of as many wooden-posts which supported the building. This shows us, at once, that the upper part of the structure was of perishable materials; an observation which, no doubt, applies to the rest of the buildings as well as to this."</span>
-
-</details>
-
-|   | 
-|:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
 | The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
 
 -----
