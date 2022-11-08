@@ -66,9 +66,17 @@ The rulers of early Singapore established its palace grounds on Fort Canning Hil
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
 | The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
 
-
-
 -----
+
+**Click or tap HERE to read an excerpt of the Garfish Attack. (Source: Hidayah Amin and Eliz Ong, The Malay Annals: Attack of the Garfish and Other Adventures_ (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)))**
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
+Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's The Malay Annals: Attack of the Garfish and Other Adventures (2021)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Sang Ranjuna Tapa, a Treasury Officer of Singapura, had felt humiliated by the treatment of his daughter by the King of Singapura and sent a letter to the Batara of Majapahit inviting him to attack Singapura. “When the Batara of Majapahit heard what was in the letter of the Treasury officer of the Raja of Singapura he forthwith ordered a fleet of three hundred ships to be made ready, together with a force of two hundred thousand Javanese fighting men. And the expedition set out; and when it reached Singapura battle was engaged with the men of Singapura. After the battle had lasted for some days Sultan Iskandar Shah ordered the Treasury to issue rice for the provisioning of the troops, but Sang Ranjuna Tapa replied that there was no rice left...at dawn Sang Ranjuna Tapa opened the gate of the fort, whereupon the Javanese entered and fought with the men of Singapura inside the fort. So many were killed on either side that blood flowed like a river in spate and flooded the fort of Singapura on the sea shore, and that was the blood which exists to this day on the plain of Singapura. And the men of Singapura were defeated, and Sultan Iskandar Shah fled, going by way of Saletar and thence to Muar. By the will of Almighty God the house of Sang Ranjuna Tapa and his wife was turned into rock, and that is the rock which exists to this day in the moat of Singapura. After the Javanese had conquered Singapura they returned to Majapahit."</span>
+
+</details>
 
 -----
 
