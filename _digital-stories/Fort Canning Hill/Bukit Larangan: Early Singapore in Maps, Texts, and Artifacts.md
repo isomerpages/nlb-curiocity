@@ -79,7 +79,7 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
-| The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
+| The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted for nearly a century before it came to an end in 1398 when the Majapahit Empire invaded the island. (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
 
 -----
 
