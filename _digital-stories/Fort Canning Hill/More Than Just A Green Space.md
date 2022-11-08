@@ -23,7 +23,11 @@ Today, Fort Canning Park features nine historical gardens - the Pancur Larangan,
 **Pancur Lanrangan**
 This garden aims to recreate the Pancur Lanrangan (or the "Forbidden Spring"). A water feature and stone murals will also be erected on the western part of the hill. The spot is likely where a forbidden spring, where royal women once bathed, used to be located. The objective of the spring structure is to create a focal point to depict the significance of water to the Fort Canning site in the past.
 
-Artisan's Garden
+**Artisan's Garden**
+
+Raffles Garden
+
+Farquhar Garden
 
 The Royal Garden  
 Facing Stamford Road, the Royal Garden will feature plants such as jackfruit and rambutan. These were previously observed by [John Crawfurd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_188_2005-01-20.html), the second British resident in Singapore, on the hill in 1822 as evidence of a 14th century palace garden.37  
