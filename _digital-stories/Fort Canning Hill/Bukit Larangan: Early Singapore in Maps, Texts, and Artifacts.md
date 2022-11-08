@@ -83,10 +83,6 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 
 -----
 
-
------
-
-
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 The kingdom of Singapura that was established by Sang Nila Utama in 1299 lasted for nearly a century before it came to an end in 1398 when the Majapahit Empire invaded the island. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below why and how the Majapahit captured the island. (Source: John Crawfurd's Journal of an Embassy to From the Governor-General of India to the Courts of Siam and Cochin China (1830)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4142777" target="_blank">RRARE 959.7 CRA</a> or <a href="https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx" target="_blank">BookSG</a>) </span></summary>
