@@ -110,3 +110,5 @@ Artifacts on the other hand can provide some physical evidence for whether a sit
 | This green porcelain bowl is a unique example excavated at the Fort Canning Spice Gardens in 2010 and is likely to be a product of the Guangdong Xicun kiln area. The designs located within the bowl appear to be “variations on the eight treasures.” Many Chinese ceramics dating to the late Song and Yuan dynasties were found in Fort Canning. Some ceramics on the Hill were of a finer quality that lends merit to the idea that the Hill may have been an area for elites in the 14th century, and that Singapore was a trading hub in an ancient maritime trading network; a part of the [Silk Road of the Sea](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868). (Image Credit: John N. Miksic and Goh Geok Yian, “[Singapore No 4: The Fort Canning Spice Garden Site Report](https://doi.org/10.25717/q0b4-byj0).” _Southeast Asian Archaeological Site Reports_. (2020). ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)){:target="_blank"}) |
 
 ----
+
+https://youtu.be/_PC7pM3DJYQ
