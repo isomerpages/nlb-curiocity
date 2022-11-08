@@ -52,6 +52,22 @@ _____
 | The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
 
 -----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
+Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's The Malay Annals: Attack of the Garfish and Other Adventures (2021)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Tun Jana Khatib, a man with magical powers, was ambushed and killed by people in Singapura because they didn’t trust him or his powers. Before he passed away, he cursed Singapura. When the garfish began to attack fishermen who went out to sea with their long jaws and teeth, Nelayan the fisherman thought it might be because of the curse. A young boy named Hang Nadim eventually advised the king to use banana trunks to ward off the garfish attack and the king constructed a fence made of banana trunks along the shoreline. When the garfish attacked, they could not escape, and the king’s men managed to kill the garfish. The king invited Hang Nadim to his palace with the intent to reward him but the King’s adviser, Pembesar Raja, became jealous and whispered rumors about how the boy might be a threat to the throne when he grows up. The king ordered Hang Nadim killed; some people believed he was stabbed or others thought he was chained and put into a sack and then thrown into the river....Even today, when the wind sighs and the water laps, some people claim to hear chains clanking in the Singapore river.” (pages 44-59)"</span>
+
+</details>
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/fc-bl-hill-1.jpg)|
+| The *Malay Annals* also had mystical and fantastic details, leading some to doubt whether the whole work could be used as an authoritative historical source. Originally transmitted orally before being put to paper, new versions (as shown above) continue to be written and re-told in an effort to keep new generations aware and engaged with such classics. One perennial favourite tale involves the story of the Garfish Attack (*todak*), or in Malay, *Singapura Dilanggar Todak*. It should be noted that such fantastical tales can still be the subject of serious studies (e.g. Sim [2005](https://scholarbank.nus.edu.sg/handle/10635/14900) and Chong [2012](https://www.jstor.org/stable/23210883)). (Image Credit: Hidayah Amin and Eliz Ong, *The Malay Annals: Attack of the Garfish and Other Adventures* (2021) (Call no. Junior Reference [S823 HID](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299)) |
+
+-----
+
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's The Malay Annals: Attack of the Garfish and Other Adventures (2021)(Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
@@ -61,6 +77,7 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 </details>
 
 -----
+
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
