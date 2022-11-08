@@ -17,6 +17,7 @@ Named after the first king of early Singapore, Sang Nila Utama Garden reimagines
 Comprising a water feature and stone murals, this garden is named after the "Forbidden Spring" (or "Pancur Lanrangan"). Believed to be used by the women of the royal household for bathing, the objective of this garden is to create a focal point to depict the significance of water to the Fort Canning site in the past.
 
 **Artisan's Garden**
+Located at one of the sites where the archaeological digs of Fort Canning Hill was carried out, this garden showcases some of the porcelain, earthware and stoneware that were uncovered since the 1980s. It also has spaces for its visitors to learn about the archaeological excavations and their findings.
 
 **Raffles Garden**
 This garden is named after Sir Stamford Raffles (1781–1826), the founder of modern Singapore. Whilst Raffles is most remembered for his public life in the former British colonies in Southeast Asia, he was also an avid naturalist, who spent his free time studying botany and wildlife. Inspired by his love for plants, the Raffles Garden showcases the diverse plant species that Raffles encountered in Southeast Asia. It includes species collected, studied or planted by Raffles and his fellow naturalists, some of whom were also his closest friends.
