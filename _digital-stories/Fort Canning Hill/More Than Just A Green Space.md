@@ -29,7 +29,7 @@ The Farquhar Garden is named after Major-General William Farquhar, the first Bri
 In 1819, Raffles started a spice plantation at Fort Canning which proved successful and later inspired Singapore's first botanical garden. The current Spice Garden comprises three zones – the existing Spice Garden area, the pedestrianised Canning Rise and the Spice Gallery. It features more than 180 varieties of plants, such as spice trees and herbs.
 
 **First Botanic Garden**
-The original and Singapore’s first botanic garden, which Sir Stamford Raffles had established on the eastern slope of the hill in 1822 will be recreated in Armenian Street. It will showcase plant spices such as clove and nutmeg introduced to Singapore between the 1820s and 1840s. Trees and shrubs will also be planted along [Hill Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_269_2005-01-19.html), Victoria Street, [Bras Basah Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_227_2005-01-25.html), Handy Road and Canning Rise, forming the boundaries of the original Botanic Garden.
+To mark the existence of the original and Singapore’s first botanic garden on eastern slope the hill, this garden will showcase plant spices that were introduced to Singapore between the 1820s and 1840s such as clove and nutmeg. Trees and shrubs are also planted along Hill Street, Victoria Street, Bras Basah Road, Handy Road and Canning Rise, forming the boundaries of the original Botanic Garden.
 
 **Armenian Street Park**
   
