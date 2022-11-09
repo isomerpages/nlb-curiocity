@@ -48,7 +48,9 @@ Sited within the park at the junction of River Valley Road and Clemenceau Avenu
 
 ### **A Place For Celebrations, Festivals and Theatre Productions**
 
-Fort Canning Park is a venue for celebrations. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
+The transformation of Fort Canning Hill into a multi-faceted location, suitable for learning and celebration was due to the introduction of the Civic District Master Plan. 
+
+The transformation of Fort Canning Hill into a place of learning and celebration. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
 
 ### **Civic District Master Plan**
 
