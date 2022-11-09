@@ -48,9 +48,7 @@ Sited within the park at the junction of River Valley Road and Clemenceau Avenu
 
 ### **A Place For Celebrations, Festivals and Theatre Productions**
 
-The transformation of Fort Canning Hill into a multi-faceted location, suitable for learning and celebration was due to the introduction of the Civic District Master Plan. 
-
-The transformation of Fort Canning Hill into a place of learning and celebration. Its expansive, sprawling lawns play host to concerts, theatre productions and festivals
+The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
 
 ### **Civic District Master Plan**
 
