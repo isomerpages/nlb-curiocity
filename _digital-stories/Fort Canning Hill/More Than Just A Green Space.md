@@ -50,10 +50,3 @@ Sited within the park at the junction of River Valley Road and Clemenceau Avenu
 
 The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
 
-### **Civic District Master Plan**
-
-This multi-faceted function of Fort Canning Hill was due to the introduction of the Civic District Master Plan in 1988.
-
- inclusion of Fort Canning Hill in the Museum Planning Area of the
-
-https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-conserving-the-nations-built-heritage.pdf
