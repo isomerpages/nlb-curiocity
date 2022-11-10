@@ -16,7 +16,7 @@ The comprehensive land use review was to bring out the distinctive historical qu
 
 One of the key events being held there in recent years is the "From Singapore to Singaporean: The Bicentennial Experience" showcase at Fort Canning Centre. This showcase is the centrepiece of Singapore's bicentennial celebration and it features a comprehensive gallery, complete with interactive elements to cover the country's pre-1819 and post-1810 history. The gallery comprised an hour-long indoor cinematic journey called Time Traveller, which begins with the story of the country's evolution in the 500 years before the arrival of the British in 1819, and an outdoor exploratory trail called Pathfinder, which include eight interactive pavilions and installations.
 
-Others events that were held in Fort Canning over the years include performances by dance groups and theatre houses such as Ballet under the star, shakespe. The hill was also used as an venue space for concerts and celebrations including the F1 rocks.
+Others events that were held in Fort Canning over the years include performances by dance groups and theatre houses such as ["Ballet Under the Stars"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12917894), ["Shakespeare in the Park"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200003224). The hill was also used as an venue space for concerts and celebrations including ["F1 Rocks"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202986605) which is shown here.
 
 ### **The Nine Gardens of Fort Canning Park**
 
