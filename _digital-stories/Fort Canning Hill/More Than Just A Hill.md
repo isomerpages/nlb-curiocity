@@ -8,7 +8,7 @@ The Fort Canning Hill we know today is more than a hilltop park with nine histor
 
 ### **Becoming Today's Fort Canning Hill**
 
-The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
+The transformation of Fort Canning Hill into today's multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
 
 |   | 
 |:--------:| 
