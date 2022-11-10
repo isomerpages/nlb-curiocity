@@ -14,13 +14,9 @@ Following the release of the 1986 Conservation Master Plan, A [Master Plan for t
 
 The comprehensive land use review was to bring out the distinctive historical qualities of the area by enhancing the Civic and Cultural District's relationship with adjacent areas such as Orchard Road, Marina Bay and the Singapore River. It also aimed to revitalise the area by not only conserving the historical buildings found there, but also turning it into a place of culture and heritage. To do so, key cultural amenities were built up in the district over time, including several public museums housed within historic buildings such as the Singapore Art Museum, and modern cultural icons like the Esplanade Theatres. Fort Canning Hill, on the other hand, became a public venue that showcases the nation's history and for performances and events.
 
-Ballet under the stars
-
-Shakespeare
-
-F1 concert
-
 Bicentennial celebration
+
+Others include ballet under the star, shakespe, f1
 
 ### **The Nine Gardens of Fort Canning Park**
 
