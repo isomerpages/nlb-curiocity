@@ -16,7 +16,7 @@ The comprehensive land use review was to bring out the distinctive historical qu
 
 ### **The Nine Gardens of Fort Canning Park**
 
-Today, Fort Canning Park features nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
+Today, Fort Canning Hill continues to be a place of learning and celebration. Following an enhancement to restore the rich history of the hill, the Fort Canning Park now has nine historical gardens - the Pancur Larangan, Artisan’s Garden, Sang Nila Utama Garden, Jubilee Park, Raffles Garden, First Botanic Garden, Farquhar Garden, Spice Garden and Armenian Street Park. Built between 2018 and 2019 to commemorate Singapore’s bicentennial, these gardens are to give visitors a glimpse of the island’s past through nature and archaeological discoveries.
 
 **Sang Nila Utama Garden**
 
