@@ -12,7 +12,7 @@ Today, Fort Canning Park features nine historical gardens - the Pancur Larangan,
 
 **Sang Nila Utama Garden**
 
-Named after the first king of early Singapore, Sang Nila Utama Garden reimagines the Southeast Asian gardens of the 14th century. The garden has features typical of these early gardens such as a symmetrical layout, Javanese split gates to denote the entrance into its different zones or realms, reflective pools and statues of frogs, fishes and ducks. Ornamental and perfume plants ranging from Magnolias and Ixoras to Gardenias and Vallaris are also planted there to reflect their significance in ancient Javanese culture.
+Named after the first king of early Singapore, Sang Nila Utama Garden re-imagines the Southeast Asian gardens of the 14th century. The garden has features typical of these early gardens such as a symmetrical layout, Javanese split gates to denote the entrance into its different zones or realms, reflective pools and statues of frogs, fishes and ducks. Ornamental and perfume plants ranging from Magnolias and Ixoras to Gardenias and Vallaris are also planted there to reflect their significance in ancient Javanese culture.
 
 **Pancur Lanrangan**
 
@@ -50,7 +50,6 @@ Sited within the park at the junction of River Valley Road and Clemenceau Avenu
 
 The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
 
-Following the release of the 1986 Conservation Master Plan, A Master Plan for the Civic and Cultural District was prepared in 1988 to provide guidance for the revitalisation of the historic area that housed the most important government buildings from the colonial era such as the Supreme Court and City Hall. Bounded by the Singapore River, Clemenceau Avenue, Orchard Road, Bras Basah Road and Esplanade Park as shown in the plan above, this 105-hectare area also include Fort Canning Hill.
+Following the release of the 1986 Conservation Master Plan, A [Master Plan for the Civic and Cultural District](https://eresources.nlb.gov.sg/printheritage/detail/33484f58-3dc7-42c7-bbbe-624f02b8a484.aspx) was prepared in 1988 to provide guidance for the revitalisation of the historic area that housed the most important government buildings from the colonial era such as the Supreme Court and City Hall. Bounded by the Singapore River, Clemenceau Avenue, Orchard Road, Bras Basah Road and Esplanade Park as shown in the plan above, this 105-hectare area also include Fort Canning Hill.
 
 The comprehensive land use review was to bring out the distinctive historical qualities of the area by enhancing the Civic and Cultural District's relationship with adjacent areas such as Orchard Road, Marina Bay and the Singapore River. It also aimed to revitalise the area by not only conserving the historical buildings found there, but also turning it into a place of culture and heritage. To do so, key cultural amenities were built up in the district over time, including several public museums housed within historic buildings such as the Singapore Art Museum, and modern cultural icons like the Esplanade Theatres. Fort Canning Hill, on the other hand, became a public venue that showcases the nation's history and for performances and events.
-
