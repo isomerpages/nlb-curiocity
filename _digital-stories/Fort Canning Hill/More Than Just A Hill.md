@@ -19,7 +19,7 @@ The transformation of Fort Canning Hill into a multi-faceted location was due to
 | ![Alt text for image on Isomer site](/images/fc-today-masterplan-3.jpg)|
 | Others events that were held in Fort Canning over the years include performances by dance groups and theatre houses such as ["Ballet Under the Stars"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12917894), ["Shakespeare in the Park"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200003224). The hill was also used as an venue space for concerts and celebrations including ["F1 Rocks"](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202986605) which is shown here. (Image Credit: [Gilman Collection, Museum Purchase, 2005](https://commons.wikimedia.org/wiki/File:-Botanical_Gardens,_Calcutta-_MET_DP147416.jpg){:target="_blank"}) |
 
-One of the key events that was held on Fort Canning Hill was the "From Singapore to Singaporean: The Bicentennial Experience" showcase at Fort Canning Centre. Launched in 2019, it was the centrepiece of Singapore's bicentennial celebrations.
+One of the key events that was held on Fort Canning Hill was the "From Singapore to Singaporean: The Bicentennial Experience" showcase at Fort Canning Centre. Launched in 2019, this year-long event was the centrepiece of Singapore's bicentennial celebrations.
 
 ----
 
