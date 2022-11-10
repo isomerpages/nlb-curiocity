@@ -4,8 +4,15 @@ permalink: /digital-stories/Fort-Canning-Hill/fort-canning-today/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-
 The Fort Canning Hill we know today is more than a hilltop park with nine historical gardens. It is also a gateway to the history of Singapore as well as a venue for celebrations and recreational activities.
+
+### **Becoming Today's Fort Canning Hill**
+
+The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
+
+Following the release of the 1986 Conservation Master Plan, A [Master Plan for the Civic and Cultural District](https://eresources.nlb.gov.sg/printheritage/detail/33484f58-3dc7-42c7-bbbe-624f02b8a484.aspx) was prepared in 1988 to provide guidance for the revitalisation of the historic area that housed the most important government buildings from the colonial era such as the Supreme Court and City Hall. Bounded by the Singapore River, Clemenceau Avenue, Orchard Road, Bras Basah Road and Esplanade Park as shown in the plan above, this 105-hectare area also include Fort Canning Hill.
+
+The comprehensive land use review was to bring out the distinctive historical qualities of the area by enhancing the Civic and Cultural District's relationship with adjacent areas such as Orchard Road, Marina Bay and the Singapore River. It also aimed to revitalise the area by not only conserving the historical buildings found there, but also turning it into a place of culture and heritage. To do so, key cultural amenities were built up in the district over time, including several public museums housed within historic buildings such as the Singapore Art Museum, and modern cultural icons like the Esplanade Theatres. Fort Canning Hill, on the other hand, became a public venue that showcases the nation's history and for performances and events.
 
 ### **The Nine Gardens of Fort Canning Park**
 
@@ -45,12 +52,3 @@ This park connects Fort Canning Park, Bras Basah, Bugis, and the Civic District 
 **Jubilee Park**  
 
 Sited within the park at the junction of River Valley Road and Clemenceau Avenue, Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances. The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary.
-
-
-### **Becoming Today's Fort Canning Hill**
-
-The transformation of Fort Canning Hill into a multi-faceted location was due to the introduction of the Civic District Master Plan. Introduced in 1988, it turned the expansive, sprawling lawns of the hill into a venue for history as well as concerts, theatre productions and celebratory festivals.
-
-Following the release of the 1986 Conservation Master Plan, A [Master Plan for the Civic and Cultural District](https://eresources.nlb.gov.sg/printheritage/detail/33484f58-3dc7-42c7-bbbe-624f02b8a484.aspx) was prepared in 1988 to provide guidance for the revitalisation of the historic area that housed the most important government buildings from the colonial era such as the Supreme Court and City Hall. Bounded by the Singapore River, Clemenceau Avenue, Orchard Road, Bras Basah Road and Esplanade Park as shown in the plan above, this 105-hectare area also include Fort Canning Hill.
-
-The comprehensive land use review was to bring out the distinctive historical qualities of the area by enhancing the Civic and Cultural District's relationship with adjacent areas such as Orchard Road, Marina Bay and the Singapore River. It also aimed to revitalise the area by not only conserving the historical buildings found there, but also turning it into a place of culture and heritage. To do so, key cultural amenities were built up in the district over time, including several public museums housed within historic buildings such as the Singapore Art Museum, and modern cultural icons like the Esplanade Theatres. Fort Canning Hill, on the other hand, became a public venue that showcases the nation's history and for performances and events.
