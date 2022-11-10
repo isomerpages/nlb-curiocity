@@ -14,9 +14,9 @@ Following the release of the 1986 Conservation Master Plan, A [Master Plan for t
 
 The comprehensive land use review was to bring out the distinctive historical qualities of the area by enhancing the Civic and Cultural District's relationship with adjacent areas such as Orchard Road, Marina Bay and the Singapore River. It also aimed to revitalise the area by not only conserving the historical buildings found there, but also turning it into a place of culture and heritage. To do so, key cultural amenities were built up in the district over time, including several public museums housed within historic buildings such as the Singapore Art Museum, and modern cultural icons like the Esplanade Theatres. Fort Canning Hill, on the other hand, became a public venue that showcases the nation's history and for performances and events.
 
-Bicentennial celebration
+One of the key events being held there in recent years is the "From Singapore to Singaporean: The Bicentennial Experience" showcase at Fort Canning Centre. This showcase is the centrepiece of Singapore's bicentennial celebration and it features a comprehensive gallery, complete with interactive elements to cover the country's pre-1819 and post-1810 history. The gallery comprised an hour-long indoor cinematic journey called Time Traveller, which begins with the story of the country's evolution in the 500 years before the arrival of the British in 1819, and an outdoor exploratory trail called Pathfinder, which include eight interactive pavilions and installations.
 
-Others include ballet under the star, shakespe, f1
+Others events include ballet under the star, shakespe, f1
 
 ### **The Nine Gardens of Fort Canning Park**
 
