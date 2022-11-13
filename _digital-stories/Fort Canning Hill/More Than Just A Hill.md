@@ -50,6 +50,7 @@ Today, Fort Canning Hill continues to be a place of learning and celebration. Fo
 
 ---
 
-**Embark on this virtual tour with NParks to learn about the nine gardens of Fort Canning Park.**
+**Virtual Tour of the Nine Gardens**
+Embark on this virtual tour with NParks to learn about the nine gardens of Fort Canning Park.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7vbi3UCx6k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
