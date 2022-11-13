@@ -116,6 +116,6 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 
 **The Battlebox**
 
-Get a glimpse of what went on in the the Battlebox at Fort Canning Hill and how it functioned as a self-sufficient military headquarters during the war.
+One of the most iconic buildings on Fort Canning Hill is the underground bunker of the Malaya Command. Known as The Battlebox today, the bunker is where Get a glimpse of what went on in the the Battlebox at Fort Canning Hill and how it functioned as a self-sufficient military headquarters during the war.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/28A6AFsy_8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
