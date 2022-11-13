@@ -49,3 +49,7 @@ Today, Fort Canning Hill continues to be a place of learning and celebration. Fo
 | **Jubilee Park -** Sited within the park at the junction of River Valley Road and Clemenceau Avenue, Jubilee Park will feature play areas for children, cafes and an outdoor theatre space and an event lawn for art installations, artists markets and performances. The area used to be called “King George the Fifth Jubilee Park”, named to mark the 1935 silver jubilee of King George the Fifth and Queen Mary. (Image Credit: [Gilman Collection, Museum Purchase, 2005](https://commons.wikimedia.org/wiki/File:-Botanical_Gardens,_Calcutta-_MET_DP147416.jpg){:target="_blank"}) |
 
 ---
+
+**Embark on this virtual tour with NParks to learn about the nine gardens of Fort Canning Park.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7vbi3UCx6k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
