@@ -111,3 +111,11 @@ The demolition of Fort Canning in 1926 did not mark the end of the military pres
 | The administration building and barracks were also converted to civilian use in the 1970s. For instance, the barracks, which is known today as The Fort Canning Centre, was converted into a squash courts venue and later reinvented as a place for the arts in the 1990s housing two of Singapore’s prominent arts groups – the Singapore Dance Theatre (SDT) and Theatre Works. Between 2015 and 2016, it briefly served as the private art museum Singapore Pinacotheque de Paris. It then became the venue for The Bicentennial Experience, the nation’s bicentennial showcase in 2019. (Image Credit: [Photo by jean-michel gobet via wikicommons](https://commons.wikimedia.org/wiki/File:Fort_Canning_Centre,_Singapore_-_20080612.jpg#/media/File:Fort_Canning_Centre,_Singapore_-_20080612.jpg){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-command-6.jpg)|
 | The administration block, on the other hand, has been functioning as a country club since 1995. It continues to be one today called Legends Fort Canning Park. Incorporated in 2002, the club offers its members world-class amenities and recreational facilities. It also set up a  a 5-star boutique hotel within its premises called Hotel Fort Canning. (Image Credit: [Photo by Nicolas Lannuzel via wikicommons](https://commons.wikimedia.org/wiki/File:Hotel_Fort_Canning,_Singapore_-_20120422.jpg#/media/File:Hotel_Fort_Canning,_Singapore_-_20120422.jpg){:target="_blank"}) |
+
+-----
+
+**The Battlebox**
+
+Get a glimpse of what went on in the the Battlebox at Fort Canning Hill and how it functioned as a self-sufficient military headquarters during the war.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28A6AFsy_8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
