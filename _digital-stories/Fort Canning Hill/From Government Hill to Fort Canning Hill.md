@@ -126,4 +126,4 @@ ______
 
 Take a trip back in time in this story map to learn more about the history of some of the iconic buildings and sites on Fort Canning Hill.
 
-[![Alt text for image on Isomer site](/images/fc-parks-storymap.jpg)](https://go.gov.sg/km3hp5){:target="_blank"}
+[![Alt text for image on Isomer site](/images/fc-storymap.jpg)](https://go.gov.sg/km3hp5){:target="_blank"}
