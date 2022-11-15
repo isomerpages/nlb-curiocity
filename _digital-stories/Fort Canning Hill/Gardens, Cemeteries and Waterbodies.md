@@ -233,3 +233,11 @@ Swimming pools were not only the waterbodies on Fort Canning Hill. When the Brit
 If you would like to know more about this near century-old service reservoir including what lies beneath, watch this video for an exclusive peek and see how it has stood the test of time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9WnPJ_6B88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+______
+
+### **Explore The Recreational And Green Spaces On And Around Fort Canning Hill In The 1950s**
+
+Geo-tagged on the map below are the locations of the various recreational and green spaces on and around the hill. Click on the map below to find out more about them.
+
+[![Alt text for image on Isomer site](/images/fc-parks-storymap.jpg)](https://go.gov.sg/hhdntq){:target="_blank"}
