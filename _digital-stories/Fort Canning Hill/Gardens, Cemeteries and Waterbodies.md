@@ -240,4 +240,4 @@ ______
 
 Geo-tagged on the map below are the locations of the various recreational and green spaces on and around the hill. Click on the map below to find out more about them.
 
-[![Alt text for image on Isomer site](/images/fc-parks-storymap.jpg)](https://go.gov.sg/hhdntq){:target="_blank"}
+[![Alt text for image on Isomer site](/images/fc-parks-storymap.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/green-spaces-before-independence/index.html){:target="_blank"}
