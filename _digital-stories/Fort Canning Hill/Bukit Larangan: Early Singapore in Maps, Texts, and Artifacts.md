@@ -95,9 +95,9 @@ Charging forward, the King’s men killed the wriggling garfish. Singapura was f
 
 ----
 
-### **Early Singapore In Artifacts**
+### **Early Singapore In Artefacts**
 
-Artifacts on the other hand can provide some physical evidence for whether a site was settled and how long it might have been in use prior to abandonment, and the information can test or complement the known textual evidence. The existing [open air museum of the 1988 Fort Canning excavation site](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Archaeological-Excavation-Site-at-Fort-Canning-Park) (FTC) which is open daily to visitors suggests that Fort Canning Hill area was part of a larger 14th century settlement in Singapore which includes the parts of the Civic District as well as the banks of the Singapore River.
+At the inception of a British settlement in Singapore in 1819, Sir Stamford Raffles and John Crawfurd, the second British Resident of Singapore, found many vestiges of a much older settlement. However, it was not until 1984 when the first proper archaeological investigation was carried out. Initiated by the National Museum and led by Professor John Miksic, artefacts dating back to the period between 1300 and 1600 were recovered, providing further evidence of the existence of a pre-colonial Singapore.
 
 |   | 
 |:--------:| 
