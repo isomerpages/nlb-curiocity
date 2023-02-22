@@ -57,7 +57,23 @@ _____
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's <span style="font-style: italic;">The Malay Annals: Attack of the Garfish and Other Adventures</span> (2021) (pp. 52-54) (Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Tun Jana Khatib, a man with magical powers, was ambushed and killed by people in Singapura because they didn’t trust him or his powers. Before he passed away, he cursed Singapura. When the garfish began to attack fishermen who went out to sea with their long jaws and teeth, Nelayan the fisherman thought it might be because of the curse. A young boy named Hang Nadim eventually advised the king to use banana trunks to ward off the garfish attack and the king constructed a fence made of banana trunks along the shoreline. When the garfish attacked, they could not escape, and the king’s men managed to kill the garfish. The king invited Hang Nadim to his palace with the intent to reward him but the King’s adviser, Pembesar Raja, became jealous and whispered rumors about how the boy might be a threat to the throne when he grows up. The king ordered Hang Nadim killed; some people believed he was stabbed or others thought he was chained and put into a sack and then thrown into the river....Even today, when the wind sighs and the water laps, some people claim to hear chains clanking in the Singapore river.” (pages 44-59)"</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"A small voice then said to the King, “Your Majesty, why not use banana trunks instead?"
+
+The voice belonged to a boy who looked like he was seven years old. The boy, known as Hang Nadim, had been watching from afar.
+
+It was not common for a king to \[take\] advice from children.
+
+However, as the King was desperate to save Singapura, he agreed to try out Hang Nadim’s suggestion.
+
+He instructed his men to cut down banana trunks and erect them side by side on the shoreline to form a fence.
+
+Woosh! Woosh! Woosh!
+
+The garfish launched wave after wave of attack. Only this time, their jaws got stuck onto the banana trunks. They could not escape.
+
+“Go! Kill the enemies!” bellowed the King victoriously.
+
+Charging forward, the King’s men killed the wriggling garfish. Singapura was finally saved."</span>
 
 </details>
 
