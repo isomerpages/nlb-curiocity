@@ -29,7 +29,7 @@ The National Library in Singapore houses a collection of rare maps dating back t
 
 ### **Early Singapore in Texts**
 
-Another way to figure out if a particular location such as Temasek was strategically significant is through the study of ancient texts. Most of the early ancient local historical sources for Southeast Asia were either palm-leaf manuscripts (Indonesian: _lontar_) or stone inscriptions. However, as the manuscripts were perishable and written in ancient languages or kept as sacred heirlooms, many are not accessible to modern readers today. Foreign textual sources included travellers’ tales and trade compendiums.
+Historical texts constitute another source of information pointing to the existence of a pre-colonial Singapore. Among them, _Sulalat al-Salatin (Genealogy of Kings), better known as Sejarah Melayu or Malay Annals_, and Wang Dayuan’s (汪大渊) _Daoyi Zhilue_ (岛夷志略; _A Description of the Barbarians of the Isles_) are the two most well-known. Produced in the 17th century and 14th century respectively, they provide a rare glimpse to the life, trade, people and culture of pre-1819 Singapore.
 
 
 |   | 
