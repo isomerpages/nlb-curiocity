@@ -32,7 +32,7 @@ _____
 
 ### **Government House**
 
-The bungalow on the summit of Fort Canning Hill was built in late 1822 for Raffles and his sister’s family. It was a wooden bungalow 100 feet long and 50 feet wide, with venetians and an attap roof. The bungalow also had two parallel halls with verandas at both the front and back, and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow became the residence of subsequent colonial governors until Fort Canning was built on it in the 1850s.
+The bungalow constructed on the summit of Fort Canning Hill was built in late 1822 to house Sir Stamford Raffles and his sister's family. The wooden bungalow was about 100 feet long and 50 feet wide, with Venetian blinds and an attap roof. The bungalow featured two parallel halls with verandas at the front and back and two square wings that served as sleeping quarters. After Raffles left Singapore for the final time in June 1823, the bungalow was used as the residence of subsequent colonial governors until the 1850s, when it was demolished to make way for the construction of Fort Canning.
 
 -----
 
