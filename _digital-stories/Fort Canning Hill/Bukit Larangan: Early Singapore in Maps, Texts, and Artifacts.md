@@ -57,7 +57,9 @@ _____
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">
 Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to  read an excerpt of the Garfish Attack. (Source: Hidayah Amin's and Eliz Ong's <span style="font-style: italic;">The Malay Annals: Attack of the Garfish and Other Adventures</span> (2021) (pp. 52-54) (Call no.: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205403299" target="_blank">Junior Reference S823 HID</a>) </span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">A small voice then said to the King, “Your Majesty, why not use banana trunks instead?"
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">
+
+"A small voice then said to the King, “Your Majesty, why not use banana trunks instead?"
 
 The voice belonged to a boy who looked like he was seven years old. The boy, known as Hang Nadim, had been watching from afar.
 
@@ -73,7 +75,7 @@ The garfish launched wave after wave of attack. Only this time, their jaws got s
 
 “Go! Kill the enemies!” bellowed the King victoriously.
 
-Charging forward, the King’s men killed the wriggling garfish. Singapura was finally saved.</span>
+Charging forward, the King’s men killed the wriggling garfish. Singapura was finally saved."</span>
 
 </details>
 
