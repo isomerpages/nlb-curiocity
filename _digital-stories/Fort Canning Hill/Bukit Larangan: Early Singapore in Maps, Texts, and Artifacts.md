@@ -10,7 +10,7 @@ At 156 feet high and located at the junction of Canning Rise and Fort Canning Ro
 
 ### **Early Singapore in Maps**
 
-Ancient maps are a useful way to find out if a particular location such as Temasek was significant in some way. Geographical maps can be a visual representation of [knowledge and power](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography) in the sense that they can map out geographical locations, landmarks, as well as important trade locations. Cosmographical maps on the other hand can represent ideas about [the world](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/search-sg-old-map) as well as belief systems.
+The National Library in Singapore houses a collection of rare maps dating back to the 15th century. This collection includes topographic maps and navigational charts that cover Singapore and the surrounding region. Most of these maps were printed by European map-makers and provide valuable insights into the historical significance of various locations, including pre-colonial Singapore.
 
 |   | 
 |:--------:| 
