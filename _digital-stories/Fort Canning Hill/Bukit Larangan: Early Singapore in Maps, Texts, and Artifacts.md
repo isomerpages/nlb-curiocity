@@ -127,10 +127,10 @@ At the inception of a British settlement in Singapore in 1819, Sir Stamford Raff
 
 **Learn More About Professor John Miksic and the Archaeological Digs On Fort Canning Hill**
 
-Primary school history lessons teach that Sir Stamford Raffles founded Singapore in 1819. But excavation at Fort Canning by NUS Professor John N Miksic and archaeologists has proved that a large, diverse community thrived here more than 700 years ago. Find out in this video by NTUC on who he is.
+Primary school history lessons teach that Sir Stamford Raffles founded modern Singapore in 1819. However, archaeological excavations at Fort Canning, led by Professor John Miksic from the National University of Singapore, and other archaeologists over the years, have shown that there was already a large and diverse community thriving on the island more than 700 years ago. So who is Professor John Miksic? Find out more in this video by the National Trades Union Congress (NTUC) Singapore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5aVKLnfmL2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In addition, the National Museum of Singapore also has a short video that showcases the key archaeological finds on Fort Canning Hill. Watch it here nad learn what they are and their significance.
+In addition, the National Museum of Singapore has a short video showcasing the key archaeological finds on Fort Canning Hill. Watch it here and learn what they are and their significance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZAVuE2Ehtp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
