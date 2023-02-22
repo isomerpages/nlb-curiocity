@@ -61,7 +61,7 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 
 The voice belonged to a boy who looked like he was seven years old. The boy, known as Hang Nadim, had been watching from afar.
 
-It was not common for a king to \[take\] advice from children.
+It was not common for a king to take advice from children.
 
 However, as the King was desperate to save Singapura, he agreed to try out Hang Nadim’s suggestion.
 
