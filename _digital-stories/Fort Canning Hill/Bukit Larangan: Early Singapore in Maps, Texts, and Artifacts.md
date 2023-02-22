@@ -63,7 +63,7 @@ Click or tap <span style="font-weight: 700; text-decoration:underline; color:#43
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-bl-text-3.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-bl-text-6.jpg)|
 | [Wang Dayuan](https://eresources.nlb.gov.sg/history/events/61d49d33-d5cd-48fc-b91b-652ca64e87c4)’s *Description of the Barbarians of the Isles* (*Dao Yi Zhi Lue* [岛夷志略](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199), 213-4; 1349 CE) is a traveller’s tale that provides a near-contemporaneous account of life in Long Ya Men 龍牙門 (Temasek, or ancient Singapore). Partial English translations are provided by Rockhill ([1915](https://www.jstor.org/stable/4526442), page 129-32) and Wheatley ([1966](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203057442), page 82) (see also [Miksic 2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 174-8). The text mentions that the products of Long Ya Men were coarse laka wood and tin, with goods traded in the area being red gold, blue-green silk, local pottery, and metal pots. The text even described the inhabitants’ hair and dress, and mentioned that the inhabitants also engaged in pillage and plunder. The text also states that the inhabitants boiled sea water to obtain salt and processed rice grains to produce alcohol. (Image Credit: 汪大渊, 岛夷志略校释 \[*Dao yi zhi lue jiao shi*] (1981) (Call no. Chinese [RSEA 915.904 SJQ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322199)) |
 
 -----
