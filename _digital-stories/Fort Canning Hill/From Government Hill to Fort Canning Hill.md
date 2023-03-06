@@ -89,7 +89,7 @@ Although Fort Canning was demolished in 1926, British military presence continue
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is the Malaya Command? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from <span style="font-style: italic;">Singapore: The Encyclopedia</span>. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833" target="_blank">Call no.: RSING 959.57003 SIN</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What is the Malaya Command? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out what <span style="font-style: italic;">Singapore: The Encyclopedia</span> says. (Source: <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833" target="_blank">Call no.: RSING 959.57003 SIN</a>)</span></summary>
 
 <br>  
 
