@@ -206,7 +206,7 @@ Fort Canning Hill was once the site of two swimming pools, the Young Men’s Chr
 
 ##### **The Forbidden Spring and Fort Canning Service Reservoir**
 
-Fort Canning Hill was once the site of two swimming pools, the Young Men’s Christian Association (YMCA) swimming pool and the River Valley Swimming Complex. The YMCA pool opened in 1919, and the River Valley Swimming Complex opened in 1956. Both pools were very popular, as recreational spaces were limited at the time.
+Swimming pools were not only the bodies of water found on Fort Canning Hill. When the British arrived in 1819, they built aqueducts to bring water down from the hill, dug wells around it and even built a service reservoir on its summit. It was also said that during ancient times, there used to be a “forbidden” spring in the hill.
 
 ----
 
@@ -220,17 +220,17 @@ Fort Canning Hill was once the site of two swimming pools, the Young Men’s Chr
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-water-1-1-1.jpg)|
-| When the British arrived, they were told of the forbidden spring. Although they did not find any remains of the ancient spring, they were able to locate one in the hill. To bring the spring's water down to the river bank to visiting ships, the British built an aqueduct. When the spring dried up, they dug wells and built water tanks around the hill. By the late 1870s, as shown in this 1878 map, there were at least three wells and two water tanks in the foothills. The presence of the water tanks was said to have led to the naming of Tank Road. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fab87aba-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| When the British arrived, they were informed of the existence of the forbidden spring. Although they did not find any remains of the ancient spring, they were able to locate a spring in the hill. To bring the spring water down to the river bank for visiting ships, the British built an aqueduct. When the spring dried up, they dug wells and built water tanks around the hill. By the late 1870s, as shown in this 1878 map, there were at least three wells and two water tanks in the foothills. The presence of the water tanks was said to have led to the naming of Tank Road. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f972948e-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-2-1-1.jpg)|
-| After Fort Canning was decommissioned in 1907, the British decided to replace it with a service reservoir. Completed in 1929, it was built on the site of the former artillery barracks and parade ground of Fort Canning. The reservoir helped improve Singapore’s water reserve supply at the time from half a day to two days. (Image Credit: [Courtesy of the National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f91354a4-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| After Fort Canning was decommissioned in 1907, the British decided to replace it with a service reservoir. Completed in 1929, it was built on the site of the former artillery barracks and parade ground at Fort Canning. The reservoir extended Singapore's water supply reserve at that time from half a day to two days. (Image Credit: [National Archives of Singapore)](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f91354a4-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/fc-parks-water-3.jpg)|
-| Presently inaccessible to the public, Fort Canning Service Reservoir continues to deliver water to the city area today. As a service reservoir, it is different from other catchment reservoirs like MacRitchie and Marina. Instead of collecting water, it stores treated water that is ready to drink. Fort Canning Service Reservoir stores its water underground in two tanks. Spanning an area of over seven acres, the tanks are held up by 264 enormous hexagonal domes that laid side by side. (Image Credit: [Photo by Sengkang via wikicommons](https://commons.wikimedia.org/wiki/File:Fort_Canning_Service_Reservoir.JPG#/media/File:Fort_Canning_Service_Reservoir.JPG){:target="_blank"}) |
+| Fort Canning Service Reservoir, while presently inaccessible to the public, continues to deliver water to the city area today. As a service reservoir, it is different from other catchment reservoirs like MacRitchie and Marina. Instead of collecting water, it stores treated water that is ready to drink. Fort Canning Service Reservoir stores its water underground in two tanks. Spanning an area of over seven acres, the tanks are supported by 264 enormous hexagonal domes laid side by side. (Image Credit: [Photo by Sengkang via Wikicommons](https://commons.wikimedia.org/wiki/File:Fort_Canning_Service_Reservoir.JPG#/media/File:Fort_Canning_Service_Reservoir.JPG){:target="_blank"}) |
 
 ---
 
 **Diving into Fort Canning Service Reservoir**
 
-If you would like to know more about this near century-old service reservoir including what lies beneath, watch this video for an exclusive peek and see how it has stood the test of time.
+If you would like to find out more about this near century-old service reservoir, watch this video to see how it has stood the test of time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9WnPJ_6B88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
