@@ -99,12 +99,12 @@ King George V Park was located southwest of Fort Canning Hill at the junction of
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-parks-3-1.jpg)|
-| Some of the trees in the dense mass of variegated foliage of King George V Park included Flame of the forest, the Yellow flame, the Bungor tree, Jacarandas, Cassias and Tembusu. They were planted when the park was built before the war. As it became a Japanese military area during the Japanese Occupation, these plantings were left undisturbed and thus able to flourish. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1263760){:target="_blank"}) |
+| Some of the trees in the dense variegated foliage in King George V Park included Flame of the forest, Yellow flame, Bungor tree, Jacarandas, Cassias and Tembusu. They were planted when the park was built before the war. During the Japanese Occupation, the park became a Japanese military area which meant that these plantings were undisturbed and thus able to flourish. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1263760){:target="_blank"}) |
 
 ---
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Besides reporting on how King George V Park had improved the lives of the people living nearby, The Straits Times even crafted a poem to describe the park. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read the poem.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Besides reporting on how King George V Park had improved the lives of the people, the 7 May 1948 Straits Times seen earlier even crafted a poem to describe the park. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read it.</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">Meanwhile the mid, from pleasure less,
 <br>Withdraws into its happiness;
