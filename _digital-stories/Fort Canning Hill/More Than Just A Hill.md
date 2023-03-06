@@ -4,7 +4,7 @@ permalink: /digital-stories/Fort-Canning-Hill/fort-canning-today/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-The Fort Canning Hill we know today is more than a hilltop park with nine historical gardens. It is also a gateway to the history of Singapore as well as a venue for celebrations and recreational activities.
+Today, Fort Canning Hill is more than a hilltop park with nine historical gardens. It is also a gateway to the history of Singapore as well as a venue for celebrations and recreational activities. This remarkable transformation is due to introduction of a number of land use initiatives, particularly the Master Plan for the Civic and Cultural District in 1988.
 
 ### **Becoming Today's Fort Canning Hill**
 
