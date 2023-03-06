@@ -22,7 +22,7 @@ _____
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/fc-gardens-botanic-5.jpg)|
-| The motivation behind the establishment of the first botanic garden in Singapore was linked to the colonial tradition of having such gardens within the Empire for the experimental cultivation of cash crops as well as the research of native plants. In fact, when Wallich brought the idea up to Raffles, he was serving as the superintendent of the Calcutta Botanic Garden (shown above) which has been around since 1787. (Image Credit: [Gilman Collection, Museum Purchase, 2005](https://commons.wikimedia.org/wiki/File:-Botanical_Gardens,_Calcutta-_MET_DP147416.jpg){:target="_blank"}) |
+| The British had a tradition of setting up gardens in the colonies of their empire to experiment with the cultivation of cash crops and research native plants, and Singapore was no exception. In fact, when Nathaniel Wallich (shown here) proposed the idea to Sir Stamford Raffles, he was serving as the superintendent of the Calcutta Botanic Garden (shown above), which had been established in 1787. (Image Credit: [Nathaniel Wallich. Lithograph by E. U. Eddis, 1830. Wellcome Collection](https://wellcomecollection.org/works/v4uk3y7k?wellcomeImagesUrl=/indexplus/image/V0006127.html){:target="_blank"}) |
 
 -----
 
