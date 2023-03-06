@@ -163,7 +163,7 @@ The [National Theatre](https://eresources.nlb.gov.sg/infopedia/articles/SIP_800_
 
 ##### **Van Kleef Aquarium**
 
-The Van Kleef Aquarium was Singapore’s first public aquarium. Located at the foot of Fort Canning Hill, the aquarium was opened in 1955. It was a prominent landmark and a popular place of interest for Singaporeans and tourists alike. The aquarium underwent a series of revamps and was closed for good in 1996 with the building structure demolished in 1998.
+[Van Kleef Aquarium](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-11-18_133428.html){:target="_blank"} was Singapore’s first public aquarium. Located at the foot of Fort Canning Hill, the aquarium was opened in 1955. It quickly became a popular attraction for both locals and tourists. Over the years, the aquarium underwent several renovations and upgrades, but it was ultimately closed in 1996, and the building was demolished in 1998. Despite its closure, the aquarium is still remembered fondly by many Singaporeans as an important part of the country's history and heritage.
 
 |   | 
 |:--------:| 
