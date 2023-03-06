@@ -8,7 +8,7 @@ Besides once being a base from which the British projected its military power, F
 
 ### **The First Botanic Garden**
 
-The [Singapore Botanic Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_545_2005-01-24.html) today is not the first botanic garden of Singapore. Prior to its establishment in 1859, the British had already explored this idea when they set up a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
+The [Singapore Botanic Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_545_2005-01-24.html){:target="_blank"} at Cluny Road today is not the first botanic garden in Singapore. Even before its founding in 1859, the British had explored the idea of a botanic garden when they established a "Botanical and Experimental Garden" on the slopes of Fort Canning Hill.
 
 _____
 
