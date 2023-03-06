@@ -84,7 +84,7 @@ Fort Canning was built on the site of Government House on an excavated plateau, 
 
 ### **The Malaya Command**
 
-The demolition of Fort Canning in 1926 did not mark the end of the military presence on the hill as the British established the headquarters of the Malaya Command in a new military complex there. After the fall of Singapore in 1942, the Japanese Army took over the compound before it was returned to the British in 1945. In 1963, the complex was handed over to 4th Malaysian Infantry Brigade followed by the Singapore Armed Forces in 1970. Today, the premises is occupied by the Legends at Fort Canning Club, a 5-star luxury heritage boutique hotel known as Hotel Fort Canning, and the Fort Canning Centre.
+Although Fort Canning was demolished in 1926, British military presence continued with the establishment of the Malaya Command headquarters in a new military complex which was completed in 1927. After the fall of Singapore in 1942, the Japanese Army took over the compound before it was returned to the British in 1945. In 1963, the complex was handed over to the 4th Malaysian Infantry Brigade and then to the Singapore Armed Forces in 1970. Today, the premises is occupied by Legends at Fort Canning Club, a five-star luxury heritage boutique hotel known as Hotel Fort Canning, and the Fort Canning Centre.
 
 -----
 
