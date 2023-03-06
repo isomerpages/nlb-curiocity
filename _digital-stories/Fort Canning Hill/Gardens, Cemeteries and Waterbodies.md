@@ -135,7 +135,7 @@ King George V Park was located southwest of Fort Canning Hill at the junction of
 
 ### **Former Recreational Grounds of Fort Canning Hill**
 
-King George V Park was not the only recreational grounds in Fort Canning Hill, there were also others including the River Valley Swimming Complex, the Van Kleef Aquarium and the National Theatre. Although these places are no longer around, they were very popular during the postwar period right up to the nation-building years.
+King George V Park was not the only recreational ground on Fort Canning Hill. There were others, including the River Valley Swimming Complex, the Van Kleef Aquarium, and the National Theatre. Although these places are no longer around, they were very popular during the postwar period and the nation-building years.
 
 ##### **National Theatre**
 
