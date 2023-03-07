@@ -17,9 +17,9 @@ sections:
         - title: Explore our story maps
           description: Read the stories in our maps
           url: /story-maps/explore
-        - title: Read OuR Digital Stories
+        - title: Read Our Digital Stories
           description: Travel back in time
-          url: /singapore-visualised/vr-tours
+          url: /digital-stories/introduction/
         - title: See Before & After Sliders
           description: Observe changes in places
           url: /singapore-visualised/before-and-after
