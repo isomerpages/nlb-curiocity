@@ -33,15 +33,6 @@ sections:
       image: /images/fort-canning-cover-dg.jpg
       alt: Image alt text
   - infopic:
-      title: Heritage Bridges of Singapore River
-      subtitle: Story Map
-      description: Trace the history of the bridges spanning the Singapore River that
-        have ties to the colonial period.
-      button: View the story map
-      url: /resource-room/story-maps/bridges-singapore-river
-      alt: Image alt text
-      image: /images/landing-bridge.jpg
-  - infopic:
       title: Bras Basah Through Time
       subtitle: Digital Stories
       description: Take a journey through Bras Basah and learn about its history in
@@ -50,6 +41,15 @@ sections:
       image: /images/bb-showcase-cover-dg.png
       alt: Story Maps banner
       button: Start the Journey
+  - infopic:
+      title: Heritage Bridges of Singapore River
+      subtitle: Story Map
+      description: Trace the history of the bridges spanning the Singapore River that
+        have ties to the colonial period.
+      button: View the story map
+      url: /resource-room/story-maps/bridges-singapore-river
+      alt: Image alt text
+      image: /images/landing-bridge.jpg
   - infopic:
       title: The Civic District
       subtitle: Story Map
