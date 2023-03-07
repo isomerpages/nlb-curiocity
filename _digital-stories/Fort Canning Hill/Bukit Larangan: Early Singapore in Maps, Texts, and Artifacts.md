@@ -34,7 +34,7 @@ Historical texts constitute another source of information pointing to the existe
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-bl-text-1.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-bl-text-5.jpg)|
 |The 17th-century *Sulalat al-Salatin* (*Genealogy of Kings*), better known as *Sejarah Melayu* or *Malay Annals*, is one of the most important Malay historical works. It is a collection of stories covering the Malaccan sultanate. For Singapore, this work is significant because it also contains stories of the island including [Sang Nila Utama's](http://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html){:target="_blank"} naming of Singapore as "Singapura" (“Lion City” in Sanskrit), adventures of the mighty Badang, the mythical garfish attack and the flight of the last king of Singapura fled to Malacca in 1389, where he founded the Malacca Sultanate.. The first English translation of the *Sejarah Melayu* was published posthumously by John Leyden in 1821 as *The Malay Annals*, while the Jawi text by [Abdullah bin Abdul Kadir Munshi](http://eresources.nlb.gov.sg/infopedia/articles/SIP_503_2004-12-27.html){:target="_blank"} in 1840. Shown here is the 1821 title page of Leyden’s work available in [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx){:target="_blank"}. (Image Credit: [All rights reserved, National Library Board, Singapore](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx){:target="_blank"}) |
 
 _____
