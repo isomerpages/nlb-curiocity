@@ -24,15 +24,6 @@ sections:
           description: Observe changes in places
           url: /singapore-visualised/before-and-after
   - infopic:
-      title: Bras Basah Through Time
-      subtitle: Digital Stories
-      description: Take a journey through Bras Basah and learn about its history in
-        this digital story.
-      url: /singapore-visualised/digital-stories/bb-intro
-      image: /images/bb-showcase-cover-dg.png
-      alt: Story Maps banner
-      button: Start the Journey
-  - infopic:
       title: Kampong Glam
       subtitle: Story Map
       description: Explore the old-world charm of Kampong Glam in this story map.
@@ -50,6 +41,15 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
+      title: Bras Basah Through Time
+      subtitle: Digital Stories
+      description: Take a journey through Bras Basah and learn about its history in
+        this digital story.
+      url: /singapore-visualised/digital-stories/bb-intro
+      image: /images/bb-showcase-cover-dg.png
+      alt: Story Maps banner
+      button: Start the Journey
+  - infopic:
       title: Raffles Hotel
       subtitle: Before & After
       description: Observe how Raffles Hotel have changed over time in this Before &
@@ -66,6 +66,15 @@ sections:
       button: View Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
+      alt: Image alt text
+  - infopic:
+      title: More Than Just A Hill
+      subtitle: Digital Stories
+      description: Fort Canning Hill has a rich history that dates back to the 14th
+        century. Explore its history in this digital story.
+      button: Start the journey
+      url: /digital-stories/fort-canning-hill/intro/
+      image: /images/fort-canning-cover-dg.jpg
       alt: Image alt text
 notification: ""
 ---
