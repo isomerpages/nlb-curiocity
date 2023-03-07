@@ -10,7 +10,7 @@ Fort Canning Hill is a popular park and cultural center in Singapore. It has a r
 
 To gain a deeper appreciation for Fort Canning Hill's rich history and vibrant present, we must move beyond its physical structures and explore the wealth of resources that are related to the hill. These include vintage photographs, paintings, postcards, maps, and personal recollections.
 
-<span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">"Fort Canning: More Than Just A Hill"</span> provides this opportunity. Using resources and content from institutions such as the National Library Board, National Heritage Board, Urban Redevelopment Authority and the National Parks Board, this digital story offers a fascinating glimpse into this storied site.
+<span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">"More Than Just A Hill"</span> provides this opportunity. Using resources and content from institutions such as the National Library Board, National Heritage Board, Urban Redevelopment Authority and the National Parks Board, this digital story offers a fascinating glimpse into this storied site.
 
 Join us on this journey of discovery by either checking out our <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">digital story</span> or innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span> below.
 
