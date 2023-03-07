@@ -13,3 +13,22 @@ To gain a deeper appreciation for Fort Canning Hill's rich history and vibrant p
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">"Fort Canning: More Than Just A Hill"</span> provides this opportunity. Using resources and content from institutions such as the National Library Board, National Heritage Board, Urban Redevelopment Authority and the National Parks Board, this digital story offers a fascinating glimpse into this storied site.
 
 Join us on this journey of discovery by either checking out our <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">digital story</span> or innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span> below.
+
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div>
+	<div class="row is-multiline">
+	    <div class="col is-half-desktop is-half-tablet">
+<a href="/digital-stories/Bras-Basah/bb-early/"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
+	</div>
+    <div class="col is-half-desktop is-half-tablet">
+			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
+</div>
+	</div> 
+	</div>
