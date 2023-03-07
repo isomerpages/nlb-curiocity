@@ -21,7 +21,7 @@ _____
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-gardens-botanic-5.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-gardens-botanic-1.jpg)|
 | The British had a tradition of setting up gardens in the colonies of their empire to experiment with the cultivation of cash crops and research native plants, and Singapore was no exception. In fact, when Nathaniel Wallich (shown here) proposed the idea to Sir Stamford Raffles, he was serving as the superintendent of the Calcutta Botanic Garden (shown above), which had been established in 1787. (Image Credit: [Nathaniel Wallich. Lithograph by E. U. Eddis, 1830. Wellcome Collection](https://wellcomecollection.org/works/v4uk3y7k?wellcomeImagesUrl=/indexplus/image/V0006127.html){:target="_blank"}) |
 
 -----
