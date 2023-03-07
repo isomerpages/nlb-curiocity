@@ -7,7 +7,7 @@ Transverse through these digital stories to learn how places in Singapore have
 
 | **<font size=5>Fort Canning Hill</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/fc-cemetery-4.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Fort-Canning-Hill/intro/)   | Previously known as Bukit Larangan and Government Hill, Fort Canning Hill has been a landmark since Singapore’s earliest recorded history. Explore its history in this [digital story](/digital-stories/Fort-Canning-Hill/bukit-larangan/){:target="_blank"} .
+| [<img src="/images/fc-cemetery-4.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Fort-Canning-Hill/intro/)   | Previously known as Bukit Larangan and Government Hill, Fort Canning Hill has been a landmark since Singapore’s earliest recorded history. Explore its history in this [digital story](/digital-stories/Fort-Canning-Hill/intro/){:target="_blank"} .
 |
 
 | **<font size=5>Bras Basah</font>** |  | 
