@@ -34,7 +34,7 @@ Historical texts constitute another source of information pointing to the existe
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-bl-text-5.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-bl-text-1.jpg)|
 |The 17th-century *Sulalat al-Salatin* (*Genealogy of Kings*), better known as *Sejarah Melayu* or *Malay Annals*, is one of the most important Malay historical works. It is a collection of stories covering the Malaccan sultanate. For Singapore, this work is significant because it also contains stories of the island including [Sang Nila Utama's](http://eresources.nlb.gov.sg/infopedia/articles/SIP_93_2005-01-26.html){:target="_blank"} naming of Singapore as "Singapura" (“Lion City” in Sanskrit), adventures of the mighty Badang, the mythical garfish attack and the flight of the last king of Singapura fled to Malacca in 1389, where he founded the Malacca Sultanate.. The first English translation of the *Sejarah Melayu* was published posthumously by John Leyden in 1821 as *The Malay Annals*, while the Jawi text by [Abdullah bin Abdul Kadir Munshi](http://eresources.nlb.gov.sg/infopedia/articles/SIP_503_2004-12-27.html){:target="_blank"} in 1840. Shown here is the 1821 title page of Leyden’s work available in [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx){:target="_blank"}. (Image Credit: [All rights reserved, National Library Board, Singapore](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx){:target="_blank"}) |
 
 _____
@@ -81,7 +81,7 @@ Charging forward, the King’s men killed the wriggling garfish. Singapura was f
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/fc-bl-text-6.jpg)|
+| ![Alt text for image on Isomer site](/images/fc-bl-text-3.jpg)|
 | Wang Dayuan, the intrepid 14th-century traveller from Quanzhou, China, was the first Chinese to write extensively about Southeast Asia based on his personal experiences and published them in *Dao Yi Zhi Lue* (岛夷志略 or “Description of the Barbarians of the Isles in Brief”) in 1350. In the work, Wang mentions three place names in conjunction with Singapore. The first is "Dan Ma Xi" ("淡马锡" or "Temasek"), which refers to the general area of Singapore and the nearby islands. The second is "Longyamen" (龙牙门 or “Dragon’s Tooth Strait”), a place now identified the waterway between what is now Sentosa island and Labrador Point. The third is "Banzu", which is believed as a transliteration of the Malay word "pancur", meaning “spring of water” and a reference to today’s Fort Canning Hill. Wang Dayuan’s account of Singapore has been translated several times; the most commonly available translation is by Paul Wheatley’s *The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500* ([Call no.: RSING 959.5 WHE](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462){:target="_blank"}). (Image Credit: [All rights Reserved, _The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500_, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462){:target="_blank"}) |
 
 -----
