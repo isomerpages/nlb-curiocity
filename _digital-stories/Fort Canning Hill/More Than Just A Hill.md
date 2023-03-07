@@ -25,7 +25,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-<a href="/digital-stories/Bras-Basah/bb-early/"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
+<a href="/digital-stories/Fort-Canning-Hill/bukit-larangan/"><img src="/images/showcase-journey-dg.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
 			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
