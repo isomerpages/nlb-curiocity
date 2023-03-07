@@ -28,7 +28,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <a href="/digital-stories/Fort-Canning-Hill/bukit-larangan/"><img src="/images/fort-canning-dg-icon-1.jpg" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-			<a href="https://go.gov.sg/km3hp5"><img src="/images/story-map-journey-dg.png" alt="image 4"></a>
+			<a href="https://go.gov.sg/km3hp5"><img src="/images/fort-canning-story-map-icon-1.jpg" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
