@@ -18,8 +18,8 @@ Transverse through these digital stories to learn how places in Singapore have
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Fort Canning Hill photo by Erwin Soo [CC BY-SA 2.0]
-<br>2. Bras Basah photo from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Fort Canning Hill photo by [Photo by Francisco Anzola via Flickr
+<br>2. Bras Basah photo Erwin Soo [CC BY-SA 2.0]
 </span>
 	
 </details>
