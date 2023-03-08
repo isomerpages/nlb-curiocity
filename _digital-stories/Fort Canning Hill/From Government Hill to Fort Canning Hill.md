@@ -58,7 +58,7 @@ _____
 
 ### **Becoming Fort Canning**
 
-Fort Canning was built on the site of Government House on an excavated plateau, and was completed in 1861. It was named after Viscount Charles John Canning, Governor-General and First Viceroy of India from 1856 to 1862. The fort was constructed to protect Singapore from a possible sea attack and to maintain security in the town.
+Fort Canning was built on the site of Government House. Named after Viscount Charles John Canning, Governor-General and First Viceroy of India from 1856 to 1862, it was completed in 1861. The fort was constructed to protect Singapore from a possible sea attack and to maintain security in the town.
 
 -----
 
