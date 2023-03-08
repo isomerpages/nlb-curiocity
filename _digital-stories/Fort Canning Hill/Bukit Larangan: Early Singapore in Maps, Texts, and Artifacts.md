@@ -4,11 +4,11 @@ permalink: /digital-stories/Fort-Canning-Hill/bukit-larangan/
 description: ""
 third_nav_title: Fort Canning Hill
 ---
-At 156 feet high and located at the junction of Canning Rise and Fort Canning Road, [Fort Canning Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_8_2004-12-10.html){:target="_blank"} has a rich history that spans several centuries. Originally known as Bukit Larangan, or the "Forbidden Hill" in Malay, it is believed to be the site where the first kings of the island resided during the 14th century. The hill was also rich in archaeological finds, and the discovery of artefacts such as earthenware pottery, coins, and Chinese ceramics indicated that the island was already a trading center actively engaging in commerce with neighbouring ports and regions even before the arrival of the British in 1819. This pre-colonial period of Singapore's history is also recorded in other historical sources, including texts and maps.
+At 156 feet high and located at the junction of Canning Rise and Fort Canning Road, [Fort Canning Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_8_2004-12-10.html){:target="_blank"} has a rich history that spans several centuries. Originally known as Bukit Larangan, or the "Forbidden Hill" in Malay, it is believed to be the site where the first kings of the island resided during the 14th century. The hill is also rich in archaeological finds, and the discovery of artefacts such as earthenware pottery, coins, and Chinese ceramics indicated that the island was already a trading center actively engaging in commerce with neighbouring ports and regions even before the arrival of the British in 1819. This pre-colonial period of Singapore's history is also recorded in other historical sources, including texts and maps.
 
 ### **Early Singapore in Maps**
 
-The National Library in Singapore houses a collection of rare maps dating back to the 15th century. This collection includes topographic maps and navigational charts that cover Singapore and the surrounding region. Most of these maps were printed by European map-makers and provide valuable insights into the historical significance of various locations, including pre-colonial Singapore.
+The National Library in Singapore houses a collection of rare maps dating back to the 15th century. This collection includes topographic maps and navigational charts that cover Singapore and the surrounding region. Most of these maps were printed by European map-makers, and they provide valuable insights into the historical significance of various locations, including pre-colonial Singapore.
 
 
 
