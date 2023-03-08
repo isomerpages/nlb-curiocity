@@ -1,6 +1,6 @@
 ---
 title: Example Title
-permalink: /permalink
+permalink: /permalink/
 date: 2021-12-21
 layout: post
 description: ""
@@ -59,3 +59,6 @@ description: ""
 <!-- End of Mapping -->
 	
 <hr class="margin--top margin--bottom--lg">
+	
+	| ![Alt text for image on Isomer site](/images/fc-bute-map.jpg) |
+| Known as “The Bute Map”, this late 1819 map is the earliest known landward map of Singapore. Attributed to Lieutenant Henry Ralfe and named after the Bute Archive in Scotland where it now resides, the map labels Fort Canning Hill as “Singapore Hill”. It also marks an embankment stretching from the north side of the hill to the mouth of “Water Place” (Stamford Canal) as “the ancient lines of Singapore”. (Image Credit: Courtesy of The Bute Archive at Mount Stuart; [image from the National Library Singapore Facebook page](https://www.facebook.com/NationalLibrarySG/photos/a.791644427525812/2699500620073507/?type=1&theater){:target="_blank"})|
