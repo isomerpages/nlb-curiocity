@@ -2,6 +2,7 @@ collections:
   time-photographs:
     output: true
     order:
+      - virtual-reality-tours.md
       - Pandan Valley.md
       - Pearl Bank Apartments.md
       - Golden Mile Complex.md

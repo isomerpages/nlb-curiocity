@@ -11,13 +11,16 @@ links:
         url: /story-maps/heartland
       - title: Green and Blue
         url: /story-maps/green-and-blue
+  - title: Digital Stories
+    url: /digital-stories/introduction
+    sublinks:
+      - title: Fort Canning Hill
+        url: /digital-stories/Fort-Canning-Hill/intro/
+      - title: Bras Basah
+        url: /digital-stories/Bras-Basah/bb-intro/
   - title: Singapore Visualised
     url: /singapore-visualised/introduction
     sublinks:
-      - title: Digital Stories
-        url: /singapore-visualised/digital-stories/bb-intro
-      - title: VR Tours
-        url: /singapore-visualised/vr-tours
       - title: Before & After
         url: /singapore-visualised/before-and-after
   - title: Events

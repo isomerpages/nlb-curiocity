@@ -11,18 +11,27 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/landing-banner-1.jpg
+      background: /images/fc-aerial-banner.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
           description: Read the stories in our maps
           url: /story-maps/explore
-        - title: View our VR tours
+        - title: Read Our Digital Stories
           description: Travel back in time
-          url: /singapore-visualised/vr-tours
+          url: /digital-stories/introduction/
         - title: See Before & After Sliders
           description: Observe changes in places
           url: /singapore-visualised/before-and-after
+  - infopic:
+      title: More Than Just A Hill
+      subtitle: Digital Stories
+      description: Fort Canning Hill has a rich history that dates back to the 14th
+        century. Explore its history in this digital story.
+      button: Start the journey
+      url: /digital-stories/fort-canning-hill/intro/
+      image: /images/fort-canning-cover-dg.jpg
+      alt: Image alt text
   - infopic:
       title: Bras Basah Through Time
       subtitle: Digital Stories
@@ -33,22 +42,6 @@ sections:
       alt: Story Maps banner
       button: Start the Journey
   - infopic:
-      title: Kampong Glam
-      subtitle: Story Map
-      description: Explore the old-world charm of Kampong Glam in this story map.
-      button: View The Story Map
-      url: /resource-room/story-maps/kampong-glam
-      image: /images/landing-kampong-glam.png
-      alt: Image alt text
-  - infopic:
-      title: Raffles Place
-      subtitle: VR Tour
-      description: Embark on this VR tour to learn the history of Raffles Place.
-      button: View VR Tour
-      url: /resource-room/vr-tours/raffles-place
-      image: /images/banner-vr-tours-raffles-place.jpg
-      alt: Image alt text
-  - infopic:
       title: Heritage Bridges of Singapore River
       subtitle: Story Map
       description: Trace the history of the bridges spanning the Singapore River that
@@ -58,15 +51,6 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
-      title: Raffles Hotel
-      subtitle: Before & After
-      description: Observe how Raffles Hotel have changed over time in this Before &
-        After slider.
-      button: View Slider
-      url: /resource-room/before-and-after/raffles-hotel
-      image: /images/raffles-hotel.jpg
-      alt: Image alt text
-  - infopic:
       title: The Civic District
       subtitle: Story Map
       description: Learn the historic landmarks and spaces of the Civic District in
@@ -74,6 +58,23 @@ sections:
       button: View Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
+      alt: Image alt text
+  - infopic:
+      title: Kampong Glam
+      subtitle: Story Map
+      description: Explore the old-world charm of Kampong Glam in this story map.
+      button: View The Story Map
+      url: /resource-room/story-maps/kampong-glam
+      image: /images/landing-kampong-glam.png
+      alt: Image alt text
+  - infopic:
+      title: Raffles Hotel
+      subtitle: Before & After
+      description: Observe how Raffles Hotel have changed over time in this Before &
+        After slider.
+      button: View Slider
+      url: /resource-room/before-and-after/raffles-hotel
+      image: /images/raffles-hotel.jpg
       alt: Image alt text
 notification: ""
 ---
