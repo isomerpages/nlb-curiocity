@@ -3,7 +3,7 @@ title: Digital Stories
 permalink: /digital-stories/introduction/
 description: ""
 ---
-Transverse through these digital stories to learn how places in Singapore have evolved through time and space.
+Digital Stories are multimedia narratives that combine text and various forms of multimedia resources such as photographs, videos, music, and text, to convey a message or tell a story. They often incorporate personal stories and memories to create a more engaging and authentic storytelling experience. Transverse through these digital stories to learn how places in Singapore have evolved through time and space.
 
 | **<font size=5>Fort Canning Hill</font>** |  | 
 | -------- | -------- | 

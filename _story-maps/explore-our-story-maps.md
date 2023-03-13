@@ -1,6 +1,6 @@
 ---
 title: Explore Our Story Maps
-permalink: /story-maps/explore
+permalink: /story-maps/explore/
 ---
 The Story Maps of Curiocity are immersive stories that combine text, interactive maps, digital photographs and other multimedia content. They are used to tell incredible stories, especially the urban transformation that Singapore has undergone since Independence.
 
