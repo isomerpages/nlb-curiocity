@@ -21,7 +21,7 @@ sections:
           description: Travel back in time
           url: /digital-stories/introduction/
         - title: ArchiChronicles
-          description: Uncover stories in buildings
+          description: Uncover stories of buildings
           url: /archichronicles/introduction/
   - infopic:
       title: More Than Just A Hill
