@@ -1,4 +1,5 @@
 collections:
   archichronicles:
     output: true
-    order: []
+    order:
+      - Singapore Through Different Lenses.md
