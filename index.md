@@ -20,9 +20,9 @@ sections:
         - title: Read Our Digital Stories
           description: Travel back in time
           url: /digital-stories/introduction/
-        - title: See Before & After Sliders
-          description: Observe changes in places
-          url: /singapore-visualised/before-and-after
+        - title: ArchiChronicles
+          description: "Observe changes in places "
+          url: /archichronicles/
   - infopic:
       title: More Than Just A Hill
       subtitle: Digital Stories
