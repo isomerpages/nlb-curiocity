@@ -1,5 +1,4 @@
 collections:
   singapore-visualised:
     output: true
-    order:
-      - before-and-after.md
+    order: []
