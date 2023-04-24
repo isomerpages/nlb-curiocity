@@ -2,5 +2,4 @@ collections:
   singapore-visualised:
     output: true
     order:
-      - Singapore Through Different Lenses.md
       - before-and-after.md
