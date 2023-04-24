@@ -2,5 +2,5 @@ collections:
   archichronicles:
     output: true
     order:
-      - Singapore Through Different Lenses.md
+      - Architecture Stories.md
       - before-and-after.md
