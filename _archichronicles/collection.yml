@@ -2,5 +2,5 @@ collections:
   archichronicles:
     output: true
     order:
-      - Architecture Stories.md
+      - Stories In Our Architecture.md
       - before-and-after.md
