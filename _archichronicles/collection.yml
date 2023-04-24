@@ -1,0 +1,4 @@
+collections:
+  archichronicles:
+    output: true
+    order: []
