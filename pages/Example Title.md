@@ -51,7 +51,7 @@ description: ""
         <div class="col">            
             <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
-            <a href="/exhibitions/current-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -61,13 +61,107 @@ description: ""
 <hr class="margin--top margin--bottom--lg">
 	
 	| ![Alt text for image on Isomer site](/images/fc-bute-map.jpg) |
-| Known as “The Bute Map”, this late 1819 map is the earliest known landward map of Singapore. Attributed to Lieutenant Henry Ralfe and named after the Bute Archive in Scotland where it now resides, the map labels Fort Canning Hill as “Singapore Hill”. It also marks an embankment stretching from the north side of the hill to the mouth of “Water Place” (Stamford Canal) as “the ancient lines of Singapore”. (Image Credit: Courtesy of The Bute Archive at Mount Stuart; [image from the National Library Singapore Facebook page](https://www.facebook.com/NationalLibrarySG/photos/a.791644427525812/2699500620073507/?type=1&theater){:target="_blank"})|
+| Known as “The Bute Map”, this late 1819 map is the earliest known landward map of Singapore. Attributed to Lieutenant Henry Ralfe and named after the Bute Archive in Scotland where it now resides, the map labels Fort Canning Hill as “Singapore Hill”. It also marks an embankment stretching from the north side of the hill to the mouth of “Water Place” (Stamford Canal) as “the ancient lines of Singapore”. (Image Credit: Courtesy of The Bute Archive at Mount Stuart;&nbsp;[image from the National Library Singapore Facebook page](https://www.facebook.com/NationalLibrarySG/photos/a.791644427525812/2699500620073507/?type=1&amp;theater){:target="_blank"})|
 	
 	----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Also referred to as "pancur larangan" in the Hikayat Abdullah, the "Forbidden spring" was said to be used by the women of the royal household of early Singapore to bath. Although no archaeological evidence were found to prove its existence, 14th century Chinese traveller Wang Dayuan appeared to have mentioned it when he used the word "Banzu" (or "Pancur") to describe the trading settlement of Temasek in his 1350 publication, Dao Yi Zhi Lue. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb" target="_blank">Singapore Memory Project</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Also referred to as "pancur larangan" in the Hikayat Abdullah, the "Forbidden spring" was said to be used by the women of the royal household of early Singapore to bath. Although no archaeological evidence were found to prove its existence, 14th century Chinese traveller Wang Dayuan appeared to have mentioned it when he used the word "Banzu" (or "Pancur") to describe the trading settlement of Temasek in his 1350 publication,&nbsp;Dao Yi Zhi Lue. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read what he wrote. (Source: <a href="https://www.singaporememory.sg/contents/SMA-f7bb8b56-6f55-4f99-823c-17e63fe19ccb" target="_blank">Singapore Memory Project</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"This locality is the hill behind Longyamen. It resembles a truncated coil. It rises to a hollow summit [surrounded by] interconnected terraces, so that the people’s dwellings encircle it. The soil is poor and grain scarce. The climate is irregular, for there is heavy rain in summer, when it is rather cool. By custom and disposition [the people] are honest. They wear their hair short, with turbans of gold-brocaded satin and red oiled-cloths [covering] their bodies. They boil sea-water to obtain salt and ferment rice to make spirits called ming-chia. They are under a chieftain. Indigenous products include very fine hornbill casques, lakawood of moderate quality and cotton. The goods used in trading are green cottons, lengths of iron, cotton prints of local manufacture, ch’ih chin, porcelain ware, iron pots and suchlike." </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"This locality is the hill behind Longyamen. It resembles a truncated coil. It rises to a hollow summit [surrounded by] interconnected terraces, so that the people’s dwellings encircle it. The soil is poor and grain scarce. The climate is irregular, for there is heavy rain in summer, when it is rather cool. By custom and disposition [the people] are honest. They wear their hair short, with turbans of gold-brocaded satin and red oiled-cloths [covering] their bodies. They boil sea-water to obtain salt and ferment rice to make spirits called&nbsp;ming-chia. They are under a chieftain. Indigenous products include very fine hornbill casques, lakawood of moderate quality and cotton. The goods used in trading are green cottons, lengths of iron, cotton prints of local manufacture,&nbsp;ch’ih chin, porcelain ware, iron pots and suchlike." </span>
 	
-</details>
+	
+	
+	
+	<div class="timeline">
+    <div class="timeline-item">
+        <div class="timeline-img">
+            <img alt="Image description" src="image_url">
+        </div>
+        <div class="timeline-content">
+            <h2>Year 1</h2>
+            <p>Text description of the first item.</p>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-img">
+            <img alt="Image description" src="image_url">
+        </div>
+        <div class="timeline-content">
+            <h2>Year 2</h2>
+            <p>Text description of the second item.</p>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-img">
+            <img alt="Image description" src="image_url">
+        </div>
+        <div class="timeline-content">
+            <h2>Year 3</h2>
+            <p>Text description of the third item.</p>
+        </div>
+    </div>
+</div>
+
+<style>
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: #ddd;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -1px;
+}
+
+.timeline-item {
+  padding: 10px 0;
+  position: relative;
+}
+
+.timeline-img {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.timeline-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.timeline-content {
+  position: relative;
+  margin-left: 120px;
+}
+
+.timeline-content h2 {
+  margin-top: 0;
+}
+</style>
+
+	1. First item
+![Image description](image_url)
+
+2. Second item
+![Image description](image_url)
+
+3. Third item
+![Image description](image_url)
+
+
+</details></section>
