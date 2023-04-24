@@ -21,8 +21,8 @@ links:
   - title: ArchiChronicles
     url: /archichronicles/introduction
     sublinks:
-      - title: Before & After
-        url: /singapore-visualised/before-and-after
+      - title: ArchiSnapShots
+        url: /archichronicles/archisnapshots
   - title: Events
     url: /events/overview
     sublinks:
