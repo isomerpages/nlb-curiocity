@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Stories In Our Architecture.md
-      - Snapshots.md
+      - ArchiSnapShots.md
