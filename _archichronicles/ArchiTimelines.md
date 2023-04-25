@@ -13,8 +13,8 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 
 | [**<font size="5">National Theatre</font>**](/resource-room/timelines/national-theatre/){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/national-theatre-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/national-theatre/)|
+| [<img src="/images/national-theatre-1-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/national-theatre/)|
 
 | [**<font size="5">Raffles Hotel</font>**](/resource-room/timelines/raffles-hotel/){:target="_blank"} | 
 |-------- | 
-| [<img src="images/raffles-hotel-sample.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/raffles-hotel/)|
+| [<img src="images/raffles-hotel-sample-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/raffles-hotel/)|
