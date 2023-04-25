@@ -21,10 +21,10 @@ links:
   - title: ArchiChronicles
     url: /archichronicles/introduction
     sublinks:
-      - title: ArchiSnapShots
-        url: /archichronicles/archisnapshots
       - title: ArchiTimelines
         url: /archichronicles/architimelines
+      - title: ArchiSnapShots
+        url: /archichronicles/archisnapshots
   - title: Events
     url: /events/overview
     sublinks:
