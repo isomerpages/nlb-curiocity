@@ -23,6 +23,8 @@ links:
     sublinks:
       - title: ArchiSnapShots
         url: /archichronicles/archisnapshots
+      - title: ArchiTimelines
+        url: /archichronicles/architimelines
   - title: Events
     url: /events/overview
     sublinks:
