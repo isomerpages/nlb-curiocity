@@ -5,7 +5,7 @@ breadcrumb: About Curiocity
 ---
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">Curiocity is a National Library Board (NLB) website that uses digital storytelling tools to create content that tell interactive and compelling stories about the history of places in Singapore.</span>
 
- <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">It is part of NLB's Library and Archives Blueprint (LAB25)Singapore Storytellers initiative where NLB aims to curate and spotlight stories that capture the Singapore experience. This is to inspire the discovery and creation of more Singapore stories and instil a deeper appreciation of our collective experience.</span>
+ <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">It is part of NLB's Library and Archives Blueprint (LAB25) Singapore Storytellers initiative where NLB aims to curate and spotlight stories that capture the Singapore experience. This is to inspire the discovery and creation of more Singapore stories and instil a deeper appreciation of our collective experience.</span>
 
 **In Curiocity, you can find the following digital content:**
 
