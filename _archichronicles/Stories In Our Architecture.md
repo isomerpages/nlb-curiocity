@@ -3,7 +3,9 @@ title: Stories In Our Architecture
 permalink: /archichronicles/introduction/
 description: ""
 ---
-There is no doubt Singapore's physical landscape has undergone profound changes over the past two centuries as it developed from a British trading post to one of the strongest economies in the region. These changes were captured in prints and visual mediums such as books, photographs and paintings that are now part of the collections of the National Library and National Archives. Using these materials together with new visualisation tools found here, we have put together the following perspectives to observe the ever-changing physical transformation of Singapore.
+ArchiChronicles showcases the history and development of some of Singapore's most iconic structures. From towering skyscrapers to historic landmarks, it is a comprehensive and visually rich platform that uses immersive digital storytelling tools together with photographs, building plans, maps and books sourced from the National Library of Singapore and the National Archives of Singapore to narrate the stories behind these architectural marvels, their significance to the country's heritage, and their impact on the landscape of Singapore. 
+
+Whether you're an architecture enthusiast, a history buff, or simply curious about the buildings that make up Singapore's skyline, ArchiChronicles has something for everyone. Join us below as we delve into the fascinating history of some of Singapore's most iconic buildings and uncover the hidden stories and secrets behind their construction.
 
 | **<font size="5"> ArchiTimeline</font>** |  | 
 | -------- | -------- | 
