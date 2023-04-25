@@ -7,7 +7,7 @@ breadcrumb: About Curiocity
 
  <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">It is part of NLB's Library and Archives Blueprint (LAB25)Singapore Storytellers initiative where NLB aims to curate and spotlight stories that capture the Singapore experience. This is to inspire the discovery and creation of more Singapore stories and instil a deeper appreciation of our collective experience.</span>
 
-In Curiocity, you can find the following digital content:
+**In Curiocity, you can find the following digital content:**
 
 1. <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">Story maps</span> are an innovative and dynamic way of telling a compelling and immersive story about a place or topic. These digital maps integrate text, images, and other multimedia resources to create a rich and interactive narrative that engages the audience and brings the story to life. With the use of Geographic Information Systems (GIS) software, our story maps offer a captivating experience by featuring interactive maps with clickable points of interest that reveal additional information or multimedia content when selected. Explore our collection of story maps and discover the exciting stories and hidden histories behind the places that shape Singapore's unique cultural, social, and architectural heritage.
 
