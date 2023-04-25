@@ -7,13 +7,13 @@ Welcome to our interactive timelines showcasing the development and milestones o
 
 Join us on a journey through time as we explore the stories behind Singapore's architectural marvels.
 
-| [**<font size="5">Golden Mile Complex</font>**](/resource-room/before-and-after/raffles-hotel){:target="_blank"} | 
+| [**<font size="5">Golden Mile Complex</font>**](/resource-room/architimelines/raffles-hotel){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-raffles-hotel.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/before-and-after/raffles-hotel)|
+| [<img src="/images/before-after-image-raffles-hotel.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/architimelines/raffles-hotel)|
 
-| [**<font size="5">National Theatre</font>**](/resource-room/before-and-after/raffles-hotel){:target="_blank"} | 
+| [**<font size="5">National Theatre</font>**](/resource-room/architimelines/raffles-hotel){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/before-after-image-raffles-hotel.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/before-and-after/raffles-hotel)|
+| [<img src="/images/before-after-image-raffles-hotel.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/architimelines/raffles-hotel)|
 
 | [**<font size="5">Raffles Hotel</font>**](/resource-room/architimelines/raffles-hotel){:target="_blank"} | 
 |-------- | 
