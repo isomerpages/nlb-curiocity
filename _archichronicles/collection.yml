@@ -2,6 +2,6 @@ collections:
   archichronicles:
     output: true
     order:
-      - Stories In Our Architecture.md
+      - ArchiChronicles.md
       - ArchiTimelines.md
       - ArchiSnapShots.md
