@@ -3,9 +3,9 @@ title: ArchiSnapShots
 permalink: /archichronicles/archisnapshots/
 description: ""
 ---
-Journey through these before and after images of places and buildings around Singapore. You will be astonished by how much the island has changed over the decades.
+Explore the evolution of Singapore's iconic buildings through these interactive Then &amp; Now sliders below. Using a combination of archival and present-day photographs, we showcase the architectural changes that have taken place over time, allowing you to witness the past and present of these historic landmarks side by side
 
-Click the name of the building or image to learn more about the building.
+Click the name of the building or image to learn more about the building, and interact with the Then &amp; Now sliders.
  
 | [**<font size="5"> Six Battery Road</font>**](/resource-room/before-and-after/six-battery-road){:target="_blank"} | 
 |-------- | 
