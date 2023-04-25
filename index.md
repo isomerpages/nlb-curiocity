@@ -20,7 +20,7 @@ sections:
         - title: Read Our Digital Stories
           description: Travel back in time
           url: /digital-stories/introduction/
-        - title: ArchiChronicles
+        - title: Discover architectural history
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
   - infopic:
