@@ -13,7 +13,7 @@ Whether you're an architecture enthusiast, a history buff, or simply curious abo
 
 | **<font size="5"> ArchiSnapShots</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;">](/singapore-visualised/before-and-after)      | Find out how much Singapore has changed with these [before and after images](/singapore-visualised/before-and-after){:target="_blank"} of places and buildings.
+| [<img src="/images/landing-singapore-revisualised-before-and-after.png" alt="singapore-revisualised-before-and-after" style="width:500px;">](/archichronicles/archisnapshots/)      | Find out how much Singapore has changed with these [before and after images](/archichronicles/archisnapshots/){:target="_blank"} of places and buildings.
 |
 
 <details>
