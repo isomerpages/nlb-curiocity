@@ -9,7 +9,7 @@ Whether you're an architecture enthusiast, a history buff, or simply curious abo
 
 | **<font size="5"> ArchiTimeline</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/singapore-conference-hall-4.jpg" alt="singapore-revisualised-before-and-after" style="width:500px;">](/archichronicles/architimelines/)      | Experience the architectural journey of buildings through these [timelines](/archichronicles/architimelines/){:target="_blank"} of library and archival resources.
+| [<img src="/images/singapore-conference-hall-4-1.jpg" alt="singapore-revisualised-before-and-after" style="width:500px;">](/archichronicles/architimelines/)      | Experience the architectural journey of buildings through these [timelines](/archichronicles/architimelines/){:target="_blank"} of library and archival resources.
 
 | **<font size="5"> ArchiSnapShots</font>** |  | 
 | -------- | -------- | 
