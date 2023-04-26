@@ -17,8 +17,8 @@ description: ""
 
 ![](/images/golden-mile-timeline-4.JPG)
 
-![](/images/golden-mile-timeline-5.JPG)
+![](/images/golden-mile-timeline-5.jpg)
 
-![](/images/golden-mile-timeline-6.JPG)
+![](/images/golden-mile-timeline-6.jpg)
 
-
+![](/images/golden-mile-timeline-7.jpg)
