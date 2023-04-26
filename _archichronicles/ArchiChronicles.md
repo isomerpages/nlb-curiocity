@@ -7,7 +7,7 @@ ArchiChronicles showcases the history and development of some of Singapore's mos
 
 Whether you're an architecture enthusiast, a history buff, or simply curious about the buildings that make up Singapore's skyline, ArchiChronicles has something for everyone. Join us below as we delve into the fascinating history of some of Singapore's most iconic buildings and uncover the hidden stories and secrets behind their construction.
 
-| **<font size="5"> ArchiTimeline</font>** |  | 
+| **<font size="5"> ArchiTimelines</font>** |  | 
 | -------- | -------- | 
 | [<img src="/images/singapore-conference-hall-4-1.jpg" alt="singapore-revisualised-before-and-after" style="width:500px;">](/archichronicles/architimelines/)      | Experience the architectural journey of buildings through these [timelines](/archichronicles/architimelines/){:target="_blank"} of library and archival resources.
 
