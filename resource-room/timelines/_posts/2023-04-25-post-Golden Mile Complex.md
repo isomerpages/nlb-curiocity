@@ -13,7 +13,6 @@ Discover the rich cultural history of Golden Mile Complex in Singapore through o
 View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EAL1xLDNZ-Di14Baiiy_WVVTgzaiyuzB_X6ADYzmkEM&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <br>
-
 <img src="/images/qr-code-beforeafter-raffles-hotel-qr.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
 
 <details>
