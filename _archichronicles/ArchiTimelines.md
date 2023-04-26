@@ -18,3 +18,13 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 | [**<font size="5">Raffles Hotel</font>**](/resource-room/timelines/raffles-hotel/){:target="_blank"} | 
 |-------- | 
 | [<img src="images/raffles-hotel-sample-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/raffles-hotel/)|
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Golden Mile Complex photo by Sengkang via Wiki Commons 
+<br>2. National Theatre photo from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<br>3. Raffles Hotel photo by Elisa.rolle via Wiki Commons
+</span>
+	
+</details>
