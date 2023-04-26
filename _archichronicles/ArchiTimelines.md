@@ -19,6 +19,7 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 |-------- | 
 | [<img src="images/raffles-hotel-sample-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/raffles-hotel/)|
 
+<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
