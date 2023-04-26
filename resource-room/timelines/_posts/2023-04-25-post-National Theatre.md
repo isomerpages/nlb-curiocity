@@ -12,9 +12,8 @@ Explore the rich artistic heritage of the former National Theatre in Singapore t
 
 View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16y5G7H8fQZVzKHd2lFPSmyWtuoholR6Zt-bCmbeLedo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-raffles-hotel-qr.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
+<img src="/images/qr-code-timeline-national-theatre.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
