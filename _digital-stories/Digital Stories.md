@@ -3,16 +3,18 @@ title: Digital Stories
 permalink: /digital-stories/introduction/
 description: ""
 ---
-Digital Stories are multimedia narratives that combine text and various forms of multimedia resources such as photographs, videos, music, and text, to convey a message or tell a story. They often incorporate personal stories and memories to create a more engaging and authentic storytelling experience. Transverse through these digital stories to learn how places in Singapore have evolved through time and space.
+Step into a world of captivating storytelling with our digital stories that bring to life the rich history of places in Singapore. Combining archival and library materials such as photographs, maps, and documents with engaging multimedia resources such as videos, music, and personal stories, our digital stories offer a unique and immersive way to experience the evolution of Singapore's urban landscape.
 
-| **<font size=5>Fort Canning Hill</font>** |  | 
+Follow us on a journey through time and space, as we explore the cultural, social, and architectural transformations of iconic places in Singapore. With our digital stories, you can discover the hidden narratives and untold stories that have shaped the vibrant city we know today.
+
+| **<font size="5">Fort Canning Hill</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/fc-cemetery-4.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Fort-Canning-Hill/intro/)   | Previously known as Bukit Larangan and Government Hill, Fort Canning Hill has been a landmark since Singapore’s earliest recorded history. Explore its history in this [digital story](/digital-stories/Fort-Canning-Hill/intro/){:target="_blank"} .
+| [<img src="/images/fc-cemetery-4.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/Fort-Canning-Hill/intro/)   | Previously known as Bukit Larangan and Government Hill, Fort Canning Hill has been a landmark since Singapore’s earliest recorded history. Explore its history in this [digital story](/digital-stories/Fort-Canning-Hill/intro/){:target="_blank"} .
 |
 
-| **<font size=5>Bras Basah</font>** |  | 
+| **<font size="5">Bras Basah</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;" />](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest districts in Singapore known for its historical buildings and vibrant past. Explore the district's history in this [digital story](/digital-stories/Bras-Basah/bb-intro/){:target="_blank"}.
+| [<img src="/images/landing-virtual-showcase-1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/Bras-Basah/bb-intro/)   | Bras Basah is one of the oldest districts in Singapore known for its historical buildings and vibrant past. Explore the district's history in this [digital story](/digital-stories/Bras-Basah/bb-intro/){:target="_blank"}.
 |
 
 <details>

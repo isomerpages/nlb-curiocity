@@ -18,11 +18,13 @@ links:
         url: /digital-stories/Fort-Canning-Hill/intro/
       - title: Bras Basah
         url: /digital-stories/Bras-Basah/bb-intro/
-  - title: Singapore Visualised
-    url: /singapore-visualised/introduction
+  - title: ArchiChronicles
+    url: /archichronicles/introduction
     sublinks:
-      - title: Before & After
-        url: /singapore-visualised/before-and-after
+      - title: ArchiTimelines
+        url: /archichronicles/architimelines
+      - title: ArchiSnapShots
+        url: /archichronicles/archisnapshots
   - title: Events
     url: /events/overview
     sublinks:

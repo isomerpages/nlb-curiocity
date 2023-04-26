@@ -20,9 +20,9 @@ sections:
         - title: Read Our Digital Stories
           description: Travel back in time
           url: /digital-stories/introduction/
-        - title: See Before & After Sliders
-          description: Observe changes in places
-          url: /singapore-visualised/before-and-after
+        - title: Discover architectural history
+          description: Uncover stories of buildings
+          url: /archichronicles/introduction/
   - infopic:
       title: More Than Just A Hill
       subtitle: Digital Stories
@@ -31,6 +31,15 @@ sections:
       button: Start the journey
       url: /digital-stories/fort-canning-hill/intro/
       image: /images/fort-canning-cover-dg.jpg
+      alt: Image alt text
+  - infopic:
+      title: Golden Mile Complex
+      subtitle: ArchiTimelines
+      description: Explore the history of Golden Mile Complex through library and
+        archival materials.
+      button: View Timeline
+      url: /resource-room/timelines/golden-mile-complex
+      image: /images/golden-mile-complex-photo-1-1.jpg
       alt: Image alt text
   - infopic:
       title: Bras Basah Through Time
@@ -66,15 +75,6 @@ sections:
       button: View The Story Map
       url: /resource-room/story-maps/kampong-glam
       image: /images/landing-kampong-glam.png
-      alt: Image alt text
-  - infopic:
-      title: Raffles Hotel
-      subtitle: Before & After
-      description: Observe how Raffles Hotel have changed over time in this Before &
-        After slider.
-      button: View Slider
-      url: /resource-room/before-and-after/raffles-hotel
-      image: /images/raffles-hotel.jpg
       alt: Image alt text
 notification: ""
 ---
