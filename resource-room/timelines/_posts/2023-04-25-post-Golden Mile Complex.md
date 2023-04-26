@@ -17,7 +17,8 @@ View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/late
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
-<br>	
+<br>
+<br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Photo by Sengkang via Wiki Commons 
 </span>
 	
