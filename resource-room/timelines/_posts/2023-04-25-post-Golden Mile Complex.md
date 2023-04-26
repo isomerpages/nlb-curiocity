@@ -12,7 +12,7 @@ Discover the rich cultural history of Golden Mile Complex in Singapore through o
 
 View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EAL1xLDNZ-Di14Baiiy_WVVTgzaiyuzB_X6ADYzmkEM&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-timeline-golden-mile-complex.jpg" alt="qr-code" style="width:200px;">
+<img src="/images/qr-code-timeline-golden-mile-complex.png" alt="qr-code" style="width:200px;">
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
