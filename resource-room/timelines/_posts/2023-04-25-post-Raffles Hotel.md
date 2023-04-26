@@ -12,9 +12,8 @@ Step back in time and discover the captivating history of the Raffles Hotel in S
 
 View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TAiR9JxuuWD3JpALf_VtUt1EWRaWIphEwpwRgjm8uc8&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-beforeafter-raffles-hotel-qr.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
+<img src="/images/qr-code-timeline-raffles-hotel.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
 
-<br>
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
