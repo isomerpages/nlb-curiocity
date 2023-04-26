@@ -24,4 +24,3 @@ description: ""
 ![](/images/golden-mile-timeline-7.jpg)
 
 ![](/images/golden-mile-timeline-8.jpg)
-
