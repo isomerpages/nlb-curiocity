@@ -14,4 +14,11 @@ View the timeline in [full screen](https://cdn.knightlab.com/libs/timeline3/late
 
 <img src="/images/qr-code-beforeafter-raffles-hotel-qr.png" alt="qr-code-beforeafter-raffles-hotel" style="width:200px;">
 
-**Photo by Elisa.rolle via Wiki Commons (CC BY-SA 4.0)**
+<br>
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Photo by Elisa.rolle via Wiki Commons
+</span>
+	
+</details>
