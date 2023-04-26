@@ -19,8 +19,8 @@ Whether you're an architecture enthusiast, a history buff, or simply curious abo
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Virtual Showcase photo by Erwin Soo [CC BY-SA 2.0]
-<br>2. Before &amp; After photos from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. ArchiTimelines photo courtesy of the National Museum of Singapore, National Heritage Board
+<br>2. ArchiSnapShots photos from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 </span>
 	
 </details>
