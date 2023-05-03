@@ -1,11 +1,13 @@
 ---
 layout: homepage
-title: Curiocity - Discover and rediscover Singapore through maps and photographs
-description: Curiocity is a National Library Board website that curates the
-  heritage materials of the National Library and the National Archives of
-  Singapore. Using place-based digital storytelling tools such as Virtual
-  Reality (VR) tours and story maps, Curiocity provides users an interactive and
-  immersive way to discover and rediscover the history of Singapore.
+title: National Library Board
+description: Curiocity is a one-stop portal that curates and highlights
+  heritage-related content the National Library of Singapore has created over
+  the years. Using rich digital storytelling tools in the forms of Virtual
+  Reality (VR) tours, story maps and photo-driven essays, Curiocity provides
+  users a new and immersive experience to learn and interact with the heritage
+  materials that are found in the collections of the National Library Board,
+  Singapore.
 permalink: /
 sections:
   - hero:
@@ -77,4 +79,5 @@ sections:
       image: /images/landing-kampong-glam.png
       alt: Image alt text
 notification: ""
+image: /images/isomer-logo.svg
 ---
