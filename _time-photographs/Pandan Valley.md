@@ -1,6 +1,6 @@
 ---
 title: Pandan Valley
-permalink: /time-photographs/pandan-valley
+permalink: /time-photographs/pandan-valley/
 description: ""
 ---
 ![](/images/pandan-valley-models-drawings.jpg)

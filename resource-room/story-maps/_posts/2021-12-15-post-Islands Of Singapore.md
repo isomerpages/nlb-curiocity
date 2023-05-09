@@ -1,7 +1,7 @@
 ---
 title: Islands Of Singapore
 date: 2021-12-15
-permalink: /resource-room/story-maps/islands-singapore
+permalink: /resource-room/story-maps/islands-singapore/
 layout: post
 description: ""
 ---

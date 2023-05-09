@@ -1,6 +1,6 @@
 ---
 title: Fort Canning
-permalink: /resource-room/story-maps/fort-canning
+permalink: /resource-room/story-maps/fort-canning/
 date: 2021-12-15
 layout: post
 description: ""

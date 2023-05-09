@@ -1,6 +1,6 @@
 ---
 title: Bras Basah In Early Maps, Paintings and Postcards
-permalink: /digital-stories/Bras-Basah/bb-early/
+permalink: /digital-stories/bras-basah/bb-early/
 third_nav_title: Bras Basah
 description: ""
 ---

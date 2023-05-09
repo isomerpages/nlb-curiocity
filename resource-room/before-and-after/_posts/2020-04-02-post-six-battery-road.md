@@ -1,6 +1,6 @@
 ---
 title: Six Battery Road
-permalink: /resource-room/before-and-after/six-battery-road
+permalink: /resource-room/before-and-after/six-battery-road/
 date: 2020-04-02T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-six-battery-road.png)](https://go.gov.sg/k5l0a4)

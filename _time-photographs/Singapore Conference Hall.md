@@ -1,6 +1,6 @@
 ---
 title: Singapore Conference Hall
-permalink: /time-photographs/conference-hall
+permalink: /time-photographs/conference-hall/
 description: ""
 ---
 

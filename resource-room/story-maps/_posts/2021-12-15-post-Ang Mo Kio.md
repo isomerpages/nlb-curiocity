@@ -1,6 +1,6 @@
 ---
 title: Ang Mo Kio
-permalink: /resource-room/story-maps/ang-mo-kio
+permalink: /resource-room/story-maps/ang-mo-kio/
 date: 2021-12-15
 layout: post
 description: ""

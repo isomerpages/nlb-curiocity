@@ -1,6 +1,6 @@
 ---
 title: One Raffles Place
-permalink: /resource-room/before-and-after/one-raffles-place
+permalink: /resource-room/before-and-after/one-raffles-place/
 date: 2020-04-01T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-one-raffles-place.png)](https://go.gov.sg/4tc7dg)

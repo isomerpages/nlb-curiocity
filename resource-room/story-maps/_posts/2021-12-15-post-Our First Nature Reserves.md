@@ -1,6 +1,6 @@
 ---
 title: Our First Nature Reserves
-permalink: /resource-room/story-maps/nature-reserves-first
+permalink: /resource-room/story-maps/nature-reserves-first/
 date: 2021-12-15
 layout: post
 description: ""

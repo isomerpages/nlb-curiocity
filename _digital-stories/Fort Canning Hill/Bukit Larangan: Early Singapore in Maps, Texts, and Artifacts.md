@@ -1,6 +1,6 @@
 ---
 title: "Bukit Larangan: Early Singapore in Maps, Texts, and Artifacts"
-permalink: /digital-stories/Fort-Canning-Hill/bukit-larangan/
+permalink: /digital-stories/fort-canning-hill/bukit-larangan/
 description: ""
 third_nav_title: Fort Canning Hill
 ---

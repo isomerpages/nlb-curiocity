@@ -1,5 +1,5 @@
 ---
-permalink: /events/Curiocity-Encounters-SNF/installations
+permalink: /events/curiocity-encounters-snf/installations/
 description: ""
 third_nav_title: "Curiocity Encounters: SNF 2022"
 title: Installations & Display

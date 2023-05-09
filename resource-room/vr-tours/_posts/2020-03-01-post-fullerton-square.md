@@ -1,6 +1,6 @@
 ---
 title: Fullerton Square
-permalink: /resource-room/vr-tours/fullerton-square
+permalink: /resource-room/vr-tours/fullerton-square/
 date: 2020-03-01T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/vr-tour-image-fullerton.png)](https://go.gov.sg/q459ng)

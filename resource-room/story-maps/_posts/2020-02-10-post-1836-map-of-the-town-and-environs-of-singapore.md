@@ -1,6 +1,6 @@
 ---
 title: '1836 Map of the Town and Environs of Singapore'
-permalink: /resource-room/story-maps/1836-town-and-environs-singapore-map
+permalink: /resource-room/story-maps/1836-town-and-environs-singapore-map/
 date: 2020-02-10T00:00:00.000Z
 
 ---

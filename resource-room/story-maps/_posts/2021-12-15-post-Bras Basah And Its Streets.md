@@ -1,6 +1,6 @@
 ---
 title: Bras Basah And Its Streets
-permalink: /resource-room/story-maps/bras-basah-streets
+permalink: /resource-room/story-maps/bras-basah-streets/
 date: 2021-12-15
 layout: post
 description: ""

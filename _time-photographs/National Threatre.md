@@ -1,6 +1,6 @@
 ---
 title: National Threatre
-permalink: /time-photographs/national-theatre
+permalink: /time-photographs/national-theatre/
 description: ""
 ---
 ![](/images/national-theatre-1.jpg)

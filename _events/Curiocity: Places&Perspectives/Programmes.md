@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /events/Curiocity-Showcase-2022/programmes
+permalink: /events/curiocity-showcase-2022/programmes/
 description: ""
 third_nav_title: "Curiocity: Places&Perspectives"
 ---

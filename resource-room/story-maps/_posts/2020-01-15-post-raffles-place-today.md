@@ -1,6 +1,6 @@
 ---
 title: Raffles Place Today
-permalink: /resource-room/story-maps/raffles-place-today
+permalink: /resource-room/story-maps/raffles-place-today/
 date: 2020-01-15T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/storymap-image-raffles-place-today-1.png)](https://go.gov.sg/2erjps)

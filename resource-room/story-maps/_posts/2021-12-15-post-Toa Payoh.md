@@ -1,6 +1,6 @@
 ---
 title: Toa Payoh
-permalink: /resource-room/story-maps/toa-payoh
+permalink: /resource-room/story-maps/toa-payoh/
 date: 2021-12-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Chinatown And Its Streets
-permalink: /resource-room/story-maps/streets-chinatown
+permalink: /resource-room/story-maps/streets-chinatown/
 date: 2021-12-15
 layout: post
 description: ""

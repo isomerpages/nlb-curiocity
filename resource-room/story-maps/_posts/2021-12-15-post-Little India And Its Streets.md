@@ -1,6 +1,6 @@
 ---
 title: Little India And Its Streets
-permalink: /resource-room/story-maps/streets-little-india
+permalink: /resource-room/story-maps/streets-little-india/
 date: 2021-12-15
 layout: post
 description: ""

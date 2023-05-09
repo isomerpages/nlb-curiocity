@@ -1,6 +1,6 @@
 ---
 title: Satellite Installations
-permalink: /events/Curiocity-Showcase-2022/satellite
+permalink: /events/curiocity-showcase-2022/satellite/
 description: ""
 third_nav_title: "Curiocity: Places&Perspectives"
 ---

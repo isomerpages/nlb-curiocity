@@ -1,6 +1,6 @@
 ---
 title: From Government Hill to Fort Canning Hill
-permalink: /digital-stories/Fort-Canning-Hill/fort-canning-colonial/
+permalink: /digital-stories/fort-canning-hill/fort-canning-colonial/
 description: ""
 third_nav_title: Fort Canning Hill
 ---

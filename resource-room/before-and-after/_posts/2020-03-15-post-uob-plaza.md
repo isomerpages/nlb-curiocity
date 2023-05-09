@@ -1,6 +1,6 @@
 ---
 title: UOB Plaza
-permalink: /resource-room/before-and-after/uob-plaza
+permalink: /resource-room/before-and-after/uob-plaza/
 date: 2020-03-15T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-uob-tower.png)](https://go.gov.sg/47ha9z)
