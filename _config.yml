@@ -46,8 +46,8 @@ colors:
       color: "#92240e"
     - title: media-color-five
       color: "#791e0c"
-staging: https://staging-nlb-curiocity.netlify.com/
-prod: https://production-nlb-curiocity.netlify.com/
+staging: https://staging.d12jjk4dxc46e9.amplifyapp.com/
+prod: https://master.d12jjk4dxc46e9.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
