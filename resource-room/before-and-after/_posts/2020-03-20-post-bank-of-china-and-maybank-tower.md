@@ -1,6 +1,6 @@
 ---
 title: Bank of China and Maybank Tower
-permalink: /resource-room/before-and-after/boc-maybank-tower
+permalink: /resource-room/before-and-after/boc-maybank-tower/
 date: 2020-03-20T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-bank-of-china.png)](https://go.gov.sg/g3lqex)

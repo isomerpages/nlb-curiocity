@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: /events/overview
+permalink: /events/overview/
 description: ""
 ---
 | [**<font size=5> Curiocity Encounters: Singapore Night Festival 2022 </font>**](/events/curiocity-encounters-snf){:target="_blank"}  |  | 

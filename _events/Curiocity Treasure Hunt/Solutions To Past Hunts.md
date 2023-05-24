@@ -1,6 +1,6 @@
 ---
 title: Solutions To Past Hunts
-permalink: /events/Curiocity-Treasure-Hunt/answers
+permalink: /events/curiocity-treasure-hunt/answers/
 description: "Answers to past Hunts "
 image: /images/T02.jpg
 third_nav_title: Curiocity Treasure Hunt

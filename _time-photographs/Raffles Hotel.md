@@ -1,6 +1,6 @@
 ---
 title: Raffles Hotel
-permalink: /photos/raffles-hotel
+permalink: /photos/raffles-hotel/
 date: 2022-01-14
 layout: post
 description: ""

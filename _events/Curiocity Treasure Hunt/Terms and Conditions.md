@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /events/Curiocity-Treasure-Hunt/TnC
+permalink: /events/curiocity-treasure-hunt/tnc/
 description: Terms and Conditions
 third_nav_title: Curiocity Treasure Hunt
 ---

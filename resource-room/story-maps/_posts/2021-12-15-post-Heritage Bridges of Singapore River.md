@@ -1,6 +1,6 @@
 ---
 title: Heritage Bridges of Singapore River
-permalink: /resource-room/story-maps/bridges-singapore-river
+permalink: /resource-room/story-maps/bridges-singapore-river/
 date: 2021-12-15
 layout: post
 description: ""

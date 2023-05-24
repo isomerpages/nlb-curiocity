@@ -1,6 +1,6 @@
 ---
 title: Chinatown
-permalink: /resource-room/story-maps/chinatown
+permalink: /resource-room/story-maps/chinatown/
 date: 2021-12-15
 layout: post
 description: ""

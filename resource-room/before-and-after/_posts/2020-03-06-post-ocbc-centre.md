@@ -1,6 +1,6 @@
 ---
 title: OCBC Centre
-permalink: /resource-room/before-and-after/ocbc-centre
+permalink: /resource-room/before-and-after/ocbc-centre/
 date: 2020-03-06T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-ocbc-centre.png)](https://go.gov.sg/fvb5y5)

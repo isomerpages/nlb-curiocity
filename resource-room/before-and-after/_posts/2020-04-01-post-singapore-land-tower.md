@@ -1,6 +1,6 @@
 ---
 title: Singapore Land Tower
-permalink: /resource-room/before-and-after/singapore-land-tower
+permalink: /resource-room/before-and-after/singapore-land-tower/
 date: 2020-04-01T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-singapore-land-tower.png)](https://go.gov.sg/xeky04)

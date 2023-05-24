@@ -1,7 +1,7 @@
 ---
 title: Punggol
 date: 2021-12-15
-permalink: /resource-room/story-maps/punggol
+permalink: /resource-room/story-maps/punggol/
 layout: post
 description: ""
 ---

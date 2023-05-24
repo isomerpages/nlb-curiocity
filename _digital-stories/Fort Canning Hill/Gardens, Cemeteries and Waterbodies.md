@@ -1,6 +1,6 @@
 ---
 title: Gardens, Cemeteries and Waterbodies
-permalink: /digital-stories/Fort-Canning-Hill/fort-canning-gardens-parks/
+permalink: /digital-stories/fort-canning-hill/fort-canning-gardens-parks/
 description: ""
 third_nav_title: Fort Canning Hill
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tampines
-permalink: /resource-room/story-maps/tampines
+permalink: /resource-room/story-maps/tampines/
 date: 2021-12-15
 layout: post
 description: ""

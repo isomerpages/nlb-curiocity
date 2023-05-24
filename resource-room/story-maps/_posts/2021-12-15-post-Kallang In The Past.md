@@ -1,6 +1,6 @@
 ---
 title: Kallang In The Past
-permalink: /resource-room/story-maps/old-kallang
+permalink: /resource-room/story-maps/old-kallang/
 date: 2021-12-15
 layout: post
 description: ""

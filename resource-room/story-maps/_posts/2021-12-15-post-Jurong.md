@@ -1,6 +1,6 @@
 ---
 title: Jurong
-permalink: /resource-room/story-maps/jurong
+permalink: /resource-room/story-maps/jurong/
 date: 2021-12-15
 layout: post
 description: ""

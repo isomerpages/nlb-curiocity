@@ -1,6 +1,6 @@
 ---
 title: Kallang Today
-permalink: /resource-room/story-maps/kallang-today
+permalink: /resource-room/story-maps/kallang-today/
 date: 2021-12-15
 layout: post
 description: ""

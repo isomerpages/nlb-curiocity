@@ -1,6 +1,6 @@
 ---
 title: The Civic District
-permalink: /resource-room/story-maps/civic-district
+permalink: /resource-room/story-maps/civic-district/
 date: 2021-12-15
 layout: post
 description: ""

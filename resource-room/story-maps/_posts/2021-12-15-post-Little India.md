@@ -1,6 +1,6 @@
 ---
 title: Little India
-permalink: /resource-room/story-maps/little-india
+permalink: /resource-room/story-maps/little-india/
 date: 2021-12-15
 layout: post
 description: ""

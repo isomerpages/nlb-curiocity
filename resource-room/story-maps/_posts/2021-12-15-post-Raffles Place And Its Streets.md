@@ -1,6 +1,6 @@
 ---
 title: Raffles Place And Its Streets
-permalink: /resource-room/story-maps/streets-raffles-place
+permalink: /resource-room/story-maps/streets-raffles-place/
 date: 2021-12-15
 layout: post
 description: ""

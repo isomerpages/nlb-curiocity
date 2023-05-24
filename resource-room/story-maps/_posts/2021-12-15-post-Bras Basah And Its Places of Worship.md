@@ -1,6 +1,6 @@
 ---
 title: Bras Basah And Its Places of Worship
-permalink: /resource-room/story-maps/bras-basah-worship
+permalink: /resource-room/story-maps/bras-basah-worship/
 date: 2021-12-15
 layout: post
 description: ""

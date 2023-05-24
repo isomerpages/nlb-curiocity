@@ -1,6 +1,6 @@
 ---
 title: Raffles Place MRT Station Exit A
-permalink: /resource-room/before-and-after/raffles-place-mrt
+permalink: /resource-room/before-and-after/raffles-place-mrt/
 date: 2020-03-15T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-raffles-place-mrt-station.png)](https://go.gov.sg/mivj9r)

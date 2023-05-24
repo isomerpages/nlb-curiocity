@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /events/curiocity-showcase-2022
+permalink: /events/curiocity-showcase-2022/
 description: ""
 third_nav_title: "Curiocity: Places&Perspectives"
 ---

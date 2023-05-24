@@ -1,6 +1,6 @@
 ---
 title: Queenstown
-permalink: /resource-room/story-maps/queenstown
+permalink: /resource-room/story-maps/queenstown/
 date: 2021-12-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "Bras Basah: A Place For Food"
-permalink: /digital-stories/Bras-Basah/bb-food/
+permalink: /digital-stories/bras-basah/bb-food/
 description: ""
 third_nav_title: Bras Basah
 ---

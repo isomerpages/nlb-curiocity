@@ -1,6 +1,6 @@
 ---
 title: Tiong Bahru
-permalink: /resource-room/story-maps/tiong-bahru
+permalink: /resource-room/story-maps/tiong-bahru/
 date: 2021-12-15
 layout: post
 description: ""

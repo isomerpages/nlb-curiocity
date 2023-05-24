@@ -1,6 +1,6 @@
 ---
 title: Bras Basah And Its Schools
-permalink: /resource-room/story-maps/bras-basah-schools
+permalink: /resource-room/story-maps/bras-basah-schools/
 date: 2021-12-15
 layout: post
 description: ""

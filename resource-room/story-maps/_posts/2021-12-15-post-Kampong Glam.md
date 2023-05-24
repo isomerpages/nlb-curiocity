@@ -1,6 +1,6 @@
 ---
 title: Kampong Glam
-permalink: /resource-room/story-maps/kampong-glam
+permalink: /resource-room/story-maps/kampong-glam/
 date: 2021-12-15
 layout: post
 description: ""

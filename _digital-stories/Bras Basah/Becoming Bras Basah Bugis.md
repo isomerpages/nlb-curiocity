@@ -1,6 +1,6 @@
 ---
 title: Becoming Bras Basah Bugis
-permalink: /digital-stories/Bras-Basah/conclude-bb/
+permalink: /digital-stories/bras-basah/conclude-bb/
 description: ""
 third_nav_title: Bras Basah
 ---

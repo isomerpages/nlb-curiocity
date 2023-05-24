@@ -1,6 +1,6 @@
 ---
 title: Battery Road
-permalink: /resource-room/vr-tours/battery-road
+permalink: /resource-room/vr-tours/battery-road/
 date: 2020-03-15T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/vr-tour-image-battery-road.png)](https://go.gov.sg/gdl14k)

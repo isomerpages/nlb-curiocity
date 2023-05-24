@@ -1,6 +1,6 @@
 ---
 title: Kampong Glam And Its Streets
-permalink: /resource-room/story-maps/streets-kampong-glam
+permalink: /resource-room/story-maps/streets-kampong-glam/
 date: 2021-12-15
 layout: post
 description: ""

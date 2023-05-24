@@ -1,6 +1,6 @@
 ---
 title: Raffles Place In the Sixties
-permalink: /resource-room/story-maps/raffles-place-in-the-60s
+permalink: /resource-room/story-maps/raffles-place-in-the-60s/
 date: 2021-12-15
 layout: post
 description: ""

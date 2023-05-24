@@ -1,6 +1,6 @@
 ---
 title: Kallang Basin
-permalink: /resource-room/vr-tours/kallang-basin
+permalink: /resource-room/vr-tours/kallang-basin/
 date: 2020-03-10T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/vr-tour-image-kallang.png)](https://go.gov.sg/sdljg4)

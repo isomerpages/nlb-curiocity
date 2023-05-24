@@ -1,6 +1,6 @@
 ---
 title: Orchard Road
-permalink: /resource-room/story-maps/orchard-road
+permalink: /resource-room/story-maps/orchard-road/
 date: 2021-12-15
 layout: post
 description: ""

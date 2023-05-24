@@ -1,6 +1,6 @@
 ---
 title: "Bras Basah: A Place Of Learning"
-permalink: /digital-stories/Bras-Basah/bb-books/
+permalink: /digital-stories/bras-basah/bb-books/
 description: ""
 third_nav_title: Bras Basah
 ---

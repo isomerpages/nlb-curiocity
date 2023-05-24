@@ -1,6 +1,6 @@
 ---
 title: Pearl Bank Apartments
-permalink: /time-photographs/pearl-bank-apartments
+permalink: /time-photographs/pearl-bank-apartments/
 description: ""
 ---
 ![](/images/pb-hill.png)

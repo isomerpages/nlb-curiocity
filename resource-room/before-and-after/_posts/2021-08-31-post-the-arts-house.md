@@ -1,7 +1,7 @@
 ---
 title: The Arts House
 date: 2021-08-31
-permalink: /resource-room/before-and-after/arts-house
+permalink: /resource-room/before-and-after/arts-house/
 layout: post
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-arts-house.png)](https://go.gov.sg/249bdx)

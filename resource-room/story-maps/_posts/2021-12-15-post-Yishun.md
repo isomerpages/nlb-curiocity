@@ -1,6 +1,6 @@
 ---
 title: Yishun
-permalink: /resource-room/story-maps/yishun
+permalink: /resource-room/story-maps/yishun/
 date: 2021-12-15
 layout: post
 description: ""

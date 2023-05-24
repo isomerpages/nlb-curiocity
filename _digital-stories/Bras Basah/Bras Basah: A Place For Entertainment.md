@@ -1,6 +1,6 @@
 ---
 title: "Bras Basah: A Place For Entertainment"
-permalink: /digital-stories/Bras-Basah/bb-cinemas/
+permalink: /digital-stories/bras-basah/bb-cinemas/
 description: ""
 third_nav_title: Bras Basah
 ---

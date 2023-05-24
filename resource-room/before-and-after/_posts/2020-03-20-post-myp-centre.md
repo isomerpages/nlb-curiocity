@@ -1,6 +1,6 @@
 ---
 title: MYP Centre
-permalink: /resource-room/before-and-after/myp-centre
+permalink: /resource-room/before-and-after/myp-centre/
 date: 2020-03-20T00:00:00.000Z
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-myp-centre.png)](https://go.gov.sg/oswa6x)
