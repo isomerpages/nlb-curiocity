@@ -4,8 +4,6 @@ permalink: /digital-stories/bras-basah/bb-food/
 description: ""
 third_nav_title: Bras Basah
 ---
-
-
 ### **A Place for Food**
 
 Besides leisure, Bras Basah was also known for its restaurants, coffee shops and cafes. Patronised by people from all walks of life, these places clearly show the long history of Singapore’s foodie culture. Below is a photo essay that highlights some of these eateries.
@@ -27,7 +25,7 @@ The premises of today’s Hotel Rendezvous at the corner of Bras Basah Road and 
 
 **Watch this video by Singapore Best Food on the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ------
 <details>
@@ -52,7 +50,7 @@ Long Bar in Raffles Hotel was among the oldest food establishments in the Bras B
 
 **In 2015, the Singapore Sling celebrates its 100th anniversary. Watch the video below by Raffles Hotel explaining the history of the iconic made-in-Singapore drink.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cMFOB2sSJLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMFOB2sSJLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ----
 
@@ -108,7 +106,7 @@ You can also watch this video to see how prominent local food consultant and fou
 
 **SG50 Deliciously Singaporean: Chicken Rice**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ----
 
@@ -176,7 +174,7 @@ ______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Rudolph William Mosbergen, founding principal of Raffles Junior College and captain of the Singapore hockey team at the 1956 Olympics, vividly recalls the bustling street hawker scene of Waterloo Street in his 2005 oral history interview. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below what he shared. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/56d224a9-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Now the attraction of Water Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, what they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up the tea and he picks it up on that side. Oh, it was really something."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Now the attraction of Waterloo Street, of course, was that there were a number of stalls [there] which were very famous food stalls. Particularly, Indian food, Indian rojak, Indian fried mee, mee rebus, things like that. There was also one of these Sarabat stall. The fellow at the sarabat stall, if you wanted tea and so on, he was able to do, what they called, a 'taerk'. Which means as he is cooling it, he pours it. And as he pours it the distance gets bigger and bigger but he managed to get all the tea back into this container. He tosses up the tea and he picks it up on that side. Oh, it was really something."</span>
 	
 </details>
 
@@ -186,7 +184,7 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 **"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 |  |
 |:---:|
@@ -201,7 +199,7 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ______
 
