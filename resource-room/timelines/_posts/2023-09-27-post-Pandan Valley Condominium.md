@@ -8,7 +8,7 @@ image: ""
 ---
 [![Alt text for image on Isomer site](/images/pandan-valley-condo-cover-1.jpg)](https://go.gov.sg/tlpvc){:target="_blank"}
 
-Discover the rich cultural history of Golden Mile Complex in Singapore through our interactive timeline. Using a vast collection of library and archival materials, including photographs, documents, and maps, we guide you through the fascinating evolution of this iconic building. From its inception as a commercial hub for Thai workers to its present-day status as a vibrant cultural landmark, we invite you to step back in time and explore the unique story of Golden Mile Complex through this immersive and engaging experience.
+Constructed in 1977, Pandan Valley Condominium was an ambitious endeavor. Designed by the local architect Tan Cheng Siong, it comprised seven blocks with diverse designs, encompassing a total of 605 residential units. Furthermore, the condominium offers a plethora of amenities, including shops, educational centers, and beautifully landscaped gardens. Explore the building's historical evolution in-depth using materials from our libraries and archives in this interactive timeline.
 
 View the timeline in [full screen](https://go.gov.sg/tlpvc){:target="_blank"} or on your mobile device by scanning the QR code below.
 
