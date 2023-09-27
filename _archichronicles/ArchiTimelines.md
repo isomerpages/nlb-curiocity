@@ -7,13 +7,29 @@ Welcome to our interactive timelines showcasing the development and milestones o
 
 Join us on a journey through time as we explore the stories behind Singapore's architectural marvels.
 
+| [**<font size="5">People's Park Complex</font>**](/resource-room/timelines/peoples-park-complex/){:target="_blank"} | 
+|-------- | 
+| [<img src="/images/peoples-park-complex-cover-1.jpg" alt="peoples-park-complex" style="width:500px">](/resource-room/timelines/golden-mile-complex/)|
+
 | [**<font size="5">Golden Mile Complex</font>**](/resource-room/timelines/golden-mile-complex/){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/golden-mile-complex-photo-1-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/golden-mile-complex/)|
+| [<img src="/images/golden-mile-complex-photo-1-1.jpg" alt="golden-mile-complex" style="width:500px">](/resource-room/timelines/golden-mile-complex/)|
 
-| [**<font size="5">National Theatre</font>**](/resource-room/timelines/national-theatre/){:target="_blank"} | 
+| [**<font size="5">National Theatre</font>**](/resource-room/timelines/national-theatre/){:target="_blank"} |
 |-------- | 
-| [<img src="/images/national-theatre-1-1.jpg" alt="raffles-hotel" style="width:500px">](/resource-room/timelines/national-theatre/)|
+| [<img src="/images/national-theatre-1-1.jpg" alt="national-theatre" style="width:500px">](/resource-room/timelines/national-theatre/)|
+
+| [**<font size="5">Singapore Conference Hall</font>**](/resource-room/timelines/singapore-conference-hall/){:target="_blank"} | 
+|-------- | 
+| [<img src="/images/singapore-conference-hall-cover-1.jpg" alt="singapore-conference-hall" style="width:500px">](/resource-room/timelines/singapore-conference-hall/)|
+
+| [**<font size="5">Pearl Bank Apartments</font>**](/resource-room/timelines/pearl-bank-apartments/){:target="_blank"} | 
+|-------- | 
+| [<img src="/images/pearl-bank-apartments-cover-1.jpg" alt="pearl-bank-apartments" style="width:500px">](/resource-room/timelines/pearl-bank-apartments/)|
+
+| [**<font size="5">Pandan Valley Condominium</font>**](/resource-room/timelines/pandan-valley-condominium/){:target="_blank"} | 
+|-------- | 
+| [<img src="/images/pandan-valley-condominium-cover-1.jpg" alt="pandan-valley-condominium" style="width:500px">](/resource-room/timelines/pandan-valley-condominium/)|
 
 | [**<font size="5">Raffles Hotel</font>**](/resource-room/timelines/raffles-hotel/){:target="_blank"} | 
 |-------- | 
