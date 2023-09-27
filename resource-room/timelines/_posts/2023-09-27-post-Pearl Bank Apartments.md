@@ -8,7 +8,7 @@ image: ""
 ---
 [![Alt text for image on Isomer site](/images/pearl-bank-apartments-cover-1.jpg)](https://go.gov.sg/tlpba){:target="_blank"}
 
-Delve into the history of the People's Park Complex in this interactive timeline. Leveraging resources from our libraries and archives, including photos, documents, and architectural plans, we guide you through the captivating story of this iconic landmark. Discover its origins, explore its architectural significance, and learn about its role as both a shopping destination and communal space through this engaging and enlightening experience.
+Situated atop Pearl's Hill, the Pearl Bank Apartments, constructed in 1976 and designed by the local architect Tan Cheng Siong, boasts a distinctive horseshoe-shaped structure when viewed from above. Standing at a height of 113 meters, it was one of the tallest buildings upon its completion, offering its occupants a mesmerising panoramic vista of the Outram and city regions. Uncover the building's historical journey using the resources of our libraries and archives in this interactive timeline.
 
 View the timeline in [full screen](https://go.gov.sg/tlpba){:target="_blank"} or on your mobile device by scanning the QR code below.
 
