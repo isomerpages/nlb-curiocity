@@ -29,7 +29,7 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 
 | [**<font size="5">Pandan Valley Condominium</font>**](/resource-room/timelines/pandan-valley-condominium/){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/pandan-valley-condominium-cover-1.jpg" alt="pandan-valley-condominium" style="width:500px">](/resource-room/timelines/pandan-valley-condominium/)|
+| [<img src="/images/pandan-valley-condo-cover-1.jpg" alt="pandan-valley-condominium" style="width:500px">](/resource-room/timelines/pandan-valley-condominium/)|
 
 | [**<font size="5">Raffles Hotel</font>**](/resource-room/timelines/raffles-hotel/){:target="_blank"} | 
 |-------- | 
