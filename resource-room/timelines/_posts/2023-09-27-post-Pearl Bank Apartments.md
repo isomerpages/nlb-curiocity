@@ -17,7 +17,7 @@ View the timeline in [full screen](https://go.gov.sg/tlpba){:target="_blank"} or
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">Photo by Bob T via Wiki Commons
 </span>
 	
 </details>
