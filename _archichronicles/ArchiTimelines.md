@@ -42,9 +42,9 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. People's Park Complex photo by W. Bulach via Wiki Commons
 <br>2. Golden Mile Complex photo by Sengkang via Wiki Commons 
 <br>3. National Theatre photo from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
-<br>4. Singapore Conference Hall
-<br>5. Pearl Bank Apartments
-<br>6. Pandan Valley Condominium by
+<br>4. Singapore Conference Hall photo courtesy of the National Museum of Singapore, National Heritage Board
+<br>5. Pearl Bank Apartments photo by Bob T via Wiki Commons
+<br>6. Pandan Valley Condominium courtesy of Today newspaper
 <br>7. Raffles Hotel photo by Elisa.rolle via Wiki Commons
 </span>
 	
