@@ -21,7 +21,7 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 
 | [**<font size="5">Singapore Conference Hall</font>**](/resource-room/timelines/singapore-conference-hall/){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/singapore-conference-hall-cover-1.jpg" alt="singapore-conference-hall" style="width:500px">](/resource-room/timelines/singapore-conference-hall/)|
+| [<img src="/images/singapore-conference-hall-cover-1.png" alt="singapore-conference-hall" style="width:500px">](/resource-room/timelines/singapore-conference-hall/)|
 
 | [**<font size="5">Pearl Bank Apartments</font>**](/resource-room/timelines/pearl-bank-apartments/){:target="_blank"} | 
 |-------- | 
