@@ -44,7 +44,7 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 <br>3. National Theatre photo from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 <br>4. Singapore Conference Hall photo courtesy of the National Museum of Singapore, National Heritage Board
 <br>5. Pearl Bank Apartments photo by Bob T via Wiki Commons
-<br>6. Pandan Valley Condominium courtesy of Today newspaper
+<br>6. Pandan Valley Condominium courtesy of Today Online
 <br>7. Raffles Hotel photo by Elisa.rolle via Wiki Commons
 </span>
 	
