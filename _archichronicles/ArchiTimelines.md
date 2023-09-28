@@ -9,7 +9,7 @@ Join us on a journey through time as we explore the stories behind Singapore's a
 
 | [**<font size="5">People's Park Complex</font>**](/resource-room/timelines/peoples-park-complex/){:target="_blank"} | 
 |-------- | 
-| [<img src="/images/peoples-park-complex-cover-1.jpg" alt="peoples-park-complex" style="width:500px">](/resource-room/timelines/golden-mile-complex/)|
+| [<img src="/images/peoples-park-complex-cover-1.jpg" alt="peoples-park-complex" style="width:500px">](/resource-room/timelines/peoples-park-complex/)|
 
 | [**<font size="5">Golden Mile Complex</font>**](/resource-room/timelines/golden-mile-complex/){:target="_blank"} | 
 |-------- | 
