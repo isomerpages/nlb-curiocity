@@ -2,7 +2,7 @@ collections:
   jurong:
     output: true
     order:
-      - "Jurong: Early History.md"
+      - Early History of Jurong.md
       - Development of Jurong.md
       - Recreation Spaces in Jurong.md
       - Rejuvenation of Jurong.md
