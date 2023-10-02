@@ -1,4 +1,5 @@
 collections:
   jurong:
     output: true
-    order: []
+    order:
+      - Jurong During Colonial Times.md
