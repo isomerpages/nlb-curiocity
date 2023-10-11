@@ -21,6 +21,8 @@ https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd4
 
 While early 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the later half as well as the early 20th century indicated that the boundary of Jurong is only a fraction of the locale we know today. For instance, in this 1885 map of the island of Singapore, Jurong is bounded by Pandan in the south, West Bukit Timah in the north, Upper Tanglin in the east, and Peng Kang in the west. 
 
+In this map which shows the mukim numbers 
+
 Jurong meaning quote
 
 Turnbull quote
