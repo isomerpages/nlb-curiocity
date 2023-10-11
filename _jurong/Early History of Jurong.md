@@ -17,6 +17,8 @@ https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/322a6eb
 
 These natural features of Jurong including Jurong and Pandan rivers were also indicated in this 1855 hydrographic survey of the Straits of Singapore (shown above). Drawn by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, this map is one of the first detailed hydrographic surveys of the Straits to be conducted by a locally based surveyor.
 
+https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
+
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/32231569-035e-11e9-9481-001a4a5ba61b
 
 While many 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the 20th century were able to provide an indication on the extent where the boundary of Jurong stretches back then. For instance, this 1911 map (shown above) reveals that Jurong is only a fraction of the locale we know today as it is bounded by Jurong Road in the south, Choa Chu Kang in the north and west, and Bukit Timah Road in the east. 
