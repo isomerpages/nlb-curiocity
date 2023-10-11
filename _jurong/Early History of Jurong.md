@@ -29,9 +29,9 @@ Jurong meaning quote
 
 Turnbull quote
 
-### **Peng Kang**
+### **Peng Kang and Plantations**
 
-Peng Kang covers the areas we know today as Jurong West and Boon Lay.
+Peng Kang covers the areas we know today as Jurong West and Boon Lay. These areas together within its vicinity were either covered in jungles or cleared for plantations.
 
 First appear in maps
 
@@ -39,7 +39,9 @@ Gambier planations
 
 Chew Boon Lay Estate
 
-Today
+Today and mukim
+
+Peng Kang meaning
 
 Who is Chew Boon Lay quote
 
