@@ -34,7 +34,7 @@ Chew Boon Lay Estate
 Today
 
 
-Early Communities
+### **Kampongs in Jurong**
 
 Orang Laut
 
