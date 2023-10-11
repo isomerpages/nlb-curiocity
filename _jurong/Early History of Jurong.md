@@ -25,6 +25,11 @@ While early 19th century maps of Singapore captured the natural features of Juro
 
 Peng Kang covers the areas we know today as Jurong West and Boon Lay.
 
+
+Early Communities
+
+Orang Laut
+
 Perry litograph
 
 Quote what does Jurong mean
