@@ -9,12 +9,13 @@ Jurong is a large area in the southwest of Singapore that is known today as an i
 
 Although Jurong is demarcated as a large area today, it was vastly different back then.
 
+https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad
 
-Captain James Franklin and Lieutenant Philip Jackson's 1828 map of Singapore (shown above), which is the first map that properly captured the outline of Singapore Island, details a number of natural features associated with Jurong including the Jurong and Pandan rivers, as well as the former islands that made up Jurong Island today such as Pulau Ayer Chawan, Pulau Seraya and Pulau Sakra. In the Tuas area, Tanjong (or promontory) Rawa and Tanjong Gull (Tanjong Gul) were also indicated in the map.
+Captain James Franklin and Lieutenant Philip Jackson's 1828 map of Singapore (shown above), which is one of the earliest maps that properly captured the outline of Singapore Island, details a number of natural features associated with Jurong including the Jurong and Pandan rivers, as well as the former islands that made up Jurong Island today such as Pulau Ayer Chawan, Pulau Seraya and Pulau Sakra. In the Tuas area, Tanjong (or promontory) Rawa and Tanjong Gull (Tanjong Gul) were also indicated in the map.
 
-https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad
+https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/322a6eb2-035e-11e9-9481-001a4a5ba61b
 
-These natural features of Jurong including Jurong and Pandan rivers were also indicated in this 1855 hydrographic survey of the Straits of Singapore (shown above). Drawn by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, this map is the first detailed hydrographic survey to be conducted by a locally based surveyor. It is also one of the most important and detailed early hydrographic maps showing the Straits of Singapore.
+These natural features of Jurong including Jurong and Pandan rivers were also indicated in this 1855 hydrographic survey of the Straits of Singapore (shown above). Drawn by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, this map is one of the first detailed hydrographic surveys of the Straits to be conducted by a locally based surveyor.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/32231569-035e-11e9-9481-001a4a5ba61b
 
