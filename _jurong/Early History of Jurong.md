@@ -12,7 +12,7 @@ Although Jurong is demarcated as a large area today, it was vastly different bac
 
 Captain James Franklin and Lieutenant Philip Jackson's 1828 map of Singapore (shown above), which is the first map that properly captured the outline of Singapore Island, details a number of natural features associated with Jurong including the Jurong and Pandan rivers, as well as the former islands that made up Jurong Island today such as Pulau Ayer Chawan, Pulau Seraya and Pulau Sakra. In the Tuas area, Tanjong (or promontory) Rawa and Tanjong Gull (Tanjong Gul) were also indicated in the map.
 
-These natural features of Jurong including Jurong and Pandan rivers were also indicated in this 1855 hydrographic survey of the Straits of Singapore (shown above). Drawn by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, this map is the first detailed hydrographic survey to be conducted by a locally based surveyor. This is one of the most important and detailed early hydrographic maps of the Straits of Singapore.
+These natural features of Jurong including Jurong and Pandan rivers were also indicated in this 1855 hydrographic survey of the Straits of Singapore (shown above). Drawn by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, this map is the first detailed hydrographic survey to be conducted by a locally based surveyor. It is also one of the most important and detailed early hydrographic maps showing the Straits of Singapore.
 
 Perry litograph
 
