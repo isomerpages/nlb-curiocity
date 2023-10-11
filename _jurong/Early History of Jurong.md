@@ -3,11 +3,11 @@ title: Early History of Jurong
 permalink: /jurong/jurong-early-history/
 description: ""
 ---
-Jurong is a large area in the southwest of Singapore that is known today as an industrial estate and a residential town. However, before its development in the 1960s, Jurong had a very different landscape and history as it was once a swampy land covered with mangroves, plantations, villages, and brickworks. It even had a different name as it was referred to as "Peng Kang". Interestingly, traces of the name 'Jurong' can be found in early colonial maps of Singapore, often associated with natural features like the "Jurong River".
+Jurong is an area in the southwest of Singapore. Comprising of housing estates such as Jurong West and Jurong East as well as the innovation, business and industrial estates of Jurong Lake District and the Jurong Innovation District among others, it was a very different place before its development in the 1960s. Largely undeveloped, it was an area of swamps, jungles and plantations with numerous river, steams and tributaries.
 
 ### **Jurong in Early Maps of Singapore**
 
-Although Jurong is demarcated as a large area today, it was vastly different back then.
+, the areas we know today as Jurong West and Boon Lay were once Peng Kang, while Jurong itself was a samller slice of land between Peng Keng and Bukit Timah. be found in early colonial maps of Singapore, often associated that we know today is largely associated  demarcated as a large area today, it was vastly different back then.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad
 
@@ -20,6 +20,8 @@ These natural features of Jurong including Jurong and Pandan rivers were also in
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
 
 While early 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the later half as well as the early 20th century indicated that the boundary of Jurong is only a fraction of the locale we know today. For instance, in this 1885 map of the island of Singapore, Jurong is bounded by Pandan in the south, West Bukit Timah in the north, Upper Tanglin in the east, and Peng Kang in the west. 
+
+Peng Kang covers the areas we know today as Jurong West and Boon Lay.
 
 Perry litograph
 
