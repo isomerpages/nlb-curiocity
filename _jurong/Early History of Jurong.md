@@ -25,6 +25,14 @@ While early 19th century maps of Singapore captured the natural features of Juro
 
 Peng Kang covers the areas we know today as Jurong West and Boon Lay.
 
+First appear in maps
+
+Gambier planations
+
+Chew Boon Lay Estate
+
+Today
+
 
 Early Communities
 
