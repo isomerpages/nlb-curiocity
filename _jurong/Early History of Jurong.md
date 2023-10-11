@@ -19,9 +19,7 @@ These natural features of Jurong including Jurong and Pandan rivers were also in
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
 
-https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/32231569-035e-11e9-9481-001a4a5ba61b
-
-While many 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the 20th century were able to provide an indication on the extent where the boundary of Jurong stretches back then. For instance, this 1911 map (shown above) reveals that Jurong is only a fraction of the locale we know today as it is bounded by Jurong Road in the south, Choa Chu Kang in the north and west, and Bukit Timah Road in the east. 
+While early 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the later half as well as the early 20th century indicated that the boundary of Jurong is only a fraction of the locale we know today. For instance, in this 1885 map of the island of Singapore,  bounded by Jurong Road in the south, Choa Chu Kang in the north and west, and Bukit Timah Road in the east. 
 
 Perry litograph
 
