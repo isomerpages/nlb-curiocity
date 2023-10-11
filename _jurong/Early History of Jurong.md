@@ -21,7 +21,7 @@ https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd4
 
 While early 19th century maps of Singapore captured the natural features of Jurong , those that were produced in the later half as well as the early 20th century indicated that the boundary of Jurong is only a fraction of the locale we know today. For instance, in this 1885 map of the island of Singapore, Jurong is bounded by Pandan in the south, West Bukit Timah in the north, Upper Tanglin in the east, and Peng Kang in the west. 
 
-In this map which shows the mukim numbers 
+In this 1924 map of which shows the mukim numbers of different districts of Singapore, Jurong's mukim number is indicated as "X" or "10". Since the 1902, every land parcel in Singapore is uniquely identified by a lot number. This identifier has two components, namely the survey districts Mukim (or Town Subdivision) number and the lot number. For administrative purposes, Singapore is divided into 34 Mukims and 30 Town Subdivisions.
 
 Jurong meaning quote
 
