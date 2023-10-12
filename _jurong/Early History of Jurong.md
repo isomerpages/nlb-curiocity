@@ -35,7 +35,7 @@ In the 19th century, much of the forests in and around Jurong were cleared to ma
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb85ff41-115c-11e3-83d5-0050568939ad
 
-Peng Keng first appear as a survey district in the early 1900s
+The name Peng Keng (together with Jurong) could first be seen in maps dating back to as early as the first half of the 19th century. For example, in this map of Singapore Island which was surveyed and drawn by Government Surveyor John Turnbull Thomson, the name "Pengkang" is indicated west of Sungei Jurong and adjacent to Jurong, which is spelt "Joorong". 
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
 
