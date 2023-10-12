@@ -43,7 +43,7 @@ In the 19th century, large tracts of primary forest in Peng Keng as well as in o
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
 
-Chew Boon Lay Estate....The most well-known plantation estate
+The gambier industry waned in the late 1800s, but rubber, a new cash crop, started to grow in prominence. Boosted by global demand for rubber in the early 1900s, rubber plantations replaced gambier estates. Prominent businessmen who owned rubber plantations in Jurong included pioneer entrepreneur Chew Boon Lay. Aside from rubber, Chew was involved in many businesses including barter trading and the Ho Ho Biscuit Factory, which was set up in 1898. Chew died in 1933 and was buried in Bukit Brown Cemetery. After Chew died, some of the roads that existed in Jurong before its development as a New Town were named after him, including Boon Lay Road and a Mass Rapid Transit train station.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
