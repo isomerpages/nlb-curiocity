@@ -57,11 +57,16 @@ Who is Chew Boon Lay quote
 
 The clearing of the forests and swamps in Jurong and its surrounding vicinity such as Peng Keng brought new settlers to the area. These settlers together with their friends and relatives would then settle in small villages or "kampongs" there.
 
-Orang Laut
-
-Before the arrival of the British in 1819, th
-
 Perry litograph
+
+Orang Laut - Before the arrival of the British in 1819, th
+
+Malay villages
+
+Chu Kang kampongs
+
+Self sufficient communities
+
 
 Quote what does Jurong mean
 
