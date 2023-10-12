@@ -23,7 +23,7 @@ While early 19th century maps of Singapore captured the natural features of Juro
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b
 
-In this 1924 map of which shows the mukim numbers of different districts of Singapore, Jurong's mukim number is indicated as "X" or "10". Since the 1902, every land parcel in Singapore is uniquely identified by a lot number. This identifier has two components, namely the survey districts Mukim (or Town Subdivision) number and the lot number. For administrative purposes, Singapore is divided into 34 Mukims and 30 Town Subdivisions.
+In this 1924 map of which shows the mukim numbers of different survey districts of Singapore, Jurong's mukim number is indicated as "X" or "10". Since the 1902, every land parcel in Singapore is uniquely identified by a lot number. This identifier has two components, namely the survey districts Mukim (or Town Subdivision) number and the lot number. For administrative purposes, Singapore is divided into 34 Mukims and 30 Town Subdivisions.
 
 Jurong meaning quote
 
@@ -31,7 +31,7 @@ Turnbull quote
 
 ### **Peng Kang and Plantations**
 
-In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a district that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
+In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a survey district that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
 
 First appear in maps
 
