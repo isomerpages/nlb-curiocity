@@ -57,7 +57,7 @@ Who is Chew Boon Lay quote
 
 The clearing of the forests and swamps in Jurong and its surroundings such as Peng Keng brought new settlers to the area. These settlers, predominately Chinese, together with their friends and relatives would then settle in small villages there, joining the local Malay and Orang Laut communities who had been living in their villages along the coastal area even before the arrival of the British.
 
-Perry litograph
+https://www.roots.gov.sg/Collection-Landing/listing/1046292 (Perry litograph)
 
 The Orang Laut were sea and river-based nomads who had lived in Singapore and the region since at least the 16th century. Some of their tribes or sukus that were recorded by the British after their arrival included Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat and Orang Sembulun. The Orang Sembulun were likely located in Pulau Samulun which is located off the coast of Jurong at the end of Jurong River.
 
