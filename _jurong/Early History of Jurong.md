@@ -43,6 +43,8 @@ Gambier planations
 
 Peng Keng together with other surronding districts including Jurong, Pandan...
 
+https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
+
 Chew Boon Lay Estate
 
 The most well-known plantation estate
