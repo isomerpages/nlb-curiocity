@@ -37,6 +37,8 @@ https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767e
 
 The name Peng Keng first appear as a survey district in the early 1900s
 
+https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
+
 Gambier planations
 
 Peng Keng together with other surronding districts including Jurong, Pandan...
