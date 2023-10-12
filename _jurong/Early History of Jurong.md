@@ -59,7 +59,7 @@ The clearing of the forests and swamps in Jurong and its surrounding vicinity su
 
 Perry litograph
 
-Orang Laut - Before the arrival of the British in 1819, th
+Orang Laut - Before the arrival of the British in 1819, the Orang
 
 Malay villages
 
