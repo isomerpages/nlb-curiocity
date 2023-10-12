@@ -55,11 +55,11 @@ Who is Chew Boon Lay quote
 
 ### **Early Communities and Kampongs in Jurong**
 
-The clearing of the forests and swamps in Jurong and its surrounding vicinity such as Peng Keng brought new settlers to the area. These settlers together with their friends and relatives would then settle in small villages there, joining the local Malay and Orang Laut communities who had been living in their villages along the coastal area even before the arrival of the British.
+The clearing of the forests and swamps in Jurong and its surroundings such as Peng Keng brought new settlers to the area. These settlers, predominately Chinese, together with their friends and relatives would then settle in small villages there, joining the local Malay and Orang Laut communities who had been living in their villages along the coastal area even before the arrival of the British.
 
 Perry litograph
 
-Orang Laut - Before the arrival of the British in 1819, the Orang
+The Orang Laut were sea and river-based nomads who had lived in Singapore and the region since at least the 16th century. Their ribes or  - Before the arrival of the British in 1819, the Orang
 
 Malay villages
 
