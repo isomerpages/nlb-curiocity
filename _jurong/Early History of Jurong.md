@@ -59,9 +59,13 @@ The clearing of the forests and swamps in Jurong and its surroundings such as Pe
 
 Perry litograph
 
-The Orang Laut were sea and river-based nomads who had lived in Singapore and the region since at least the 16th century. Their ribes or  - Before the arrival of the British in 1819, the Orang
+The Orang Laut were sea and river-based nomads who had lived in Singapore and the region since at least the 16th century. Some of their tribes or sukus that were recorded by the British after their arrival included Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat and Orang Sembulun. The Orang Sembulun were likely located in Pulau Samulun which is located off the coast of Jurong at the end of Jurong River.
 
 Malay villages
+
+Besides the Orang Laut, the local Malays had also been living in v
+
+The Malays and the Orang Laut shared a symbiotic relationship
 
 Chu Kang kampongs
 
