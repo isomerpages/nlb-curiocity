@@ -35,9 +35,15 @@ In the 19th century, much of the forests in and around Jurong were cleared to ma
 
 First appear in maps
 
+The name Peng Keng first appear as a survey district in the early 1900s
+
 Gambier planations
 
+Peng Keng together with other surronding districts including Jurong, Pandan...
+
 Chew Boon Lay Estate
+
+The most well-known plantation estate
 
 Today and mukim
 
