@@ -47,7 +47,7 @@ The gambier industry waned in the late 1800s, but rubber, a new cash crop, start
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
-Although the areas that used to be Peng Keng had been named Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's....
+Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's....
 
 Peng Kang meaning
 
