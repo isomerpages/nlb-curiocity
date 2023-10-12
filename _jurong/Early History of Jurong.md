@@ -39,7 +39,7 @@ The name Peng Keng (together with Jurong) could first be seen in maps dating bac
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
 
-In the 19th century, large tracts of primary forest in Peng Keng together with other surrounding areas including Jurong and Pandan were cleared to make way for plantations, particularly gambier and pepper.
+In the 19th century, large tracts of primary forest in Peng Keng as well as in other parts of the island including Jurong and Pandan were cleared to make way for plantations. Among the most popular at the time was gambier and pepper.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
 
