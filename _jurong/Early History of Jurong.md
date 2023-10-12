@@ -31,7 +31,7 @@ Turnbull quote
 
 ### **Peng Kang and Plantations**
 
-In the 19th century, much of the forests in Jurong were cleared to make way for gambier plantations. The cash crop was so popular that a district in Jurong was named "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. In general, Peng Kang covers the areas we know today as Jurong West and Boon Lay.
+In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a district that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
 
 First appear in maps
 
