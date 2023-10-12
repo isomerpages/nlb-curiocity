@@ -43,11 +43,11 @@ In the 19th century, large tracts of primary forest in Peng Keng as well as in o
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
 
-The gambier industry waned in the late 1800s, but rubber, a new cash crop, started to grow in prominence. Boosted by global demand for rubber in the early 1900s, rubber plantations replaced gambier estates. Prominent businessmen who owned rubber plantations in Jurong included pioneer entrepreneur Chew Boon Lay. Aside from rubber, Chew was involved in many businesses including barter trading and the Ho Ho Biscuit Factory, which was set up in 1898. Chew died in 1933 and was buried in Bukit Brown Cemetery. Today, Boon Lay Road and Boon Lay Mass Rapid Transit train station were both named after him.
+The gambier industry waned in the late 1800s, but rubber, a new cash crop, started to grow in prominence. Boosted by global demand for rubber in the early 1900s, rubber plantations replaced gambier estates. Prominent businessmen who owned rubber plantations in Jurong included pioneer entrepreneur Chew Boon Lay. Aside from rubber, Chew was involved in many businesses including barter trading and the Ho Ho Biscuit Factory, which was set up in 1898. Chew died in 1933 and was buried in Bukit Brown Cemetery. Today, Boon Lay Road and Boon Lay Mass Rapid Transit (MRT) station were both named after him.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
-Today and mukim
+Although the areas that used to be Peng Keng had been named Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's....
 
 Peng Kang meaning
 
