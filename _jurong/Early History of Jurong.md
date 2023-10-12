@@ -55,7 +55,7 @@ Who is Chew Boon Lay quote
 
 ### **Early Communities and Kampongs in Jurong**
 
-The clearing of the forests and swamps in Jurong and its surrounding vicinity such as Peng Keng brought new settlers to the area. These settlers together with their friends and relatives would then settle in small villages or "kampongs" there.
+The clearing of the forests and swamps in Jurong and its surrounding vicinity such as Peng Keng brought new settlers to the area. These settlers together with their friends and relatives would then settle in small villages there, joining the local Malay and Orang Laut communities who had been living in their villages along the coastal area even before the arrival of the British.
 
 Perry litograph
 
