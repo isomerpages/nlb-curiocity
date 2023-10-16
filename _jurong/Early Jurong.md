@@ -71,9 +71,14 @@ Besides the Orang Laut, the local Malays had also been living along the Jurong R
 
 New Kampongs
 
-The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the establishment of plantations as well as working as labourers in them before settling in small villages with their friends and relatives to engage in agricultural activities such as growing vegetables and fruits. These villages were usually self sufficient equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. 
+The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the establishment of plantations as well as working as labourers in them. These Chinese agricultural settlements started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were amonng the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man). 
 
-In Jurong, most of the early Chinese settlers were Ann Kway Hokkiens. Initially, they
+
+
+
+before settling in small villages with their friends and relatives where they also in agricultural activities such as growing vegetables and fruits. These villages were usually self sufficient equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. 
+
+In Jurong, most of the early Chinese settlers were the Ann Kway Hokkiens from Anxi county in Fujian Province, China. The Teochews hailing from the Jieyang province would later join them, setting up their own villages there. The villages that the Hokkiens and Teochews founded were usually organised
 
 
 
