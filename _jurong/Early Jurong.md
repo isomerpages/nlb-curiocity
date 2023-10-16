@@ -77,14 +77,11 @@ Sin Nan public school: https://www.nas.gov.sg/archivesonline/photographs/record-
 
 In the early 20th century, numerous factors including the proliferation of rubber plantations, the establishment of British military bases and expansion of the road and transportation network in the rural areas including Jurong saw the growth of existing and new villages in terms of functions and activities. By the end of the 1950s, many of these rural villages were not only equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics, but also engaging in agricultural activities such as growing vegetables and fruits. Shown above is the Sin Nan Public School which was established in 1932 near Hong Kah Village. Today, the school is located in Jurong West and is known as Xingnan Primary School.
 
-
-
-
-Quote what does Jurong mean
-
 Quote Orang Laut (islands)
 
 Quote Jurong Road
+
+Hong Kah Village
 
 
 
