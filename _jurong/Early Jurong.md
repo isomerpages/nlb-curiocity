@@ -69,9 +69,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-1
 
 Besides the Orang Laut, the local Malays had also been living along the Jurong River and in coastal areas of Jurong. Despite having a culture that was distinct from the Orang Laut, both the Malays and the Orang Laut shared a symbiotic relationship, often  serving as the naval forces of a number of Malay Kingdoms. Apart from that, both communities lived off the land and sea around them by carrying out subsistence fishing, gathering plants and fruits from the forest for medicine and food, and utilised freshwater streams. Shown above is a photograph taken of a fishing village at Jurong River in the 1950s.
 
-Kampong Tanjong Balai together with others including Kampong Pulau Damar Darat and Tanjong Kling were three  
-
 Chu Kang kampongs
+
+The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the plantations as well as labourers in them.
 
 Self sufficient communities
 
