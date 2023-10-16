@@ -69,7 +69,7 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-1
 
 Besides the Orang Laut, the local Malays had also been living along the Jurong River and in coastal areas of Jurong. Despite having a culture that was distinct from the Orang Laut, both the Malays and the Orang Laut shared a symbiotic relationship, often  serving as the naval forces of a number of Malay Kingdoms. Apart from that, both communities lived off the land and sea around them by carrying out subsistence fishing, gathering plants and fruits from the forest for medicine and food, and utilised freshwater streams. Shown above is a photograph taken of a fishing village at Jurong River in the 1950s.
 
-Hong Kah village
+Hong Kah village: https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e6501-1161-11e3-83d5-0050568939ad
 
 The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, they took on the backbreaking task of clearing forests and swamps for the establishment of pepper and gambier plantations before working as labourers in them. These early Chinese settlers were predominately the Ann Kway Hokkiens from Anxi county in Fujian Province, China. They would later be joined by the Teochews hailing from the Jieyang province. The villages that the Hokkiens and Teochews founded were usually located along the rivers and the early rural roads at the time such as Jurong Road. Shown above is a photograph of Hong Kah Village taken in 19XX. Established by Chinese Christians, this village was once located at the 12th milestone of Jurong Road.
 
