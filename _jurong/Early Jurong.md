@@ -71,9 +71,11 @@ Besides the Orang Laut, the local Malays had also been living along the Jurong R
 
 Chu Kang kampongs
 
-The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the plantations as well as working as labourers in them. They then settled in small villages with their friends and relatives. These villages were usually organised by surname 
+The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the plantations as well as working as labourers in them. They then settled in small villages with their friends and relatives. These villages were usually organised by surname, while some took its names
 
 Self sufficient communities
+
+These villages were usually self sufficient equipped with basic facilities and services that could sustain life in the rural areas. In fact, it was common to come across villages that not only had schools, but also other facilities such as temples, markets and provision shops.
 
 
 Quote what does Jurong mean
