@@ -71,10 +71,9 @@ Besides the Orang Laut, the local Malays had also been living along the Jurong R
 
 New Kampongs
 
-The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early Chinese settlers were Ann Kway Hokkiens. Initially, they took on the backbreaking task of clearing forests and swamps for the establishment of plantations as well as working as labourers in them before settling in small villages with their friends and relatives to engage in agricultural activities such as growing vegetables and fruits. These villages were usually self sufficient equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. 
+The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the establishment of plantations as well as working as labourers in them before settling in small villages with their friends and relatives to engage in agricultural activities such as growing vegetables and fruits. These villages were usually self sufficient equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. 
 
-
-
+In Jurong, most of the early Chinese settlers were Ann Kway Hokkiens. Initially, they
 
 
 
