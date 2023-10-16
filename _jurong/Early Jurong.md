@@ -59,9 +59,13 @@ The clearing of the forests and swamps in Jurong and its surroundings such as Pe
 
 https://www.roots.gov.sg/Collection-Landing/listing/1046292
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad
+
 The Orang Laut were sea and river-based nomads who had lived in Singapore and the region since at least the 16th century. Some of their tribes or sukus that were recorded by the British after their arrival included Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat and Orang Sembulun. The Orang Sembulun were likely located in Pulau Samulun which is located off the coast of Jurong at the end of Jurong River. Shown above is a print (lithograph) that depicts a canoe with an American flag on its stern drawing near the huts on the Jurong river bank. It was drawn by Peter Bernhard Wilhelm Heine who was on board Commodore Matthew Perry's 1854 expedition to Japan.
 
 Malay villages
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/b5c0af79-1161-11e3-83d5-0050568939ad
 
 Besides the Orang Laut, the local Malays had also been living along the Jurong River and in coastal areas of Jurong. Despite having a culture that was distinct from the Orang Laut, both the Malays and the Orang Laut shared a symbiotic relationship, often  serving as the naval forces of a number of Malay Kingdoms. Apart from that, both communities lived off the land and sea around them by carrying out subsistence fishing, gathering plants and fruits from the forest for medicine and food, and utilised freshwater streams. Shown above is a photograph taken in the 1950s of Kampong Teban which was a fishing village in Jurong.
 
