@@ -75,7 +75,9 @@ The establishment of plantations after the arrival of the British in 1819 brough
 
 Self sufficient communities
 
-These villages were usually self sufficient equipped with basic facilities and services that could sustain life in the rural areas. In fact, it was common to come across villages that not only had schools, but also other facilities such as temples, churches, markets, provision shops and even clinics.
+These villages were usually self sufficient equipped with basic facilities and services that could sustain life in the rural areas. In fact, it was common to come across villages that not only had schools, but also other facilities such as temples, churches, markets, provision shops and even clinics. 
+
+In terms of architecture, attap houses but some have cement floors....In terms of occupation, all sorts
 
 
 Quote what does Jurong mean
