@@ -65,11 +65,11 @@ The Orang Laut were sea and river-based nomads who had lived in Singapore and th
 
 Malay villages
 
-https://www.nas.gov.sg/archivesonline/photographs/record-details/b5c0af79-1161-11e3-83d5-0050568939ad
+https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad
 
-https://www.nas.gov.sg/archivesonline/photographs/record-details/62b7ab96-1162-11e3-83d5-0050568939ad
+Besides the Orang Laut, the local Malays had also been living along the Jurong River and in coastal areas of Jurong. Despite having a culture that was distinct from the Orang Laut, both the Malays and the Orang Laut shared a symbiotic relationship, often  serving as the naval forces of a number of Malay Kingdoms. Apart from that, both communities lived off the land and sea around them by carrying out subsistence fishing, gathering plants and fruits from the forest for medicine and food, and utilised freshwater streams. Shown above is a photograph taken of a fishing village at Jurong River in the 1950s.
 
-Besides the Orang Laut, the local Malays had also been living along the Jurong River and in coastal areas of Jurong. Despite having a culture that was distinct from the Orang Laut, both the Malays and the Orang Laut shared a symbiotic relationship, often  serving as the naval forces of a number of Malay Kingdoms. Apart from that, both communities lived off the land and sea around them by carrying out subsistence fishing, gathering plants and fruits from the forest for medicine and food, and utilised freshwater streams. Shown above is a photograph taken in the 1950s of Kampong Teban which was a fishing village in Jurong.
+Kampong Tanjong Balai together with others including Kampong Pulau Damar Darat and Tanjong Kling were three  
 
 Chu Kang kampongs
 
