@@ -29,7 +29,7 @@ Jurong meaning quote
 
 Turnbull quote
 
-### **Jurong or Peng Kang?**
+### **Peng Kang**
 
 In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a survey district (or Mukim) that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
 
