@@ -71,10 +71,9 @@ Besides the Orang Laut, the local Malays had also been living along the Jurong R
 
 New Kampongs
 
-The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, these early settlers took on the backbreaking task of clearing forests and swamps for the establishment of plantations as well as working as labourers in them. These Chinese agricultural settlements started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were amonng the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man). 
+The establishment of plantations after the arrival of the British in 1819 brought new settlers to the Jurong area. Mostly from China, they took on the backbreaking task of clearing forests and swamps for the establishment of pepper and gambier plantations as well as working as labourers in them. These early Chinese settlers were predominately the Ann Kway Hokkiens from Anxi county in Fujian Province, China, and the villages they founded were located along the rivers and the early rural roads at the time such as Jurong Road. The Ann Kway Hokkiens would later be joined by the Teochews hailing from the Jieyang province.
 
-
-
+In the early 20th century, numerous factors including the proliferation of rubber plantations, the establishment of British military bases and expansion of the road and transportation network in the rural areas including Jurong saw the movement of the population from the city to the rural areas and the growth of existing and new villages there in terms of functions and activities.
 
 before settling in small villages with their friends and relatives where they also in agricultural activities such as growing vegetables and fruits. These villages were usually self sufficient equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. 
 
@@ -87,3 +86,7 @@ Quote what does Jurong mean
 Quote Orang Laut (islands)
 
 Quote Jurong Road
+
+
+
+started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man). 
