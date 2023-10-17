@@ -5,7 +5,7 @@ description: ""
 ---
 Early Economic Activites in Jurong
 
-Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving 
+Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forest to create lands for the establishment of estates and farms.
 
 Following the arrival of the British in 1819, large swathes of land in Singapore had been used for the cultivation of commercial crops - the most important of which were pepper, gambier, nutmeg, coconut, pineapple and rubber. In Jurong as well as others in the western part of the island including Peng Kang, Choa Chu Kang and Bukit Timah, the landscape was initially dotted with gambier and pepper plantations during most of the 19th century before they were replaced by rubber and pineapple estates in the early 20th century.
 
