@@ -3,7 +3,7 @@ title: Development of Jurong
 permalink: /jurong/jurong-development/
 description: ""
 ---
-Early Economic Activites in Jurong
+### **Early Economic Activities in Jurong**
 
 Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forest to create lands for the establishment of estates and farms.
 
