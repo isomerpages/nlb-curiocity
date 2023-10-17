@@ -23,6 +23,8 @@ Gambier is a fast-growing shrub whose foliage can be harvested in about 14 month
 
 **Why rubber and pineapples?**
 
+With the gambier industry in Singapore waning in the late 1800s, a new cash crop began to dominate the plantation landscape, including in Jurong. This was rubber, introduced to Singapore and Malaya in 1877 after Henry Ridley brought hevea brasiliensis seeds from Brazil via Kew Gardens in the United Kingdom and planted them in the Botanic Gardens. The Chinese often planted interim cash crops such as pineapple or gambier among the rows of rubber trees, and these crops that yielded their produce within 18 months generated cash flow while the rubber trees matured. A rubber tree required a maturation period of seven years and the herringbone method of tapping was used by its cultivators to extract the rubber latex in a controlled fashion without killing the tree. 
+
 **Kang chu system?**
 
 started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
@@ -30,4 +32,3 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 ### **The Development of the Jurong Industrial Estate**
 
 Transport
-
