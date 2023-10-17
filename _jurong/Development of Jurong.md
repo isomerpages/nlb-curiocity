@@ -23,6 +23,8 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/7122d367-5023-1
 
 Fishing and prawn farming were also dominant around the rivers and coastline of Jurong. An activity that had been long associated with the Orang Laut and Malay settlers there, the 20th century saw the growth of fishing farms and prawn ponds. In fact, the high-yielding carp farms were a popular food in Singapore before the war, while the prawn ponds in the muddy river estuaries and mangrove swamps of Jurong were among the biggest and most productive on the island, yielding to some 1,000 acres and up to 1,000 kilograms of prawns per acre during the 1950s.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/b1f17af7-1161-11e3-83d5-0050568939ad
+
 While early Jurong was mainly known for its agricultural character, there were a number of industrial ventures established from the early 20th century. Since at least the 1920s, a number of brickworks operated in the area using rather rudimentary methods The brickworks used cows or buffaloes to step on earth, turning it into a gluey paste. This was then hand-shaped by workers, before being baked in brick kilns. Before World War II, brickworks in Jurong began using machines in the brick making process, greatly boosting production numbers. By the 1970s, there were a number of prominent brick makers including s, Jurong Brick Works and Ba Gua (Eight Diagrams) Kiln.
 
 **Why gambier and pepper?**
