@@ -7,7 +7,7 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 
 ### **Jurong in Early Maps of Singapore**
 
-, the areas we know today as Jurong West and Boon Lay were once Peng Kang, while Jurong itself was a samller slice of land between Peng Keng and Bukit Timah. be found in early colonial maps of Singapore, often associated that we know today is largely associated  demarcated as a large area today, it was vastly different back then.
+ the areas we know today as Jurong West and Boon Lay were once Peng Kang, while Jurong itself was a samller slice of land between Peng Keng and Bukit Timah. be found in early colonial maps of Singapore, often associated that we know today is largely associated  demarcated as a large area today, it was vastly different back then.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad
 
@@ -29,7 +29,7 @@ Jurong meaning quote
 
 Turnbull quote
 
-### **Peng Kang**
+### **Peng Kang and Jurong**
 
 In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a survey district (or Mukim) that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
 
@@ -82,4 +82,3 @@ Quote Orang Laut (islands)
 Quote Jurong Road
 
 Hong Kah Village
-
