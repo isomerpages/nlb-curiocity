@@ -11,7 +11,7 @@ Following the arrival of the British in 1819, large swathes of land in Singapore
 
 The early 20th century also saw Jurong and its surrounding areas became an important centre of agricultural production for Singapore as there was a proliferation of vegetable and fruit farms there, taking over the land freed up by abandoned plantations as well as the quickly vanishing patches of forest. This development was brought about by numerous factors including improvements made to the road network into the rural areas, farmlands around the fringe of the town being redeveloped for other uses, and an increase demand for fresh vegetables, fruits, pork and poultry following the steady growth of the population.
 
-Around the rivers of Jurong, 
+Fishing and prawn farming were also dominant around the rivers and coastline of Jurong. An industry that had been long associated with the Orang Laut and Malay settlers there, 
 
 Klins
 
