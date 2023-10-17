@@ -55,7 +55,7 @@ Who is Chew Boon Lay quote
 
 ### **Communities of Early Jurong**
 
-The clearing of the forests and swamps in Jurong and its surroundings such as Peng Keng brought new settlers to the area. These settlers, predominately Chinese, together with their friends and relatives would then settle in small villages there, joining the local Malay and Orang Laut communities who had been living in their villages along the coastal area even before the arrival of the British.
+The clearing of the forests and swamps in Jurong and its surroundings such as Peng Keng brought new settlers to the area. These settlers, predominately Chinese, eventually settled in villages, joining the local Malay and Orang Laut communities who had been living there especially along the coastal area even before the arrival of the British.
 
 https://www.roots.gov.sg/Collection-Landing/listing/1046292
 
