@@ -21,7 +21,7 @@ Why rubber and pineapples?
 
 Kang chu system?
 
-### **Early Economic Activities in Jurong**
+### **The Development of the Jurong Industrial Estate**
 
 Transport
 
