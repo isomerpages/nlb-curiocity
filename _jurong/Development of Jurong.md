@@ -17,16 +17,17 @@ Klins
 
 Rubber estates
 
-Why gambier and pepper?
+**Why gambier and pepper?**
 
 Gambier is a fast-growing shrub whose foliage can be harvested in about 14 months. The leaves and twigs are first boiled and the resulting paste is then dried. The final product, popularly called catechu, contains both tannins and catechin. In the early 19th century, catechu was mainly used as an additive in the betel quid. The catechu and lime were smeared on the betel leaf (known locally as sireh), which was then wrapped around small slices of areca nut. Betel chewing was a habit that was popular in the region at the time. Commonly grown alongside gambier is pepper. Although pepper was a much more profitable crop, the plant takes three years before it can be harvested. Additionally, the pepper plant is a vine that requires frames for support to grow upwards and also needs to be fertilised regularly. The boiled gambier leaves provide much-needed fertiliser for pepper plants which is why the two crops are often grown together; gambier would be planted while waiting for the pepper vines to start bearing fruits.
 
-Why rubber and pineapples?
+**Why rubber and pineapples?**
 
-Kang chu system?
+**Kang chu system?**
+
+started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
 
 ### **The Development of the Jurong Industrial Estate**
 
 Transport
 
-started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
