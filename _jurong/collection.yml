@@ -2,8 +2,8 @@ collections:
   jurong:
     output: true
     order:
-      - Jurong Industrial Estate.md
       - Early Jurong.md
       - Early Economic Activities in Jurong.md
+      - Jurong Industrial Estate.md
       - Recreation Spaces in Jurong.md
       - Rejuvenation of Jurong.md
