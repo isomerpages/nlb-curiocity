@@ -15,6 +15,8 @@ Fishing and prawn farming were also dominant around the rivers and coastline of 
 
 Klins
 
+Rubber estates
+
 Why gambier and pepper?
 
 Why rubber and pineapples?
