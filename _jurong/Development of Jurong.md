@@ -17,6 +17,7 @@ Fishing and prawn farming were also dominant around the rivers and coastline of 
 
 Klins
 
+While early Jurong was mainly known for its agricultural character, there were a number of industrial ventures established from the early 20th century. Since at least the 1920s, a number of brickworks operated in the area using rather rudimentary methods The brickworks used cows or buffaloes to step on earth, turning it into a gluey paste. This was then hand-shaped by workers, before being baked in brick kilns. Before World War II, brickworks in Jurong began using machines in the brick making process, greatly boosting production numbers. By the 1970s, there were a number of prominent brick makers including s, Jurong Brick Works and Ba Gua (Eight Diagrams) Kiln.
 
 **Why gambier and pepper?**
 
