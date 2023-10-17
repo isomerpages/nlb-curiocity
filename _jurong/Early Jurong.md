@@ -82,3 +82,5 @@ Quote Orang Laut (islands)
 Quote Jurong Road
 
 Hong Kah Village
+
+**For more information on the history of early Jurong, please consult the following resources:**
