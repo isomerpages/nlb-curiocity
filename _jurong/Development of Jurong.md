@@ -37,10 +37,6 @@ As the gambier industry in Singapore declined in the late 1800s, a new cash crop
 
 **Kang chu system**
 
-started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
-
-Kangchu (headman)
-
 The plantations operated by the Chinese was operated under a system where they were headed by a headman or *kangchu* (literally “lord of the river” in Teochew). The *kangchu* would convert tracts of virgin jungles around a river catchment area into plantations turning them into *bangsals* (“shed” or “lean-to shelter” in Malay)which were the areas cleared and cultivated with gambier and pepper, and included the processing facilities and accomodation for the workers. Averaging between 10 and 50 acres, each *bangsal* usually had around 10 workers. As bangsals were located along major rivers including Jurong River, the settlement of each plantation cluster was known as *Kangkar* (or literally "foot of the river" in Teochew).
 
 ### **Impact on the Landscape of Jurong**
@@ -92,3 +88,7 @@ Jurong Fishery Pond
 ### **Creating Land for Jurong**
 
 Land reclamation
+
+started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
+
+Kangchu (headman)
