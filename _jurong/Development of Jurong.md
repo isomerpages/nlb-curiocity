@@ -57,8 +57,7 @@ The landscape of Jurong was further impacted by the construction of roads and th
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
-
-The development of Jurong as the first industrial estate in Singapore was initiated in 1961 with the aim to create jobs and boost the economy. The brainchild behind this industrialisation programme was Dutch economist [Albert Winsemius](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1457_2009-02-11.html).  
+The development of Jurong as the first industrial estate in Singapore was initiated in 1961 with the aim to create jobs and boost the economy. The brainchild behind this industrialisation programme was Dutch economist Albert Winsemius. 
 
 
 
