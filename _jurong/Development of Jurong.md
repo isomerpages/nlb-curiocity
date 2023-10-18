@@ -68,3 +68,9 @@ As Singapore accelerated its industrialisation programme after gaining independe
 Goh's folly?
 
 Why Jurong?
+
+Jurong Port
+
+Jurong Island
+
+From labour-intensive to value-added
