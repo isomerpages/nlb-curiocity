@@ -43,7 +43,7 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 
 The early economic activities in the Jurong region had a lasting impact on the landscape there. When the British arrived in 1819, the region was covered in thick primary forests. But by the late 1870s, most of the forests had been cleared to make way for plantations.
 
-The clearing of the primary forests in Jurong and other parts of Singapore was due to the growth of plantations
+The clearing of the primary forests in Jurong and other parts of Singapore was due to the growth of plantations, particularly gambier and pepper. The cultivation of these two crops had begun with the large scale arrival of Chinese planters following the arrival of the British. They settled in remote river estuaries across Singapore and began planting gambier and pepper to take advantage of the popularity of the cash crops then. These planters brought with them their practice of shifting cultivation, in which primary forest was cleared to cultivate crops. When the soil became exhausted of nutrients, usually by the 15th year of production, and timber and firewood supplies nearby became scarce, these farmers moved onto new virgin land. 
 
 Clearing of forest
 
