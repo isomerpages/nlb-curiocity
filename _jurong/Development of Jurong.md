@@ -47,6 +47,8 @@ The clearing of the primary forests in Jurong and other parts of Singapore was d
 
 The extensive cultivation of gambier in particular was brought about by numerous factors at the time such as the relocation of the gambier market from Riau to Singapore, as well as the lifting of trade tariffs on gambier. By the late 1840s, large expanses of primary forest in Singapore had been indiscriminately cleared and there were some 400 pepper and gambier plantations across the island. By 1855, Singapore was home to an estimated 12.5 million gambier trees and 1.5 million pepper vines in over 540 documented plantations – 27 times more than the estimated 20 plantations that existed on the island a little over three decades ago.
 
+It was not only until the late 1870s that the colonial government started to take an interest in the state of the island's natural forests, and began to take actions to arrest the unregulated and unchecked pace of forest clearance on the island. In 1883, 
+
 Movement of people there...tiger
 
 Development of the transportation system
