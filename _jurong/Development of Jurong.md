@@ -43,6 +43,12 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 
 The early economic activities in the Jurong region altered the land there drastically.  
 
+Clearing of forest
+
+Movement of people there
+
+Development of the transportation system
+
 ### **The Development of the Jurong Industrial Estate**
 
 The development of Jurong as the first industrial estate in Singapore was initiated  create jobs and boost the economy, the government embarked on an industrialisation plan, designating Jurong as the first industrial estate.
