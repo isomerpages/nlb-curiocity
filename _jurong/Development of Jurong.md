@@ -39,6 +39,12 @@ With the gambier industry in Singapore waning in the late 1800s, a new cash crop
 
 started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
 
+### **Impact on Land Use in Jurong**
+
+
+
 ### **The Development of the Jurong Industrial Estate**
 
-In 1961, Dutch economist [Albert Winsemius](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1457_2009-02-11.html) initiated Singapore’s industrialisation programme.3 A land area of 69 sq km in Jurong was chosen as the site for industrial development. Low hills were levelled and the swampland was filled with soil to prepare the land for industrial, residential and recreational developments.4 Jurong Industrial Estate project, Singapore’s first industrial estate, was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.5
+The development of Jurong as the first industrial estate in Singapore was initiated  create jobs and boost the economy, the government embarked on an industrialisation plan, designating Jurong as the first industrial estate.
+
+In 1961, Dutch economist [Albert Winsemius](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1457_2009-02-11.html) initiated Singapore’s industrialisation programme. A land area of 69 sq km in Jurong was chosen as the site for industrial development. Low hills were levelled and the swampland was filled with soil to prepare the land for industrial, residential and recreational developments.4 Jurong Industrial Estate project, Singapore’s first industrial estate, was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.5
