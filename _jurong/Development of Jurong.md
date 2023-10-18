@@ -41,7 +41,7 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 
 ### **Impact on Land Use in Jurong**
 
-
+The early economic activities in the Jurong region altered the land there drastically.  
 
 ### **The Development of the Jurong Industrial Estate**
 
