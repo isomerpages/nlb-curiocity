@@ -71,7 +71,7 @@ Why Jurong?
 
 Jurong Port
 
-To support the development of Jurong Industrial Estate and to take advantage of the natural deep-water harbour it had, the government proposed a new industrial port for the bulk handling of cargo in order to serve the various industries located there.
+To support the development of Jurong Industrial Estate and to take advantage of the natural deep-water harbour it had, the government proposed a new port as Singapore's second part for the bulk handling of cargo in order to serve the various industries located there.
 
 Jurong Island
 
