@@ -86,3 +86,5 @@ Jurong Shipyard
 Jurong Fishery Pond
 
 ### **Creating Land for Jurong**
+
+Land reclamation
