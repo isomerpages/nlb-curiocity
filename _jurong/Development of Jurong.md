@@ -73,6 +73,8 @@ Jurong Island
 
 From labour-intensive to value-added
 
+### **Jurong as a Maritime Hub**
+
 Jurong Port
 
 To support the development of Jurong Industrial Estate and to take advantage of the natural deepwater harbour it had, the government proposed a new port as Singapore's second part for the bulk handling of cargo in order to serve the various industries located there. When it was completed in 1966, the port had five deep-water berths. It was also connected to Bukit Timah by the opening of the Malayan Railway branch line. The port's first customer was the 10,000-ton President van Buren, which arrived from Saigon with 1,300 tons of timber. Thereafter, it would go on to serve 
