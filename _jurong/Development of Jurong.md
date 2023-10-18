@@ -51,7 +51,7 @@ Deforestation in Singapore went unchecked until the late 1870s when the colonial
 
 Generations of human activities on the island and the Jurong region had also caused serious harm to the local wildlife. The destruction of forests, hunting for fun and food, and the illegal animal trade in Singapore led to a decline in many animal species with tigers being one of them. In the 1830s, the growth of gambier and pepper plantations had led to more encounters with tigers, as the latter lost their natural prey and forest protection. Tiger attacks increased in the mid-19th century due to the expansion of gambier and rubber plantations. To address this, the government offered rewards for capturing tigers, which led to a sharp decline in tiger sightings. The last wild tiger in Singapore was shot in 1930 in Choa Chu Kang Village, and this decline was also due to deforestation and the spread of lalang grass.
 
-Development of the transportation system
+The landscape of Jurong was further impacted by the construction of roads and the establishment of small villages with farms. These developments not only provided better access to the area but also led to the transformation of previously undeveloped land into agricultural and residential zones, contributing to the changing face of Jurong.
 
 ### **The Development of the Jurong Industrial Estate**
 
