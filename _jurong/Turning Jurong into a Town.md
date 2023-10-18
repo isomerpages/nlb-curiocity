@@ -3,7 +3,9 @@ title: Turning Jurong into a Town
 permalink: /jurong/jurong-new-town/
 description: ""
 ---
-Reserves
+Development of Jurong New Town
+
+Recreation Spaces
 
 Jurong Bird Park
 
