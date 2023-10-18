@@ -84,3 +84,5 @@ Currently, the port features 32 berths, over 174,000 sq m of warehouse facilitie
 Jurong Shipyard
 
 Jurong Fishery Pond
+
+### **Creating Land for Jurong**
