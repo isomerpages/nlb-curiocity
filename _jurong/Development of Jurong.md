@@ -51,8 +51,6 @@ There was no attempt to control the rate of deforestation until the late 1870s w
 
 Generations of human activity on the island have also wreaked disastrous consequences on the fauna. Continued deforestation ravaged the natural habitats of native fauna and threatened their survival. Hunting, both for sport and consumption, as well as the rampant animal trade in Singapore exacerbated the situation. As a result, species such as the tiger and clouded leopard vanished from Singapore, while others, such as the sambar deer and barking deer, dwindled in numbers. The proliferation of gambier and pepper plantations in the 1830s was linked to a rise in tiger sightings and attacks. Having lost their natural source of prey and the protection of thick forest cover, tigers ventured into the plantations and attacked workers. Tiger attacks became more rampant in the mid-19th century, when gambier plantations, followed by rubber, rapidly expanded in Singapore. In response, the government offered rewards for the capture of tigers, which encouraged many to attempt to hunt and trap the predator. Tiger sightings had dropped drastically by the time the last wild tiger was shot in Singapore in 1930 in Choa Chu Kang Village; besides the success of hunts, the tiger population had shrunk because much of the land had become deforested and was overgrown with lalang.
 
-Movement of people there...tiger
-
 Development of the transportation system
 
 ### **The Development of the Jurong Industrial Estate**
