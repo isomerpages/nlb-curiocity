@@ -61,6 +61,6 @@ The development of Jurong as the first industrial estate in Singapore was initia
 
 The Jurong Industrial Estate project was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.
 
-EDB led
+The development and management of the Jurong Industrial Estate was initially under the purview of the Economic Development Board (EDB). Set up in 1961, its immediate tasks was to attract foreign companies to set up factories in Jurong through the offering industrial financing and incentive packages. In 1967, at the end of the first phase of development, the Jurong Industrial Estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for some 6,500 workers.
 
 JTC led
