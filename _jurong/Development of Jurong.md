@@ -64,3 +64,7 @@ The Jurong Industrial Estate project was kick started with the laying of the fou
 The development and management of the Jurong Industrial Estate was initially under the purview of the Economic Development Board (EDB). Set up in 1961, its immediate tasks was to attract foreign companies to set up factories in Jurong through the offering industrial financing and incentive packages. In 1967, at the end of the first phase of development, the Jurong Industrial Estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for some 6,500 workers.
 
 As Singapore accelerated its industrialisation programme after gaining independence on 9 August 1965, it became clear to the government that the task of managing industrial estates would become more challenging and complex. Therefore, the government decided to remove the responsibility for this work from EDB and assign it to a new agency called Jurong Town Corporation (JTC). Besides managing and developing Singapore’s industrial estates, JTC was also entrusted with the task of providing facilities to improve the well-being of the people working and living in the estates.
+
+Goh's folly?
+
+Why Jurong?
