@@ -53,7 +53,7 @@ Generations of human activities on the island and the Jurong region had also cau
 
 The landscape of Jurong was further impacted by the construction of roads and the establishment of small villages with farms. These developments not only provided better access to the area but also led to the transformation of previously undeveloped land into agricultural and residential zones, contributing to the changing face of Jurong.
 
-### **The Development of the Jurong Industrial Estate**
+### **Developing Jurong as an Industrial Estate**
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
@@ -73,7 +73,7 @@ Jurong Island
 
 From labour-intensive to value-added
 
-### **Jurong as a Maritime Hub**
+### **Developing Jurong as a Maritime Hub**
 
 Jurong Port
 
