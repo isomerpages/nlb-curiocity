@@ -41,7 +41,7 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 
 ### **Impact on Land Use in Jurong**
 
-The early economic activities in the Jurong region had a lasting impact on the landscape there. When the British arrived in 1819, the region was covered in thick primary forests. But by the end of the 19th century, most of the forests had been cleared to make way for plantations, particularly gambier and pepper.
+The early economic activities in the Jurong region had a lasting impact on the landscape there. When the British arrived in 1819, the region was covered in thick primary forests. But by the end of the 19th century, most of the forests had been cleared to make way for plantations.
 
 The clearing of the primary forests in Jurong and other parts of Singapore was due to the growth of plantations
 
