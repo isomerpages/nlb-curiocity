@@ -41,4 +41,4 @@ started mushrooming along the flanks of newly-constructed roads that radiated fr
 
 ### **The Development of the Jurong Industrial Estate**
 
-Transport
+In 1961, Dutch economist [Albert Winsemius](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1457_2009-02-11.html) initiated Singapore’s industrialisation programme.3 A land area of 69 sq km in Jurong was chosen as the site for industrial development. Low hills were levelled and the swampland was filled with soil to prepare the land for industrial, residential and recreational developments.4 Jurong Industrial Estate project, Singapore’s first industrial estate, was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.5
