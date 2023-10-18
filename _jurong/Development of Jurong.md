@@ -92,3 +92,15 @@ Land reclamation
 started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
 
 Kangchu (headman)
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=ea7f0e25-22c4-4db0-acfd-723c87d73679
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
+
+https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/deforestation/
+
+https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=1521df3a-7b37-4440-be44-9ca1f03c538f
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=95b3ff4e-0179-4309-9a47-79aa78ee3da9
