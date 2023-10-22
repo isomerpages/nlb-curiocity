@@ -15,6 +15,8 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-1
 
 The Jurong Town Corporation (JTC) took over responsibility for building and maintaining flats in 1969, and began to build executive and three-room flats to provide a wider array of housing choices.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
+
 More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
