@@ -3,6 +3,8 @@ title: Development of Jurong
 permalink: /jurong/jurong-development/
 description: ""
 ---
+Littered with villages and crocodile-infested rivers, Jurong used to be nothing more than swampland until then-Finance Minister Dr Goh Keng Swee mooted the idea of turning Jurong into the centre of Singapore’s early industrialisation plans.
+
 ### **Early Economic Activities in Jurong**
 
 Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forest to create lands for the establishment of estates and farms.
