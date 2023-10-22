@@ -17,6 +17,8 @@ The Jurong Town Corporation (JTC) took over responsibility for building and main
 
 More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
+
 The JTC tailored its new land and factory development to ever evolving economic needs, and part of this also involved establishing new leisure attractions, amenities and industrial facilities, a number of which have become closely associated with the new Jurong. At the planning stage, some 580ha of land, or 12% of the total, was slated for parks, gardens and other green spaces. The natural heritage of Jurong was also considered, with the upper Sungei Jurong area demarcated as a buffer zone between the industrial and residential areas. Tracts of trees, shrubbery and grass field also separated the two areas. These efforts added a green aspect to the industrial character of Jurong, while also preserving a slice of the area’s natural heritage.
 
 ### **Recreation Spaces in Jurong**
