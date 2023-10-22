@@ -5,7 +5,7 @@ description: ""
 ---
 In just three years, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. By late-1967, Jurong Industrial Estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh saw Jurong as an entire town, and more than just a collction of factories. He said that “life in Jurong cannot be other than spartan”. Thus, JTC also oversaw the construction of recreational facilities, a town centre, and flats to cater to the growing population in Jurong Town. Over the years, these extended to include the Jurong Bird Park, Chinese Garden, Japanese Garden and Jurong Park, Roads, stadiums and hospitals were also constructed.
 
-Development of Jurong New Town
+### **Development of Jurong New Town**
 
 Jurong has long suffered from a perception that it stands locked in a distant corner of the island, too far from everything else even on a little red dot like Singapore. This was the case in the 1960s, when even a plentiful supply of jobs in the new industrial town made little headway in attracting people to work and live there. By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
 
