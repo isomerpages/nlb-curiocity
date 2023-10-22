@@ -3,6 +3,12 @@ title: Development of Jurong
 permalink: /jurong/jurong-development/
 description: ""
 ---
+Littered with villages and crocodile-infested rivers, Jurong used to be nothing more than swampland until then-Finance Minister Dr Goh Keng Swee mooted the idea of turning Jurong into the centre of Singapore’s early industrialisation plans.
+
+It was a risky plan given that Singapore had little experience in creating an industrial town of this size. EDB was tasked to transform Jurong into a hub of factories and industrial activities. This mandate was later passed to Jurong Town Corporation (JTC), which was set up as in 1968.
+
+The project set out to develop a 9,000-acre through land reclamation, resettlement, and infrastructure (roads, power lines, and water) construction.
+
 ### **Early Economic Activities in Jurong**
 
 Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forest to create lands for the establishment of estates and farms. 
