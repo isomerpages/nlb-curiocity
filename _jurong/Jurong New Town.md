@@ -9,7 +9,13 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cf
 
 ### **Development of Jurong New Town**
 
-Jurong has long suffered from a perception that it stands locked in a distant corner of the island, too far from everything else even on a little red dot like Singapore. This was the case in the 1960s, when even a plentiful supply of jobs in the new industrial town made little headway in attracting people to work and live there. By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
+Jurong has long suffered from a perception that it stands locked in a distant corner of the island, too far from everything else even on a little red dot like Singapore. This was the case in the 1960s, when even a plentiful 
+
+
+Alhtough the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. Due to its location, Jurong suffered from a perception that it stands locked in a distant corner of the island, too far from everything else. 
+
+
+By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
