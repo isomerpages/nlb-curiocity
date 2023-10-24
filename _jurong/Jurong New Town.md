@@ -21,6 +21,8 @@ Shops and stadiums
 
 By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
 
+transportation
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
 JTC also tailored the design of its housing estates to include spaces for recreational and greenery. At the planning stage, some 580ha of land, or 12% of the total, was slated for parks, gardens and other green spaces. The natural heritage of Jurong was also considered, with the upper Sungei Jurong area demarcated as a buffer zone between the industrial and residential areas. Tracts of trees, shrubbery and grass field also separated the two areas. These efforts added a green aspect to the industrial character of Jurong, while also preserving a slice of the area’s natural heritage.
