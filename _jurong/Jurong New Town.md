@@ -9,7 +9,7 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cf
 
 ### **Development of Jurong New Town**
 
-Although the rapid development of Jurong industrial estate created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as supplementing them with shops, social amenities, recreation spaces, and a better transportation system.
+Although the rapid development of Jurong industrial estate created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as the building of shops, social amenities, recreation spaces, and a better transportation system.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
@@ -19,9 +19,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-1
 
 In these housing estates, JTC also provided a wider array of housing choices for home seekers by building executive and three-room flats. This is in contrast to the initial phrase of the development of Jurong Industrial Estate where low-cost one or two-rooms flats were constructed. 
 
-More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. 
+More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. 
 
-By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
+By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
