@@ -7,7 +7,7 @@ In just three years, Jurong grew into a bustling hub of factories and workers, a
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
 
-### **Development of Jurong New Town**
+### **Development of Housing Estates in Jurong**
 
 Although the rapid development of Jurong industrial estate created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as the building of shops, social amenities, recreation spaces, and a better transportation system.
 
@@ -15,7 +15,7 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-1
 
 Taman Jurong, our heritage, our home : a collection of stories (307.76095957 TAM)
 
-The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong as a housing estate. In building up the first housing estates there including the likes of Taman Jurong in the late 1960s, as well as Boon Lay Gardens, Teban Gardens and Pandan Gardens in the 1970s, JTC ensured they were located farther away from the heavy and medium industries along the coast by the throughway, Jalan Ahmad Ibrahim.
+The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong for home seekers. In building up the first housing estates there including the likes of Taman Jurong in the late 1960s, as well as Boon Lay Gardens, Teban Gardens and Pandan Gardens in the 1970s, JTC ensured they were located farther away from the heavy and medium industries along the coast by the throughway, Jalan Ahmad Ibrahim.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
