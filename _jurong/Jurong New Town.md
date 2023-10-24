@@ -17,7 +17,7 @@ The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
-In these housing estates, JTC also provide a wider array of housing choices for home seekers by building executive and three-room flats. This is in contrast to the initial phrase of the development of Jurong Industrial Estate where low-cost one or two-rooms flats were constructed. 
+In these housing estates, JTC also provided a wider array of housing choices for home seekers by building executive and three-room flats. This is in contrast to the initial phrase of the development of Jurong Industrial Estate where low-cost one or two-rooms flats were constructed. 
 
 More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. 
 
