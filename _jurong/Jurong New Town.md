@@ -13,9 +13,11 @@ Although the rapid development of Jurong industrial estate had created a steady 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
-The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong as a housing estate.  for building and maintaining flats in 1969, and began to build executive and three-room flats to provide a wider array of housing choices.
+The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong as a housing estate. In building up the first housing estates there including the likes of Taman Jurong in the late 1960s, as well as Boon Lay Gardens, Teban Gardens and Pandan Gardens in the 1970s, JTC ensured they were located farther away from the heavy and medium industries along the coast by the throughway, Jalan Ahmad Ibrahim.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
+
+   for building and maintaining flats in 1969, and began to build executive and three-room flats to provide a wider array of housing choices.
 
 More variety in flat sizes and designs followed, and the JTC was charged with the growth of Jurong as a residential town as well as balancing environmental and industrial pressures. By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. 
 
