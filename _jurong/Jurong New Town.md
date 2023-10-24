@@ -9,7 +9,7 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cf
 
 ### **Development of Jurong New Town**
 
-Although the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as supplementing them with shops, social amenities, recreation spaces, and a better transportation system.
+Although the rapid development of Jurong industrial estate created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as supplementing them with shops, social amenities, recreation spaces, and a better transportation system.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
