@@ -9,11 +9,11 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cf
 
 ### **Development of Jurong New Town**
 
-Although the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to not only build more housing in Jurong, but also shops, social amenities and recreation spaces.
+Although the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to not only build better housing in Jurong, but also supplement it with shops, social amenities and recreation spaces.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
-The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong as a housing estate. for building and maintaining flats in 1969, and began to build executive and three-room flats to provide a wider array of housing choices.
+The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong as a housing estate.  for building and maintaining flats in 1969, and began to build executive and three-room flats to provide a wider array of housing choices.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
