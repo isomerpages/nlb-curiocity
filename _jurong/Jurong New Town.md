@@ -9,7 +9,7 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cf
 
 ### **Development of Jurong New Town**
 
-Although the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. 
+Although the rapid development of Jurong industrial estate had created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to shore up the attractiveness of Jurong as a housing estate through the introduction of bigger flats, a better transport system and a larger variety of recreational spaces.
 
 
 By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
