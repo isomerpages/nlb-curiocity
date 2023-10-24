@@ -38,3 +38,7 @@ Jurong Drive-in Cinema
 Chinese Garden
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204
+
+Schools?
+
+Makan?
