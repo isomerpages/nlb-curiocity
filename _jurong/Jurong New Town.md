@@ -19,7 +19,7 @@ The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
-Equipped with amenities ranging from CC, playgrounds,
+Besides offering bigger housing choices, JTC also supplemented them with amenities such as Community Centres and playgrounds. 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
