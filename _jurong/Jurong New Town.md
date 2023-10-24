@@ -25,7 +25,7 @@ By 1969, the resident population of Jurong stood at about 16,000, living in flat
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
-The JTC tailored its new land and factory development to ever evolving economic needs, and part of this also involved establishing new leisure attractions, amenities and industrial facilities, a number of which have become closely associated with the new Jurong. At the planning stage, some 580ha of land, or 12% of the total, was slated for parks, gardens and other green spaces. The natural heritage of Jurong was also considered, with the upper Sungei Jurong area demarcated as a buffer zone between the industrial and residential areas. Tracts of trees, shrubbery and grass field also separated the two areas. These efforts added a green aspect to the industrial character of Jurong, while also preserving a slice of the area’s natural heritage.
+JTC also tailored the design of its housing estates to include spaces for recreational and greenery. At the planning stage, some 580ha of land, or 12% of the total, was slated for parks, gardens and other green spaces. The natural heritage of Jurong was also considered, with the upper Sungei Jurong area demarcated as a buffer zone between the industrial and residential areas. Tracts of trees, shrubbery and grass field also separated the two areas. These efforts added a green aspect to the industrial character of Jurong, while also preserving a slice of the area’s natural heritage.
 
 ### **Recreation Spaces in Jurong**
 
