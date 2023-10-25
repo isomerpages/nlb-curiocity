@@ -42,7 +42,11 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635
 
 The [Chinese Garden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204) in Jurong was constructed by the Jurong Town Corporation (JTC) in 1975 as part of the broader development plan for Jurong Park. The concept, dating back to 1968, included the creation of a green belt with landscaped gardens, a lake, and open spaces, with three islands designated for a Chinese garden, a Japanese garden, and a tropical garden. The design concept for the Chinese Garden was developed by Taiwanese expert Yu Yuen Chen, drawing inspiration from northern Chinese imperial architecture during the Song dynasty and the Summer Palace in Beijing. Notable features of the garden include marble stone lions, the 13-arch White Rainbow Bridge, an Arch and Main Gate complex, a Stone Boat and Tea House, and a seven-story pagoda. Over the years, the garden has seen additions, such as a Bonsai Garden and the Live Turtle and Tortoise Museum, and has become a popular location for Chinese New Year and Mid-Autumn Festival celebrations, featuring large-scale festive displays.
 
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204
+Science Centre
+
+Jurong Park
+
+Jurong Hill Park and Lookout Tower
 
 stadiums
 
