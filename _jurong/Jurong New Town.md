@@ -50,6 +50,6 @@ Jurong Hill Park and Lookout Tower
 
 stadiums
 
-Schools?
+Schools and universities
 
 Makan?
