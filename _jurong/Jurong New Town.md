@@ -33,7 +33,7 @@ JTC also tailored the design of its housing estates to include spaces for recrea
 
 ### **Recreation Spaces in Jurong**
 
-Jurong Bird Park
+Jurong Bird Park was founded due to the vision of then Minister for Finance, Goh Keng Swee, who was inspired by a visit to the Rio Aviary in Rio de Janeiro, Brazil, during a World Bank meeting in 1967. Recognizing the value of a bird park as a recreational attraction during a period of rapid industrialization and urbanization in Singapore, he proposed its creation in 1968. The park, designed by John Yealland and J. Toovey, opened in 1970 and attracted visitors from around the world. Over the years, it introduced new exhibits and features, including the "World of Darkness" and underwent extensive redevelopment. In 2014, plans were announced to relocate the park to Mandai, where it will be part of a larger precinct of nature-themed attractions by 2023, featuring a vast collection of birds in various habitat-themed aviaries.
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635c8f0b89
 
