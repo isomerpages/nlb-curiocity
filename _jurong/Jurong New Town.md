@@ -38,7 +38,7 @@ JTC also tailored the design of its housing estates to include spaces for recrea
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635c8f0b89
 
   
-Singapore's only open-air drive-in cinema, the Jurong Drive-in, opened on July 14, 1971, next to the Japanese Gardens in Jurong, with then Minister of Culture, Jek Yuen Thong, officiating the event. This brainchild of the Cathay Organisation was the largest drive-in cinema in Asia, accommodating 900 cars and an additional 300 people in its walk-in gallery. It offered a unique movie-watching experience, with a giant screen, car speakers, and screenings of popular English and Hong Kong action films. However, as the novelty wore off and due to challenges such as unpredictable weather and attendance decline, the drive-in cinema faced closure. In 1985, due to poor attendances and competition from video piracy, the Jurong Drive-in cinema closed its doors after 15 years of operation.
+Jurong Drive-in was Singapore's first open-air cinema. Opened on 14 July 1971 by then Minister of Culture, Jek Yuen Thong, it was once located next to the Japanese Gardens. Conceived by Cathay Organisation, it was the largest drive-in cinema in Asia and could accommodate 900 cars as well as an additional 300 people in its walk-in gallery. The cinema offered a unique movie-watching experience, with a giant screen, car speakers, and screenings of popular English and Hong Kong action films. However, as the novelty wore off and due to challenges such as unpredictable weather and attendance decline, the drive-in cinema was forced to close its doors in 1985 after 15 years of operation.
 
 Chinese Garden
 
