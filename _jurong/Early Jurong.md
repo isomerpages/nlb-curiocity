@@ -9,6 +9,7 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 
  the areas we know today as Jurong West and Boon Lay were once Peng Kang, while Jurong itself was a samller slice of land between Peng Keng and Bukit Timah. be found in early colonial maps of Singapore, often associated that we know today is largely associated  demarcated as a large area today, it was vastly different back then.
 
+The development of Bras Basah during its early days is recorded in the Maps Collection at the National Archives of Singapore. Witness its progress by scrolling through some of the maps below. You can also compare the changes by clicking on past maps and overlap them with the present one using our [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
 ---
 
@@ -20,8 +21,6 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 </details>
 
 ---
-
-The development of Bras Basah during its early days is recorded in the Maps Collection at the National Archives of Singapore. Witness its progress by scrolling through some of the maps below. You can also compare the changes by clicking on past maps and overlap them with the present one using our [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
 |   | 
 |:--------:| 
