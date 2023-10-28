@@ -13,6 +13,11 @@ The project set out to develop a 9,000-acre through land reclamation, resettleme
 
 Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forest to create lands for the establishment of estates and farms. 
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| This is the *Plan of the Town of Singapore* by Lt. Philip Jackson. Also known as Raffles Town Plan or Jackson Plan, it was published in 1828. Besides showing the location of the ethnic enclaves that Raffles envisioned with the Town Planning Committee in 1822, the map also noted that Bras Basah Road was initially known as Church Street and Selegy Street. (Image Credit: [Survey Department, Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad 
 
 After the British arrived in 1819, a significant portion of Singapore's land was used for growing commercial crops, with the most important ones being pepper, gambier, nutmeg, coconut, pineapple, and rubber. In places like Jurong and others in the western part of the island, including Peng Kang, Choa Chu Kang, and Bukit Timah, the landscape was initially covered with gambier and pepper plantations for most of the 19th century. However, these were later replaced by rubber and pineapple estates in the early 20th century. The prevalence of gambier and pepper plantations in the western and northern parts of Singapore during the 19th century is evident in the 1885 Map of The Island of Singapore and Its Dependencies.
