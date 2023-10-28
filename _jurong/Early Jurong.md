@@ -64,25 +64,16 @@ Who is Chew Boon Lay quote
 
 The deforestation of Jurong and its adjacent areas like Peng Keng attracted new settlers to the region. The majority of these settlers were Chinese, and over time, they established villages in the area. They joined the existing local Malay and Orang Laut communities, who had been residing there, particularly along the coastal areas, even before the arrival of the British.
 
-https://www.roots.gov.sg/Collection-Landing/listing/1046292
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad
-
-The Orang Laut were sea and river-based nomadic communities who had been living in Singapore and the surrounding region since at least the 16th century. The British documented some of their tribes or sukus after their arrival, including Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat, and Orang Sembulun. The Orang Sembulun were likely situated in Pulau Samulun, an island off the coast of Jurong at the end of the Jurong River. The image above, a lithograph, shows a canoe with an American flag on its stern approaching huts along the Jurong River bank. It was created by Peter Bernhard Wilhelm Heine, who was part of Commodore Matthew Perry's 1854 expedition to Japan.
-
-Malay villages
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad
-
-In addition to the Orang Laut, the local Malay communities had long been residing along the Jurong River and the coastal areas of Jurong. Although they had distinct cultural backgrounds, the Malays and the Orang Laut shared a mutually beneficial relationship, often serving as the naval forces for various Malay kingdoms. Both communities relied on the resources of the land and sea, engaging in subsistence fishing, collecting plants and fruits from the forest for sustenance and medicinal purposes, and utilizing freshwater streams. The image above is a photograph from the 1950s depicting a fishing village along the Jurong River, illustrating the historical significance of these activities in the region.
-
-Hong Kah village: https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e6501-1161-11e3-83d5-0050568939ad
-
-The arrival of the British in 1819 led to the influx of new settlers in the Jurong area, primarily from China. These settlers, mainly from the Ann Kway Hokkien community in Anxi county, Fujian Province, took on the challenging task of clearing forests and swamps for the establishment of pepper and gambier plantations, where they later worked as laborers. They were eventually joined by Teochew migrants from Jieyang Province. Both the Hokkiens and Teochews established villages, or kampongs, in the area, with many of these kampongs situated between the 7th and 18th milestone along Jurong Road, one of the oldest roads in western Singapore. An example of such a kampong is Hong Kah Village, captured in the photograph from 1986. Established in the early 1800s, it was originally located at the 12th milestone of Jurong Road. Its name, derived from the Hokkien and Teochew term for "bestowing a religion," also referred to Chinese Christians at the time.
-
-Sin Nan public school: https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad
-
-In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School.
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| The Orang Laut were sea and river-based nomadic communities who had been living in Singapore and the surrounding region since at least the 16th century. The British documented some of their tribes or sukus after their arrival, including Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat, and Orang Sembulun. The Orang Sembulun were likely situated in Pulau Samulun, an island off the coast of Jurong at the end of the Jurong River. The image above, a lithograph, shows a canoe with an American flag on its stern approaching huts along the Jurong River bank. It was created by Peter Bernhard Wilhelm Heine, who was part of Commodore Matthew Perry's 1854 expedition to Japan. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| In addition to the Orang Laut, the local Malay communities had long been residing along the Jurong River and the coastal areas of Jurong. Although they had distinct cultural backgrounds, the Malays and the Orang Laut shared a mutually beneficial relationship, often serving as the naval forces for various Malay kingdoms. Both communities relied on the resources of the land and sea, engaging in subsistence fishing, collecting plants and fruits from the forest for sustenance and medicinal purposes, and utilizing freshwater streams. The image above is a photograph from the 1950s depicting a fishing village along the Jurong River, illustrating the historical significance of these activities in the region. (Image Credit: [Han Chou Yuan Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| The arrival of the British in 1819 led to the influx of new settlers in the Jurong area, primarily from China. These settlers, mainly from the Ann Kway Hokkien community in Anxi county, Fujian Province, took on the challenging task of clearing forests and swamps for the establishment of pepper and gambier plantations, where they later worked as laborers. They were eventually joined by Teochew migrants from Jieyang Province. Both the Hokkiens and Teochews established villages, or kampongs, in the area, with many of these kampongs situated between the 7th and 18th milestone along Jurong Road, one of the oldest roads in western Singapore. An example of such a kampong is Hong Kah Village, captured in the photograph from 1986. Established in the early 1800s, it was originally located at the 12th milestone of Jurong Road. Its name, derived from the Hokkien and Teochew term for "bestowing a religion," also referred to Chinese Christians at the time. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e6501-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 Quote Orang Laut (islands)
 
@@ -91,3 +82,5 @@ Quote Jurong Road
 Hong Kah Village
 
 **For more information on the history of early Jurong, please consult the following resources:**
+
+https://www.roots.gov.sg/Collection-Landing/listing/1046292
