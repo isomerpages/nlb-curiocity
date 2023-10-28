@@ -73,29 +73,6 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/dffc2918-1161-1
 As Singapore intensified its industrialization efforts after gaining independence on August 9, 1965, it became evident to the government that managing industrial estates would become increasingly intricate and demanding. Consequently, the government made the decision to transfer this responsibility from the Economic Development Board (EDB) to a newly established agency known as Jurong Town Corporation (JTC). In addition to managing and expanding Singapore's industrial estates, JTC was also given the mandate to provide amenities that would enhance the quality of life for those working and residing within these estates.
 Goh's folly?
 
-Why Jurong?
-
-Jurong Island
-
-From labour-intensive to value-added
-
-Industries
-
-Manufacturing
-
-In the area of manufacturing, Winsemius encouraged the setting up of low-value industries, such as by employing women in factories to produce shirts and pyjamas. This industry had low barriers to entry, as the women had prior experience and sewing machines could easily be rented.45 When EDB opened its first overseas centres in Hong Kong to attract foreign investors to Singapore in the early 1960s, the textile and garment industry had already taken root in Singapore. The prospect of a common Malaysian market attracted Hong Kong garment manufacturers such as Wing Tai Holdings, which stayed on after 1965 to export garments from Singapore, supported by a large quota under the Multi-Fibre Agreement.46,47 The early textile and garment factories (e.g., Pelican Textile) were sited in Jurong Industrial Estate.48
-
-The manufacturing of electronics was another early labour-intensive industry that employed large numbers of unskilled workers. As Dr Goh Keng Swee put it: “The electronic components we make in Singapore probably require less skill than that required by barbers or cooks, consisting mostly of repetitive manual operations.” One of the electronics companies courted by EDB was Texas Instruments from the United States, which set up its manufacturing facility in Kallang Basin Industrial Estate in 1968, employing 1,400 workers
-
-Petrochemical Industry
-
-Apart from manufacturing, shipbuilding and ship repair, the petrochemical industry was another economic pillar that grew Singapore’s fortunes in the 1960s. Port facilities for the petrochemical industry were actually developed as early as 1852 when the Peninsular and Oriental Steam Navigation Company opened its first coal bunkering pier (forerunner of today’s petroleum refining and bunkering industries) to meet the fuelling demands of its steamships. In 1894, Shell Transport and Trading Company established its oil storage and wharf facilities on Pulau Bukom to serve the Far East, other Asian markets and Australia.66 After the Pioneer Industries Ordinance came into effect in 1959, Shell became the first foreign company to receive a pioneer certificate for its investment to build an oil refinery on Pulau Bukom.6
-
-Electronics
-
-Shipbuilding
-
-As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
 
 ### **Infrastructural Development in Jurong**
 
@@ -138,3 +115,27 @@ https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=1521df3a-7b37-4440-be44-9ca1f03c538f
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=95b3ff4e-0179-4309-9a47-79aa78ee3da9
+
+Why Jurong?
+
+Jurong Island
+
+From labour-intensive to value-added
+
+Industries
+
+Manufacturing
+
+In the area of manufacturing, Winsemius encouraged the setting up of low-value industries, such as by employing women in factories to produce shirts and pyjamas. This industry had low barriers to entry, as the women had prior experience and sewing machines could easily be rented.45 When EDB opened its first overseas centres in Hong Kong to attract foreign investors to Singapore in the early 1960s, the textile and garment industry had already taken root in Singapore. The prospect of a common Malaysian market attracted Hong Kong garment manufacturers such as Wing Tai Holdings, which stayed on after 1965 to export garments from Singapore, supported by a large quota under the Multi-Fibre Agreement.46,47 The early textile and garment factories (e.g., Pelican Textile) were sited in Jurong Industrial Estate.48
+
+The manufacturing of electronics was another early labour-intensive industry that employed large numbers of unskilled workers. As Dr Goh Keng Swee put it: “The electronic components we make in Singapore probably require less skill than that required by barbers or cooks, consisting mostly of repetitive manual operations.” One of the electronics companies courted by EDB was Texas Instruments from the United States, which set up its manufacturing facility in Kallang Basin Industrial Estate in 1968, employing 1,400 workers
+
+Petrochemical Industry
+
+Apart from manufacturing, shipbuilding and ship repair, the petrochemical industry was another economic pillar that grew Singapore’s fortunes in the 1960s. Port facilities for the petrochemical industry were actually developed as early as 1852 when the Peninsular and Oriental Steam Navigation Company opened its first coal bunkering pier (forerunner of today’s petroleum refining and bunkering industries) to meet the fuelling demands of its steamships. In 1894, Shell Transport and Trading Company established its oil storage and wharf facilities on Pulau Bukom to serve the Far East, other Asian markets and Australia.66 After the Pioneer Industries Ordinance came into effect in 1959, Shell became the first foreign company to receive a pioneer certificate for its investment to build an oil refinery on Pulau Bukom.6
+
+Electronics
+
+Shipbuilding
+
+As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
