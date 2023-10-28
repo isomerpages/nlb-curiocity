@@ -79,6 +79,16 @@ Jurong Island
 
 From labour-intensive to value-added
 
+Industries
+
+Manufacturing
+
+Petrochemical Industry
+
+Apart from manufacturing, shipbuilding and ship repair, the petrochemical industry was another economic pillar that grew Singapore’s fortunes in the 1960s. Port facilities for the petrochemical industry were actually developed as early as 1852 when the Peninsular and Oriental Steam Navigation Company opened its first coal bunkering pier (forerunner of today’s petroleum refining and bunkering industries) to meet the fuelling demands of its steamships. In 1894, Shell Transport and Trading Company established its oil storage and wharf facilities on Pulau Bukom to serve the Far East, other Asian markets and Australia.66 After the Pioneer Industries Ordinance came into effect in 1959, Shell became the first foreign company to receive a pioneer certificate for its investment to build an oil refinery on Pulau Bukom.6
+
+Electronics
+
 ### **Developing Jurong as a Maritime Hub**
 
 Jurong Port
@@ -99,9 +109,7 @@ As part of the overall economic strategy in the 1960s, shipbuilding and repair f
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
 
-Petrochemical Industry
 
-Apart from manufacturing, shipbuilding and ship repair, the petrochemical industry was another economic pillar that grew Singapore’s fortunes in the 1960s. Port facilities for the petrochemical industry were actually developed as early as 1852 when the Peninsular and Oriental Steam Navigation Company opened its first coal bunkering pier (forerunner of today’s petroleum refining and bunkering industries) to meet the fuelling demands of its steamships. In 1894, Shell Transport and Trading Company established its oil storage and wharf facilities on Pulau Bukom to serve the Far East, other Asian markets and Australia.66 After the Pioneer Industries Ordinance came into effect in 1959, Shell became the first foreign company to receive a pioneer certificate for its investment to build an oil refinery on Pulau Bukom.6
 
 Jurong Fishery Pond
 
