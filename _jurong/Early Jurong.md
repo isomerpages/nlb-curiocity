@@ -41,7 +41,7 @@ Turnbull quote
 
 ### **Peng Kang and Jurong**
 
-During the 19th century, extensive deforestation occurred in and around Jurong to create space for gambier plantations. The popularity of this cash crop was so significant that Jurong was occasionally called "Peng Kang," a term possibly derived from the Malay practice of boiling gambier leaves. However, it is important to note that Peng Kang is a specific survey district or Mukim located to the west of Jurong, encompassing the areas we now recognise as Jurong West and Boon Lay.
+During the 19th century, huge tracts of primary forest throughout the island including the Jurong region were cleared to make way for plantations, particularly gambier. The popularity of this cash crop was so significant that Jurong was occasionally called "Peng Kang," a term derived from the practice of boiling gambier leaves. However, it is important to note that Peng Kang is a specific survey district or Mukim located to the west of Jurong, encompassing the areas we now recognise as Jurong West and Boon Lay.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb85ff41-115c-11e3-83d5-0050568939ad
 
