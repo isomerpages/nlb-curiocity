@@ -46,19 +46,19 @@ During the 19th century, extensive deforestation occurred in and around Jurong t
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb85ff41-115c-11e3-83d5-0050568939ad
 
-The name Peng Keng (together with Jurong) could first be seen in maps dating back to as early as the first half of the 19th century. For example, in this 1844 map of Singapore Island which was surveyed and drawn by Government Surveyor John Turnbull Thomson, the name "Pengkang" is indicated west of Sungei Jurong and adjacent to Jurong, which is spelt "Joorong". This map was produced during Thomson's tenure as Government Surveyor where he conducted a series of important surveys including the allotment and topotraphical survey of the island as well as the marine survey of the Straits of Singapore.
+The name "Peng Keng" (along with Jurong) can be traced back to maps from the early 19th century. For instance, in a 1844 map of Singapore Island surveyed and drawn by Government Surveyor John Turnbull Thomson, "Pengkang" is shown to the west of Sungei Jurong and next to "Joorong," the spelling used for Jurong at the time. This map was created during Thomson's tenure as Government Surveyor, during which he conducted significant surveys, including the allocation and topographical survey of the island and the marine survey of the Straits of Singapore. These early maps provide historical insights into the geographical names and features of the Jurong area.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad
 
-In the 19th century, large tracts of primary forest in Peng Keng as well as in other parts of the island were cleared to make way for plantations. In this 1855 map of the island of Singapore, the plantations in Peng Keng as well as its surronding including Tengah (spelt "Tengeh"), Lim Chu Kang, Jurong and Pandan were predominately gambier and pepper.
+During the 19th century, significant portions of primary forests in Peng Keng, along with other parts of the island, were cleared to establish plantations. In a 1855 map of Singapore Island, the plantations in Peng Keng and its surrounding areas, including Tengah (spelled "Tengeh"), Lim Chu Kang, Jurong, and Pandan, were primarily dedicated to the cultivation of gambier and pepper. This map offers a historical snapshot of the dominant crops and land use in these regions during that era.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
 
-The gambier industry waned in the late 1800s, but rubber, a new cash crop, started to grow in prominence. Boosted by global demand for rubber in the early 1900s, rubber plantations replaced gambier estates. Prominent businessmen who owned rubber plantations in Jurong included pioneer entrepreneur Chew Boon Lay. Aside from rubber, Chew was involved in many businesses including barter trading and the Ho Ho Biscuit Factory, which was set up in 1898. Chew died in 1933 and was buried in Bukit Brown Cemetery. Today, Boon Lay Road and Boon Lay Mass Rapid Transit (MRT) station were both named after him.
+The gambier industry saw a decline in the late 1800s, but during the early 1900s, rubber, a new cash crop, gained prominence, largely due to global demand. This shift led to the replacement of gambier estates with rubber plantations, a change exemplified by influential entrepreneurs like Chew Boon Lay. Besides his involvement in rubber, Chew had diverse business interests, including barter trading and the establishment of the Ho Ho Biscuit Factory in 1898. Chew passed away in 1933 and was laid to rest in Bukit Brown Cemetery. Today, his legacy is remembered through the naming of Boon Lay Road and the Boon Lay Mass Rapid Transit (MRT) station in his honor.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
-Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's....
+Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's.
 
 Peng Kang meaning
 
