@@ -74,7 +74,7 @@ As Singapore intensified its industrialization efforts after gaining independenc
 Goh's folly?
 
 
-### **Infrastructural Development in Jurong**
+### **Infrastructural Development**
 
 Jurong Port
 
