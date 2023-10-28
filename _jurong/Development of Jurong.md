@@ -36,7 +36,7 @@ As the gambier industry in Singapore declined in the late 1800s, a new cash crop
 
 **Kang chu system**
 
-The plantations operated by the Chinese was operated under a system where they were headed by a headman or *kangchu* (literally “lord of the river” in Teochew). The *kangchu* would convert tracts of virgin jungles around a river catchment area into plantations turning them into *bangsals* (“shed” or “lean-to shelter” in Malay)which were the areas cleared and cultivated with gambier and pepper, and included the processing facilities and accomodation for the workers. Averaging between 10 and 50 acres, each *bangsal* usually had around 10 workers. As bangsals were located along major rivers including Jurong River, the settlement of each plantation cluster was known as *Kangkar* (or literally "foot of the river" in Teochew).
+The Chinese plantations were organised under a system led by a headman known as a "kangchu," which translates to "lord of the river" in Teochew. The kangchu oversaw the transformation of virgin jungle areas near river catchments into plantations. These areas were also referred to as "bangsals" (“shed” or “lean-to shelter” in Malay) in reference to the cultivated zones where gambier and pepper were grown as well as the processing facilities and accommodations for the workers within. Typically covering an area of 10 to 50 acres, each bangsal usually employed around 10 workers. These bangsals were situated along major rivers, including the Jurong River, and the settlements of each plantation cluster were known as "Kangkar", which means "foot of the river" in Teochew.
 
 ### **Impact on the Landscape of Jurong**
 
