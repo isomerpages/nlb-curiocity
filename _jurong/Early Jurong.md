@@ -58,7 +58,7 @@ The gambier industry saw a decline in the late 1800s, but during the early 1900s
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
-Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station which is located along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim VI, which was assigned in the early 1900s is still in used today by the Singapore Land Authority.
+While Peng Keng has been renamed Jurong West and Boon Lay, its historical presence can still be observed through Peng Keng Avenue and the forthcoming Peng Keng Hill MRT station along the Jurong Regional Line. Additionally, Peng Keng's survey district number, Mukim VI, which was designated in the early 1900s, continues to be in use today by the Singapore Land Authority, preserving the historical connection of this area to its past name.
 
 Peng Kang meaning
 
