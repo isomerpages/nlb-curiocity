@@ -56,7 +56,7 @@ The landscape of Jurong was further impacted by the construction of roads and th
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
-jurong mudland photo
+https://www.nas.gov.sg/archivesonline/photographs/record-details/88d8e82f-438e-11e4-859c-0050568939ad
 
 The development of Jurong as the first industrial estate in Singapore was initiated in 1961 with the aim to create jobs and boost the economy. The brainchild behind this industrialisation programme was Dutch economist Albert Winsemius. A land area of 69 sq km in Jurong was chosen as the site for industrial development. To realise it, low hills were levelled and the swampland was filled with soil to prepare the land for industries and infrastructure as well as residential and recreational developments.
 
@@ -64,7 +64,11 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/29491c3c-1162-1
 
 The Jurong Industrial Estate project was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/b8a4d8a7-1161-11e3-83d5-0050568939ad
+
 The development and management of the Jurong Industrial Estate was initially under the purview of the Economic Development Board (EDB). Set up in 1961, its immediate tasks was to attract foreign companies to set up factories in Jurong through the offering industrial financing and incentive packages. In 1967, at the end of the first phase of development, the Jurong Industrial Estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for some 6,500 workers.
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/dffc2918-1161-11e3-83d5-0050568939ad 
 
 As Singapore accelerated its industrialisation programme after gaining independence on 9 August 1965, it became clear to the government that the task of managing industrial estates would become more challenging and complex. Therefore, the government decided to remove the responsibility for this work from EDB and assign it to a new agency called Jurong Town Corporation (JTC). Besides managing and developing Singapore’s industrial estates, JTC was also entrusted with the task of providing facilities to improve the well-being of the people working and living in the estates.
 
