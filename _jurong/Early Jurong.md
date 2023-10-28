@@ -9,9 +9,30 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 
  the areas we know today as Jurong West and Boon Lay were once Peng Kang, while Jurong itself was a samller slice of land between Peng Keng and Bukit Timah. be found in early colonial maps of Singapore, often associated that we know today is largely associated  demarcated as a large area today, it was vastly different back then.
 
+
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">“Bras Basah” is a misspelling of “beras basah”, which means “wet rice” in Malay. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below Victor Savage’s and Brenda Yeoh’s explanation in <span style="font-style: italic;">Singapore Street Names: A Study of Toponymics</span> (2013) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850" target="_blank">Call no.: RSING 915.9570014 SAV</a>).</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The road was so-called because in the early days, wet rice was laid to dry here on the banks of the "fresh water stream" (now the Stamford Canal). Another version is that before the area between Bras Basah Road and Stamford was filled in, cargoes of rice were brought by boats into the lagoon and spread to dry on the road. On one occasion, high tides wet the rice."</span>
+	
+</details>
+
+---
+
+The development of Bras Basah during its early days is recorded in the Maps Collection at the National Archives of Singapore. Witness its progress by scrolling through some of the maps below. You can also compare the changes by clicking on past maps and overlap them with the present one using our [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| The 1828 map of Singapore by Captain James Franklin and Lieutenant Philip Jackson shown above is one of the earliest maps to accurately depict Singapore Island. It provides valuable information about the natural features associated with Jurong, highlighting the Jurong and Pandan rivers and identifies the islands that now collectively form Jurong Island, including Pulau Ayer Chawan, Pulau Seraya, and Pulau Sakra. The map also marks geographical features in the Tuas area, such as Tanjong Rawa (a promontory) and Tanjong Gull (Tanjong Gul). These details offer insights into the historical geography of the Jurong region. (Image Credit: [Survey Department, Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-2.jpg) |
+| The natural features of Jurong, including the Jurong and Pandan rivers, were also depicted on the 1855 hydrographic survey of the Straits of Singapore shown above. This survey, conducted by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, stands as one of the earliest comprehensive hydrographic surveys of the region carried out by a surveyor based locally. It provides a detailed and valuable portrayal of the geographical characteristics of the Jurong area. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad){:target="_blank"})|
+
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad
 
-Captain James Franklin and Lieutenant Philip Jackson's 1828 map of Singapore (shown above), which is one of the earliest maps that properly captured the outline of Singapore Island, details a number of natural features associated with Jurong including the Jurong and Pandan rivers, as well as the former islands that made up Jurong Island today such as Pulau Ayer Chawan, Pulau Seraya and Pulau Sakra. In the Tuas area, Tanjong (or promontory) Rawa and Tanjong Gull (Tanjong Gul) were also indicated in the map.
+
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/322a6eb2-035e-11e9-9481-001a4a5ba61b
 
@@ -31,7 +52,7 @@ Turnbull quote
 
 ### **Peng Kang and Jurong**
 
-In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as "Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a survey district (or Mukim) that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
+In the 19th century, much of the forests in and around Jurong were cleared to make way for gambier plantations. The cash crop was so popular that Jurong was sometimes referred to as&nbsp;"Peng Kang", which may be derived from a Malay term for boiling gambier leaves. But in general, Peng Kang is a survey district (or Mukim) that is west of Jurong and it covers the areas we know today as Jurong West and Boon Lay.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb85ff41-115c-11e3-83d5-0050568939ad
 
@@ -75,7 +96,7 @@ The establishment of plantations after the arrival of the British in 1819 brough
 
 Sin Nan public school: https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad
 
-In the early 20th century, numerous factors including the proliferation of rubber plantations, the establishment of British military bases and expansion of the road and transportation network in the rural areas including Jurong saw the growth of existing and new villages. By the end of the 1950s, many of these rural villages were not only equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. Shown above is the Sin Nan Public School which was established in 1932 near Hong Kah Village. Today, the school is located in Jurong West and is known as Xingnan Primary School.
+In the early 20th century, numerous factors including the proliferation of rubber plantations, the establishment of British military bases and expansion of the road and transportation network in the rural areas including Jurong saw the growth of existing and new villages. By the end of the 1950s, many of these rural villages were not only equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. Shown above is the Sin Nan Public School which was established in 1932&nbsp;near Hong Kah Village. Today, the school is located in Jurong West and is known as Xingnan Primary School.
 
 Quote Orang Laut (islands)
 
