@@ -85,13 +85,23 @@ Jurong Port
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/e0ad2cb8-1161-11e3-83d5-0050568939ad
 
-To support the development of Jurong Industrial Estate and to take advantage of the natural deepwater harbour it had, the government proposed a new port as Singapore's second part for the bulk handling of cargo in order to serve the various industries located there. When it was completed in 1966, the port had five deep-water berths. It was also connected to Bukit Timah by the opening of the Malayan Railway branch line. The port's first customer was the 10,000-ton President van Buren, which arrived from Saigon with 1,300 tons of timber. Thereafter, it would go on to serve 
+Jurong Port commenced operations in 1965. The natural deep waters off Jurong were ideal for establishing the port, with the first wharves constructed in 1963 to allow the import of raw materials and the export of finished products from the factories in Jurong. Initially run by EDB with PSA’s assistance, Jurong Port handled an assortment of cargo such as steel plates, industrial chemicals, timber, clinker (a residue of steel mills and furnaces that is used to make cement) and even farm animals. The port eventually came under the charge of the newly established Jurong Town Corporation (JTC) in 1968, and an infrastructure-financing loan package from the Asian Development Bank provided the funding for an expansion during the 1970s. Currently, the port features 32 berths, over 174,000 sq m of warehouse facilities, and can accommodate ships weighing up to 150,000 deadweight tonnes
 
-Currently, the port features 32 berths, over 174,000 sq m of warehouse facilities, and can accommodate ships weighing up to 150,000 deadweight tonnes
+Jurong Railway
+
+Constructed by EDB with Keretapi Tanah Melayu (KTM, or Malayan Railways Limited), Jurong Railway was used to transport clinker and timber from peninsular Malaysia into Jurong and bring manufactured products the other way. It ran as a spur from the main Malaysia–Singapore railway, starting from the Bukit Timah Railway Station next to King Albert Park, running through Pasir Panjang, and ending at Shipyard Road near the Mobil refinery. Jurong Railway was eventually made defunct in the mid-1990s due to changing trends in logistics and more efficient methods of transportation.
+
+https://www.clc.gov.sg/docs/default-source/urban-systems-studies/rb162799-mnd-uss-bk4-seaports-final.pdf
 
 Jurong Shipyard
 
+As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
+
+Petrochemical Industry
+
+Apart from manufacturing, shipbuilding and ship repair, the petrochemical industry was another economic pillar that grew Singapore’s fortunes in the 1960s. Port facilities for the petrochemical industry were actually developed as early as 1852 when the Peninsular and Oriental Steam Navigation Company opened its first coal bunkering pier (forerunner of today’s petroleum refining and bunkering industries) to meet the fuelling demands of its steamships. In 1894, Shell Transport and Trading Company established its oil storage and wharf facilities on Pulau Bukom to serve the Far East, other Asian markets and Australia.66 After the Pioneer Industries Ordinance came into effect in 1959, Shell became the first foreign company to receive a pioneer certificate for its investment to build an oil refinery on Pulau Bukom.6
 
 Jurong Fishery Pond
 
@@ -101,7 +111,7 @@ Land reclamation
 
 started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
 
-Kangchu (headman)
+
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=ea7f0e25-22c4-4db0-acfd-723c87d73679
 
