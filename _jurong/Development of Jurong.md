@@ -58,7 +58,7 @@ While the early economic activities had altered the landscape of the Jurong regi
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/88d8e82f-438e-11e4-859c-0050568939ad
 
-The development of Jurong as the first industrial estate in Singapore was initiated in 1961 with the aim to create jobs and boost the economy. The brainchild behind this industrialisation programme was Dutch economist Albert Winsemius. A land area of 69 sq km in Jurong was chosen as the site for industrial development. To realise it, low hills were levelled and the swampland was filled with soil to prepare the land for industries and infrastructure as well as residential and recreational developments.
+The development of Jurong as Singapore's first industrial estate began in 1961. Led by then Finance Minister Goh Keng Swee and Dutch economist Albert Winsemius, the aim of the industrialisation project was to generate employment and economic growth. A 69-square-kilometer area in Jurong was selected for industrial development. To make this vision a reality, low hills were flattened, and swampy areas were filled with soil to prepare the land for various industrial, infrastructural, residential, and recreational purposes.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/29491c3c-1162-11e3-83d5-0050568939ad
 
