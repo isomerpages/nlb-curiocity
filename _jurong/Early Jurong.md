@@ -42,7 +42,7 @@ Turnbull quote
 
 ### **Peng Kang and Jurong**
 
-During the 19th century, extensive deforestation occurred in and around Jurong to create space for gambier plantations. The popularity of this cash crop was so significant that Jurong was occasionally called "Peng Kang," a term possibly derived from the Malay practice of boiling gambier leaves. However, it's important to note that Peng Kang is a specific survey district or Mukim located to the west of Jurong, encompassing the areas we now recognize as Jurong West and Boon Lay.
+During the 19th century, extensive deforestation occurred in and around Jurong to create space for gambier plantations. The popularity of this cash crop was so significant that Jurong was occasionally called "Peng Kang," a term possibly derived from the Malay practice of boiling gambier leaves. However, it is important to note that Peng Kang is a specific survey district or Mukim located to the west of Jurong, encompassing the areas we now recognise as Jurong West and Boon Lay.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb85ff41-115c-11e3-83d5-0050568939ad
 
@@ -54,11 +54,11 @@ During the 19th century, significant portions of primary forests in Peng Keng, a
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad
 
-The gambier industry saw a decline in the late 1800s, but during the early 1900s, rubber, a new cash crop, gained prominence, largely due to global demand. This shift led to the replacement of gambier estates with rubber plantations, a change exemplified by influential entrepreneurs like Chew Boon Lay. Besides his involvement in rubber, Chew had diverse business interests, including barter trading and the establishment of the Ho Ho Biscuit Factory in 1898. Chew passed away in 1933 and was laid to rest in Bukit Brown Cemetery. Today, his legacy is remembered through the naming of Boon Lay Road and the Boon Lay Mass Rapid Transit (MRT) station in his honor.
+The gambier industry saw a decline in the late 1800s, but during the early 1900s, rubber, a new cash crop, gained prominence, largely due to global demand. This shift led to the replacement of gambier estates with rubber plantations, a change exemplified by influential entrepreneurs like Chew Boon Lay. Besides his involvement in rubber, Chew had diverse business interests, including barter trading and the establishment of the Ho Ho Biscuit Factory in 1898. Chew passed away in 1933 and was laid to rest in Bukit Brown Cemetery. Today, his legacy is remembered through the naming of Boon Lay, which is a housing estate, as well as Boon Lay Road and the Boon Lay Mass Rapid Transit (MRT) station in his honor.
 
 https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
 
-Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim XX, which was assigned in the early 1900s is still in used today as part of the Singapore Land Authority's.
+Although Peng Keng had been renamed Jurong West and Boon Lay, traces of it could still be found in the forms of Peng Keng Avenue and the upcoming Peng Keng Hill MRT station which is located along the Jurong Regional Line. Despite the changes, Peng Keng's survey district number, Mukim VI, which was assigned in the early 1900s is still in used today by the Singapore Land Authority.
 
 Peng Kang meaning
 
