@@ -56,8 +56,6 @@ During the 19th century, huge tracts of primary forest throughout the island inc
 | ![Alt text for image on Isomer site](/images/bb-map-2.jpg) |
 | While Peng Keng has been renamed Jurong West and Boon Lay, its historical presence can still be observed through Peng Keng Avenue and the forthcoming Peng Keng Hill MRT station along the Jurong Regional Line. Additionally, Peng Keng's survey district number, Mukim VI, which was designated in the early 1900s, continues to be in use today by the Singapore Land Authority, preserving the historical connection of this area to its past name. (Image Credit: [The National Archives (United Kingdom), courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b){:target="_blank"})
 
-https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b
-
 Peng Kang meaning
 
 Who is Chew Boon Lay quote
