@@ -93,7 +93,11 @@ Apart from manufacturing, shipbuilding and ship repair, the petrochemical indust
 
 Electronics
 
-### **Developing Jurong as a Maritime Hub**
+Shipbuilding
+
+As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
+
+### **Infrastructural Development in Jurong**
 
 Jurong Port
 
@@ -112,8 +116,6 @@ Jurong Shipyard
 As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
-
-
 
 Jurong Fishery Pond
 
