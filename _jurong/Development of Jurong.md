@@ -124,7 +124,7 @@ Jurong Island
 
 From labour-intensive to value-added
 
-Industries
+Development of Industries
 
 Manufacturing
 
