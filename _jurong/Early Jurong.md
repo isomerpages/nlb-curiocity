@@ -82,7 +82,7 @@ The arrival of the British in 1819 led to the influx of new settlers in the Juro
 
 Sin Nan public school: https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad
 
-In the early 20th century, numerous factors including the proliferation of rubber plantations, the establishment of British military bases and expansion of the road and transportation network in the rural areas including Jurong saw the growth of existing and new villages. By the end of the 1950s, many of these rural villages were not only equipped with basic facilities and services such as schools, places of worship, markets, provision shops and even clinics. Shown above is the Sin Nan Public School which was established in 1932&nbsp;near Hong Kah Village. Today, the school is located in Jurong West and is known as Xingnan Primary School.
+In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School.
 
 Quote Orang Laut (islands)
 
