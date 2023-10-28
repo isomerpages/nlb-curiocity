@@ -56,7 +56,11 @@ The landscape of Jurong was further impacted by the construction of roads and th
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
+jurong mudland photo
+
 The development of Jurong as the first industrial estate in Singapore was initiated in 1961 with the aim to create jobs and boost the economy. The brainchild behind this industrialisation programme was Dutch economist Albert Winsemius. A land area of 69 sq km in Jurong was chosen as the site for industrial development. To realise it, low hills were levelled and the swampland was filled with soil to prepare the land for industries and infrastructure as well as residential and recreational developments.
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/29491c3c-1162-11e3-83d5-0050568939ad
 
 The Jurong Industrial Estate project was kick started with the laying of the foundation stone for the National Iron & Steel Mills (known today as NatSteel) on 1 September 1962. Early industries in the estate included timber, sawmilling, oil-rig fabrication, shipbuilding and repair. By 1976, 650 factories were in operation and more than 20,000 flats occupied.
 
