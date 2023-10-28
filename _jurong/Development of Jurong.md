@@ -94,7 +94,9 @@ To capitalise on the newly established Jurong Industrial Estate and Jurong Port 
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
 
-Jurong Fishery Pond
+Jurong Fishery Port
+
+The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam. 
 
 ### **Creating Land for Jurong**
 
