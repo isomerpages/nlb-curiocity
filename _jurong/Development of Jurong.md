@@ -71,58 +71,9 @@ The Jurong Industrial Estate's development and administration were initially ove
 https://www.nas.gov.sg/archivesonline/photographs/record-details/dffc2918-1161-11e3-83d5-0050568939ad 
 
 As Singapore intensified its industrialization efforts after gaining independence on August 9, 1965, it became evident to the government that managing industrial estates would become increasingly intricate and demanding. Consequently, the government made the decision to transfer this responsibility from the Economic Development Board (EDB) to a newly established agency known as Jurong Town Corporation (JTC). In addition to managing and expanding Singapore's industrial estates, JTC was also given the mandate to provide amenities that would enhance the quality of life for those working and residing within these estates.
+
 Goh's folly?
 
-
-### **Infrastructural Development**
-
-Jurong Port
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/e0ad2cb8-1161-11e3-83d5-0050568939ad
-
-Jurong Port started its operations in 1965. The natural deep waters in the vicinity of Jurong made it an ideal location for establishing the port. The first wharves were constructed in 1963, enabling the import of raw materials and the export of finished products from the factories in Jurong. The port handled a diverse range of cargo, including steel plates, industrial chemicals, timber, and even farm animals. Over the decades, it went through a series of improvement to expand its capabilities. Presently, the port boasts 32 berths, over 174,000 square meters of warehouse facilities, and can accommodate ships weighing up to 150,000 deadweight tonnes.
-
-Jurong Railway
-
-The Jurong Railway, built in collaboration between the Economic Development Board (EDB) and Keretapi Tanah Melayu (KTM), also known as Malayan Railways Limited, served as a transportation route for clinker and timber, primarily from peninsular Malaysia into Jurong, while transporting manufactured products in the opposite direction. This railway operated as a spur line connected to the main Malaysia–Singapore railway, commencing from the Bukit Timah Railway Station near King Albert Park, passing through Pasir Panjang, and concluding at Shipyard Road close to the Mobil refinery. In the mid-1990s, the Jurong Railway was decommissioned due to changing logistics trends and the adoption of more efficient transportation methods.
-
-https://www.clc.gov.sg/docs/default-source/urban-systems-studies/rb162799-mnd-uss-bk4-seaports-final.pdf
-
-Jurong Shipyard
-
-To capitalise on the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was established in April 1963. This shipyard was tasked with the construction, maintenance, and repair of all types of ships and vessels. The establishment of Jurong Shipyard faced its share of challenges ranging from funding to obtaining the know-how. Despite these initial obstacles, the government, in collaboration with Japanese partners, set up the shipyard and went on to develop more at Keppel and Sembawang, thereby enhacing the country's shipbuilding and repair capabilities.
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
-
-Jurong Fishery Port
-
-The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam. 
-
-### **Creating Land for Jurong**
-
-Land reclamation
-
-started mushrooming along the flanks of newly-constructed roads that radiated from the town such as Jurong Road, and they typically comprised plantations growing pepper and gambier were among the most popular cash crops between the 1830s and 1870s. This phase of development was marked by the continually shifting locations of bangsals which were the areas cleared and cultivated with Gambier and Pepper and included the processing facilities and ‘coolie lines’ (accommodation). Usually located along major rivers including Jurong River, there were numerous bangsals within a Kangkar which was the riverine village headquarters for the Kangchu (head man).
-
-
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=ea7f0e25-22c4-4db0-acfd-723c87d73679
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
-
-https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/deforestation/
-
-https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=1521df3a-7b37-4440-be44-9ca1f03c538f
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=95b3ff4e-0179-4309-9a47-79aa78ee3da9
-
-Why Jurong?
-
-Jurong Island
-
-From labour-intensive to value-added
 
 ### **Jurong and the Development of Industries in Singapore**
 
@@ -151,3 +102,48 @@ Jurong is also the stage for the development of the country's petrochemical indu
 Shipbuilding
 
 As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
+
+### **Infrastructural Development**
+
+Jurong Port
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/e0ad2cb8-1161-11e3-83d5-0050568939ad
+
+Jurong Port started its operations in 1965. The natural deep waters in the vicinity of Jurong made it an ideal location for establishing the port. The first wharves were constructed in 1963, enabling the import of raw materials and the export of finished products from the factories in Jurong. The port handled a diverse range of cargo, including steel plates, industrial chemicals, timber, and even farm animals. Over the decades, it went through a series of improvement to expand its capabilities. Presently, the port boasts 32 berths, over 174,000 square meters of warehouse facilities, and can accommodate ships weighing up to 150,000 deadweight tonnes.
+
+Jurong Railway
+
+The Jurong Railway, built in collaboration between the Economic Development Board (EDB) and Keretapi Tanah Melayu (KTM), also known as Malayan Railways Limited, served as a transportation route for clinker and timber, primarily from peninsular Malaysia into Jurong, while transporting manufactured products in the opposite direction. This railway operated as a spur line connected to the main Malaysia–Singapore railway, commencing from the Bukit Timah Railway Station near King Albert Park, passing through Pasir Panjang, and concluding at Shipyard Road close to the Mobil refinery. In the mid-1990s, the Jurong Railway was decommissioned due to changing logistics trends and the adoption of more efficient transportation methods.
+
+https://www.clc.gov.sg/docs/default-source/urban-systems-studies/rb162799-mnd-uss-bk4-seaports-final.pdf
+
+Jurong Shipyard
+
+To capitalise on the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was established in April 1963. This shipyard was tasked with the construction, maintenance, and repair of all types of ships and vessels. The establishment of Jurong Shipyard faced its share of challenges ranging from funding to obtaining the know-how. Despite these initial obstacles, the government, in collaboration with Japanese partners, set up the shipyard and went on to develop more at Keppel and Sembawang, thereby enhacing the country's shipbuilding and repair capabilities.
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-11e6-95f9-0050568939ad
+
+Jurong Fishery Port
+
+The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam. 
+
+Land reclamation
+
+
+
+
+
+
+
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=ea7f0e25-22c4-4db0-acfd-723c87d73679
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
+
+https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/deforestation/
+
+https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=1521df3a-7b37-4440-be44-9ca1f03c538f
+
+https://www.nlb.gov.sg/main/article-detail?cmsuuid=95b3ff4e-0179-4309-9a47-79aa78ee3da9
