@@ -101,15 +101,18 @@ Jurong is also the stage for the development of the country's petrochemical indu
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/cd1cb13f-1161-11e3-83d5-0050568939ad
 
-As part of the overall economic strategy in the 1960s, shipbuilding and repair industry were also identified as one of the essential components of the country's industrialisation process. To take advantage of the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, the government established Jurong Shipyard in April 1963. This new facility was tasked with constructing, maintaining, and repairing various types of ships and vessels. Following the formation of Jurong Shipyard, the government also moved forward to develop shipyards at Keppel and Sembawang.
+As part of the overall economic strategy in the 1960s, shipbuilding and repair industry were also identified as one of the essential components of the country's industrialisation process. To take advantage of the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, the government established Jurong Shipyard in April 1963. This new facility was tasked with constructing, maintaining, and repairing various types of ships and vessels. Following the formation of Jurong Shipyard, the government also moved forward to develop shipyards at Keppel and Sembawang. Over the next 40 years, Singapore's marine industry has grown from a small regional ship repair and building center into a global leader. This industry includes ship repair, shipbuilding, rig building, and offshore engineering, along with various supporting services. Singapore is now renowned as a top ship repair and conversion center, a leader in jack-up rig building, and a builder of custom and specialised vessels.
 
-marine industry
-
-Over the next 40 years, Singapore's marine industry has grown from a small regional ship repair and building center into a global leader. This industry includes ship repair, shipbuilding, rig building, and offshore engineering, along with various supporting services. Singapore is now renowned as a top ship repair and conversion center, a leader in jack-up rig building, and a builder of custom and specialised vessels. Furthermore, Singapore's shipyards are known for quality, skilled workforces, and project management capabilities, contributing significantly to the nation's economic development. The industry is poised to play a crucial role in Singapore's ambition to become a leading international maritime hub.
 
 biomedical
 
 During the 1990s, the Singaporean government launched the Strategic Economic Plan, aiming to attain first-tier developed country status in the next 30 to 40 years. A central element of this plan was creating a research and development environment to make Singapore a knowledge-based and innovation-driven nation. In 1991, the National Science and Technology Board was established, focusing on applied research. It evolved into the Agency of Science, Technology and Research (A\*STAR) in 2002, expanding its role to include research and development and human capital training through local and overseas PhD scholarships. Two research-oriented councils were also established: the Biomedical Research Council, which oversaw biomedical research in the public sector, and the Science and Engineering Research Council, which had a similar role in physical sciences and engineering.
+
+In the 1980s, Singapore responded to rapid globalisation with the Second Industrial Revolution, shifting its manufacturing sector toward more capital-intensive operations and diversifying the economy. This included positioning Singapore as a "total business center" to attract international service corporations in various sectors like finance, education, lifestyle, medicine, information technology, and software. The 1990s saw the government's Strategic Economic Plan, striving to achieve first-tier developed country status by creating a knowledge-based and innovation-driven nation. This involved establishing the National Science and Technology Board, later becoming A\*STAR, to focus on research and development and human capital training for this drive. 
+
+In additional, science park
+
+2000s
 
 Quote:
 
