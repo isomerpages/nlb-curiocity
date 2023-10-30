@@ -112,7 +112,7 @@ In the 1980s, Singapore responded to rapid globalisation with the Second Industr
 
 In additional, science park
 
-2000s
+Singapore's biomedical sciences initiative, launched in 2000, transformed the industry into a significant economic pillar. By 2013, it contributed 8.2% to the GDP, second only to electronics. The initiative focuses on pharmaceuticals and medical technology, with Tuas Biomedical Park attracting international pharmaceutical companies. It also aimed to encourage industry research and startups in four areas: pharmaceuticals, medical technology, healthcare services, and biotechnology. Publicly funded research institutes were created to develop capabilities in various fields. The initiative progressed through three phases: core research capabilities, translating research into clinical applications, and commercialization and partnerships with industry. It supports startups with financing and co-investment, leading to the growth of around 40 local medical technology companies.
 
 Quote:
 
