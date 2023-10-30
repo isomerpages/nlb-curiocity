@@ -71,6 +71,14 @@ Goh's folly?
 
 The types of industries that could be found in the Jurong Industrial Estate evolved in tandem with Singapore's industrial development strategy. In general, the strategy underwent five phrases of evolution, starting from labor intensive in the 1960s, followed by skill intensive in the 1970s, capital intensive in the 1980s, technology intensive in the 1990s, and knowledge and innovation intensive from the 2000s onward. Some of the key industries that emerged during this process included manufacturing, electronics, shipbuilding,  petrochemicals, and biomedical sciences.
 
+
+
+
+
+
+
+
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/29cb075a-1162-11e3-83d5-0050568939ad 
 
 In the 1960s, Singapore faced high unemployment and began focusing on creating jobs and boosting its economy through labour-intensive industrialisation. This gave rise to the development of the country's manufacturing sector and the setting up of factories in Jurong to produce goods like clothes, toys, and more. This was a significant shift for Singapore, which had relied on trading since the British established it in 1819. The government, particularly the Economic Development Board (EDB) and Jurong Town Corporation, played essential roles in planning and managing this industrialisation process. By the mid-1970s, manufacturing had become a significant part of the economy, and Singapore actively sought foreign investors to compensate for its limited domestic resources and market.
