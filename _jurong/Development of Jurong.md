@@ -101,7 +101,13 @@ Jurong is also the stage for the development of the country's petrochemical indu
 
 Shipbuilding
 
-As part of the overall economic strategy in the 1960s, shipbuilding and repair facilities were key components of the port infrastructure. Ship repair facilities for ocean-going vessels, which were limited to the dockyards at Keppel Harbour up until the late-1950s, were inadequate in keeping up with demand as manufacturing output increased. In order to capitalise on the newly formed Jurong Industrial Estate and Jurong Port in the early 1960s, Jurong Shipyard was formed in April 1963 to construct, maintain and repair all types of ships and vessels. The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” After setting up Jurong Shipyard with Japanese partners, the government went on to develop shipyards at Keppel and Sembawang, and even encouraged the formation of private yards, including the smaller ones at Tanjong Rhu.
+As part of the overall economic strategy in the 1960s, shipbuilding and repair industry were also identified as one of the essential components of the country's industrialisation process. To take advantage of the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, the government established Jurong Shipyard in April 1963. This new facility was tasked with constructing, maintaining, and repairing various types of ships and vessels. Following the formation of Jurong Shipyard, the government also moved forward to develop shipyards at Keppel and Sembawang.
+
+Over the next 40 years, Singapore's marine industry has grown from a small regional ship repair and building center into a global leader. This industry includes ship repair, shipbuilding, rig building, and offshore engineering, along with various supporting services. Singapore is now renowned as a top ship repair and conversion center, a leader in jack-up rig building, and a builder of custom and specialised vessels. Furthermore, Singapore's shipyards are known for quality, skilled workforces, and project management capabilities, contributing significantly to the nation's economic development. The industry is poised to play a crucial role in Singapore's ambition to become a leading international maritime hub.
+
+Quote:
+
+The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” 
 
 ### **Infrastructural Development**
 
