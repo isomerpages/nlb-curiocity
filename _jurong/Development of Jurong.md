@@ -89,7 +89,7 @@ As industrial development gained speed, the government of Singapore aimed to shi
 
 Science
 
-In the 1980s, Singapore responded to rapid globalization with a new economic strategy called the Second Industrial Revolution. This plan aimed to transition the manufacturing sector towards more capital-intensive operations. The government recognized the importance of industrial land and the need to prioritize it. In 1985, Singapore faced its first recession, prompting a shift towards diversifying economic activities. They focused on exportable services and positioned the country as a "total business center," attracting international service corporations in various sectors. The emphasis was on higher value-added industries, and initiatives like the Science Park for research and development and support for local businesses through loans and incentives were introduced to foster growth.
+In the 1980s, Singapore responded to rapid globalization with a new economic strategy called the Second Industrial Revolution. This plan aimed to transition the manufacturing sector towards more capital-intensive operations. The government recognized the importance of industrial land and the need to prioritize it. In 1985, Singapore faced its first recession, prompting a shift towards diversifying economic activities. They focused on exportable services and positioned the country as a "total business center", attracting international service corporations in various sectors. The emphasis was on higher value-added industries, and initiatives like the Science Park for research and development and support for local businesses through loans and incentives were introduced to foster growth.
 
 Oil refining
 
