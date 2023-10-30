@@ -87,15 +87,15 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/45ff40c5-1162-1
 
 As industrial development gained speed, the government of Singapore aimed to shift from low-cost, labor-intensive industries to higher-value, skilled jobs and businesses by developing technical and business expertise. They actively worked to attract foreign investment from Europe, North Asia, and the United States by positioning Singapore as a global business hub for companies. This led to substantial investments in the emerging industries in fields such as precision engineering and electronics for the production of precision products such as camera optics, tool-making and precision machineries, as well as high-tech products like computer parts and software. Many multinational companies, including Rollei, Aiwa, Texas Instruments and NEC, relocated or established research and development activities in Singapore.
 
-Science
+https://www.nas.gov.sg/archivesonline/photographs/record-details/f3118e72-1161-11e3-83d5-0050568939ad
 
 In the 1980s, Singapore responded to rapid globalisation with a new economic strategy called the Second Industrial Revolution. This plan aimed to transition the manufacturing sector towards more capital-intensive operations. The government recognised the importance of industrial land and the need to prioritize it. In 1985, Singapore experienced its first recession, prompting the government to recognise the need for economic diversification. They initiated a second engine of growth by positioning the city-state as a "total business center", combining industry expertise with strategic business relationships. This aimed to attract international service corporations in various sectors like finance, education, lifestyle, medicine, information technology, and software. There was also a stronger focus on higher value-added industries at all levels. Notable initiatives included the establishment of the Science Park near the National University of Singapore to stimulate private sector research and development. Additionally, local businesses were encouraged to expand with the help of loans and incentives, promoting economic growth and innovation.
 
-Oil refining
+https://www.nas.gov.sg/archivesonline/photographs/record-details/874ef9de-1162-11e3-83d5-0050568939ad
 
 Singapore's connection with the oil and oil refining industry dates back to 1892 when Marcus Samuel and Company used Pulau Bukom as a storage center for kerosene. This island became a vital hub in the East, supplying the company's other facilities. Shell, as it later became known, entered the refining business in 1961 and it redeveloped its storage centre on Pulau Bukom into a 20,000-barrels-per-day refinery. Shell's commitment paved the way for other companies to follow suit turning Singapore is a major global center for oil refining. 
 
-Petrochemical and Jurong Island
+https://www.nas.gov.sg/archivesonline/photographs/record-details/64c19125-1162-11e3-83d5-0050568939ad
 
 Jurong is also the stage for the development of the country's petrochemical industry. A game-changer was the creation of Jurong Island, achieved through a substantial investment in land reclamation, which has become the heart of Singapore's petrochemical industry. This island cluster houses various petrochemical-related businesses, separates more polluting processes from the main island, and has attracted substantial investments and a large workforce. Emphasizing cluster development is a key economic theme. After the success of Jurong Island, Singapore launched the Jurong Island Version 2.0 initiative in 2010, focusing on research and optimization, including the development of the Jurong Rock Caverns, an underground liquid hydrocarbon storage facility.
 
