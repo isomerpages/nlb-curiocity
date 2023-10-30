@@ -127,13 +127,13 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/6dd1de89-1b4b-1
 
 Jurong Fishery Port
 
-The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam. 
-
-Land reclamation
+The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam.
 
 Roads
 
 The development of Jurong as an industrial estate in Singapore included the construction of roads, with more than 30 thoroughfares built within the first decade of its development to connect factories to port facilities, housing estates, and the rest of the island. Interestingly, these new roads were given names that reflected themes of "industry" and "progress". For example, on the 1972 street map of Jurong, you could find roads with names like Enterprise Road, Quality Road, Tractor Road, Fan Yoong Road (which means "Prosperity" Road in Chinese), Jalan Pesawat (or "Machinery" Road in Malay), or Neythal Road (or "Weaving" Road in Tamil, possibly referring to the presence of textile factories along the road). These names symbolised the industrial and economic growth taking place in Jurong.
+
+Jurong MRT line
 
 
 
