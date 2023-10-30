@@ -52,9 +52,21 @@ The landscape of Jurong was further impacted by the construction of roads and th
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| The development of Jurong as Singapore's first industrial estate began in 1961. Led by then Finance Minister Goh Keng Swee and Dutch economist Albert Winsemius, the aim of the industrialisation project was to generate employment and economic growth. A 69-square-kilometer area in Jurong was selected for industrial development. To make this vision a reality, low hills were flattened, and swampy areas were reclaimed to prepare the land for various industrial, infrastructural, residential, and recreational purposes. Shown here is a 1962 photograph of the site of the Jurong Industrial Estate. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/88d8e82f-438e-11e4-859c-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/bb-map-1.jpg)|
+| In contrast to many other parts of Asia where European landowners dominated estate agriculture during that period, most of the rubber plantations in Singapore and Johor were owned by local individuals. Prominent local business leaders who owned rubber estates in Jurong included Chew Boon Lay and Tan Lark Sye. The Sembawang Rubber Plantations Limited company, formed by Lim Boon Keng, Tan Chay Yan, and Lee Choon Guan, also had holdings in the area. Members of the Chettiar community owned estates here, such as Chithambaram Chettiar Estate and Arunachalam Chettiar Estate near Kampong Sungei Jurong. Additionally, there were other rubber holdings in Jurong like the Bajau, Jurong, Lokyang, Yun Nam, Chong Keng, Seng Toh, and Lee Gek Poh estates. (Image Credit: [Singapore Land Authority collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb73a558-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+
+
+
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/88d8e82f-438e-11e4-859c-0050568939ad
 
-The development of Jurong as Singapore's first industrial estate began in 1961. Led by then Finance Minister Goh Keng Swee and Dutch economist Albert Winsemius, the aim of the industrialisation project was to generate employment and economic growth. A 69-square-kilometer area in Jurong was selected for industrial development. To make this vision a reality, low hills were flattened, and swampy areas were reclaimed to prepare the land for various industrial, infrastructural, residential, and recreational purposes.
+
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/29491c3c-1162-11e3-83d5-0050568939ad
 
