@@ -99,7 +99,7 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/64c19125-1162-1
 
 Jurong is also the stage for the development of the country's petrochemical industry. A game-changer was the creation of Jurong Island, achieved through a substantial investment in land reclamation, which has become the heart of Singapore's petrochemical industry. This island cluster houses various petrochemical-related businesses, separates more polluting processes from the main island, and has attracted substantial investments and a large workforce. Emphasizing cluster development is a key economic theme. After the success of Jurong Island, Singapore launched the Jurong Island Version 2.0 initiative in 2010, focusing on research and optimization, including the development of the Jurong Rock Caverns, an underground liquid hydrocarbon storage facility.
 
-Shipbuilding
+https://www.nas.gov.sg/archivesonline/photographs/record-details/cd1cb13f-1161-11e3-83d5-0050568939ad
 
 As part of the overall economic strategy in the 1960s, shipbuilding and repair industry were also identified as one of the essential components of the country's industrialisation process. To take advantage of the newly established Jurong Industrial Estate and Jurong Port in the early 1960s, the government established Jurong Shipyard in April 1963. This new facility was tasked with constructing, maintaining, and repairing various types of ships and vessels. Following the formation of Jurong Shipyard, the government also moved forward to develop shipyards at Keppel and Sembawang.
 
@@ -110,8 +110,6 @@ Over the next 40 years, Singapore's marine industry has grown from a small regio
 biomedical
 
 During the 1990s, the Singaporean government launched the Strategic Economic Plan, aiming to attain first-tier developed country status in the next 30 to 40 years. A central element of this plan was creating a research and development environment to make Singapore a knowledge-based and innovation-driven nation. In 1991, the National Science and Technology Board was established, focusing on applied research. It evolved into the Agency of Science, Technology and Research (A\*STAR) in 2002, expanding its role to include research and development and human capital training through local and overseas PhD scholarships. Two research-oriented councils were also established: the Biomedical Research Council, which oversaw biomedical research in the public sector, and the Science and Engineering Research Council, which had a similar role in physical sciences and engineering.
-
-Singapore's biomedical sciences initiative, launched in 2000, transformed the industry into a significant economic pillar. By 2013, it contributed 8.2% to the GDP, second only to electronics. The initiative focuses on pharmaceuticals and medical technology, with Tuas Biomedical Park attracting international pharmaceutical companies. It also aimed to encourage industry research and startups in four areas: pharmaceuticals, medical technology, healthcare services, and biotechnology. Publicly funded research institutes were created to develop capabilities in various fields. The initiative progressed through three phases: core research capabilities, translating research into clinical applications, and commercialization and partnerships with industry. It supports startups with financing and co-investment, leading to the growth of around 40 local medical technology companies.
 
 Quote:
 
