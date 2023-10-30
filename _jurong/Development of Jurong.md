@@ -124,7 +124,7 @@ Jurong Island
 
 From labour-intensive to value-added
 
-### **Development of Industries**
+### **Jurong and the Development of Industries in Singapore**
 
 Singapore has been transformed economically, socially, and politically since independence in August 1965. The country’s industrial development strategy evolved from labor intensive in the 1960s, skill intensive in the 1970s, capital intensive in the 1980s, and technology intensive in the 1990s to knowledge and innovation intensive from the 2000s onward. Four industries — electronics, precision engineering, chemicals, and biomedical sciences — have anchored the city’s approach to industrial development.
 
