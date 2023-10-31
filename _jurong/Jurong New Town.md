@@ -40,7 +40,11 @@ https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635
   
 [Jurong Drive-in](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bbfab240-c8be-4315-a0de-959b7dc0a0fe) is Singapore's first open-air cinema. Opened on 14 July 1971 by then Minister of Culture, Jek Yuen Thong, it was once located next to the Japanese Gardens. Conceived by Cathay Organisation, it was the largest drive-in cinema in Asia and could accommodate 900 cars as well as an additional 300 people in its walk-in gallery. The cinema offered a unique movie-watching experience for movie-goers, as they could watch English and Hong Kong films on a giant television screen from the privacy of the car. It was also one of the few places in Jurong and across the island where it was suitable for family outings. However, as the novelty wore off coupled with challenges such as unpredictable weather and the proliferation of air-conditioned cinemas in shopping malls as well as other attractions, Jurong Drive-in cinema was forced to close its doors in 1985 after 15 years of operation.
 
+https://www.nas.gov.sg/archivesonline/photographs/record-details/88c80796-1162-11e3-83d5-0050568939ad
+
 The [Chinese Garden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204) in Jurong was constructed by the Jurong Town Corporation (JTC) in 1975 as part of the broader development plan for Jurong Park. The concept, dating back to 1968, included the creation of a green belt with landscaped gardens, a lake, and open spaces, with three islands designated for a Chinese garden, a Japanese garden, and a tropical garden. The design concept for the Chinese Garden was developed by Taiwanese expert Yu Yuen Chen, drawing inspiration from northern Chinese imperial architecture during the Song dynasty and the Summer Palace in Beijing. Notable features of the garden include marble stone lions, the 13-arch White Rainbow Bridge, an Arch and Main Gate complex, a Stone Boat and Tea House, and a seven-story pagoda. Over the years, the garden has seen additions, such as a Bonsai Garden and the Live Turtle and Tortoise Museum, and has become a popular location for Chinese New Year and Mid-Autumn Festival celebrations, featuring large-scale festive displays.
+
+
 
 Science Centre
 
