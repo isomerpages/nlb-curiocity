@@ -81,7 +81,7 @@ The establishment of Jurong Shipyard was not without obstacles, though, as noted
 
 ### **Infrastructural Development**
 
-
+The provision of infrastructure is integral to the development of any estates, be it commerical, housing or industrial as it facilities not only the movement of goods and workers, but also the supply of electricity, water and gas. As such, there were a boom in infrastructural works in Jurong as it was being developed into an industrial estate. These included a port, a railway, a road network and even a fishery port.
 
 |   | 
 |:--------:| 
