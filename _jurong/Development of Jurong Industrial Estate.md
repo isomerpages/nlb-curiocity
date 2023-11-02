@@ -33,12 +33,6 @@ Before the development of the Jurong Industrial Estate, the area was already tee
 	
 </details>
 
----
-
-**Kang chu system**
-
-The Chinese plantations were organised under a system led by a headman known as a "kangchu," which translates to "lord of the river" in Teochew. The kangchu oversaw the transformation of virgin jungle areas near river catchments into plantations. These areas were also referred to as "bangsals" (“shed” or “lean-to shelter” in Malay) in reference to the cultivated zones where gambier and pepper were grown as well as the processing facilities and accommodations for the workers within. Typically covering an area of 10 to 50 acres, each bangsal usually employed around 10 workers. These bangsals were situated along major rivers, including the Jurong River, and the settlements of each plantation cluster were known as "Kangkar", which means "foot of the river" in Teochew.
-
 -----
 
 ### **Developing Jurong as an Industrial Estate**
