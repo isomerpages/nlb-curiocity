@@ -5,6 +5,8 @@ description: ""
 ---
 Littered with villages, plantations, swamplands and patches of primary forests, Jurong was largely undeveloped until then-Finance Minister Dr Goh Keng Swee mooted the idea in the early 1960s of turning Jurong into the 9,000-acre industrial estate to spearhead Singapore’s industrialisation plans. Despite being a risky plan given that Singapore had little experience in creating an industrial town of this size, the government pressed ahead. In less than a decade, Jurong was transformed into a hub of factories and industrial activities.
 
+----
+
 ### **Early Economic Activities in Jurong**
 
 Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forests to create lands for the establishment of estates and farms. 
@@ -34,6 +36,7 @@ As the gambier industry in Singapore declined in the late 1800s, a new cash crop
 
 The Chinese plantations were organised under a system led by a headman known as a "kangchu," which translates to "lord of the river" in Teochew. The kangchu oversaw the transformation of virgin jungle areas near river catchments into plantations. These areas were also referred to as "bangsals" (“shed” or “lean-to shelter” in Malay) in reference to the cultivated zones where gambier and pepper were grown as well as the processing facilities and accommodations for the workers within. Typically covering an area of 10 to 50 acres, each bangsal usually employed around 10 workers. These bangsals were situated along major rivers, including the Jurong River, and the settlements of each plantation cluster were known as "Kangkar", which means "foot of the river" in Teochew.
 
+-----
 
 ### **Developing Jurong as an Industrial Estate**
 
@@ -51,6 +54,7 @@ While the early economic activities had altered the landscape of the Jurong regi
 | ![Alt text for image on Isomer site](/images/jurong-development-industrial-estate-image-4-1.jpg)|
 | As Singapore intensified its industrialisation efforts after gaining independence on August 9, 1965, it became evident to the government that managing industrial estates would become increasingly intricate and demanding. Consequently, the government made the decision to transfer this responsibility from the Economic Development Board (EDB) to a newly established agency known as Jurong Town Corporation (JTC). In addition to managing and expanding Singapore's industrial estates, JTC was also given the mandate to provide amenities that would enhance the quality of life for those working and residing within these estates. Shown above is a 1975 photograph of Jurong Town Hall which was once the headquarters of the Jurong Town Corporation headquarters. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/dffc2918-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+----
 
 ### **Jurong and the Development of Industries in Singapore**
 
