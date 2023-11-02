@@ -27,14 +27,13 @@ Before the development of the Jurong Industrial Estate, the area was already tee
 ---
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Gambier and pepper, pepper and gambier? Do you know why this two cash crops were always mentioned together in history books? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal Senior Librarian Timothy Pwee's explanation in his <span style="font-style: italic;">Biblioasia</span> article, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/" target="_blank">"From Gambier to Pepper: Plantation Agriculture in Singapore"</a>.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why do Chinese plantation owners choose to cultivate rubber and pineapples on the same plot of land? What benefits or synergies do they find in this unique combination of crops? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out below National Heritage Board's explanation in the <span style="font-style: italic;">Jurong Heritage Trail</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Commonly grown alongside gambier is pepper. Although pepper was a much more profitable crop, the plant takes three years before it can be harvested. Additionally, the pepper plant is a vine that requires frames for support to grow upwards and also needs to be fertilised regularly. The boiled gambier leaves provide much-needed fertiliser for pepper plants which is why the two crops are often grown together; gambier would be planted while waiting for the pepper vines to start bearing fruits."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Unlike estate agriculture elsewhere in Asia at the time, which was largely dominated by Europeans, almost all of the rubber plantations in Singapore and Johor were owned by locals. The Chinese often planted interim cash crops such as pineapple or gambier among the rows of rubber trees, and these crops that yielded their produce within 18 months generated cash flow while the rubber trees matured. With the revenue from these interim crops, and smaller capital investments in their rubber plantations than that of their European counterparts, it cost Chinese planters around 150 Straits dollars per acre of their rubber estate. This was in contrast to European estates that could require up to four times the capital investment."</span>
 	
 </details>
 
 ---
-
 
 **Kang chu system**
 
