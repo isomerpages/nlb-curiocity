@@ -5,6 +5,8 @@ description: ""
 ---
 Jurong is an area in the southwest of Singapore. Comprising of housing estates such as Jurong West and Jurong East as well as the innovation, business and industrial estates of Jurong Lake District and the Jurong Innovation District among others, it was a very different place before its development in the 1960s. Largely undeveloped, it was an area of littered with villages, swamps, patches of jungles and plantations with numerous river, steams and tributaries.
 
+-----
+
 ### **Jurong in Early Maps of Singapore**
 
 The development of Jurong during its early days is documented in the Maps Collection of the National Library and National Archives of Singapore. You can observe its evolution by exploring the various historical maps from the collection shown below. To compare these changes and overlay them with present-day maps, you can utilise the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
