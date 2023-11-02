@@ -7,13 +7,11 @@ In less than one decade after the launch of the Jurong Industrial Estate, Jurong
 
 ### **Development of Housing Estates in Jurong**
 
-Although the rapid development of Jurong industrial estate created a steady supply of jobs, it made little headway in attracting people to live there. One factor was due to the perception of its location that it stands locked in a distant corner of the island, too far from everything else. To address this, measures were taken from the late 1960s to make Jurong more liveable. These included offering more options in public housing, as well as the building of shops, social amenities, recreation spaces, and a better transportation system.
+Even though Jurong industrial estate grew quickly and provided many jobs, not many people wanted to live there. One reason for this was that it seemed far away from the rest of the island, making it less appealing. To make Jurong a better place to live, starting in the late 1960s, efforts were made to improve it. They added more housing choices, built shops, social places, places to have fun, and made transportation better.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
-Taman Jurong, our heritage, our home : a collection of stories (307.76095957 TAM)
-
-The Jurong Town Corporation (JTC) was the agency that spearheaded the effort to improve the attractiveness of Jurong for home seekers, and the first housing estates it built included Taman Jurong from 1968, as well as Boon Lay Gardens, Teban Gardens and Pandan Gardens in the 1970s. Originally referred to as Neighbourhood I, II, III and IV respectively, these estates were located farther away from the heavy and medium industries along the coast by the throughway, Jalan Ahmad Ibrahim. JTC also provided bigger housing choices for new home seekers in these estates by building more three-room and executive flats rather than low-cost one- and two-room flats. In fact, JTC ceased the construction of one- and two-room flats when it began developing Boon Lay Gardens, Teban Gardens and Pandan Gardens.
+The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered more housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
@@ -23,11 +21,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-1
 
 Shops
 
-By 1982, the responsibility for the residential aspect of Jurong was returned to the HDB. By 1969, the resident population of Jurong stood at about 16,000, living in flats and shophouses built by the Housing & Development Board (HDB) in Taman Jurong. 
-
 transportation
 
-JTC also tailored the design of its housing estates to include spaces for recreational and greenery. At the planning stage, some 580ha of land, or 12% of the total, was slated for parks, gardens and other green spaces. The natural heritage of Jurong was also considered, with the upper Sungei Jurong area demarcated as a buffer zone between the industrial and residential areas. Tracts of trees, shrubbery and grass field also separated the two areas. These efforts added a green aspect to the industrial character of Jurong, while also preserving a slice of the area’s natural heritage.
+JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
 
 ### **Recreation Spaces in Jurong**
 
@@ -55,3 +51,5 @@ stadiums
 Schools and universities
 
 Makan?
+
+Taman Jurong, our heritage, our home : a collection of stories (307.76095957 TAM)
