@@ -48,7 +48,16 @@ During the 19th century, huge tracts of primary forest throughout the island inc
 | ![Alt text for image on Isomer site](/images/jurong-peng-kang-early-map-4-1-1.jpg) |
 | While Peng Kang has been renamed Jurong West and Boon Lay, its historical presence can still be observed through Peng Kang Avenue and the forthcoming Peng Kang Hill MRT station along the Jurong Regional Line. Additionally, Peng Kang's survey district number, Mukim VI, which was designated in the early 1900s, continues to be in use today by the Singapore Land Authority, preserving the historical connection of this area to its past name. (Image Credit: [The National Archives (United Kingdom), courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b){:target="_blank"})
 
------
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Gambier and pepper, pepper and gambier? Do you know why this two cash crops were always mentioned together in history books? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal Senior Librarian Timothy Pwee's explanation in his <span style="font-style: italic;">Biblioasia</span> article, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/" target="_blank">"From Gambier to Pepper: Plantation Agriculture in Singapore"</a>.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Commonly grown alongside gambier is pepper. Although pepper was a much more profitable crop, the plant takes three years before it can be harvested. Additionally, the pepper plant is a vine that requires frames for support to grow upwards and also needs to be fertilised regularly. The boiled gambier leaves provide much-needed fertiliser for pepper plants which is why the two crops are often grown together; gambier would be planted while waiting for the pepper vines to start bearing fruits."</span>
+	
+</details>
+
+---
 
 ### **Communities of Early Jurong**
 
