@@ -2,7 +2,7 @@ collections:
   jurong:
     output: true
     order:
-      - Early Jurong.md
+      - "Jurong: Singapore's Wild West.md"
       - Development of Jurong Industrial Estate.md
       - Jurong New Town.md
       - Jurong Today.md
