@@ -35,10 +35,6 @@ Before the development of the Jurong Industrial Estate, the area was already tee
 
 ---
 
-**Why gambier and pepper?**
-
-
-
 **Why rubber and pineapples?**
 
 As the gambier industry in Singapore declined in the late 1800s, a new cash crop, rubber, started to dominate the plantation landscape, including in Jurong. Rubber was introduced to Singapore and Malaya in 1877 when Henry Ridley brought hevea brasiliensis seeds from Brazil through Kew Gardens in the United Kingdom and planted them in the Botanic Gardens. Chinese plantation owners often grew quick-yielding interim cash crops like pineapples or gambier alongside the rows of rubber trees. These crops generated income within 18 months while the rubber trees matured, as rubber trees took about seven years to mature. To collect rubber latex without harming the trees, cultivators used the herringbone tapping method, which allowed for controlled extraction.
