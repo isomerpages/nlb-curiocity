@@ -11,17 +11,6 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 
 The development of Jurong during its early days is documented in the Maps Collection of the National Library and National Archives of Singapore. You can observe its evolution by exploring the various historical maps from the collection shown below. To compare these changes and overlay them with present-day maps, you can utilise the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
-----
-
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In some of the earliest maps of Singapore island that were produced by the British during the early 19th century, "Jurong" was already being indicated. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below National Heritage Board's explanation in <span style="font-style: italic;">Jurong Heritage Trail</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
-<br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The roots of the name Jurong is more of a mystery however. It may derive from the Malay words jerung (**a voracious shark**), jurang (a gap or gorge) or penjuru (corner). The area between&nbsp;Sungei Jurong&nbsp;and Sungei Pandan was named Tanjong Penjuru (Cape Penjuru)."</span>
-	
-</details>
-
----
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-early-map-1-1-1.jpg)|
@@ -34,6 +23,15 @@ The development of Jurong during its early days is documented in the Maps Collec
 | Another way to define the boundaries of Jurong is by its Mukim or Town Division number. For instance, in the 1924 map above displaying the mukim numbers of various survey districts in Singapore, Jurong is marked with the mukim number "X" or "10". Since the early 1900s, each land parcel in Singapore has been uniquely identified by a lot number, which consists of two parts: the survey district's Mukim number and the lot number itself. Singapore is administratively divided into 34 Mukims and 30 Town Subdivisions, and this system helps in locating and organising land parcels within the country. (Image Credit: [The National Archives (United Kingdom), courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b){:target="_blank"})|
 
 ----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In some of the earliest maps of Singapore island that were produced by the British during the early 19th century, "Jurong" was already being indicated. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below National Heritage Board's explanation in <span style="font-style: italic;">Jurong Heritage Trail</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The roots of the name Jurong is more of a mystery however. It may derive from the Malay words jerung (**a voracious shark**), jurang (a gap or gorge) or penjuru (corner). The area between&nbsp;Sungei Jurong&nbsp;and Sungei Pandan was named Tanjong Penjuru (Cape Penjuru)."</span>
+	
+</details>
+
+---
 
 ### **Peng Kang and Jurong**
 
