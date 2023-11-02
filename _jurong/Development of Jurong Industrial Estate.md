@@ -74,10 +74,6 @@ The types of industries that could be found in the Jurong Industrial Estate evol
 | ![Alt text for image on Isomer site](/images/jurong-development-industries-image-7-1.jpg)|
 | From the 2000s, Singapore initiated the development of its biomedical science industry with the aim to turn it into a key economic pillar. A focus of this initiative centered on development of pharmaceuticals and medical technology and products. To aid this process, the Tuas Biomedical Park was established and it served as a node to attract major international pharmaceutical companies. In additional, publicly funded research institutes were also established to enhance capabilities in fields related to the biomedical industry. Similarly, financial support was also given tto promote industry research and startups in related areas such as pharmaceuticals, medical technology, healthcare services, and biotechnology. (Image Credit: [Singapore Land Authority collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f3118e72-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-Quote:
-
-The establishment of Jurong Shipyard was not without obstacles, though, as noted by Dr Goh: “Jurong Shipyard had difficulty at the beginning in getting capital from people, many of whom thought the whole idea was quite crazy.” 
-
 ----
 
 ### **Infrastructure Development**
