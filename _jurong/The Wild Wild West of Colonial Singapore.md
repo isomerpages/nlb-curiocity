@@ -27,7 +27,7 @@ The development of Jurong during its early days is documented in the Maps Collec
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In some of the earliest maps of Singapore island that were produced by the British during the early 19th century, "Jurong" was already being indicated. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below National Heritage Board's explanation in <span style="font-style: italic;">Jurong Heritage Trail</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The roots of the name Jurong is more of a mystery however. It may derive from the Malay words jerung (**a voracious shark**), jurang (a gap or gorge) or penjuru (corner). The area between&nbsp;Sungei Jurong&nbsp;and Sungei Pandan was named Tanjong Penjuru (Cape Penjuru)."</span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The roots of the name Jurong is more of a mystery however. It may derive from the Malay words jerung (a voracious shark), jurang (a gap or gorge) or penjuru (corner). The area between Sungei Jurong and Sungei Pandan was named Tanjong Penjuru (Cape Penjuru)."</span>
 	
 </details>
 
