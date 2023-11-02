@@ -11,7 +11,7 @@ Jurong is an area in the southwest of Singapore. Comprising of housing estates s
 
 The development of Jurong during its early days is documented in the Maps Collection of the National Library and National Archives of Singapore. You can observe its evolution by exploring the various historical maps from the collection shown below. To compare these changes and overlay them with present-day maps, you can utilise the [Spatial Discovery](https://search.nlb.gov.sg/spatialdiscovery/){:target="_blank"} platform.
 
----
+----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In some of the earliest maps of Singapore island that were produced by the British during the early 19th century, "Jurong" was already being indicated. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below National Heritage Board's explanation in <span style="font-style: italic;">"Jurong Heritage Trail"</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
@@ -67,11 +67,7 @@ The deforestation of Jurong and its adjacent areas like Peng Keng attracted new 
 | ![Alt text for image on Isomer site](/images/jurong-early-communities-4-1.jpg)|
 | In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-Quote Orang Laut (islands)
-
-Quote Jurong Road
-
-Hong Kah Village
+-----
 
 ### **Impact on the Landscape of Jurong**
 
@@ -89,6 +85,8 @@ The early economic activities in the Jurong region had a lasting impact on the l
 | Generations of human activities on the island, particularly in the Jurong region, had detrimental effects on the local wildlife. Deforestation, hunting for both sport and sustenance, and the illegal animal trade in Singapore resulted in the decline of various animal species, including tigers. In the first half of the 19th century, the expansion of gambier and pepper plantations increased encounters with tigers because these animals lost their natural prey and the shelter of thick forests. To address this issue, the government started offering rewards for the hunting of tigers. Although this significantly reduced the sighthings of tigers, it eventually led to their eradication in Singapore. The last wild tiger that was hunted down in Singapore took place in 1930 near Choa Chu Kang Village. Shown above is an 1890 photograph of a hunter posing with a dead tiger. (Image Credit: [Lim Kheng Chye Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5f46ea5-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-early-landscape-impact-3-1.jpg)|
 | The landscape of Jurong was further impacted by the construction of roads and the establishment of small villages with farms. These changes not only improved accessibility to the region but also resulted in the conversion of once undeveloped land into areas for agriculture and residences, playing a crucial role in altering the landscape of Jurong. Shown above is a 1962 photograph of Jurong Link Road being constructed. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad){:target="_blank"}) |
+
+----
 
 **For more information on the history of early Jurong, please consult the following resources:**
 
