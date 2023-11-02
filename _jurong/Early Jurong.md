@@ -95,6 +95,17 @@ The early economic activities in the Jurong region had a lasting impact on the l
 
 ----
 
+---
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Gambier and pepper, pepper and gambier? Do you know why this two cash crops were always mentioned together in history books? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal Senior Librarian Timothy Pwee's explanation in his <span style="font-style: italic;">Biblioasia</span> article, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/" target="_blank">"From Gambier to Pepper: Plantation Agriculture in Singapore"</a>.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">The Chinese plantations were organised under a system led by a headman known as a "kangchu," which translates to "lord of the river" in Teochew. The kangchu oversaw the transformation of virgin jungle areas near river catchments into plantations. These areas were also referred to as "bangsals" (“shed” or “lean-to shelter” in Malay) in reference to the cultivated zones where gambier and pepper were grown as well as the processing facilities and accommodations for the workers within. Typically covering an area of 10 to 50 acres, each bangsal usually employed around 10 workers. These bangsals were situated along major rivers, including the Jurong River, and the settlements of each plantation cluster were known as "Kangkar", which means "foot of the river" in Teochew.</span>
+	
+</details>
+
+---
+
 **For more information on the history of early Jurong, please consult the following resources:**
 
 https://www.roots.gov.sg/Collection-Landing/listing/1046292
