@@ -35,9 +35,16 @@ Before the development of the Jurong Industrial Estate, the area was already tee
 
 ---
 
-**Why rubber and pineapples?**
+---
 
-As the gambier industry in Singapore declined in the late 1800s, a new cash crop, rubber, started to dominate the plantation landscape, including in Jurong. Rubber was introduced to Singapore and Malaya in 1877 when Henry Ridley brought hevea brasiliensis seeds from Brazil through Kew Gardens in the United Kingdom and planted them in the Botanic Gardens. Chinese plantation owners often grew quick-yielding interim cash crops like pineapples or gambier alongside the rows of rubber trees. These crops generated income within 18 months while the rubber trees matured, as rubber trees took about seven years to mature. To collect rubber latex without harming the trees, cultivators used the herringbone tapping method, which allowed for controlled extraction.
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Why do Chinese plantation owners choose to cultivate rubber and pineapples on the same plot of land? What benefits or synergies do they find in this unique combination of crops? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out in the National Heritage Board's <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/" target="_blank"><span style="font-style: italic;">Jurong Heritage Trail</span> </a><a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/" target="_blank"></a>.</span></summary>
+<br>	
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Unlike estate agriculture elsewhere in Asia at the time, which was largely dominated by Europeans, almost all of the rubber plantations in Singapore and Johor were owned by locals. The Chinese often planted interim cash crops such as pineapple or gambier among the rows of rubber trees, and these crops that yielded their produce within 18 months generated cash flow while the rubber trees matured. With the revenue from these interim crops, and smaller capital investments in their rubber plantations than that of their European counterparts, it cost Chinese planters around 150 Straits dollars per acre of their rubber estate. This was in contrast to European estates that could require up to four times the capital investment."</span>
+	
+</details>
+
+---
 
 **Kang chu system**
 
