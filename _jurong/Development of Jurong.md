@@ -51,8 +51,6 @@ While the early economic activities had altered the landscape of the Jurong regi
 | ![Alt text for image on Isomer site](/images/jurong-development-industrial-estate-image-4-1.jpg)|
 | As Singapore intensified its industrialisation efforts after gaining independence on August 9, 1965, it became evident to the government that managing industrial estates would become increasingly intricate and demanding. Consequently, the government made the decision to transfer this responsibility from the Economic Development Board (EDB) to a newly established agency known as Jurong Town Corporation (JTC). In addition to managing and expanding Singapore's industrial estates, JTC was also given the mandate to provide amenities that would enhance the quality of life for those working and residing within these estates. Shown above is a 1975 photograph of Jurong Town Hall which was once the headquarters of the Jurong Town Corporation headquarters. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/dffc2918-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-Goh's folly?
-
 
 ### **Jurong and the Development of Industries in Singapore**
 
