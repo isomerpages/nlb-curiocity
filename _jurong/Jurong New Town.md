@@ -3,7 +3,7 @@ title: Jurong New Town
 permalink: /jurong/jurong-new-town/
 description: ""
 ---
-In less than one decade after the launch of the Jurong Industrial Estate, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. The estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh Keng Swee wanted Jurong to not only be an industrial estate, but also a town. This led to the birth of housing estates in Jurong and the building of recreational facilities, town centres, and flats.
+In less than a decade after the launch of the Jurong Industrial Estate, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. The estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh Keng Swee wanted Jurong to not only be an industrial estate, but also a town. This led to the birth of housing estates in Jurong and the building of recreational facilities, town centres, and flats.
 
 ### **Development of Housing Estates in Jurong**
 
