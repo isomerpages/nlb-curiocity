@@ -99,23 +99,3 @@ The provision of infrastructure is integral to the development of any estate, wh
 | The Jurong Fishery Port, established in 1969 at the former Tanjong Balai, to serve as a hub for the handling of fish imports into Singapore. This facility also functions as a marketing distribution center for seafood, featuring a wholesale fish market and various shops for the sale of seafood products. Besides handling fishing vessels from Indonesia and those operating in the Indian and Pacific Oceans, the Fishery Port also receives seafood via trucks from Malaysia and Thailand, as well as by air from countries including Australia, Bangladesh, China, India, Myanmar, Taiwan and Vietnam. Shown above is the fish market at the Jurong Fishery Port taken in 2007. (Image Credit: [Photo by Benjamin Lyons via Flickr (CC BY-NC-ND 2.0 DEED)](https://flic.kr/p/D76KY){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-industrial-street-map-1972-1.jpg)|
 | The development of Jurong as an industrial estate in Singapore included the construction of roads, with more than 30 thoroughfares built within the first decade of its development to connect factories to port facilities, housing estates, and the rest of the island. Interestingly, these new roads were given names that reflected themes of "industry" and "progress". For example, on the 1972 street map of Jurong, you could find roads with names like Corporation Road, Enterprise Road, Quality Road, Tractor Road, Fan Yoong Road (which means "Prosperity" Road in Chinese), Jalan Pesawat (or "Machinery" Road in Malay), or Neythal Road (or "Weaving" Road in Tamil, possibly referring to the presence of textile factories along the road). These names symbolised the industrial and economic growth taking place in Jurong. (Image Credit: [Copyright © 2023 OneMap, Singapore Land Authority](https://www.onemap.gov.sg/historicalmaps/){:target="_blank"}) |
-
-
-
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/2dd23b15-1162-11e3-83d5-0050568939ad
-
-
-
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=ea7f0e25-22c4-4db0-acfd-723c87d73679
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
-
-https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/deforestation/
-
-https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=1521df3a-7b37-4440-be44-9ca1f03c538f
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=95b3ff4e-0179-4309-9a47-79aa78ee3da9
