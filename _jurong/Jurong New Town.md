@@ -2,6 +2,7 @@
 title: Jurong New Town
 permalink: /jurong/jurong-new-town/
 description: ""
+variant: markdown
 ---
 In less than a decade after the launch of the Jurong Industrial Estate, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. The estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh Keng Swee wanted Jurong to not only be an industrial estate, but also a town. This led to the birth of housing estates in Jurong and the building of recreational facilities, town centres, and flats.
 
@@ -36,7 +37,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/88c80796-1162-1
 
 The [Chinese Garden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204) in Jurong was constructed by the Jurong Town Corporation (JTC) in 1975 as part of the broader development plan for Jurong Park. The concept, dating back to 1968, included the creation of a green belt with landscaped gardens, a lake, and open spaces, with three islands designated for a Chinese garden, a Japanese garden, and a tropical garden. The design concept for the Chinese Garden was developed by Taiwanese expert Yu Yuen Chen, drawing inspiration from northern Chinese imperial architecture during the Song dynasty and the Summer Palace in Beijing. Notable features of the garden include marble stone lions, the 13-arch White Rainbow Bridge, an Arch and Main Gate complex, a Stone Boat and Tea House, and a seven-story pagoda. Over the years, the garden has seen additions, such as a Bonsai Garden and the Live Turtle and Tortoise Museum, and has become a popular location for Chinese New Year and Mid-Autumn Festival celebrations, featuring large-scale festive displays.
 
+Jurong Lake
 
+During the development of the industrial town in the 1960s, EDB planners decided to convert the Sungei Jurong into a lake, rendering it easier to provide water for industrial purposes and create social and leisure amenities around the water. The upper section of the river was dammed in 1971, creating Jurong Lake. Rainfall in Jurong East and Jurong West is now channelled to the lake via canals and drains, turning it into a reservoir. Jurong Lake Park was constructed on the west bank of the lake, while the Chinese Garden and Japanese Garden were established on two man-made islets. A third islet forms part of the Jurong Country Club golf course.
 
 Science Centre
 
