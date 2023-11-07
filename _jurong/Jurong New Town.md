@@ -34,7 +34,17 @@ stadiums and swimming pools
 
 community centres
 
+Boon Lay Community Centre is one of the oldest community centres in Singapore. Initially located at a temporary site rented from JTC, the community centre shifted to its current premises at 10 Boon Lay Place in the early 1980s.40 It was the first community centre in Singapore to establish a golf club
+
 Boon Lay Shopping Centre was completed in the late 1970s. Situated at Boon Lay Place, it was the first shopping and residential complex built by JTC in Jurong
+
+schools
+
+The Jurong Vocational Institute was built at Jalan Boon Lay in 1969. It was later renamed ITE ([Institute of Technical Education](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1835_2011-08-31.html)) Jurong, and relocated to [Bukit Batok](http://eresources.nlb.gov.sg/infopedia/articles/SIP_244_2005-01-26.html) in January 2000.34  
+  
+In 1977, Boon Lay Garden Primary School and Boon Lay Secondary School began classes for their first batch of students.35 Under an urban renewal programme for Jurong and Boon Lay launched in the 1990s, Boon Lay Secondary School moved from 247 Jalan Boon Lay to a new campus in Jurong West in 1999, while Boon Lay Garden Primary School shifted from Boon Lay Avenue to new premises at 20 Boon Lay Drive in 2001.36  
+  
+In 2010, River Valley High School moved to its current campus in Boon Lay. The 7.6-hectare campus is one of the largest among government schools in Singapore and includes a 500-bed hostel for both local and international students.37
 
 
 ### **Recreation Spaces in Jurong**
