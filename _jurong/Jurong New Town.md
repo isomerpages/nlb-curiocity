@@ -64,7 +64,7 @@ The [Chinese Garden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6
 
 Jurong Lake
 
-Jurong Lake was created during the development Jurong Industrial Estate in the 1960s after damming part of Sungei Jurong into a reservoir. Besides to provide water for industrial purposes, the reservoir was also to function as a recreational space for the residents living there as Jurong Lake Park was constructed on the west bank of the lake, while the Chinese Garden and Japanese Garden were established on two man-made islets in the reservoir.
+Jurong Lake came into existence during the development of the Jurong Industrial Estate in the 1960s. It was created by damming a section of Sungei Jurong to form a reservoir. This reservoir served the dual purpose of supplying water for industrial needs and providing a recreational area for the residents living nearby as Jurong Lake Park was developed on the western bank of the lake, while Chinese Garden and Japanese Garden was created from two man-made islets within the reservoir.
 
 Science Centre
 
