@@ -50,6 +50,8 @@ In 1977, Boon Lay Garden Primary School and Boon Lay Secondary School began clas
   
 In 2010, River Valley High School moved to its current campus in Boon Lay. The 7.6-hectare campus is one of the largest among government schools in Singapore and includes a 500-bed hostel for both local and international students.37
 
+Universities
+
 
 ### **Recreation Spaces in Jurong**
 
