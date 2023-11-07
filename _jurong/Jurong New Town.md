@@ -26,8 +26,6 @@ annual report 1975
 
 Besides having bigger housing units, the housing estates in Jurong was also supplemented with shops and amenities including markets and hawker centres. The first hawker centre that was built in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972.
 
-https://ourneighbourhood.jrtc.org.sg/2022/04/jrtc-icon-the-taman-jurong-market-and-food-centre/
-
 Besides Yung Sheng Food Centre, Jurong Market I and Jurong Market II were also among the first hawker centres that came into operations during the 1970s. Located along Corporation Drive, Jurong Market I was renamed Corporation Drive Market in 1979 to serve the residents staying in the vicinity of Hu Ching and Yung Loh roads in Jurong West. As for Jurong Market II, it was located near Yung Sheng Food Centre and was redeveloped together with Yung Sheng Food Centre as today's Taman Jurong Market and Food Centre along Yung Sheng Road. Despite the redevelopment, the legacy of the two hawker centres were retained as the new Taman Jurong Market and Food Centre houses many original hawkers from the original Yung Sheng Food Centre and Jurong Market I.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/3d49bb71-1162-11e3-83d5-0050568939ad
