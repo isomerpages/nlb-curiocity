@@ -47,8 +47,6 @@ The Jurong Vocational Institute was one of the first schools being built in Juro
 [Jurong Drive-in](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bbfab240-c8be-4315-a0de-959b7dc0a0fe) is Singapore's first open-air cinema. Opened on 14 July 1971 by then Minister of Culture, Jek Yuen Thong, it was once located next to the Japanese Gardens. Conceived by Cathay Organisation, it was the largest drive-in cinema in Asia and could accommodate 900 cars as well as an additional 300 people in its walk-in gallery. The cinema offered a unique movie-watching experience for movie-goers, as they could watch English and Hong Kong films on a giant television screen from the privacy of the car. It was also one of the few places in Jurong and across the island where it was suitable for family outings. However, as the novelty wore off coupled with challenges such as unpredictable weather and the proliferation of air-conditioned cinemas in shopping malls as well as other attractions, Jurong Drive-in cinema was forced to close its doors in 1985 after 15 years of operation.
 
 
-
-
 ### **Parks and Gardens of Jurong**
 
 JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
@@ -68,7 +66,7 @@ Jurong Lake came into existence during the development of the Jurong Industrial 
 
 Science Centre
 
-The Singapore Science Centre opened its doors to the public on 10 December 1977. Built at the cost of S$20 million, the it was set up to promote interest and learning in science and technology to students and the general public. This objective came at a time when Singapore was industrialising rapidly and going up the technology ladder was all-important. The centre was located off Jurong Town Hall Road near the eastern bank of Jurong Lake. Over the next decades, the Singapore Science Centre underwent several expansions. One major expansion was the opening of Omni-Theatre in 1987. This was followed by others including the opening of an observatory in 1989 and Snowcity in 2000. To mark its 30th anniversary in 2007, the Singapore Science Centre was renamed the Science Centre Singapore.
+The Singapore Science Centre opened its doors to the public on 10 December 1977. Built at the cost of S$20 million, the it was set up to promote interest and learning in science and technology to students and the general public. This objective came at a time when Singapore was industrialising rapidly and going up the technology ladder was all-important. The Centre was located off Jurong Town Hall Road near the eastern bank of Jurong Lake. Over the next decades, the Singapore Science Centre underwent several expansions. One major expansion was the opening of Omni-Theatre in 1987. This was followed by others including the opening of an observatory in 1989 and Snowcity in 2000. To mark its 30th anniversary in 2007, the Singapore Science Centre was renamed the Science Centre Singapore.
 
 Jurong Hill Park and Lookout Tower
 
