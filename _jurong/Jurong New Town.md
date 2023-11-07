@@ -16,9 +16,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-1
 
 The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered bigger housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens.
 
-https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
-
 https://www.nas.gov.sg/archivesonline/photographs/record-details/f131de7e-1161-11e3-83d5-0050568939ad
+
+https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad
 
 Besides having bigger housing units, the housing estates in Jurong was also supplemented with shops and amenities including markets and hawker centres. The first hawker centre that was built in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972.
 
