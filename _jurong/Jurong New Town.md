@@ -20,6 +20,8 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/f131de7e-1161-1
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad
 
+annual report 1975
+
 Besides having bigger housing units, the housing estates in Jurong was also supplemented with shops and amenities including markets and hawker centres. The first hawker centre that was built in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972.
 
 https://ourneighbourhood.jrtc.org.sg/2022/04/jrtc-icon-the-taman-jurong-market-and-food-centre/
