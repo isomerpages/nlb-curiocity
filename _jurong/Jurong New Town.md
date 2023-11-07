@@ -34,9 +34,12 @@ stadiums and swimming pools
 
 community centres
 
-JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
+Boon Lay Shopping Centre was completed in the late 1970s. Situated at Boon Lay Place, it was the first shopping and residential complex built by JTC in Jurong
+
 
 ### **Recreation Spaces in Jurong**
+
+JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
 
 [Jurong Bird Park](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635c8f0b89), which opened on 3 January 1971, was Asia's largest bird park and home to more than 5,000 birds across 400 species. Built at a cost of S$3.5 million, the 20.2-hectare  park draws about 800,000 visitors annually. The park was the vision of then Minister for Finance, Goh Keng Swee, who was inspired by a visit to the Rio Aviary in Rio de Janeiro, Brazil, during a World Bank meeting in 1967. Recognising the value of a bird park as a recreational attraction during a period of rapid industrialisation and urbanisation in Jurong and the rest of Singapore, he proposed its creation in 1968. The park, designed by John Yealland and J. Toovey, was located on the western slope of Jurong Hil, and it attracted visitors from around the world when it opened its doors. Over the years, it introduced many exhibits including immersive walk-in aviaries such as Lory Loft, Jungle Jewels and Waterfall Aviary. In 2014, plans were announced to relocate the park to Mandai to be part of a larger precinct of nature-themed attractions called Mandai Wildlife Reserve. This led to the closure of Jurong Bird Park in January 2023 and its reopening as Bird Paradise on 8 May 2023.
 
