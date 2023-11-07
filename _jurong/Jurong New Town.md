@@ -38,7 +38,7 @@ Completed in 1978, Boon Lay Shopping Centre is one of the oldest shopping centre
 
 community centres
 
-Boon Lay Community Centre is one of the oldest community centres in Singapore. Initially located at a temporary site rented from JTC, the community centre shifted to its current premises at 10 Boon Lay Place in the early 1980s.40 It was the first community centre in Singapore to establish a golf club
+Boon Lay Community Centre is one of the oldest community centres in Jurong. Set up in 1979, it was initially located at a temporary site before shifting to its current premises at 10 Boon Lay Place in the early 1980s. Since then, the Community Centre has been serving the residents there offering them a place to socialise and learn through specialist clubs such as the Chinese Orchestra Group, Photographic Club and Chinese Chess Club. These clubs have been active in the Community Centre for well over 20 years, thus underlining the rich history of this Community Centre.
 
 schools
 
