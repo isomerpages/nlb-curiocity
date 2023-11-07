@@ -16,7 +16,8 @@ The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
-Besides offering bigger housing choices, JTC also supplemented them with shops and amenities including hawker centres and markets.
+Besides offering bigger housing choices, JTC also supplemented them with shops and amenities including markets and hawker centres. One of the earliest dedicated food centres built to house hawkers in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, the food centre opened its doors in July 1972 with 60 stalls. As such, Yung Sheng Food Centre was sometimes referred to as "liu shi tan" (or “sixty stalls” in Mandarin).
+
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
