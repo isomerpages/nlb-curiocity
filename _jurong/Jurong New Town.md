@@ -42,11 +42,7 @@ Boon Lay Community Centre is one of the oldest community centres in Jurong. Set 
 
 schools
 
-The Jurong Vocational Institute was built at Jalan Boon Lay in 1969. It was later renamed ITE ([Institute of Technical Education](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1835_2011-08-31.html)) Jurong, and relocated to [Bukit Batok](http://eresources.nlb.gov.sg/infopedia/articles/SIP_244_2005-01-26.html) in January 2000.34  
-  
-In 1977, Boon Lay Garden Primary School and Boon Lay Secondary School began classes for their first batch of students.35 Under an urban renewal programme for Jurong and Boon Lay launched in the 1990s, Boon Lay Secondary School moved from 247 Jalan Boon Lay to a new campus in Jurong West in 1999, while Boon Lay Garden Primary School shifted from Boon Lay Avenue to new premises at 20 Boon Lay Drive in 2001.36  
-  
-In 2010, River Valley High School moved to its current campus in Boon Lay. The 7.6-hectare campus is one of the largest among government schools in Singapore and includes a 500-bed hostel for both local and international students.37
+The Jurong Vocational Institute was one of the first schools being built in Jurong following its industrailisation. Located along Jalan Boon Lay, it was completed in 1969. In 2000, the school was relocated to Bukit Batok and was renamed renamed ITE ([Institute of Technical Education](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1835_2011-08-31.html)) Jurong. Besides ITE Jurong, Boon Lay Garden Primary School and Boon Lay Secondary School were also among the oldest schools in Jurong. Completed in the 1970s, the schools received their first batch of students in 1977. Under an urban renewal programme for Jurong and Boon Lay launched in the 1990s, Boon Lay Secondary School moved from 247 Jalan Boon Lay to a new campus in Jurong West in 1999, while Boon Lay Garden Primary School shifted from Boon Lay Avenue to new premises at 20 Boon Lay Drive in 2001. In 2010, River Valley High School moved to its current campus in Boon Lay. The 7.6-hectare campus is one of the largest among government schools in Singapore and includes a 500-bed hostel for both local and international students.
 
 Universities
 
