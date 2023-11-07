@@ -2,7 +2,7 @@
 title: Building An Industrial Estate
 permalink: /jurong/jurong-industrial-estate-development/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 Littered with villages, plantations, swamplands and patches of primary forests, Jurong was largely undeveloped until then-Finance Minister Dr Goh Keng Swee mooted the idea in the early 1960s of turning Jurong into the 9,000-acre industrial estate to spearhead Singapore’s industrialisation plans. Despite being a risky plan given that Singapore had little experience in creating an industrial town of this size, the government pressed ahead. In less than a decade, Jurong was transformed into a hub of factories and industrial activities.
 
@@ -36,7 +36,7 @@ Before the development of the Jurong Industrial Estate, the area was already tee
 
 -----
 
-### **Developing Jurong as an Industrial Estate**
+### **Building an Industrial Estate**
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
 
@@ -54,7 +54,7 @@ While the early economic activities had altered the landscape of the Jurong regi
 
 ----
 
-### **Jurong and the Development of Industries in Singapore**
+### **Building Industries**
 
 The types of industries that could be found in the Jurong Industrial Estate evolved in tandem with Singapore's industrial development strategy. In general, the strategy underwent five phrases of evolution, starting from labor intensive in the 1960s, followed by skill intensive in the 1970s, capital intensive in the 1980s, technology intensive in the 1990s, and knowledge and innovation intensive from the 2000s onward. Some of the key industries that emerged during this process included manufacturing, electronics, shipbuilding,  petrochemicals, and biomedical sciences.
 
@@ -77,7 +77,7 @@ The types of industries that could be found in the Jurong Industrial Estate evol
 
 ----
 
-### **Infrastructure Development**
+### **Building Infrastructure**
 
 The provision of infrastructure is integral to the development of any estate, whether it's for commercial, housing, or industrial purposes, as it facilitates not only the movement of goods and workers but also the supply of electricity, water, and gas. Consequently, there was a boom in infrastructural works in Jurong as it was being developed into an industrial estate. These works included the construction of a port, a railway, a road network, and even a fishery port.
 
