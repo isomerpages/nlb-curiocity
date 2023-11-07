@@ -59,12 +59,6 @@ Jurong Park
 
 Jurong Hill Park and Lookout Tower
 
-stadiums
-
-Schools and universities
-
 Tang Dynasty City
-
-Pandan 
 
 Taman Jurong, our heritage, our home : a collection of stories (307.76095957 TAM)
