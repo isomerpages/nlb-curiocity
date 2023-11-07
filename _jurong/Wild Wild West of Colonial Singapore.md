@@ -2,7 +2,7 @@
 title: Wild Wild West of Colonial Singapore
 permalink: /jurong/jurong-early-history/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 Jurong is an area in the southwest of Singapore. Comprising of housing estates such as Jurong West and Jurong East as well as the innovation, business and industrial estates of Jurong Lake District and the Jurong Innovation District among others, it was a very different place before its development in the 1960s. Largely undeveloped, it was an area of littered with villages, swamps, patches of jungles and plantations with numerous river, steams and tributaries.
 
@@ -95,8 +95,6 @@ The early economic activities in the Jurong region had a lasting impact on the l
 | The landscape of Jurong was further impacted by the construction of roads and the establishment of small villages with farms. These changes not only improved accessibility to the region but also resulted in the conversion of once undeveloped land into areas for agriculture and residences, playing a crucial role in altering the landscape of Jurong. Shown above is a 1962 photograph of Jurong Link Road being constructed. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad){:target="_blank"}) |
 
 ----
-
----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Choa Chu Kang, Lim Chu Kang and Phua Chu Kang. Ever wondered why there are So many "Chu Kangs" in Singapore? Except for the fictional local sitcom character, "Phua Chu Kang", there is a story behind why Choa Chu Kang and Lim Chu Kang were named this way. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out below. (Source: <a href="https://www.jstor.org/stable/i40072872" target="_blank">"Journal of the Malaysian Branch of the Royal Asiatic Society [Vol. 49, No. 2 (230) (1976)]"</a>). </span></summary>
