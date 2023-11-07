@@ -68,6 +68,8 @@ Jurong Lake came into existence during the development of the Jurong Industrial 
 
 Science Centre
 
+The Singapore Science Centre opened its doors to the public on 10 December 1977. Built at the cost of S$20 million, the it was set up to promote interest and learning in science and technology to students and the general public. This objective came at a time when Singapore was industrialising rapidly and going up the technology ladder was all-important. The centre was located off Jurong Town Hall Road near the eastern bank of Jurong Lake. Over the next decades, the Singapore Science Centre underwent several expansions. One major expansion was the opening of Omni-Theatre in 1987. This was followed by others including the opening of an observatory in 1989 and Snowcity in 2000. To mark its 30th anniversary in 2007, the Singapore Science Centre was renamed the Science Centre Singapore.
+
 Jurong Hill Park and Lookout Tower
 
 Jurong Hill Park is situated on Jurong Hill. At the time of its opening in 1970, the park featured a three-story observatory tower that provided its visitors including foreign guests and investors invited by the government a panoramic view of the nearby Jurong Industrial Estate. The tower also housed a restaurant, which, unfortunately, closed down in 1976 due to poor business. Besides the observatory tower, there was also a landscaped garden with footpaths, benches, refreshment kiosks, public restrooms, and a "Garden of Fame". The latter where foreign dignitaries like Queen Elizabeth II, Deng Xiaoping, and Dr. Albert Winsemius had planted trees there between 1969 and 1984. In total, 30 trees were planted before the Garden was relocated to the compound of Jurong Town Hall. 
