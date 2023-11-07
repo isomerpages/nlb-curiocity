@@ -8,8 +8,6 @@ From labour-intensive industries to value-added and now innovation town
 
 DGP in the 1990s
 
-Jurong Island
-
 Jurong Innovation District
 
 Eco and sustainable living 
