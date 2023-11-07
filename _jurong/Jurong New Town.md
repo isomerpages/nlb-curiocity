@@ -32,11 +32,11 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-1
 
 stadiums and swimming pools
 
+Completed in 1978, Boon Lay Shopping Centre is one of the oldest shopping centres in Jurong. Located along Boon Lay Drive in Jurong West, the shopping centre has a shopping podium comprising 102 shops on the ground and first floors as well as a department store, a supermarket, coffeeshops, restaurant on the first and second floors at the time of its opening. After over 40 years of operations, the shopping centre was upgraded in 2012 with a new facade and better facilities such as escalators and elevators. Nonetheless, the shopping centre still retains its original architecture and nostalgia as it continues to serve the residents with a suite of mom-and-pop shops, money changers and shops for foreign workers, and travel agencies for trips to Malaysia.
+
 community centres
 
 Boon Lay Community Centre is one of the oldest community centres in Singapore. Initially located at a temporary site rented from JTC, the community centre shifted to its current premises at 10 Boon Lay Place in the early 1980s.40 It was the first community centre in Singapore to establish a golf club
-
-Boon Lay Shopping Centre was completed in the late 1970s. Situated at Boon Lay Place, it was the first shopping and residential complex built by JTC in Jurong
 
 schools
 
