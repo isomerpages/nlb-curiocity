@@ -12,12 +12,13 @@ Even though Jurong industrial estate grew quickly and provided many jobs, not ma
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad
 
-The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered more housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens.
+The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered bigger housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/ef38f1db-1161-11e3-83d5-0050568939ad
 
 Besides offering bigger housing choices, JTC also supplemented them with shops and amenities including markets and hawker centres. One of the earliest dedicated food centres built to house hawkers in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, the food centre opened its doors in July 1972 with 60 stalls. As such, Yung Sheng Food Centre was sometimes referred to as "liu shi tan" (or “sixty stalls” in Mandarin).
 
+Other markets and food centres were also located in Jurong.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad
 
