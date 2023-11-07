@@ -6,7 +6,7 @@ variant: markdown
 ---
 In less than a decade after the launch of the Jurong Industrial Estate, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. The estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh Keng Swee wanted Jurong to not only be an industrial estate, but also a town. This led to the birth of housing estates in Jurong and the building of recreational facilities, town centres, and flats.
 
-### **Building Housing Estates in Jurong**
+### **Building Housing Estates**
 
 Even though Jurong industrial estate grew quickly and provided many jobs, not many people wanted to live there. One reason for this was that it seemed far away from the rest of the island, making it less appealing. To make Jurong a better place to live, starting in the late 1960s, efforts were made to improve it. They added more housing choices, built shops, social places, places to have fun, and made transportation better.
 
@@ -32,7 +32,7 @@ Even though Jurong industrial estate grew quickly and provided many jobs, not ma
 ----
 
 
-### **Building Parks and Gardens in Jurong**
+### **Building Parks and Gardens**
 
 JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
 
