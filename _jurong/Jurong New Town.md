@@ -6,7 +6,7 @@ variant: markdown
 ---
 In less than a decade after the launch of the Jurong Industrial Estate, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore’s industrialisation efforts. The estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers. However, Dr Goh Keng Swee wanted Jurong to not only be an industrial estate, but also a town. This led to the birth of housing estates in Jurong and the building of recreational facilities, town centres, and flats.
 
-### **Development of Housing Estates in Jurong**
+### **First Housing Estates of Jurong**
 
 Even though Jurong industrial estate grew quickly and provided many jobs, not many people wanted to live there. One reason for this was that it seemed far away from the rest of the island, making it less appealing. To make Jurong a better place to live, starting in the late 1960s, efforts were made to improve it. They added more housing choices, built shops, social places, places to have fun, and made transportation better.
 
@@ -26,6 +26,8 @@ annual report 1975
 
 Besides having bigger housing units, the housing estates in Jurong was also supplemented with shops and amenities including markets and hawker centres. The first hawker centre that was built in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972. Besides Yung Sheng Food Centre, Jurong Market I and Jurong Market II were also among the first hawker centres that came into operations during the 1970s. Located along Corporation Drive, Jurong Market I was renamed Corporation Drive Market in 1979 to serve the residents staying in the vicinity of Hu Ching and Yung Loh roads in Jurong West. As for Jurong Market II, it was located near Yung Sheng Food Centre and was redeveloped together with Yung Sheng Food Centre as today's Taman Jurong Market and Food Centre along Yung Sheng Road. Despite the redevelopment, the legacy of the two hawker centres were retained as the new Taman Jurong Market and Food Centre houses many original hawkers from the original Yung Sheng Food Centre and Jurong Market I.
 
+### **Providing Recreational and Amenities**
+
 https://www.nas.gov.sg/archivesonline/photographs/record-details/3d49bb71-1162-11e3-83d5-0050568939ad
 
 The former Jurong Stadium was among the first recreational facilities to be built in Jurong. Completed in 1973, it was situated along Corporation Road in Taman Jurong. The stadium had a flat design and included a covered grandstand gallery overlooking a grass pitch encircled by an asphalt running track. Four tall iron truss structures, positioned at the corners, supported the floodlights. Until its demolition in 2020, the stadium provided sports and recreational facilities for local residents. Additionally, it served as a venue for the National Day Parade in the 1970s and 1980s, as well as various Singapore Armed Forces (SAF) ceremonies and parades, including Infantry Officers' commissioning parades and color presentation ceremonies for the Singapore Guards. Today, the residents of Jurong are served by stadiums such as Jurong East and Jurong West stadiums.
@@ -42,8 +44,10 @@ schools
 
 The Jurong Vocational Institute was one of the first schools being built in Jurong following its industrailisation. Located along Jalan Boon Lay, it was completed in 1969. In 2000, the school was relocated to Bukit Batok and was renamed renamed ITE ([Institute of Technical Education](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1835_2011-08-31.html)) Jurong. Besides ITE Jurong, Boon Lay Garden Primary School and Boon Lay Secondary School were also among the oldest schools in Jurong. Completed in the 1970s, the schools received their first batch of students in 1977. Under an urban renewal programme for Jurong and Boon Lay launched in the 1990s, Boon Lay Secondary School moved from 247 Jalan Boon Lay to a new campus in Jurong West in 1999, while Boon Lay Garden Primary School shifted from Boon Lay Avenue to new premises at 20 Boon Lay Drive in 2001. In 2010, River Valley High School moved to its current campus in Boon Lay. The 7.6-hectare campus is one of the largest among government schools in Singapore and includes a 500-bed hostel for both local and international students.
 
+[Jurong Drive-in](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bbfab240-c8be-4315-a0de-959b7dc0a0fe) is Singapore's first open-air cinema. Opened on 14 July 1971 by then Minister of Culture, Jek Yuen Thong, it was once located next to the Japanese Gardens. Conceived by Cathay Organisation, it was the largest drive-in cinema in Asia and could accommodate 900 cars as well as an additional 300 people in its walk-in gallery. The cinema offered a unique movie-watching experience for movie-goers, as they could watch English and Hong Kong films on a giant television screen from the privacy of the car. It was also one of the few places in Jurong and across the island where it was suitable for family outings. However, as the novelty wore off coupled with challenges such as unpredictable weather and the proliferation of air-conditioned cinemas in shopping malls as well as other attractions, Jurong Drive-in cinema was forced to close its doors in 1985 after 15 years of operation.
 
-### **Recreation Spaces in Jurong**
+
+### **Parks and Gardens of Jurong**
 
 JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
 
@@ -51,8 +55,6 @@ JTC also made sure that its housing estates were designed to have recreational a
 
 https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635c8f0b89
 
-  
-[Jurong Drive-in](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bbfab240-c8be-4315-a0de-959b7dc0a0fe) is Singapore's first open-air cinema. Opened on 14 July 1971 by then Minister of Culture, Jek Yuen Thong, it was once located next to the Japanese Gardens. Conceived by Cathay Organisation, it was the largest drive-in cinema in Asia and could accommodate 900 cars as well as an additional 300 people in its walk-in gallery. The cinema offered a unique movie-watching experience for movie-goers, as they could watch English and Hong Kong films on a giant television screen from the privacy of the car. It was also one of the few places in Jurong and across the island where it was suitable for family outings. However, as the novelty wore off coupled with challenges such as unpredictable weather and the proliferation of air-conditioned cinemas in shopping malls as well as other attractions, Jurong Drive-in cinema was forced to close its doors in 1985 after 15 years of operation.
 
 https://www.nas.gov.sg/archivesonline/photographs/record-details/88c80796-1162-11e3-83d5-0050568939ad
 
@@ -60,7 +62,7 @@ The [Chinese Garden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6
 
 Jurong Lake and Jurong Lake Park
 
-During the development of the industrial town in the 1960s, EDB planners decided to convert the Sungei Jurong into a lake, rendering it easier to provide water for industrial purposes and create social and leisure amenities around the water. The upper section of the river was dammed in 1971, creating Jurong Lake. Rainfall in Jurong East and Jurong West is now channelled to the lake via canals and drains, turning it into a reservoir. Jurong Lake Park was constructed on the west bank of the lake, while the Chinese Garden and Japanese Garden were established on two man-made islets. A third islet forms part of the Jurong Country Club golf course.
+During the development of the industrial town in the 1960s, Sungei Jurong into a lake, rendering it easier to provide water for industrial purposes and create social and leisure amenities around the water. The upper section of the river was dammed in 1971, creating Jurong Lake. Rainfall in Jurong East and Jurong West is now channelled to the lake via canals and drains, turning it into a reservoir. Jurong Lake Park was constructed on the west bank of the lake, while the Chinese Garden and Japanese Garden were established on two man-made islets. A third islet forms part of the Jurong Country Club golf course.
 
 Science Centre
 
