@@ -38,9 +38,9 @@ Even though Jurong industrial estate grew quickly and provided many jobs, not ma
 
 ----
 
-**Want to find out where you can eat in Jurong? Check out this food guide by The Straits Times below.**
+**Want to find out where you can eat in Jurong? Check out this food guide by [SETHLUI.com](https://www.youtube.com/@Sethluifoodtravel) below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wlDfFiEHDXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pyCUi3E55BQ?si=KPCdr6AsSTiEL8fR" height="315" width="560"></iframe>
 
 ### **Building Parks and Gardens**
 
