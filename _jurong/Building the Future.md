@@ -10,7 +10,7 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 ### **Building a Regional Centre**
 
-The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around the Jurong East MRT station, this vision was to turn Jurong into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
+The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
 International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
 
