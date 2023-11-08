@@ -4,7 +4,17 @@ permalink: /jurong/jurong-new/
 description: ""
 variant: markdown
 ---
-In 1991, the land around the Jurong East MRT interchange was designated as a regional centre to create more jobs outside the city.
+From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to turn the area into a regional centre and later a business district were announced in 1991 and 2008 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, and a flurry of public and private residential projects.
+
+
+
+Centering around the Jurong East MRT station, th to be a gateway to the entire Western region of Singapore through the offer of a mix of commercial and social amenities and residential facilities. To develop the Jurong regional
+
+International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
+
+Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
+
+the Jurong Regional Centre vision was unveiled following the release of the 1991 Concept Plan. 
 
 DGP in the 1990s
 
