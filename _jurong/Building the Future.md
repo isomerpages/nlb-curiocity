@@ -4,11 +4,11 @@ permalink: /jurong/jurong-new/
 description: ""
 variant: markdown
 ---
-From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to create a regional centre, a business district and an innovation district there were announced in 1991, 2008 and 2016 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, an advanced manufacturing and innovation hub, and a flurry of public and private residential projects.
+From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to create a regional centre, a business district and an innovation district there were announced in 1991, 2008 and 2016 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, an innovation hub, and a flurry of public and private residential projects.
 
 ---
 
-### **Building a New Regional Centre in Jurong**
+### **Building a Regional Centre**
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around the Jurong East MRT station, this vision was to turn Jurong into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
@@ -16,12 +16,14 @@ International Business Park (Singapore's first business park for knowledge-based
 
 ---
 
-### **Building a New Business District by the Lake**
+### **Building a Business District by the Lake**
 
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
-
-Jurong Innovation District
 
 Eco and sustainable living 
 
 A new place for living and working
+
+### **Building an Innovation Hub**
+
+Jurong Innovation District
