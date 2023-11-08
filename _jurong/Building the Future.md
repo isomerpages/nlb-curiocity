@@ -14,13 +14,15 @@ The vision to create a regional centre in Jurong was unveiled as part of the 199
 
 International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
 
+Jurong Gateway and shopping malls
+
 ---
 
 ### **Building a Business District by the Lake**
 
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
 
-Eco and sustainable living 
+Eco and sustainable living - reinvent gardens
 
 A new place for living and working
 
