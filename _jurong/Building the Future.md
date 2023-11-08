@@ -18,7 +18,7 @@ Completed in 1988, the Jurong East station is an interchange between the EWL and
 
 To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall.
 
-
+private sector. Only a handful of commercial and retail developments took root in Jurong East in the 1990s, such as the Jurong Entertainment Centre and the International Merchandising Mart (IMM) Mall, featuring a mix of retail and warehousing facilities. Jurong East’s positioning as a gateway to the Jurong and Tuas industrial areas was both a boon and bane. While the proximity of Jurong East to the industrial areas made it a natural choice for a regional centre, the public perceived it as being overly industrial and too far from the city centre. The challenges of marketing the nearby IBP in the mid-1990s were telling
 
 
 
