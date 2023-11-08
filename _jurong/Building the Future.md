@@ -4,7 +4,7 @@ permalink: /jurong/jurong-new/
 description: ""
 variant: markdown
 ---
-From labour-intensive industries to value-added and now innovation town
+In 1991, the land around the Jurong East MRT interchange was designated as a regional centre to create more jobs outside the city.
 
 DGP in the 1990s
 
