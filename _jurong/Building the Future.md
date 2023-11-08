@@ -16,6 +16,10 @@ Centering around the Jurong East MRT station, th to be a gateway to the entire W
 
 International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
 
+---
+
+### **Building a New Business District**
+
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
 
 the Jurong Regional Centre vision was unveiled following the release of the 1991 Concept Plan. 
