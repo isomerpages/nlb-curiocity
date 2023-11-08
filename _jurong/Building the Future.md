@@ -12,9 +12,15 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
-Completed in 1988, the Jurong East station went on to become an interchange between the EWL and the NSL when the latter’s Woodlands extension opened in 1996. Although construction of public housing in Jurong East had started as early as the 1970s, much of the land surrounding the MRT station was left vacant in anticipation of future development. In the 1995 Jurong East planning area report earmarked nine hectares (90,000 m2) on either side of the station for high-rise commercial tower blocks, with medium-rise office blocks sited farther away.
 
-International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
+
+Completed in 1988, the Jurong East station is an interchange between the EWL and the NSL when the latter’s Woodlands extension opened in 1996. Although construction of public housing in Jurong East had started as early as the 1970s, much of the land surrounding the MRT station was left vacant in anticipation of future development. In the 1995 Jurong East planning area report earmarked nine hectares (90,000 m2) on either side of the station for high-rise commercial tower blocks, with medium-rise office blocks sited farther away.
+
+To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall.
+
+
+
+
 
 Jurong Gateway and shopping malls
 
