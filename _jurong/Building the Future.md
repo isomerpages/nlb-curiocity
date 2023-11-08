@@ -16,7 +16,7 @@ International Business Park (Singapore's first business park for knowledge-based
 
 ---
 
-### **Building a New Business District**
+### **Building a New Business District by the Lake**
 
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
 
