@@ -28,7 +28,7 @@ Jurong Gateway and shopping malls
 
 ---
 
-### **Building a Business District by the Lake**
+### **Building a Business District**
 
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
 
