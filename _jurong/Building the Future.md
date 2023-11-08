@@ -12,7 +12,7 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
-
+Massing of buildings
 
 Completed in 1988, the Jurong East station is an interchange between the EWL and the NSL when the latter’s Woodlands extension opened in 1996. Although construction of public housing in Jurong East had started as early as the 1970s, much of the land surrounding the MRT station was left vacant in anticipation of future development. In the 1995 Jurong East planning area report earmarked nine hectares (90,000 m2) on either side of the station for high-rise commercial tower blocks, with medium-rise office blocks sited farther away.
 
