@@ -8,6 +8,8 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 
 
+
+
 Centering around the Jurong East MRT station, th to be a gateway to the entire Western region of Singapore through the offer of a mix of commercial and social amenities and residential facilities. To develop the Jurong regional
 
 International Business Park (Singapore's first business park for knowledge-based activities) and JTC Summit (headquarters for JTC Corporation) were among the first developments. Five decades on, the former swamp is now a manufacturing hub for many high-value industries and an attractive residential town.
