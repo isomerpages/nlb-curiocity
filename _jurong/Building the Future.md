@@ -18,7 +18,7 @@ Jurong East, along with Woodlands, Tampines and the Seletar area were identified
 
 The urban design approach to create a distinctive skyline for the Jurong Regional Centre to signify it as a gateway to the Western region is the massing of building. 
 
-To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall.
+To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall. 
 
 These public sector projects were then followed by commercial and retail developments. Two distincitve projects that took root in Jurong East during the 1990s include the Jurong Entertainment Centre and the International Merchandising Mart (IMM) Mall.
 
