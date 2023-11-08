@@ -4,7 +4,7 @@ permalink: /jurong/jurong-new/
 description: ""
 variant: markdown
 ---
-From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to turn the area into a regional centre and later a business district were announced in 1991 and 2008 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, and a flurry of public and private residential projects.
+From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to create a regional centre, a business district and an innovation district there were announced in 1991, 2008 and 2016 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, an advanced manufacturing and innovation hub, and a flurry of public and private residential projects.
 
 ---
 
