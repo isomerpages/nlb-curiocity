@@ -22,19 +22,19 @@ To kickstart the Regional Centre, the public sector embarked on a number of deve
 
 These public sector projects were then followed by commercial and retail developments. Two distincitve projects that took root in Jurong East during the 1990s include the Jurong Entertainment Centre and the International Merchandising Mart (IMM) Mall.
 
-
-
-Jurong Gateway and shopping malls
-
 ---
 
 ### **Building a Business District**
 
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
 
+Jurong Gateway and shopping malls
+
+Jem, Westgate, Hospital
+
 Eco and sustainable living - reinvent gardens
 
-A new place for living and working
+A new place for living and working - JWalk and JConnect
 
 ### **Building an Innovation Hub**
 
