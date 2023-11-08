@@ -20,7 +20,9 @@ The urban design approach to create a distinctive skyline for the Jurong Regiona
 
 To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall. 
 
-These public sector projects were then followed by commercial and retail developments. Two distincitve projects that took root in Jurong East during the 1990s include the Jurong Entertainment Centre and the International Merchandising Mart (IMM) Mall.
+These public sector projects were then followed by commercial and retail developments. Two distincitve projects that took root in Jurong East during the 1990s include Jurong Entertainment Centre and International Merchandising Mart (IMM) Mall. Opened in September 1993, Jurong Entertainment Centre had a retail floor area of 110,000 square feet, featuring a cineplex operated by Shaw Theatres, an amusement arcade, a bowling alley, retail shops and eateries, and a ice rink known as Fuji Ice Palace on third floor.
+
+International Merchandising Mart Mall (usually referred to as IMM Mall**) is an a five-storey mall with over 960,000 square feet of retail space. Opened in 1991, it also offers  warehousing facilities. The mall has capacity for 235 retail outlets and 430 non-retail outlets. In May 2012, IMM underwent a $30 million renovation project which saw the mall's facilities being improved and retail space increased.
 
 ---
 
