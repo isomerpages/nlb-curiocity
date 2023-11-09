@@ -66,3 +66,5 @@ https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-
 https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
 
 https://www.mnd.gov.sg/mndlink/2017/Nov-Dec/plans-for-singapores-second-cbd-unveiled.htm
+
+https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf
