@@ -36,9 +36,9 @@ the lake district comprises not only Jurong Regional Centre but also the area ar
 
 JLD was annouced in 2008
 
-currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
+https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
 
-Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
+currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
 
