@@ -34,6 +34,8 @@ In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jur
 
 JLD was announced in 2008
 
+Announced in 2008, JLD spans over 400 hectares. It comprises the existing commercial node around Jurong East MRT Station or the Jurong Regional Centre; a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which will be rejuvenated with more mixed uses in the coming years.
+
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
 
 Jurong Gateway and shopping malls
