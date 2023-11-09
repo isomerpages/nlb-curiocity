@@ -32,11 +32,13 @@ International Merchandising Mart Mall (usually referred to as IMM Mall) is an 
 
 In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jurong Lake District (JLD). Centering around Jurong Lake and covering an area as large as the new downtown at Marina Bay, JLD is designed to be Singapore's second Central Business District (CBD) with the aim of bringing more offices, retail, homes and leisure to the area.
 
-First unveiled in the 2008 Master Plan and later updated in 2017, JLD is envisioned as a lively and vibrant mixed-use business district, with its own live-in population and an attractive street life for both locals and visitors. The district spans over 400 hectares and it comprises the existing commercial node around Jurong East MRT Station or the Jurong Regional Centre; a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which has been rejuvenated to include more mixed uses.
+First unveiled in the 2008 Master Plan and later updated in 2017, JLD is envisioned as a lively and vibrant mixed-use business district, with its own live-in population and an attractive street life for both locals and visitors. The district spans over 400 hectares and it comprises the existing commercial node around Jurong East MRT Station (or the Jurong Regional Centre); a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which has been rejuvenated to include more mixed uses.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
 
-Jurong Gateway and shopping malls
+As part of the development of JLD, the Jurong Regional Centre was renamed Jurong Gateway. While it remains a commercial hub, its function was expanded so that it can provide more choices 
+
+a commercial hub at Jurong Gateway, and a leisure and recreational area at Lakeside
 
 Jem, Westgate, Hospital
 
