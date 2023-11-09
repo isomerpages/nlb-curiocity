@@ -38,6 +38,10 @@ JLD was annouced in 2008
 
 https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
 
+https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.4?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
+
+https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.19.2?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
+
 currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
