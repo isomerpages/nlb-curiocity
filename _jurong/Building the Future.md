@@ -42,6 +42,8 @@ https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.
 
 https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.19.2?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
 
+https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
+
 currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
