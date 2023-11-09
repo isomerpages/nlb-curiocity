@@ -32,9 +32,7 @@ International Merchandising Mart Mall (usually referred to as IMM Mall) is an 
 
 In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jurong Lake District (JLD). Centering around Jurong Lake and covering an area as large as the new downtown at Marina Bay, JLD is designed to be Singapore's second Central Business District (CBD) with the aim of bringing more offices, retail, homes and leisure to the area.
 
-JLD was announced in 2008
-
-Announced in 2008, JLD spans over 400 hectares. It comprises the existing commercial node around Jurong East MRT Station or the Jurong Regional Centre; a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which will be rejuvenated with more mixed uses in the coming years.
+First unveiled in the 2008 Master Plan and later updated in 2017, JLD is envisioned as a lively and vibrant mixed-use business district, with its own live-in population and an attractive street life for both locals and visitors. The district spans over 400 hectares and it comprises the existing commercial node around Jurong East MRT Station or the Jurong Regional Centre; a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which has been rejuvenated to include more mixed uses.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
 
@@ -61,3 +59,5 @@ https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
 
 https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
+
+https://www.mnd.gov.sg/mndlink/2017/Nov-Dec/plans-for-singapores-second-cbd-unveiled.htm
