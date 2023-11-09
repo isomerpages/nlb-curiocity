@@ -36,15 +36,7 @@ the lake district comprises not only Jurong Regional Centre but also the area ar
 
 JLD was annouced in 2008
 
-https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
 
-https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.4?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
-
-https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.19.2?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
-
-https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
-
-https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
 
 currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
@@ -61,3 +53,15 @@ A new place for living and working - JWalk and JConnect
 ### **Building an Innovation Hub**
 
 Jurong Innovation District
+
+Resources
+
+https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
+
+https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.4?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
+
+https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.19.2?qt=%22jurong%20gateway%22&q=%22jurong%20gateway%22
+
+https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
+
+https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
