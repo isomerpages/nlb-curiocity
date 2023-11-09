@@ -34,7 +34,7 @@ In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jur
 
 the lake district comprises not only Jurong Regional Centre but also the area around Jurong Lake. It will offer places for work, live and recreation.
 
-
+JLD was annouced in 2008
 
 currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
