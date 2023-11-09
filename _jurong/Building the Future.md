@@ -54,7 +54,7 @@ A new place for living and working - JWalk and JConnect
 
 Jurong Innovation District
 
-Resources
+**Resources**
 
 https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
 
