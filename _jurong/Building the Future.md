@@ -44,6 +44,8 @@ https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.
 
 https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
 
+https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
+
 currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
 
 https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
