@@ -32,7 +32,7 @@ International Merchandising Mart Mall (usually referred to as IMM Mall) is an 
 
 In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jurong Lake District (JLD). Designed to be Singapore's second Central Business District (CBD), 
 
-the lake district comprises not only Jurong Regional Centre but also the area around Jurong Lake. It will offer places for work, live and recreation.
+the lake district comprises not only Jurong Regional Centre but also the area around Jurong Lake. Its aim is to bring more offices, retail, homes and leisure to the area.
 
 JLD was annouced in 2008
 
