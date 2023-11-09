@@ -12,9 +12,11 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
+https://www.ura.gov.sg/Corporate/Planning/Long-Term-Plan-Review/Past-Long-Term-Plans
+
 Concept Plans (known today as Long-Term Plan Review) are strategic land-use and transportation plans that guided the physical transformation of Singapore during the nation-building years. The first Concept Plan was unveiled in 1971 and it advocated for the development of a ring structure of satellite towns around the Central Water Catchment, supported by the Central Area as the Central Business District (CBD). In the 1991 Concept Plan, a decentralised policy was introduced whereby four regional centres, supported by sub-regional and fringe centres, were identified to bring jobs closer to homes to alleviate congestion in the city centre. This approach turned fringe locations such as at Tampines, Buona Vista and Newton into regional hubs where residents could work, live, play and learn.
 
-Jurong East, along with Woodlands, Tampines and the Seletar area were identified as the four regional centres in the 1991 Concept Plan. Besides proposing for developments around these regional centres to support activities for work, play, culture and commerce. It also called for nature, waterbodies and recreational spaces to be woven seamlessly together with the centres. In Jurong, the regional centre was to be built around Jurong East MRT station. Completed in 1988, the MRT station is an interchange between the East-West Line and the North-South Line. Although construction of public housing in Jurong East had started as early as the 1970s, much of the land surrounding the MRT station was left vacant in anticipation of future development. In the 1995 Jurong East planning area report earmarked nine hectares (90,000 m2) on either side of the station for high-rise commercial tower blocks, with medium-rise office blocks sited farther away.
+Jurong East, along with Woodlands, Tampines and the Seletar area were identified as the four regional centres in the 1991 Concept Plan. Besides proposing for developments around these regional centres to support activities for work, play, culture and commerce. It also called for nature, waterbodies and recreational spaces to be woven seamlessly together with the centres. In Jurong, the regional centre was to be built around Jurong East MRT station. Completed in 1988, the MRT station is an interchange between the East-West Line and the North-South Line. Although construction of public housing in Jurong East had started as early as the 1970s, much of the land surrounding the MRT station was left vacant in anticipation of future development. In the 1995 Jurong East planning area report earmarked nine hectares on either side of the station for high-rise commercial tower blocks, with medium-rise office blocks sited farther away.
 
 The urban design approach to create a distinctive skyline for the Jurong Regional Centre to signify it as a gateway to the Western region is the massing of building. 
 
@@ -22,13 +24,23 @@ To kickstart the Regional Centre, the public sector embarked on a number of deve
 
 These public sector projects were then followed by commercial and retail developments. Two distincitve projects that took root in Jurong East during the 1990s include Jurong Entertainment Centre and International Merchandising Mart (IMM) Mall. Opened in September 1993, Jurong Entertainment Centre had a retail floor area of 110,000 square feet, featuring a cineplex operated by Shaw Theatres, an amusement arcade, a bowling alley, retail shops and eateries, and a ice rink known as Fuji Ice Palace on third floor.
 
-International Merchandising Mart Mall (usually referred to as IMM Mall**) is an a five-storey mall with over 960,000 square feet of retail space. Opened in 1991, it also offers  warehousing facilities. The mall has capacity for 235 retail outlets and 430 non-retail outlets. In May 2012, IMM underwent a $30 million renovation project which saw the mall's facilities being improved and retail space increased.
+International Merchandising Mart Mall (usually referred to as IMM Mall) is an a five-storey mall with over 960,000 square feet of retail space. Opened in 1991, it also offers  warehousing facilities. The mall has capacity for 235 retail outlets and 430 non-retail outlets. In May 2012, IMM underwent a $30 million renovation project which saw the mall's facilities being improved and retail space increased.
 
 ---
 
 ### **Building a Business District**
 
+In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jurong Lake District (JLD). Designed to be Singapore's second Central Business District (CBD), 
+
+the lake district comprises not only Jurong Regional Centre but also the area around Jurong Lake. It will offer places for work, live and recreation.
+
+
+
+currently being developed as Singapore’s second CBD over an area as large as the new downtown at Marina Bay.
+
 Jurong Regional Centre became Jurong Lake District (JLD) in 2008, with a new plan to help shed its industrial image and bring more offices, retail, homes and leisure to the area.
+
+https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
 
 Jurong Gateway and shopping malls
 
