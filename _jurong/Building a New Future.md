@@ -12,9 +12,10 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
-https://www.ura.gov.sg/Corporate/Planning/Long-Term-Plan-Review/Past-Long-Term-Plans
-
-Concept Plans (known today as Long-Term Plan Review) are strategic land-use and transportation plans that guided the physical transformation of Singapore during the nation-building years. The first Concept Plan was unveiled in 1971 and it advocated for the development of a ring structure of satellite towns around the Central Water Catchment, supported by the Central Area as the Central Business District (CBD). In the 1991 Concept Plan, a decentralised policy was introduced whereby four regional centres, supported by sub-regional and fringe centres, were identified to bring jobs closer to homes to alleviate congestion in the city centre. This approach turned fringe locations such as at Tampines, Buona Vista and Newton into regional hubs where residents could work, live, play and learn.
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/jurong-new-future-regional-centre-1-1-1.jpg)|
+| Concept Plans (known today as Long-Term Plan Review) are strategic land-use and transportation plans that guided the physical transformation of Singapore during the nation-building years. The first Concept Plan was unveiled in 1971 and it advocated for the development of a ring structure of satellite towns around the Central Water Catchment, supported by the Central Area as the Central Business District (CBD). In the 1991 Concept Plan, a decentralised policy was introduced whereby four regional centres, supported by sub-regional and fringe centres, were identified to bring jobs closer to homes to alleviate congestion in the city centre. This approach turned fringe locations such as at Tampines, Buona Vista and Newton into regional hubs where residents could work, live, play and learn. (Image Credit: [© Urban Redevelopment Authority. All rights reserved.](https://www.ura.gov.sg/Corporate/Planning/Long-Term-Plan-Review/Past-Long-Term-Plans){:target="_blank"}) |
 
 1991 concept plan?
 
