@@ -53,7 +53,7 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wW2IUERkvzo?si=G_2ZUVHZcr1dlLP_" height="315" width="560"></iframe>
 
 
-### **Building an Innovation Hub**
+### **Building a New Innovation Hub**
 
 In 2016, Singapore announced that it would be creating an innovation hub in Jurong. Called Jurong Innovation District, it will be a place for new economic activities. In the hub, industries will be powered innovaton, research and development (R&amp;D), as well as cutting-edge technologies and a highly-skilled workforce. All in all, the new innovation hub marks a new phase in the Jurong story and Singapore's economic transformation.
 
