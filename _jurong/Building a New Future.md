@@ -47,6 +47,8 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 
 Jurong Innovation District
 
+https://estates.jtc.gov.sg/jid/about
+
 **Resources**
 
 https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
