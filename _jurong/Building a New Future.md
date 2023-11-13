@@ -47,7 +47,11 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 
 Jurong Innovation District
 
+Opening in phases from 2024, JID brings together a growing ecosystem of research institutions, capability developers, training and technology firms and manufacturers to bolster Singapore’s ambitions in advanced manufacturing.
+
 https://estates.jtc.gov.sg/jid/about
+
+https://www.straitstimes.com/business/property/jtc-jurong-innovation-district-industrial-estate-aims-to-attract-more-talent-with-high-tech-work
 
 **Resources**
 
