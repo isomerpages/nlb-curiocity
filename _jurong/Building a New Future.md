@@ -47,9 +47,11 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 
 The country’s manufacturing sector currently employs about 450,000 people and makes up about 21 per cent of its gross domestic product. Singapore aims to grow the sector by 50 per cent by 2030, and with advanced manufacturing instead of more traditional, labour-intensive manufacturing, it can free up workers for higher-value work, according to the Manufacturing 2030 plan released last year. To create the environment to do so, the Jurong Town Corporation (JTC) annouced in 2022 that it would be creating the Jurong Innovation District. 
 
+The 620ha Jurong Innovation District which is about 10 times the size of Bishan-Ang Mo Kio Park will be Singapore's first mixed-use district for advanced manufacturing. In the district, companies can tap sensors, robotics and other Industry 4.0 solutions to improve their business. 
+
+It’s an ecosystem uniting businesses and the community, where technology, talent and sustainable design combine to inspire ideas that redefine the world we live in.
 
 (JID) will be inviting and sustainable to stand out from other manufacturing estates, so that it can attract the best talent and companies,
-
 
 Opening in phases from 2024, JID brings together a growing ecosystem of research institutions, capability developers, training and technology firms and manufacturers to bolster Singapore’s ambitions in advanced manufacturing.
 
