@@ -45,6 +45,8 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 
 ### **Building an Innovation Hub**
 
+The country’s manufacturing sector currently employs about 450,000 people and makes up about 21 per cent of its gross domestic product. Singapore aims to grow the sector by 50 per cent by 2030, and with advanced manufacturing instead of more traditional, labour-intensive manufacturing, it can free up workers for higher-value work, according to the Manufacturing 2030 plan released last year.
+
 Jurong Innovation District
 
 Opening in phases from 2024, JID brings together a growing ecosystem of research institutions, capability developers, training and technology firms and manufacturers to bolster Singapore’s ambitions in advanced manufacturing.
