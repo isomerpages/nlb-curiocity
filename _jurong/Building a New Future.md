@@ -42,6 +42,8 @@ To provide recreational opportunities within the Jurong Lake District, a new nat
 
 By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 20,000 new homes. It is currently taking shape rapidly with the completion of a series of projects among others. These include retail spaces such as Jem and Westgate in Jurong Gateway in 2013, the opening of Jurong Lake Gardens in 2019, as well as the completion of a number of pedestrian walkways including the 270-metre pedestrian mall J-Link and the elevated pedestrian network J-Walk. In the coming years, more projects within the lake district will be added to the lake district. These include the new Science Centre, the revamped Chinese and Japanese Gardens, the Jurong Regional Line, the Jurong East integrated transportation hub, and many public and private residential projects.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q8TT9y4Ge7M?si=ttJ7QRDzvG8aQRaL" height="315" width="560"></iframe>
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wW2IUERkvzo?si=G_2ZUVHZcr1dlLP_" height="315" width="560"></iframe>
 
 
