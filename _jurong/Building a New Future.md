@@ -38,7 +38,7 @@ https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29
 
 As part of the development of JLD, the Jurong Regional Centre was renamed Jurong Gateway. While it remains a commercial hub, its function was expanded so that it can be positioned as a place for company headquarters, business services as well as companies in the science and the research and development fields. In addition, Jurong Gateway is also designated for development into an integrated commercial and transport hub with spaces set aside for office, residential and hotel use, as well as retail, F&B and entertainment. All in all, Jurong Gateway is to be a business district that is a city centre that can attract businesses and bring jobs closer to homes.
 
-As part of JLD, the land water development around Jurong Lake will be transformed so that it can business opportunities can be melded with leisure pursuits. 
+To provide recreational opportunities within the JLD, 
 
 
 commercial hub at Jurong Gateway, and a leisure and recreational area at Lakeside
