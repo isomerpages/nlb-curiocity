@@ -74,3 +74,5 @@ https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
 https://www.mnd.gov.sg/mndlink/2017/Nov-Dec/plans-for-singapores-second-cbd-unveiled.htm
 
 https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf
+
+https://www.straitstimes.com/singapore/environment/plans-to-develop-jurong-lake-gardens-central-and-east-unveiled
