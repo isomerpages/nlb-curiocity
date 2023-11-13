@@ -8,7 +8,7 @@ From the 1990s, the Jurong region began the journey to become the future precinc
 
 ---
 
-### **Building a Regional Centre**
+### **Building a New Regional Centre**
 
 The vision to create a regional centre in Jurong was unveiled as part of the 1991 Concept Plan. Centering around Jurong East MRT station, this vision was to turn the area into a gateway for the entire Western region through the offer of a mix of commercial and social amenities and residential facilities.
 
