@@ -38,20 +38,7 @@ https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29
 
 As part of the development of JLD, the Jurong Regional Centre was renamed Jurong Gateway. While it remains a commercial hub, its function was expanded so that it can be positioned as a place for company headquarters, business services as well as companies in the science and the research and development fields. In addition, Jurong Gateway is also designated for development into an integrated commercial and transport hub with spaces set aside for office, residential and hotel use, as well as retail, F&B and entertainment. All in all, Jurong Gateway is to be a business district that is a city centre that can attract businesses and bring jobs closer to homes.
 
-To provide recreational opportunities within the JLD, a new national garden was created around Jurong Lake. Known as Jurong Lake Gardens, the 90-hectare Gardens comprises a redeveloped Chinese and Japanese Gardens in the central part of the lake, the expansive 60-hectare Lakeside Garden in the west, and a Garden Promenade in the east.
-
-
-
-
-Lakeside Garden (Jurong Lake Gardens West or the former Jurong Lake Park), 
-
-
-Chinese and Japanese Gardens (Jurong Lake Gardens Central) and Garden Promenade (Jurong Lake Gardens East).
-
-Anchored by Jurong Lake Gardens, the third national garden of Singapore, Jurong Lake District stands out for its lush greenery and expansive lake. From 2023 to 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
-
-Neighbourhoods are planned around the lake making it easy and convenient for people to walk, cycle and take public transport to amenities and attractions located close by. These areas will also be supported by more sustainable and centralised infrastructure to optimise land and energy.
-
+To provide recreational opportunities within the JLD, a new national garden was created around Jurong Lake. Known as Jurong Lake Gardens, the 90-hectare Gardens will be Singapore's third national garden after the Singapore Botanic Gardens and Gardens by the Bay. It comprises a redeveloped Chinese and Japanese Gardens at the central part of Jurong Lake, the expansive 60-hectare Lakeside Garden in the west, a Garden Promenade in the east, and a new Science Centre in the north. Neighbourhoods are planned around the lake making it easy and convenient for people to walk, cycle and take public transport to amenities and attractions located close by.
 
 commercial hub at Jurong Gateway, and a leisure and recreational area at Lakeside
 
