@@ -45,15 +45,22 @@ By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 
 
 ### **Building an Innovation Hub**
 
-The country’s manufacturing sector currently employs about 450,000 people and makes up about 21 per cent of its gross domestic product. Singapore aims to grow the sector by 50 per cent by 2030, and with advanced manufacturing instead of more traditional, labour-intensive manufacturing, it can free up workers for higher-value work, according to the Manufacturing 2030 plan released last year. To create the environment to do so, the Jurong Town Corporation (JTC) annouced in 2022 that it would be creating the Jurong Innovation District. 
+In 2019, Singapore announced that it would be creating an innovation hub in Jurong. Called Jurong Innovation District, it will be a place for new economic activities. In the hub, industries will be powered innovaton, research and development (R&D), as well as cutting-edge technologies and a highly-skilled workforce. All in all, the new innovation hub marks a new phase in the Jurong story and Singapore's economic transformation.
 
-The 620ha Jurong Innovation District which is about 10 times the size of Bishan-Ang Mo Kio Park will be Singapore's first mixed-use district for advanced manufacturing. In the district, companies can tap sensors, robotics and other Industry 4.0 solutions to improve their business. 
+The announcement of Jurong Innovation District came a time when Singapore is upgrading its manufacturing sector up the value-added chain. The country’s manufacturing sector currently employs about 450,000 people and makes up about 21 per cent of its gross domestic product. With the release of the Manufacturing 2030 plan, Singapore aims to grow the sector by 50 per cent by 2030 with advanced manufacturing instead of more traditional, labour-intensive manufacturing. This is to not only free up workers for higher-value work, but also transformed the country's manufacturing sector into an innovation-driven industry, based on R&D, cutting-edge technologies such as robotics and AI, and highly skilled workers.
 
-It’s an ecosystem uniting businesses and the community, where technology, talent and sustainable design combine to inspire ideas that redefine the world we live in.
+The Jurong Innovation District is to provide the ideal environment or ecosystem for the transformation of Singapore's manufacturing sector. Located in close proximity with educational institutions such as Nanyang Technological University, 
 
-(JID) will be inviting and sustainable to stand out from other manufacturing estates, so that it can attract the best talent and companies,
+The 620ha Jurong Innovation District is designed to be a mixed-use district for advanced manufacturing. In the district, companies can tap sensors, robotics and other Industry 4.0 solutions to improve their business. Instead of being a traditional industrial estate, it has an ecosystem to unite businesses and the community
+
+
+where technology, talent and sustainable design combine to inspire ideas that redefine the world we live in.
+
+
 
 Opening in phases from 2024, JID brings together a growing ecosystem of research institutions, capability developers, training and technology firms and manufacturers to bolster Singapore’s ambitions in advanced manufacturing.
+
+https://www.pmo.gov.sg/Newsroom/SM-Tharman-Shanmugaratnam-at-the-launch-of-the-Jurong-Innovation-District-Masterplan-Exhibition
 
 https://estates.jtc.gov.sg/jid/about
 
