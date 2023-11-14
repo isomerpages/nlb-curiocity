@@ -4,7 +4,7 @@ permalink: /jurong/jurong-new/
 description: ""
 variant: markdown
 ---
-From the 1990s, the Jurong region began the journey to become the future precinct of Singapore when plans to create a regional centre, a business district and an innovation district there were announced in 1991, 2008 and 2016 respectively. This led to the launch of numerous development which saw the establishment of a business park, a shopping enclave, an innovation hub, and a flurry of public and private residential projects.
+Since the 1990s, the Jurong region has undergone a transformation, evolving into a precinct of the future for Singapore. This evolution was set in motion by the announcements of plans to create a regional centre in 1991, a business district in 2008, and an innovation district in 2016. Subsequently, a series of developments unfolded, giving rise to a business park, a shopping enclave, an innovation hub, and a plethora of public and private residential projects as well as recreational spaces.
 
 ---
 
@@ -36,7 +36,7 @@ In the 1990s, following public sector initiatives, commercial and retail project
 
 ### **Building a New Business District**
 
-In 2008, the Urban Redevelopment Authority unveiled plans to establish the Jurong Lake District in Jurong. Encompassing Jurong Lake and spanning an area comparable to the new downtown at Marina Bay, this ambitious project aims to develop Singapore's second Central Business District (CBD). The vision is to introduce a mix of offices, retail spaces, residences, and recreational amenities to transform the area into a vibrant and dynamic district.
+In 2008, the Urban Redevelopment Authority revealed plans as part of the Master Plan to create the Jurong Lake District in Jurong. Encompassing Jurong Lake and spanning an area comparable to the new downtown at Marina Bay, this ambitious project aims to develop Singapore's second Central Business District (CBD). The vision is to introduce a mix of offices, retail spaces, residences, and recreational amenities to transform the area into a vibrant and dynamic district.
 
 Jurong Lake District plan: https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf
 
