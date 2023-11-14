@@ -42,7 +42,15 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 | ![Alt text for image on Isomer site](/images/jurong-new-future-jld-4-1-1.jpg)|
 | Between 2040 and 2050, the Jurong Lake District aims to generate 100,000 new jobs and create 20,000 new homes. The district has been rapidly evolving, marked by the completion of several significant projects. Notable developments include retail spaces like Jem and Westgate in Jurong Gateway (2013), the inauguration of Jurong Lake Gardens in 2019, and the establishment of key pedestrian walkways such as the 270-meter J-Link pedestrian mall and the elevated pedestrian network J-Walk. Upcoming projects in the district encompass the new Science Centre, the rejuvenated Chinese and Japanese Gardens, the Jurong Regional Line, the integrated transportation hub in Jurong East, and various public and private residential initiatives. (Image Source: [Jurong Lake District: A Place to Grow: JLD Planning and Urban Design Guide June 2023](https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf){:target="_blank"}) |
 
+----
+
+**Watch this video from the Today YouTube Channel for a sneak peek into what the Jurong Lake District might look like when fully developed.**
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q8TT9y4Ge7M?si=ttJ7QRDzvG8aQRaL" height="315" width="560"></iframe>
+
+----
+
+**Watch this video from the Today YouTube Channel for a sneak peek into what the Jurong Lake District might look like when fully developed.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wW2IUERkvzo?si=G_2ZUVHZcr1dlLP_" height="315" width="560"></iframe>
 
