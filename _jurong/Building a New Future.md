@@ -26,7 +26,7 @@ The urban design approach to create a distinctive skyline for the Jurong Regiona
 
 IBP photo
 
-To kickstart the development of the Jurong Regional Centre, the Jurong Town Corporation (JTC) established a 37-hectare International Business Park near Jurong East MRT station. Designed as a hub for corporations to establish their regional headquarters, innovation centers and other operations, the business park is now host to several high-tech companies, including Acer, JGC Singapore, Creative Technology, ThyssenKrupp, Evonik, and Johnson Control. In addition to the business park, JTC also constructed a new headquarters within the Jurong Regional Centre. Known as JTC Summit, JTC has been operating there since its relocation from Jurong Town Hall in 2000.
+To kickstart the development of the Jurong Regional Centre, the Jurong Town Corporation (JTC) established a 37-hectare International Business Park near Jurong East MRT station. Designed as a hub for corporations to establish their regional headquarters, innovation centers and other operations, the business park is now host to several high-tech companies, including Acer, JGC Singapore, Creative Technology, ThyssenKrupp, Evonik, and Johnson Control. In addition to the business park, JTC also constructed a new headquarters within the Jurong Regional Centre. Known as JTC Summit, JTC has been operating from the 31-storey building since relocating there from Jurong Town Hall in 2000.
 
 IMM Mall photo
 
