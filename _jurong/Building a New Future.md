@@ -26,7 +26,7 @@ The urban design approach to create a distinctive skyline for the Jurong Regiona
 
 IBP photo
 
-To kickstart the Regional Centre, the public sector embarked on a number of developments. For instance, the Jurong Town Council (JTC) established the 37-hectare International Business Park, which was Singapore’s first business park, there in 1992. This was followed by the JTC Summit which became the headquarters of JTC after it moved into the building in 2000 from Jurong Town Hall.
+To kickstart the Regional Centre, the public sector embarked on a number of developments there. For instance, the Jurong Town Corporation (JTC) established a 37-hectare International Business Park near Jurong East MRT station for corporations to set up their regional headquarters, innovation centres and other operations. Since its inception in 1992, companies that had set up their premises within the international park include Acer, JGC Singapore, Creative Technology, ThyssenKrupp, Evonik and Johnson Control. Besides the International Business Park, JTC also moved into a new building in the Jurong Regional Centre from Jurong Town Hall . Known as JTC Summit, it was completed in 2000. 
 
 IMM Mall photo
 
