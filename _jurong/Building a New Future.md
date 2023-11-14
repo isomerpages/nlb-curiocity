@@ -38,19 +38,20 @@ These public sector projects were then followed by commercial and retail develop
 
 In 2008, the Jurong Regional Centre vision was expanded and rebranded as the Jurong Lake District. Centering around Jurong Lake and covering an area as large as the new downtown at Marina Bay, the new lake district is designed to be Singapore's second Central Business District (CBD) with the aim of bringing more offices, retail, homes and leisure to the area.
 
-Jurong Lake District plan
+Jurong Lake District plan: https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf
 
 First unveiled in the 2008 Master Plan and later updated in 2017, Jurong Lake District  is envisioned as a lively and vibrant mixed-use business district, with its own live-in population and an attractive street life for both locals and visitors. The district spans over 400 hectares and it comprises the existing commercial node around Jurong East MRT Station (or the Jurong Regional Centre); a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which has been rejuvenated to include more mixed uses.
 
-Jurong Gateway photo: https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2827496133873%29.jpg
+Jurong Gateway photo: https://commons.wikimedia.org/wiki/File:NS1_EW24_Jurong_East_MRT_exterior_and_tracks_20200919_102610.jpg
 
 As part of the development of Jurong Lake District , the Jurong Regional Centre was renamed Jurong Gateway. While it remains a commercial hub, its function was expanded so that it can be positioned as a place for company headquarters, business services as well as companies in the science and the research and development fields. In addition, Jurong Gateway is also designated for development into an integrated commercial and transport hub with spaces set aside for office, residential and hotel use, as well as retail, F&amp;B and entertainment. All in all, Jurong Gateway is to be a business district that is away from the city centre so that jobs can be brought closer to homes.
 
-Jurong Lake Garden photo
+Jurong Lake Garden photo:
+https://www.flickr.com/photos/68166820@N08/51889553440
 
 To provide recreational opportunities within the Jurong Lake District, a new national garden was created around Jurong Lake. Known as Jurong Lake Gardens, the 90-hectare Gardens will be Singapore's third national garden after the Singapore Botanic Gardens and Gardens by the Bay. It comprises a redeveloped Chinese and Japanese Gardens at the central part of Jurong Lake, the expansive 60-hectare Lakeside Garden in the west, a Garden Promenade in the east, and a new Science Centre in the north. Neighbourhoods are planned around the lake making it easy and convenient for people to walk, cycle and take public transport to amenities and attractions located close by.
 
-??
+https://www.jld.gov.sg/
 
 By 2040 to 2050, Jurong Lake District is slated to provide 100,000 new jobs and 20,000 new homes. It is currently taking shape rapidly with the completion of a series of projects among others. These include retail spaces such as Jem and Westgate in Jurong Gateway in 2013, the opening of Jurong Lake Gardens in 2019, as well as the completion of a number of pedestrian walkways including the 270-metre pedestrian mall J-Link and the elevated pedestrian network J-Walk. In the coming years, more projects within the lake district will be added to the lake district. These include the new Science Centre, the revamped Chinese and Japanese Gardens, the Jurong Regional Line, the Jurong East integrated transportation hub, and many public and private residential projects.
 
