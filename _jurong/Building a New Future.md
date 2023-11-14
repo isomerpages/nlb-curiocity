@@ -25,8 +25,6 @@ The vision to establish a regional centre in Jurong was introduced as part of th
 | ![Alt text for image on Isomer site](/images/jurong-new-future-regional-centre-5-1-1.jpg)|
 | In the 1990s, following public sector initiatives, commercial and retail projects began to flourish in Jurong East. Notably, two projects emerged during this period: the Jurong Entertainment Centre and the International Merchandising Mart (IMM) Mall. The Jurong Entertainment Centre, which was completed in 1993 and later demolished and replaced by JCube in 2012, boasted a retail floor area of 110,000 square feet, housing a cineplex operated by Shaw Theatres, an amusement arcade, a bowling alley, retail shops and eateries, and an ice rink named Fuji Ice Palace on the third floor. On the other hand, the International Merchandising Mart Mall, commonly known as IMM Mall, is a five-storey facility encompassing over 960,000 square feet of retail space. It opened in 1991, offering warehousing facilities and accommodating 235 retail outlets and 430 non-retail outlets. In May 2012, IMM underwent a $30 million renovation project, enhancing its facilities and expanding retail space. (Image Source: [Living the next lap: Towards a tropical city of excellence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6135902){:target="_blank"}) |
 
-
-
 ---
 
 ### **Building a New Business District**
