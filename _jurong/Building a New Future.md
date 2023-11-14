@@ -50,7 +50,7 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 
 ----
 
-**One of the key highlights of Jurong Lake District is the seamless integration of green spaces. To achieve this, a third national garden, known as Jurong Lake Gardens, will be established. Watch this video by the National Parks to explore one of the gardens within this new national space.**
+**One of the key highlights of Jurong Lake District is the seamless integration of green spaces. To achieve this, a third national garden, known as Jurong Lake Gardens, will be established. Watch this video by the National Parks Board to explore one of the gardens within this new national space.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wW2IUERkvzo?si=G_2ZUVHZcr1dlLP_" height="315" width="560"></iframe>
 
