@@ -44,13 +44,13 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 
 ----
 
-**Watch this video from the Today YouTube Channel for a sneak peek into what the Jurong Lake District might look like when fully developed.**
+**Watch this video from the Today YouTube Channel for a sneak peek into what Jurong Lake District might look like when fully developed.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q8TT9y4Ge7M?si=ttJ7QRDzvG8aQRaL" height="315" width="560"></iframe>
 
 ----
 
-**Watch this video from the Today YouTube Channel for a sneak peek into what the Jurong Lake District might look like when fully developed.**
+**One of the key highlights of Jurong Lake District is the close integration of green spaces. As such a third national garden known as Jurong Lake Gardens will be created there. Watch this video by the National Parks on one of the gardens that can be found in this new national garden.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wW2IUERkvzo?si=G_2ZUVHZcr1dlLP_" height="315" width="560"></iframe>
 
