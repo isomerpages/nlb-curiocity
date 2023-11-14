@@ -42,7 +42,7 @@ Jurong Lake District plan
 
 First unveiled in the 2008 Master Plan and later updated in 2017, Jurong Lake District  is envisioned as a lively and vibrant mixed-use business district, with its own live-in population and an attractive street life for both locals and visitors. The district spans over 400 hectares and it comprises the existing commercial node around Jurong East MRT Station (or the Jurong Regional Centre); a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; an upcoming mixed-use estate around the future Cross-Island Line Station; and the International Business Park, which has been rejuvenated to include more mixed uses.
 
-Jurong Gateway photo
+Jurong Gateway photo: https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2827496133873%29.jpg
 
 As part of the development of Jurong Lake District , the Jurong Regional Centre was renamed Jurong Gateway. While it remains a commercial hub, its function was expanded so that it can be positioned as a place for company headquarters, business services as well as companies in the science and the research and development fields. In addition, Jurong Gateway is also designated for development into an integrated commercial and transport hub with spaces set aside for office, residential and hotel use, as well as retail, F&amp;B and entertainment. All in all, Jurong Gateway is to be a business district that is away from the city centre so that jobs can be brought closer to homes.
 
