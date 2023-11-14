@@ -2,7 +2,8 @@ collections:
   jurong:
     output: true
     order:
-      - "Swamplands to Tech Metropolis: Jurong's Transformation Tale.md"
+      - "Swamplands to Tech Metropolis: A Digital Tale of Jurong's
+        Transformation.md"
       - Wild Wild West of Colonial Singapore.md
       - Building an Industrial Estate.md
       - Building a New Town.md
