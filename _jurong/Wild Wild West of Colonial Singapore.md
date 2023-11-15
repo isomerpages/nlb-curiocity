@@ -107,6 +107,16 @@ The early economic activities in the Jurong region had a lasting impact on the l
 
 ##### **References**
 
+**Books and Articles**
+
+National Heritage Board, _Jurong Heritage Trail_ (Singapore: National Heritage Board, 2015). (From National Library, Singapore, call no. RSING 915.95704 JUR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=202056554](https://catalogue.nlb.gov.sg/search/card?recordId=202056554)
+
+Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” _Biblioasia_ (Apr-June, 2021). Retrieved from Biblioasia website: [https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/)
+
+Brenda S. A. Yeoh and Lily Kong, _Portraits of Places: History, Community and Identity in Singapore_ (Singapore: Times Editions, 1995). (From National Library, Singapore, call no. RSING 959.57 POR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=7468347](https://catalogue.nlb.gov.sg/search/card?recordId=7468347)
+
+Tang, F. C. (ed.), _Kampong Days: Village Life and Times in Singapore Revisited_ (Singapore: National Archives, 1993). (From National Library, Singapore, call no. RSING 959.57 KAM). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=6434970](https://catalogue.nlb.gov.sg/search/card?recordId=6434970)
+
 **Maps**
 
 “Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson,” In John Crawfurd, _Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin-China: Exhibiting a View of the Actual State of those Kingdoms_ (London: Henry Colburn, 1828), 529. Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad)
@@ -142,13 +152,3 @@ _A Gambier and Pepper Plantation_ \[Photograph\], (c. 1900). Retrieved from Nati
 \[Hunter with dead tiger\] \[Photograph\], (c. 1890). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/d5f46ea5-1161-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5f46ea5-1161-11e3-83d5-0050568939ad)
 
 \[Jurong Link Road - General view of Public Works Department road works\] \[Photograph\], (1962). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad)
-
-**Books and Articles**
-
-National Heritage Board, _Jurong Heritage Trail_ (Singapore: National Heritage Board, 2015). (From National Library, Singapore, call no. RSING 915.95704 JUR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=202056554](https://catalogue.nlb.gov.sg/search/card?recordId=202056554)
-
-Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” _Biblioasia_ (Apr-June, 2021). Retrieved from Biblioasia website: [https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/)
-
-Brenda S. A. Yeoh and Lily Kong, _Portraits of Places: History, Community and Identity in Singapore_ (Singapore: Times Editions, 1995). (From National Library, Singapore, call no. RSING 959.57 POR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=7468347](https://catalogue.nlb.gov.sg/search/card?recordId=7468347)
-
-Tang, F. C. (ed.), _Kampong Days: Village Life and Times in Singapore Revisited_ (Singapore: National Archives, 1993). (From National Library, Singapore, call no. RSING 959.57 KAM). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=6434970](https://catalogue.nlb.gov.sg/search/card?recordId=6434970)
