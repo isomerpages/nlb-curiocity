@@ -4,8 +4,10 @@ permalink: /jurong/introduction/
 variant: markdown
 description: ""
 ---
-Jurong's evolution from an undeveloped region to a dynamic industrial and residential hub is one of the many captivating achievements of post-independence Singapore. Now, with the visionary Jurong Lakeside and Innovation District masterplans, the district is poised for yet another era of transformation that will see the integration of sustainable living with the growth of high-tech and innovation industries. 
+Jurong's evolution from an undeveloped region to a dynamic industrial and residential hub stands as one of post-independence Singapore's captivating achievements. With the visionary Jurong Lakeside and Innovation District masterplans now released, Jurong is poised for yet another era of transformation, seamlessly integrating sustainable living with the burgeoning growth of high-tech and innovation industries.
 
-Join us on this exciting journey into Jurong's future.
+To truly grasp Jurong's remarkable evolution, it is essential not only to understand the narrative but also to delve into accompanying resources such as old photographs, paintings, postcards, maps, and memories.
 
-This extraordinary transformation of Jurong
+"Swamplands to Tech Metropolis: A Digital Tale of Jurong's Transformation" presents Jurong's history through resources from institutions like the National Library Board, the National Heritage Board, the Urban Redevelopment Authority, and the Jurong Town Corporation. Additionally, it features content compiled or created by heritage bloggers, filmmakers, and even YouTubers.
+
+Embark on this journey of discovery by exploring our digital story or innovative story map.
