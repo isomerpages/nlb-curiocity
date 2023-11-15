@@ -105,6 +105,52 @@ The early economic activities in the Jurong region had a lasting impact on the l
 
 ---
 
-**For more information on the history of early Jurong, please consult the following resources:**
+**References:**
 
-https://www.roots.gov.sg/Collection-Landing/listing/1046292
+**Maps**
+
+“Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson,” In John Crawfurd, _Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin-China: Exhibiting a View of the Actual State of those Kingdoms_ (London: Henry Colburn, 1828), 529. Retrieved from National Archives of Singapore’s database:
+
+[https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad)
+
+Samuel Congalton and John Turnbull Thomson, “Survey of the Straits of Singapore,” (London: Richardson Brothers, 1855). Retrieved from National Archives of Singapore: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad)
+
+H. E McCallum, “Map of the Island of Singapore and its Dependencies,” (Singapore: Surveyor-General's Office, 1885). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad)
+
+“Singapore Sheet No. 6: Mukim Number: XIII Sembawang, XV Kalang, V Pandan, VI Peng Kang, IX Choa Chu Kang, XII Lim Chu Kang, XI Kranji, XIV Mandai, X Jurong, XVI Bukit Timah,” (Singapore: Survey Department, 1924). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b)
+
+“Map of the Island of Singapore and its Dependencies,” (Singapore: Surveyor-General’s Office, 1873). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f9700d7b-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9700d7b-115c-11e3-83d5-0050568939ad)
+
+“Johore and Singapore,” (Great Britain: War Office, 1928). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb60ed31-115c-11e3-83d5-0050568939ad)
+
+“Singapore Sheet No. 10: Mukim: X Jurong, XVI Bukit Timah, XV Ulu Kalang, II Tanglin, VI Peng Kang, V Pandan, IV Ulu Pandan, III Pasir Panjang, I Telok Blanga,” (Singapore: Survey Department, 1924). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e7767eb-d90f-11e9-90d4-001a4a5ba61b)
+
+“Map of Singapore Island, and its Dependencies,” (London: Smith, Elders &amp; Co., 1852). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/fb830a64-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb830a64-115c-11e3-83d5-0050568939ad)
+
+“Map of the Island of Singapore,” In Nathaniel Cantley, _Report on the Forests of the Straits Settlements_ (Singapore: Govt. Printing Press, 1883). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f8fbf46f-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8fbf46f-115c-11e3-83d5-0050568939ad)
+
+**Photographs**
+
+\[Jurong River, Singapore\] \[Photograph\], (1860s). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad)
+
+\[House on Stilt, Jurong\] \[Photograph\], (1956). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad)
+
+\[Jurong Road - Sin Nan Public School\] \[Photograph\], (1986). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e6501-1161-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e6501-1161-11e3-83d5-0050568939ad)
+
+\[Jurong Road - Sin Nan Public School\] \[Photograph\], (1986). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad)
+
+_A Gambier and Pepper Plantation_ \[Photograph\], (c. 1900). Retrieved from National Heritage Board’s Roots database: [https://www.roots.gov.sg/Collection-Landing/listing/1062203](https://www.roots.gov.sg/Collection-Landing/listing/1062203)
+
+\[Hunter with dead tiger\] \[Photograph\], (c. 1890). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/d5f46ea5-1161-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/d5f46ea5-1161-11e3-83d5-0050568939ad)
+
+\[Jurong Link Road - General view of Public Works Department road works\] \[Photograph\], (1962). Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad](https://www.nas.gov.sg/archivesonline/photographs/record-details/2ba96f83-42d9-11e4-859c-0050568939ad)
+
+**Books and Articles**
+
+National Heritage Board, _Jurong Heritage Trail_ (Singapore: National Heritage Board, 2015). (From National Library, Singapore, call no. RSING 915.95704 JUR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=202056554](https://catalogue.nlb.gov.sg/search/card?recordId=202056554)
+
+Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” _Biblioasia_ (Apr-June, 2021). Retrieved from Biblioasia website: [https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/)
+
+Brenda S. A. Yeoh and Lily Kong, _Portraits of Places: History, Community and Identity in Singapore_ (Singapore: Times Editions, 1995). (From National Library, Singapore, call no. RSING 959.57 POR). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=7468347](https://catalogue.nlb.gov.sg/search/card?recordId=7468347)
+
+Tang, F. C. (ed.), _Kampong Days: Village Life and Times in Singapore Revisited_ (Singapore: National Archives, 1993). (From National Library, Singapore, call no. RSING 959.57 KAM). Link to location of book in the collections of the National Library Board: [https://catalogue.nlb.gov.sg/search/card?recordId=6434970](https://catalogue.nlb.gov.sg/search/card?recordId=6434970)
