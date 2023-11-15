@@ -109,9 +109,7 @@ The early economic activities in the Jurong region had a lasting impact on the l
 
 **Maps**
 
-“Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson,” In John Crawfurd, _Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin-China: Exhibiting a View of the Actual State of those Kingdoms_ (London: Henry Colburn, 1828), 529. Retrieved from National Archives of Singapore’s database:
-
-[https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad)
+“Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson,” In John Crawfurd, _Journal of an embassy from the Governor-General of India to the Courts of Siam and Cochin-China: Exhibiting a View of the Actual State of those Kingdoms_ (London: Henry Colburn, 1828), 529. Retrieved from National Archives of Singapore’s database: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8915e88-115c-11e3-83d5-0050568939ad)
 
 Samuel Congalton and John Turnbull Thomson, “Survey of the Straits of Singapore,” (London: Richardson Brothers, 1855). Retrieved from National Archives of Singapore: [https://www.nas.gov.sg/archivesonline/maps\_building\_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad)
 
