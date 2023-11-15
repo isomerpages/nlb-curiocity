@@ -10,4 +10,4 @@ To truly grasp Jurong's remarkable evolution, it is essential not only to unders
 
 "Swamplands to Tech Metropolis: A Digital Tale of Jurong's Transformation" presents Jurong's history through resources from institutions like the National Library Board, the National Heritage Board, the Urban Redevelopment Authority, and the Jurong Town Corporation. Additionally, it features content compiled or created by heritage bloggers, filmmakers, and even YouTubers.
 
-Embark on this journey of discovery by exploring our digital story or innovative story map.
+Embark on this journey of discovery of Jurong's past and present by exploring this digital story.
