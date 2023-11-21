@@ -56,6 +56,8 @@ https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
 
 ----
 
+oral history hawker: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
+
 ### **Building Parks and Gardens**
 
 JTC also made sure that its housing estates were designed to have recreational areas and green spaces. During the planning phase, they set aside about 580 hectares of land, which is 12% of the total area, for parks, gardens, and other green areas. They also took into account the natural beauty of Jurong by creating a buffer zone in the upper Sungei Jurong area, separating the industrial and residential zones with trees, shrubs, and grassy fields. These initiatives not only added a touch of green to Jurong's industrial landscape but also preserved a part of the area's natural heritage.
