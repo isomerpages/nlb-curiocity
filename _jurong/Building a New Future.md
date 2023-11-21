@@ -56,6 +56,8 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 
 ----
 
+Jurong Lake District planning oral history: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6e52417e-ba1c-11e8-ab1b-001a4a5ba61b
+
 ### **Building a New Innovation Hub**
 
 In 2016, the government unveiled plans in its Budget statement to establish an innovation hub in Jurong. Known as the Jurong Innovation District, this move marked a pivotal moment in the economic evolution of both Jurong and Singapore. The district is envisioned as a catalyst for new economic activities, fostering innovation, research and development (R&amp;D), and advanced technologies. With a focus on cultivating a highly skilled workforce, the Jurong Innovation District represents a strategic initiative aimed at propelling Singapore's economic transformation forward.
