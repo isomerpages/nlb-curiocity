@@ -21,6 +21,9 @@ Even though Jurong industrial estate grew quickly and provided many jobs, not ma
 
 ----
 
+Oral history (Taman Jurong): https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
+
+
 ### **Building Amenities and Social Spaces**
 
 |   | 
