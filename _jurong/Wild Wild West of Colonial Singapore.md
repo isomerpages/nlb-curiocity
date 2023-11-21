@@ -34,6 +34,8 @@ The development of Jurong during its early days is documented in the Maps Collec
 
 ---
 
+Oral history description of Jurong in 1930s: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/138e25ae-1160-11e3-83d5-0050568939ad
+
 ### **Peng Kang and Jurong**
 
 During the 19th century, huge tracts of primary forest throughout the island including the Jurong region were cleared to make way for plantations, particularly gambier. The popularity of this cash crop was so significant that Jurong was occasionally called "Peng Kang," a term derived from the practice of boiling gambier leaves. However, it is important to note that Peng Kang is a specific survey district or Mukim located to the west of Jurong, encompassing the areas we now recognise as Jurong West and Boon Lay.
