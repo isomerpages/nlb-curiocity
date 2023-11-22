@@ -56,6 +56,8 @@ While the early economic activities had altered the landscape of the Jurong regi
 
 ----
 
+Building up Jurong industrial estate oral history (UNDP, reclamation, etc.): https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2c95ed6c-115e-11e3-83d5-0050568939ad
+
 ### **Building Industries**
 
 The types of industries that could be found in the Jurong Industrial Estate evolved in tandem with Singapore's industrial development strategy. In general, the strategy underwent five phrases of evolution, starting from labor intensive in the 1960s, followed by skill intensive in the 1970s, capital intensive in the 1980s, technology intensive in the 1990s, and knowledge and innovation intensive from the 2000s onward. Some of the key industries that emerged during this process included manufacturing, electronics, shipbuilding,  petrochemicals, and biomedical sciences.
