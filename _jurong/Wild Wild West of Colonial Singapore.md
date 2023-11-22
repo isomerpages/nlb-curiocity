@@ -83,6 +83,8 @@ Oral history: schools: https://www.nas.gov.sg/archivesonline/oral_history_interv
 
 Oral history rustic jurong: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/314d3275-577a-11e9-a9f5-001a4a5ba61b
 
+Kampong oral history description: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/18906ec7-1163-11e3-83d5-0050568939ad
+
 ### **Impact on the Landscape of Jurong**
 
 The early economic activities in the Jurong region had a lasting impact on the landscape there. When the British arrived in 1819, the region was covered in thick primary forests. But by the late 1870s, most of the forests had been cleared to make way for plantations.
