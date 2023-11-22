@@ -79,6 +79,9 @@ The types of industries that could be found in the Jurong Industrial Estate evol
 
 ----
 
+Oral history development of Jurong industrial estate: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dc147c8d-115f-11e3-83d5-0050568939ad
+- squatters, challenges, early industries, etc.
+
 ### **Building Infrastructure**
 
 The provision of infrastructure is integral to the development of any estate, whether it's for commercial, housing, or industrial purposes, as it facilitates not only the movement of goods and workers but also the supply of electricity, water, and gas. Consequently, there was a boom in infrastructural works in Jurong as it was being developed into an industrial estate. These works included the construction of a port, a railway, a road network, and even a fishery port.
