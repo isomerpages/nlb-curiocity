@@ -25,6 +25,8 @@ Oral history (Taman Jurong): https://www.nas.gov.sg/archivesonline/oral_history_
 
 https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6e513eee-65a7-11e9-a9f5-001a4a5ba61b
 
+Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1b830585-115f-11e3-83d5-0050568939ad
+
 ### **Building Amenities and Social Spaces**
 
 |   | 
