@@ -34,7 +34,13 @@ The development of Jurong during its early days is documented in the Maps Collec
 
 ---
 
-Oral history description of Jurong in 1930s: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/138e25ae-1160-11e3-83d5-0050568939ad
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before Jurong was developed into an industrial estate during the nation-building years, it was consistently depicted in historical sources as an undeveloped region. However, what was it truly like during that era? Discover the first-hand account of Jurong in the 1930s from former Chief Surveyor Nagalingam Rameswaran in his 2000 oral history interview by clicking or tapping tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/138e25ae-1160-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Jurong was a rubber state. There was no road inside, only Jurong road and Jurong was [a] very unrelenting country. Very hilly, valleys, then the river, and the river is swampy with mangrove, mangrove swamp, which I don't find now. And very few people or except those people working in the estate, rubber estate lived there. And the water there is well water, and some of them they have to take the muddy water and then filter it and take it. The boats, sampans were there in the river when they go to the sea to fishing and all. So, there was one Jew called David. He had a bungalow in the island at the opposite side. People go for a holiday with sampans. It is very underlain, no roads, nothing except rubber states, sometimes hills, valleys."</span>
+</details>
+
+----
 
 ### **Peng Kang and Jurong**
 
