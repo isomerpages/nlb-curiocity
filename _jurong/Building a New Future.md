@@ -44,6 +44,14 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 
 ----
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18"> Mrs Koh-Lim Wen Gin was Chief Planner and Deputy Chief Executive Officer of the Urban Redevelopment Authority when the Jurong Lake District was conceived in the 2008 Master Plan. Find out the thought process behind this urban plan including its objectives and long-term goal from her 2018 oral history interview below by clicking or tapping <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6e52417e-ba1c-11e8-ab1b-001a4a5ba61b" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">" Now, upon my appointment as chief planner, I feel the need to embark on a journey to rediscover Singapore. My team and I mooted several initiatives for the 2002 Statutory Master Plan to enhance the quality of physical environment and quality of life as well as strengthening the identity of our Singapore island. For the 2008 Statutory Master plan, we prepared an island wide leisure plan and several urban design plans for large tract of vacant land at Jurong, Kallang Riverside, Kampung Bugis and Paya Lebar Centre. As we brainstormed for ideas for the Jurong urban design master plans, it came to mind that we actually have a Lake District in Singapore. Hence the urban design plan for Jurong was drawn up to capitalise on the lake. When we exhibited the Jurong urban design master plan, we decided to name Jurong as the Jurong Lake District. Following the exhibition, we were very pleased that the Jurong real estate value took on a positive dimension. The image of general public at large is no longer Jurong is the industrial area, but Jurong is the Lake District. So, I think we're very happy.”</span>
+</details>
+
+---
+
 **Watch this video from the Today YouTube Channel for a sneak peek into what Jurong Lake District might look like when fully developed.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q8TT9y4Ge7M?si=ttJ7QRDzvG8aQRaL" height="315" width="560"></iframe>
