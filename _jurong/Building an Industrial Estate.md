@@ -77,7 +77,22 @@ While the early economic activities had altered the landscape of the Jurong regi
 
 ----
 
-Building up Jurong industrial estate oral history (UNDP, reclamation, etc.): https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2c95ed6c-115e-11e3-83d5-0050568939ad
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18"> The transformation of Jurong into an industrial estate was one of the nation-building success stories of Singapore. But how and why this project was initiated in the first place? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> for former Director of Public Works Department Dr Hiew Siew Nam’s account taken from his 1993 oral history interview. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2c95ed6c-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"[T]he new PAP Government has invited a UNDP committee to come and advise us about economic development, particularly in Jurong where a big area is covered by swamps. The UNDP team produced a report and submitted to Minister for Finance.
+<br>
+In fact, all these were prompted and initiated by Dr Goh [Keng Swee]. His whole idea of the new Government is that we must embark on economic development in order to alleviate two very important strategies. One is that we are no more going to depend purely on trade or as a trading city. We have to embark on our own economic development rather than purely on trade. Secondly, being a small country, we have to make good use of whatever land that we have so as to turn it into productive enterprises.
+<br>
+So the UNDP committee came and submitted a report of how to turn Jurong, hitherto a swamp, into an industrial estate. The report was submitted to Government. Dr Goh has appointed Mr Hon Sui Sen (at that time he's Head of EDB) to form a committee to look into the feasibility of this report.
+<br>
+Well, the early problem of JTC is to fill up all the swamps into land capable of sustaining the building works. That's the main task of JTC during the early years. It's purely reclamation and filling up the swamps and turning it [for] land use. After that, then JTC started building standard factory buildings and invited local entrepreneurs to start their industry in Singapore. I think the early problem is purely providing infrastructures for all the interested companies to set up there.
+<br>
+I think the EDB has done a very good job in promoting this industrial estate to all the local entrepreneurs and multi-national firms. I think they managed to get most of these people interested. The Corporation, I think, started very well when all these enterprises and industries were ensured that their enterprises will receive Government assistance. Various incentives were given to them to start their work. For one thing, their starting capital expenditure will be very much less. They have got ready infrastructures for their enterprise. They have got a ready factory to start their work. So as far as capital cost is concerned, that helps them to start their business with the least capital expenses. And they are ensured of all sorts of incentives given by the EDB to establish their industries in Jurong. I think the public has very good response to these Government-promoted projects.”</span>
+</details>
+
+----
+
 
 ### **Building Industries**
 
