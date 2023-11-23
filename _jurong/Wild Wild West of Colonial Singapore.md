@@ -20,11 +20,8 @@ The development of Jurong during its early days is documented in the Maps Collec
 | The natural features of Jurong, including the Jurong and Pandan rivers, were also depicted on the 1855 hydrographic survey of the Straits of Singapore shown above. This survey, conducted by Captain Samuel Congalton and Government Surveyor John Turnbull Thomson, stands as one of the earliest comprehensive hydrographic surveys of the region carried out by a surveyor based locally. It provides a detailed and valuable portrayal of the geographical characteristics of the Jurong area. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb59f0cb-115c-11e3-83d5-0050568939ad){:target="_blank"})|
 | ![Alt text for image on Isomer site](/images/jurong-early-map-3-1-1.jpg) |
 | While the early 19th-century maps of Singapore provided detailed information about the natural features of Jurong, maps from the later half of the 19th century and the early 20th century showed a much smaller boundary for Jurong compared to what we know today. For instance, in this 1885 map of the island of Singapore show above, Jurong was defined by the Pandan River to the south, West Bukit Timah to the north, Upper Tanglin to the east, and Peng Kang to the west. This illustrates how the geographical understanding and delineation of Jurong evolved over time. (Image Credit: [Singapore Land Authority collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fba0dd42-115c-11e3-83d5-0050568939ad){:target="_blank"})|
-| ![Alt text for image on Isomer site](/images/jurong-early-map-4-1-1.jpg) |
-| Another way to define the boundaries of Jurong is by its Mukim or Town Division number. For instance, in the 1924 map above displaying the mukim numbers of various survey districts in Singapore, Jurong is marked with the mukim number "X" or "10". Since the early 1900s, each land parcel in Singapore has been uniquely identified by a lot number, which consists of two parts: the survey district's Mukim number and the lot number itself. Singapore is administratively divided into 34 Mukims and 30 Town Subdivisions, and this system helps in locating and organising land parcels within the country. (Image Credit: [The National Archives (United Kingdom), courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b){:target="_blank"})|
 
-----
-
+---
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In some of the earliest maps of Singapore island that were produced by the British during the early 19th century, "Jurong" was already being indicated. But what is the provenance of the name? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below National Heritage Board's explanation in <span style="font-style: italic;">Jurong Heritage Trail</span> (2015) (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202056554" target="_blank">Call no.: RSING 915.95704 JUR</a>).</span></summary>
 <br>	
@@ -32,7 +29,12 @@ The development of Jurong during its early days is documented in the Maps Collec
 	
 </details>
 
----
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/jurong-early-map-4-1-1.jpg) |
+| Another way to define the boundaries of Jurong is by its Mukim or Town Division number. For instance, in the 1924 map above displaying the mukim numbers of various survey districts in Singapore, Jurong is marked with the mukim number "X" or "10". Since the early 1900s, each land parcel in Singapore has been uniquely identified by a lot number, which consists of two parts: the survey district's Mukim number and the lot number itself. Singapore is administratively divided into 34 Mukims and 30 Town Subdivisions, and this system helps in locating and organising land parcels within the country. (Image Credit: [The National Archives (United Kingdom), courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/9e69f203-d90f-11e9-90d4-001a4a5ba61b){:target="_blank"})|
+
+----
 
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before Jurong was developed into an industrial estate during the nation-building years, it was consistently depicted in historical sources as an undeveloped region. However, what was it truly like during that era? Discover the first-hand account of Jurong in the 1930s from former Chief Surveyor Nagalingam Rameswaran in his 2000 oral history interview by clicking or tapping tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span>. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/138e25ae-1160-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
