@@ -48,8 +48,6 @@ Factory…[could be one of the] very few factories that as I said, made biscuits
 
 -----
 
-Chew Boon Lay estate oral history: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/98a97daf-115e-11e3-83d5-0050568939ad 
-
 ### **Building an Industrial Estate**
 
 While the early economic activities had altered the landscape of the Jurong region, there were parts of it especially along the coastal area that were still swamplands and largely undeveloped. But this would change in the early 1960s when Jurong was designated as Singapore's first industrial estate.
