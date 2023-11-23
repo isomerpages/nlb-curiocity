@@ -87,11 +87,14 @@ The deforestation of Jurong and its adjacent areas like Peng Kang attracted new 
 
 -----
 
-Oral history: schools: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3248d642-1161-11e3-83d5-0050568939ad
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Still trying to envision how Jurong appeared during its early days before industrialisation?  Architect Philip Conn, who spearheaded the restoration project of Fort Canning Bunker (now The Battlebox) in 1996, offers a vivid account in his 2013 oral history interview. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out what he shared including his advice against jogging through the rustic countryside. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/18906ec7-1163-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Well, I had a nose for seeking these things out. I would drive up all the back streets and the tracks. Running on the hash, we used to find these places too, we'd go into all the old kampong areas and in the old days, on the hash, there were still kampongs and swamp areas in Jurong and that was when it was interesting. A number of fish ponds I've fallen into and what they call shiggy pitts, which are the sort of sewerage pits from pit farms that I've almost fallen into! The terrible things about those things is they are hole in the ground, and they drain, in a little kampong, you have a house with half of those pigs in the back, and the drain will go into this deep hole about two metres deep, and about metre and a half square, and when it fills up with water, you get this film on the top, looks a bit like, not like a beer, it's sort of brownish and white and smooth like someone has thrown some concrete down and just let it sit there, so when you're running along a rotten path in the jungle, you see when you tend to run in just for a couple of paces, because it looks like a piece of concrete on the ground, but then you go up to your neck and, "ping" whatever. That's happened to a few friends of mine!
+All that's gone by now, of course even the fish farms gone as well, but they were down there…”</span>
+</details>
 
-Oral history rustic jurong: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/314d3275-577a-11e9-a9f5-001a4a5ba61b
-
-Kampong oral history description: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/18906ec7-1163-11e3-83d5-0050568939ad
+----
 
 ### **Impact on the Landscape of Jurong**
 
