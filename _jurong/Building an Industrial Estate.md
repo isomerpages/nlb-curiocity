@@ -117,10 +117,19 @@ The types of industries that could be found in the Jurong Industrial Estate evol
 
 ----
 
-Oral history development of Jurong industrial estate: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dc147c8d-115f-11e3-83d5-0050568939ad
-- squatters, challenges, early industries, etc.
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18"> The formidable endeavour of establishing an industrial estate from the ground up in Jurong was not without its share of problems and challenges. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to discover, from veteran civil servant and former chairman of Singapore Airlines, J. Y. Pillay, what some of these issues and challenges were in his 1995 oral history interview. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dc147c8d-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Yes. There was the problem with squatters from time to time. It has to be expected. And some technical problems. I think there was a major disaster we suffered at the Jurong wharf where there was an earth slip at the wharf face, which cost us a lot of money to put right. I vaguely recall that the cost of that wharf was $40 million. Today it may not sound very much, but in those days $40 million was a colossal sum of money. The Economic Development Board started with $100 million, its capital spread over five years, $20 million each year. The $40 million was a lot of money. And I think this earth slip set us back $10 million to $15 million. That was a major technical problem.
+<br>
+At that stage it was crucial. The Government had to give a lead to set up the Economic Development Board to start with; established the Jurong industrial estate which was in the beginning under the EDB, to provide finance to companies to do the promotion. Those were all critical areas that accelerated the development process.
+<br>
+But I think we should also remind ourselves what were the fundamentals in terms of political and social stability and macro-economic stability. In other words, balanced budgets and a strong currency and so on. But we didn't, of course, start with political and social stability in the early sixties. There was still a good bit of industrial strife and a good bit of political struggle in Parliament and outside Parliament. But we did maintain macro-economic stability. That must have been crucial. We didn't spend beyond our means and we retained the internal and external value of the Singapore dollar, particularly the internal value. Inflation was very low.”</span>
+</details>
 
-Oral history getting Natsteel started: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/0265706a-1160-11e3-83d5-0050568939ad
+----
+
+
 
 ### **Building Infrastructure**
 
