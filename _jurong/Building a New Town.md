@@ -16,6 +16,23 @@ Even though Jurong industrial estate grew quickly and provided many jobs, not ma
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-1-1-1.jpg)|
 | The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered bigger housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Moving to a new flat is undeniably one of the most captivating and proud moments for many families in Singapore. Beyond being a significant milestone and life achievement, the anticipation of a new home fosters an endearing and priceless experience. This sentiment is shared not only by present-day families but also by those from the nation-building years, including the pioneer residents of Jurong such as the former Chief Executive Officer of Jurong Town Council Teo Ho Pin. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read an account of his experience on moving into one of the first flats in Taman Jurong at Block 44 at Yung Seng Road. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Because Taman Jurong was a newly built industrial town. At that time not many flats were built by JTC, the Jurong Town Corporation. I think he was working in that area. He was quite familiar with Taman Jurong area, that's why he decided that maybe we should move to Taman Jurong.
+<br>
+<br>I would say that in those days Taman Jurong was basically a very small village. There are only a couple of blocks and not many residents around. So many of the residents would have known each other. And I would say that it is a very laidback, very simple way of life during that time.
+<br>
+<br>How many football fields... Based on that time when it was developed, I would have guessed it is maybe close to 50 football fields. It should be around there. Because the whole Taman Jurong was not fully developed. Now when I first moved in to Block 44 at Yung Seng Road, it was a three-storey building. Common corridor, common bin chute, and you can see the construction is very basic. It is a one-room flat, so we stayed in a one-room flat during that time.
+<br>
+<br>The living conditions were very simple. Basically you have a room; you have a small kitchen, one toilet. And a bedroom cum living room, cum everything. Multi-purpose room.”</span>
+</details>
+
+|   | 
+|:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-2-1-1.jpg)|
 | The Jurong Town Corporation (JTC) led the effort to make Jurong a more appealing place for people looking for homes. They started by building the first housing estates like Taman Jurong in 1968, followed by Boon Lay Gardens, Teban Gardens, and Pandan Gardens in the 1970s. These estates were initially called Neighbourhood I, II, III, and IV. They were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road. JTC also offered bigger housing choices for new home seekers in these estates by constructing more three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
