@@ -12,6 +12,8 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 
 Even though Jurong industrial estate grew quickly and provided many jobs, not many people wanted to live there. One reason for this was that it seemed far away from the rest of the island, making it less appealing. To make Jurong a better place to live, starting in the late 1960s, efforts were made to improve it. They added more housing choices, built shops, social places, places to have fun, and made transportation better.
 
+Taman Jurong is the first housing estate in Jurong Town. Initially called Neighbourhood I, it was created to provide accommodation for the workers working there. The first flats of Taman Jurong was built in 1963 and they were mostly one- and two-room flats. However, the demand for these flats was slow because of a lack of social amenities. But when this issue was resolved, demand for housing in Jurong Town began to grow. By the end of 1968, full occupancy of the some 4,400 flats there was reached and the population of the housing estate was estimated at about 16,000. In light of this, the Jurong Town Corporation began to not only built more flats to meet demand, but also introduced flats with better layout. Furthermore, it also started to build more 2- and 3-room flats and in building blocks that were taller and bigger.
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-1-1-1.jpg)|
