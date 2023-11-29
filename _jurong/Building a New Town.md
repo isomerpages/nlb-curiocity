@@ -65,19 +65,6 @@ Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_
 
 ----
 
-**Want to find out where you can eat in Jurong? Check out this food guide by [SETHLUI.com](https://www.youtube.com/@Sethluifoodtravel) below.**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pyCUi3E55BQ?si=KPCdr6AsSTiEL8fR" height="315" width="560"></iframe>
-
------
-
-**Story Map on our hawker centres**
-
-https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
-
-----
-
-oral history hawker: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 ### **Building Parks and Gardens**
 
@@ -110,6 +97,22 @@ JTC also made sure that its housing estates were designed to have recreational a
 | Besides Yung Sheng Food Centre, other hawker centres were also built in Jurong Town during the 1970s. These included Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre. In 1979 through a renaming exercise by the then Ministry of Environment, Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre were renamed Corporation Drive Market, Corporation Drive Food Centre, Taman Jurong Market and Taman Jurong Food Centre respectively. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-food-3-1-1.jpg)|
 | Today, Taman Jurong Market and Food Centre along Yung Sheng Road is the amalgamation of three hawker centres - Corporation Drive Market, Corporate Drive Food Centre and Yung Sheng Food Centre. Housing many original hawkers from the original centres, the new food centre was created with patrons in mind, as the ventilation systems in place provided good circulation, and the variety of seats catered to big and small families alike. There is also a central courtyard so that natural sunlight could stream into the dining area. Together with increased ventilation, the layout also allows for enhanced interaction between patrons, and for families to gather and enjoy a meal. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+**Want to find out where you can eat in Jurong? Check out this food guide by [SETHLUI.com](https://www.youtube.com/@Sethluifoodtravel) below.**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pyCUi3E55BQ?si=KPCdr6AsSTiEL8fR" height="315" width="560"></iframe>
+
+-----
+
+**Story Map on our hawker centres**
+
+https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
+
+----
+
+oral history hawker: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 
 **Resources**
