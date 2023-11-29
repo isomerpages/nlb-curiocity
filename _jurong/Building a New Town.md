@@ -50,14 +50,6 @@ Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/jurong-housing-estate-3-1-1.jpg)|
-| Besides having bigger housing units, the housing estates in Jurong was also supplemented with shops and amenities including markets and hawker centres. The first hawker centre that was built in Jurong was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also&nbsp;called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-Besides Yung Sheng Food Centre, there were also other hawker centres in Jurong such as Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre. and Jurong Market II were also among the earliest hawker centres in Jurong. Located along Corporation Drive, Jurong Market I was later renamed Corporation Drive Market in 1979 
-
-to serve the residents staying in the vicinity of Hu Ching and Yung Loh roads in Jurong West. As for Jurong Market II, it was located near Yung Sheng Food Centre and was redeveloped together with Yung Sheng Food Centre as today's Taman Jurong Market and Food Centre along Yung Sheng Road. Despite the redevelopment, the legacy of the two hawker centres were retained as the new Taman Jurong Market and Food Centre houses many original hawkers from the original Yung Sheng Food Centre and Jurong Market I.
-
-
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-4-1-1.jpg)|
 | The former Jurong Stadium was among the first recreational facilities to be built in Jurong. Completed in 1973, it was situated along Corporation Road in Taman Jurong. The stadium had a flat design and included a covered grandstand gallery overlooking a grass pitch encircled by an asphalt running track. Four tall iron truss structures, positioned at the corners, supported the floodlights. Until its demolition in 2020, the stadium provided sports and recreational facilities for local residents. Additionally, it served as a venue for the National Day Parade in the 1970s and 1980s, as well as various Singapore Armed Forces (SAF) ceremonies and parades, including Infantry Officers' commissioning parades and color presentation ceremonies for the Singapore Guards. Today, the residents of Jurong are served by stadiums such as Jurong East and Jurong West stadiums. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3d49bb71-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-5-1-1.jpg)|
@@ -105,6 +97,20 @@ JTC also made sure that its housing estates were designed to have recreational a
 | Jurong Hill Park is situated on Jurong Hill. At the time of its opening in 1970, the park featured a three-story observatory tower that provided its visitors including foreign guests and investors invited by the government a panoramic view of the nearby Jurong Industrial Estate. The tower also housed a restaurant, which, unfortunately, closed down in 1976 due to poor business. Besides the observatory tower, there was also a landscaped garden with footpaths, benches, refreshment kiosks, public restrooms, and a "Garden of Fame". The latter where foreign dignitaries like Queen Elizabeth II, Deng Xiaoping, and Dr. Albert Winsemius had planted trees there between 1969 and 1984. In total, 30 trees were planted before the Garden was relocated to the compound of Jurong Town Hall.  (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1162453){:target="_blank"}) |
 
 ---
+
+### **Building A Food Culture**
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/jurong-housing-estate-3-1-1.jpg)|
+| Besides having housing estates, recreational spaces and social amenities. The residents of Jurong Town were also served by a suite of hawker centres. The first hawker centre that was built there was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also&nbsp;called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/jurong-food-2-1-1.jpg)|
+| Besides Yung Sheng Food Centre, other hawker centres were also built in Jurong Town during the 1970s. These included Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre. In 1979 through a renaming exercise by the then Ministry of Environment, Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre were renamed Corporation Drive Market, Corporation Drive Food Centre, Taman Jurong Market and Taman Jurong Food Centre respectively. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/jurong-food-3-1-1.jpg)|
+| Besides Yung Sheng Food Centre, other hawker centres were also built in Jurong Town during the 1970s. These included Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre. In 1979 through a renaming exercise by the then Ministry of Environment, Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre were renamed Corporation Drive Market, Corporation Drive Food Centre, Taman Jurong Market and Taman Jurong Food Centre respectively. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/jurong-food-3-1-1.jpg)|
+| Today, Taman Jurong Market and Food Centre along Yung Sheng Road is the amalgamation of three hawker centres - Corporation Drive Market, Corporate Drive Food Centre and Yung Sheng Food Centre. Housing many original hawkers from the original centres, the new food centre was created with patrons in mind, as the ventilation systems in place provided good circulation, and the variety of seats catered to big and small families alike. There is also a central courtyard so that natural sunlight could stream into the dining area. Together with increased ventilation, the layout also allows for enhanced interaction between patrons, and for families to gather and enjoy a meal. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 
 **Resources**
 
