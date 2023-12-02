@@ -10,8 +10,6 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 
 ### **Building New Flats**
 
-Taman Jurong, Boon Lay Gardens, Teban Gardens and Pandan Gardens were the first housing estates that were built in Jurong. 
-
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-1-1-1.jpg)|
