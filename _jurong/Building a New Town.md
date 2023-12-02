@@ -10,7 +10,7 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 
 ### **Building New Flats**
 
-Even though Jurong industrial estate grew quickly and provided many jobs, not many people wanted to live there. One reason for this was that it seemed far away from the rest of the island, making it less appealing. To make Jurong a better place to live, starting in the late 1960s, efforts were made to improve it. They added more housing choices, built shops, social places, places to have fun, and made transportation better.
+Taman Jurong, Boon Lay Gardens, Teban Gardens and Pandan Gardens were the first housing estates that were built in Jurong. 
 
 |   | 
 |:--------:| 
