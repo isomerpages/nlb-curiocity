@@ -56,6 +56,10 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
+Ice rink
+
+Snow City
+
 Ice rink oral history
 
 Night market
