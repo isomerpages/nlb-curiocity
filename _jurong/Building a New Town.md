@@ -48,7 +48,7 @@ Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_
 
 ### **Building Amenities and Recreation Spaces**
 
-The growth of Jurong Town was not an instant success. Rather, it required incentives in the form of providing sufficient amenities and recreation spaces for the workers and home seekers wanting to live there..
+The growth of Jurong Town was not an instant success. Rather, it required incentives in various forms ranging from housing allowances and better transportation to amenities and recreation spaces such as sport facilities, retail shops, community centres, wet markets, hawker centres, public parks and gardens.
 
 |   | 
 |:--------:| 
