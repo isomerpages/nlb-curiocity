@@ -56,6 +56,20 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
+Ice rink oral history
+
+Night market
+
+hawker
+
+Jurong by the 1980s
+
+cinema
+
+super bowl
+
+secondary schools
+
 
 ### **Building Parks and Gardens**
 
