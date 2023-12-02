@@ -16,6 +16,8 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 Taman Jurong is the first housing estate in Jurong. Originally called Neighbourhood I, it was built in 1963 to provide homes for the workers in the new industrial estate. The first flats in Taman Jurong were mostly one- and two-room units. However, not many people wanted them at first because there were not enough social amenities around. When this got better, more people wanted to live in Jurong Town. By the end of 1968, all 4,400 flats were taken, and about 16,000 people lived there. To meet the growing demand, the Jurong Town Corporation began to not only more flats, but "improved" types. These "improved" flats were bigger than standard flats at the time and had room layouts. They were also built in taller multi-storey buildings, thus changing the landscape of Jurong.
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-2-1-1.jpg)|
 | During the 1970s, more housing estates such as Boon Lay Gardens, Teban Gardens, and Pandan Gardens were built in Jurong. Initially called Neighbourhood I, II, III, and IV, they were situated farther away from the heavy and medium industries along the coast near Jalan Ahmad Ibrahim road so that the residents were given a more pleasant environment to live in. In these newer neighbourhoods, the housing choices were mostly the bigger three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing Boon Lay Gardens, Teban Gardens, and Pandan Gardens. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2d17e4ed-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/jurong-housing-estate-9-1-1.jpg)|
+| In the newer neighbourhoods of Boon Lay Gardens, Teban Gardens, and Pandan Gardens, the housing choices were mostly the bigger three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing these neighbourhoods.   (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ----
 
@@ -31,18 +33,7 @@ Taman Jurong is the first housing estate in Jurong. Originally called Neighbourh
 <br>The living conditions were very simple. Basically you have a room; you have a small kitchen, one toilet. And a bedroom cum living room, cum everything. Multi-purpose room.”</span>
 </details>
 
-|   | 
-|:--------:| 
-| ![Alt text for image on Isomer site](/images/jurong-housing-estate-9-1-1.jpg)|
-| In the newer neighbourhoods of Boon Lay Gardens, Teban Gardens, and Pandan Gardens, the housing choices were mostly the bigger three-room and executive flats instead of the smaller one- and two-room flats. In fact, JTC stopped building one- and two-room flats when they started developing these neighbourhoods.   (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/04116d41-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-
-----
-
-Oral history (Taman Jurong): https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
-
-https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6e513eee-65a7-11e9-a9f5-001a4a5ba61b
-
-Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1b830585-115f-11e3-83d5-0050568939ad
+---
 
 ### **Building Amenities and Recreation Spaces**
 
