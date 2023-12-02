@@ -46,7 +46,9 @@ https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6e5
 
 Attracting people to stay in Jurong: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1b830585-115f-11e3-83d5-0050568939ad
 
-### **Building Amenities and Social Spaces**
+### **Building Amenities and Recreation Spaces**
+
+The growth of Jurong Town was not an instant success. Rather, it required incentives in the form of providing sufficient amenities and recreation spaces for the workers and home seekers wanting to live there..
 
 |   | 
 |:--------:| 
