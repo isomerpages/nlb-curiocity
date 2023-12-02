@@ -8,7 +8,7 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 
 ---
 
-### **Building New Flats**
+### **Building Housing Estates in Jurong**
 
 |   | 
 |:--------:| 
