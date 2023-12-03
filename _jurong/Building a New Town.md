@@ -77,8 +77,6 @@ cinema
 
 super bowl
 
-secondary schools
-
 
 ### **Building Parks and Gardens**
 
