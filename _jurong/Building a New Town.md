@@ -139,9 +139,11 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 ----
 
-**Night market oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
-
-The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] *tieda*…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Former Chief Executive Officer of Jurong Town Council Teo Ho Pin also shared how he remembered the trades in the pasar malam (or night market) beside Yung Sheng hawker centre. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out more. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] *tieda*…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.”</span>
+</details>
 
 ---
 
