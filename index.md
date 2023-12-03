@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/fc-aerial-banner.jpg
+      background: /images/Jurongdigital/jurong_banner_1.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
