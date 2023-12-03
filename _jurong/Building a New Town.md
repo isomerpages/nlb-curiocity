@@ -144,10 +144,6 @@ The night market mainly you have the street performers, then you have people sel
 
 https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
 
-----
-
-oral history hawker: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
-
 
 **Resources**
 
