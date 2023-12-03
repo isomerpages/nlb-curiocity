@@ -66,9 +66,20 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
+----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Jurong Ice Skating Centre offered the residents of Jurong as well as the rest of Singapore a recreation activity that was not only exciting, but also completely new. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read former Chief Executive Officer of Jurong Town Council Teo Ho Pin's account of the ice rink after it opened its doors in 1974. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Taman Jurong has the first skating rink, if I remember, in Singapore. And during those days we will queue up to go for the ice skating activity. And those days the ice skating rink was packed with a lot of users. And we used to have figure skating, ice hockey; a lot of fun because it is something really new. And as a young boy you find it quite challenging to do skating activities. So I would say that the ice skating rink was a very good facility provided at that point of time.”</span>
+</details>
+
+---
+
+
 **Ice rink oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
-Taman Jurong has the first skating rink, if I remember, in Singapore. And during those days we will queue up to go for the ice skating activity. And those days the ice skating rink was packed with a lot of users. And we used to have figure skating, ice hockey; a lot of fun because it is something really new. And as a young boy you find it quite challenging to do skating activities. So I would say that the ice skating rink was a very good facility provided at that point of time.
+
 
 ----
 
