@@ -10,6 +10,8 @@ In less than a decade after the launch of the Jurong Industrial Estate, Jurong g
 
 ### **Building Housing Estates in Jurong**
 
+Taman Jurong
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-1-1-1.jpg)|
