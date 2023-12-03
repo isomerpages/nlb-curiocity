@@ -60,8 +60,8 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
-Ice rink oral history**
-**
+**Ice rink oral history**
+
 Taman Jurong has the first skating rink, if I remember, in Singapore. And during those days we will queue up to go for the ice skating activity. And those days the ice skating rink was packed with a lot of users. And we used to have figure skating, ice hockey; a lot of fun because it is something really new. And as a young boy you find it quite challenging to do skating activities. So I would say that the ice skating rink was a very good facility provided at that point of time.
 
 Night market
