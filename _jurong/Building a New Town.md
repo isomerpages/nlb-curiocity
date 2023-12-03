@@ -139,17 +139,6 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 ----
 
-
-
-
-----
-
-
-
-**hawker oral history**: 
-
-…\[T\]hey call it the Lak Chap Tua \[六十摊\] which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now \[at\] Block 399.
-
 **Night market oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] *tieda*…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
