@@ -60,17 +60,23 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
-**Ice rink oral history**
+**Ice rink oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 Taman Jurong has the first skating rink, if I remember, in Singapore. And during those days we will queue up to go for the ice skating activity. And those days the ice skating rink was packed with a lot of users. And we used to have figure skating, ice hockey; a lot of fun because it is something really new. And as a young boy you find it quite challenging to do skating activities. So I would say that the ice skating rink was a very good facility provided at that point of time.
 
 ----
 
+Schools
+
 In addition Jurong Vocational Institute, there were also other schools being set up in Jurong Town during the 1960s and 1970s. These included Jurong Town Primary School (1968), Boon Lay Garden Primary School (1977), Yung An Primary School (1977), Merlimau Primary School (1977), Yung Ching Secondary School (1977) and Boon Lay Secondary School (1977). 
+
+Mitsukoshi Garden
 
 The Mitsukoshi Garden at 9 Japanese Garden Road was a $10 million joint venture between Mitsukoshi and Jurong Water Sports Complex. Opened in April 1979, it was an aquatic centre that had a number of water facilities such as an Olympic-sized swimming pool, a wave pool, children’s pools, and water slides. Additionally, it also offered other amenities such as tennis courts, a putting green, restaurants, bars, function rooms, and a shopping arcade. A popular venue for families, it was sold to West Overseas in June 1983 before undergoing renovation and reopening as CN West Leisure Park later that year.
 
-**Jurong Drive In Cinema**: https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/47b68038-a1e5-11e4-859c-0050568939ad
+----
+
+**Jurong Drive In Cinema oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 The drive-in cinema came about in the seventies..It was quite an excitement because that was the first drive-in cinema in Singapore. For us kids, we enjoyed because of the big screen it has a very big screen and…with all the speakers wired up, you actually can hear the movies from the side of the perimeter fencing. So although it has got fencing around the drive-in cinema, if you were to stay at a certain spot of the fencing, you actually can hear the movie. So you can watch the movie for free. That is the reason why I told you I watched this Bruce Lee show \[called\] “Fist of Fury” almost ten times. Because it is literally free…Every night there would be a movie, every night. So we would have a movie every night. Normally it is one show, 7.30pm to 9.30pm. Only one show. Sometimes there are two shows but most of the time it is one show. Weekends normally \[have\] two shows. Almost every night the movie is on…\[But\] when you drive to the drive-in cinema, first of all you have to switch off the car engine, you have to wind down the windows. So it becomes hot and humid. Then the mosquitoes ... so it becomes not so comfortable as compared to an air conditioned room, cinema. So I think at that time after the novelty or a couple of years the audienceship also dropped. As a result they couldn't survive. That was the reason why they closed the drive-in cinema…\[But\] it can be quite big \[during its heyday\]. When it was \[showing\] movies it was almost full house. When it is full house I think you can have easily a hundred over cars inside there. Quite a big drive-in cinema. At that time it was a novelty and you do see quite a lot of people from different parts of Singapore coming over to Jurong drive-in cinema. \[It shows\]...Chinese movies mainly…A lot of kungfu movies \[like\] “One Arm Swordsman” \[and\] different types of movies by Wang Yu (王羽).
 
@@ -103,10 +109,11 @@ The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studi
 
 ----
 
-**Chinese gardens**: https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/47b68038-a1e5-11e4-859c-0050568939ad
+**Chinese gardens**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 There were quite a lot of excitement because these two were specially designed gardens, for Taman Jurong. So in a way it does bring a different set of architecture and landscape to the town. The Japanese Garden has got a lot of Japanese bonsai, rock garden. So it is very Japanese. Whereas the Chinese garden has a lot of Chinese architecture, it has got pagoda, it has got bridges. So again it is a different set of design. So these two sets of design are very new to the residents in Taman Jurong. The residents in Taman Jurong were mainly from the industrial estate so they were mainly from the working population. So to see these two sets of architecture is a...different experience altogether. And they do have a number of events. I remember they have Lantern Festival, they have events at the Chinese Garden So they have some festivals and some events at that time at these two gardens. And that did bring quite a lot of visitors and residents to the two gardens. And of course the Chinese Garden and Japanese Garden were very popular with taking of wedding photos.
 
+General recreation oral history: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 In the '70s and '80s the main social centre is the CC (Community Centre). The CC provided the most important social interaction focal point. Then we have a number of common places - the parks. So we have the Japanese Garden, Chinese Garden and Jurong Park. So there are three parks in Taman Jurong. And of course, swimming complex, swimming pool. And the rest are common grassland parcels between the blocks, where you can see a lot of children playing. We didn't have void decks at that point. We only have those so called grassland or land parcels between blocks where we can play football, or play marbles or spin tops. You'd find that a lot of activities are all very visible within the built environment. That means during kite flying you can see all the kites are flying between the blocks. So sometimes it get trapped in television antennae, sometimes it get trapped on the road lamp-post or trees. So you can see that during the kite season a lot of kites will be trapped by all these installations within the housing estate. So that is the interesting part of it. Then you can see people, there will be one kite ... because there will be kite- fighting, so we will go and collect glass. We will pound glass and then we go and put the glass, glue on the kite string so that we will fight.
 
@@ -123,11 +130,11 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 ----
 
-**hawker**
+**hawker oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 …\[T\]hey call it the Lak Chap Tua \[六十摊\] which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now \[at\] Block 399.
 
-**Night market**
+**Night market oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
 
 The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] *tieda*…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
 
