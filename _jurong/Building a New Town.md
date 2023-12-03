@@ -68,6 +68,7 @@ Taman Jurong has the first skating rink, if I remember, in Singapore. And during
 
 In addition Jurong Vocational Institute, there were also other schools being set up in Jurong Town during the 1960s and 1970s. These included Jurong Town Primary School (1968), Boon Lay Garden Primary School (1977), Yung An Primary School (1977), Merlimau Primary School (1977), Yung Ching Secondary School (1977) and Boon Lay Secondary School (1977). 
 
+The Mitsukoshi Garden was an aquatic centre located next to the Jurong drive-in cinema along Japanese Garden Road. Built at a cost of $10 million, the centre was a joint venture between the Japanese company Mitsukoshi and Singaporean firm Jurong Water Sports Complex. Officially opened in April 1979, Mitsukoshi Garden was the second recreational water sports complex to operate in Singapore after the Big Splash at East Coast Park. The Garden had water facilities such as an Olympic-sized swimming pool, a wave pool, children’s pools, and water slides. It also had tennis courts, a putting green, restaurants, bars, function rooms and a shopping arcade. With so many family-oriented attractions, the Garden was a popular venue. In June 1983, the Garden was sold to West Overseas before undergoing renovation and reopning as CN West Leisure Park later that year. 
 
 Jurong by the 1980s
 
