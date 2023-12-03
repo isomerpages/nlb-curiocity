@@ -113,7 +113,7 @@ The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studi
 
 **hawker**
 
-…they call it the Lak Chap Tua (六十摊) which is a sixty-stall hawker centre. That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now. Block 399.
+…[T]hey call it the Lak Chap Tua (六十摊) which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now. Block 399.
 
 ---
 
