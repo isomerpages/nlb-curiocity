@@ -95,7 +95,7 @@ JTC also made sure that its housing estates were designed to have recreational a
 
 ---
 
-The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studio and theme park situated at 2 Yuan Ching Road. Launched in January 1992, this S$70-million development was owned by the Hong Kong-based company Far East Holdings International which the Sung Dynasty Village in Hong Kong. Modelled after the ancient&nbsp;Tang Dynasty's capital city of Chang'an (today's Xian), the village featured replicas of renowned landmarks like the Daming Palace, Huiqing Pool, Zhaozhou Bridge and the seven-storey Wild Goose Pagoda. Unfortunately, the theme park experienced poor visitorship and was closed down in 1999. Despite attempts to revive it, including proposals to transform the site into a Shaolin Temple, the theme park was eventually demolished in 2008.
+The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studio and theme park situated at 2 Yuan Ching Road. Launched in January 1992, this S$70-million development was owned by the Hong Kong-based company Far East Holdings International which the Sung Dynasty Village in Hong Kong. Modelled after the ancient&nbsp;Tang Dynasty's capital city of Chang'an (today's Xian), the village featured replicas of renowned landmarks like the Great Wall of China, Daming Palace, Huiqing Pool, Zhaozhou Bridge and the seven-storey Wild Goose Pagoda. Unfortunately, the theme park experienced poor visitorship and was closed down in 1999. Despite attempts to revive it, including proposals to transform the site into a Shaolin Temple, the theme park was eventually demolished in 2008.
 
 ### **Building New Hawker Centres**
 
