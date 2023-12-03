@@ -116,7 +116,7 @@ The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studi
 
 **Night market**
 
-The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] tieda…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
+The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] *tieda*…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
 
 ---
 
