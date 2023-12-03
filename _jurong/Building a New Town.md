@@ -105,15 +105,17 @@ JTC also made sure that its housing estates were designed to have recreational a
 
 ---
 
+Tang Dynasty Village
+
 The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studio and theme park situated at 2 Yuan Ching Road. Launched in January 1992, this S$70-million development was owned by the Hong Kong-based company Far East Holdings International which the Sung Dynasty Village in Hong Kong. Modelled after the ancient&nbsp;Tang Dynasty's capital city of Chang'an (today's Xian), the village featured replicas of renowned landmarks like the Great Wall of China, Daming Palace, Huiqing Pool, Zhaozhou Bridge and the seven-storey Wild Goose Pagoda. Unfortunately, the theme park experienced poor visitorship and was closed down in 1999. Despite attempts to revive it, including proposals to transform the site into a Shaolin Temple, the theme park was eventually demolished in 2008.
 
 ----
 
-**Chinese gardens**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
+**Chinese gardens oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 There were quite a lot of excitement because these two were specially designed gardens, for Taman Jurong. So in a way it does bring a different set of architecture and landscape to the town. The Japanese Garden has got a lot of Japanese bonsai, rock garden. So it is very Japanese. Whereas the Chinese garden has a lot of Chinese architecture, it has got pagoda, it has got bridges. So again it is a different set of design. So these two sets of design are very new to the residents in Taman Jurong. The residents in Taman Jurong were mainly from the industrial estate so they were mainly from the working population. So to see these two sets of architecture is a...different experience altogether. And they do have a number of events. I remember they have Lantern Festival, they have events at the Chinese Garden So they have some festivals and some events at that time at these two gardens. And that did bring quite a lot of visitors and residents to the two gardens. And of course the Chinese Garden and Japanese Garden were very popular with taking of wedding photos.
 
-General recreation oral history: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
+**General recreation oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 In the '70s and '80s the main social centre is the CC (Community Centre). The CC provided the most important social interaction focal point. Then we have a number of common places - the parks. So we have the Japanese Garden, Chinese Garden and Jurong Park. So there are three parks in Taman Jurong. And of course, swimming complex, swimming pool. And the rest are common grassland parcels between the blocks, where you can see a lot of children playing. We didn't have void decks at that point. We only have those so called grassland or land parcels between blocks where we can play football, or play marbles or spin tops. You'd find that a lot of activities are all very visible within the built environment. That means during kite flying you can see all the kites are flying between the blocks. So sometimes it get trapped in television antennae, sometimes it get trapped on the road lamp-post or trees. So you can see that during the kite season a lot of kites will be trapped by all these installations within the housing estate. So that is the interesting part of it. Then you can see people, there will be one kite ... because there will be kite- fighting, so we will go and collect glass. We will pound glass and then we go and put the glass, glue on the kite string so that we will fight.
 
