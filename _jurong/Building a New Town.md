@@ -120,7 +120,18 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-housing-estate-3-1-1.jpg)|
-| Besides having housing estates, recreational spaces and social amenities. The residents of Jurong Town were also treated with a suite of hawker centres. The first hawker centre that was built there was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also&nbsp;called “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| Besides having housing estates, recreational spaces and social amenities. The residents of Jurong Town were also treated with a suite of hawker centres. The first hawker centre that was built there was Yung Sheng Food Centre. Located at 3 Yung Sheng Road, it was also Singapore's first hawker centre and was sometimes referred to as “60 stalls” (or "liu shi tan" in Mandarin) after the 60 stalls that opened together with the hawker centre in July 1972. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+-----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">What were the food offered in Yung Sheng hawker centre. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out from former Chief Executive Officer of Jurong Town Council Teo Ho Pin. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"\[T\]hey call it the Lak Chap Tua \[六十摊\] which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now \[at\] Block 399.”</span>
+</details>
+
+|   | 
+|:--------:| 
 | ![Alt text for image on Isomer site](/images/jurong-food-2-1-1.jpg)|
 | There were also other hawker centres in Jurong Town during the 1970s. These included Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre. In 1979 through a renaming exercise by the then Ministry of Environment, Jurong Market I, Taman Jurong I Food Centre, Jurong II Market and Taman Jurong II Food Centre were renamed Corporation Drive Market, Corporation Drive Food Centre, Taman Jurong Market and Taman Jurong Food Centre respectively. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-food-3-1-1.jpg)|
@@ -128,7 +139,14 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 ----
 
-**hawker oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8c150612-a1e5-11e4-859c-0050568939ad
+
+
+
+----
+
+
+
+**hawker oral history**: 
 
 …\[T\]hey call it the Lak Chap Tua \[六十摊\] which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now \[at\] Block 399.
 
