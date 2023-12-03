@@ -75,15 +75,15 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 ----
 
-**Jurong Drive In Cinema oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
+----
 
-The drive-in cinema came about in the seventies..It was quite an excitement because that was the first drive-in cinema in Singapore. For us kids, we enjoyed because of the big screen it has a very big screen and…with all the speakers wired up, you actually can hear the movies from the side of the perimeter fencing. So although it has got fencing around the drive-in cinema, if you were to stay at a certain spot of the fencing, you actually can hear the movie. So you can watch the movie for free. That is the reason why I told you I watched this Bruce Lee show \[called\] “Fist of Fury” almost ten times. Because it is literally free…Every night there would be a movie, every night. So we would have a movie every night. Normally it is one show, 7.30pm to 9.30pm. Only one show. Sometimes there are two shows but most of the time it is one show. Weekends normally \[have\] two shows. Almost every night the movie is on…\[But\] when you drive to the drive-in cinema, first of all you have to switch off the car engine, you have to wind down the windows. So it becomes hot and humid. Then the mosquitoes ... so it becomes not so comfortable as compared to an air conditioned room, cinema. So I think at that time after the novelty or a couple of years the audienceship also dropped. As a result they couldn't survive. That was the reason why they closed the drive-in cinema…\[But\] it can be quite big \[during its heyday\]. When it was \[showing\] movies it was almost full house. When it is full house I think you can have easily a hundred over cars inside there. Quite a big drive-in cinema. At that time it was a novelty and you do see quite a lot of people from different parts of Singapore coming over to Jurong drive-in cinema. \[It shows\]...Chinese movies mainly…A lot of kungfu movies \[like\] “One Arm Swordsman” \[and\] different types of movies by Wang Yu (王羽).
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The Jurong Ice Skating Centre offered the residents of Jurong as well as the rest of Singapore a recreation activity that was not only exciting, but also completely new. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read former Chief Executive Officer of Jurong Town Council Teo Ho Pin's account of the skating centre after it opened its doors in 1974. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The drive-in cinema came about in the seventies..It was quite an excitement because that was the first drive-in cinema in Singapore. For us kids, we enjoyed because of the big screen it has a very big screen and…with all the speakers wired up, you actually can hear the movies from the side of the perimeter fencing. So although it has got fencing around the drive-in cinema, if you were to stay at a certain spot of the fencing, you actually can hear the movie. So you can watch the movie for free. That is the reason why I told you I watched this Bruce Lee show \[called\] “Fist of Fury” almost ten times. Because it is literally free…Every night there would be a movie, every night. So we would have a movie every night. Normally it is one show, 7.30pm to 9.30pm. Only one show. Sometimes there are two shows but most of the time it is one show. Weekends normally \[have\] two shows. Almost every night the movie is on…\[But\] when you drive to the drive-in cinema, first of all you have to switch off the car engine, you have to wind down the windows. So it becomes hot and humid. Then the mosquitoes ... so it becomes not so comfortable as compared to an air conditioned room, cinema. So I think at that time after the novelty or a couple of years the audienceship also dropped. As a result they couldn't survive. That was the reason why they closed the drive-in cinema…\[But\] it can be quite big \[during its heyday\]. When it was \[showing\] movies it was almost full house. When it is full house I think you can have easily a hundred over cars inside there. Quite a big drive-in cinema. At that time it was a novelty and you do see quite a lot of people from different parts of Singapore coming over to Jurong drive-in cinema. \[It shows\]...Chinese movies mainly…A lot of kungfu movies \[like\] “One Arm Swordsman” \[and\] different types of movies by Wang Yu (王羽).”</span>
+</details>
 
-
-Jurong by the 1980s
-
-super bowl
-
+----
 
 ### **Building Parks and Gardens**
 
@@ -159,3 +159,9 @@ https://www.nas.gov.sg/archivesonline/photographs/record-details/f131de7e-1161-1
 https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad
 
 annual report 1975
+
+
+
+Jurong by the 1980s
+
+super bowl
