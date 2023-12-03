@@ -66,7 +66,7 @@ Taman Jurong has the first skating rink, if I remember, in Singapore. And during
 
 Night market
 
-hawker
+
 
 Jurong by the 1980s
 
@@ -110,6 +110,12 @@ The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studi
 | Today, Taman Jurong Market and Food Centre along Yung Sheng Road is the amalgamation of three hawker centres - Corporation Drive Market, Corporate Drive Food Centre and Yung Sheng Food Centre. Opened in 2005, the new food centre houses many hawkers from the original centres. It was also designed with patrons in mind, as the ventilation systems in place permits good air circulation, and there is a variety of seats catered to big and small families alike. In the food centre, there is also a central courtyard so that natural sunlight could stream into the dining area. Together with increased ventilation, the layout of the food centre also allows for better interaction between patrons, and for families to gather and enjoy a meal. (Image Credit: [Singapore Press Holdings](https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ----
+
+**hawker**
+
+…they call it the Lak Chap Tua (六十摊) which is a sixty-stall hawker centre. That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now. Block 399.
+
+---
 
 **Want to find out where you can eat in Jurong? Check out this food guide by [SETHLUI.com](https://www.youtube.com/@Sethluifoodtravel) below.**
 
