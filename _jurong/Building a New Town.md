@@ -64,7 +64,6 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 Taman Jurong has the first skating rink, if I remember, in Singapore. And during those days we will queue up to go for the ice skating activity. And those days the ice skating rink was packed with a lot of users. And we used to have figure skating, ice hockey; a lot of fun because it is something really new. And as a young boy you find it quite challenging to do skating activities. So I would say that the ice skating rink was a very good facility provided at that point of time.
 
-Night market
 
 
 
@@ -113,7 +112,11 @@ The Tang Dynasty Village, also known as the Tang Dynasty City, was a movie studi
 
 **hawker**
 
-…[T]hey call it the Lak Chap Tua (六十摊) which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now [at] Block 399.
+…\[T\]hey call it the Lak Chap Tua \[六十摊\] which is a sixty-stall hawker centre…You will find that the sixty stalls have a wide variety of food, mainly for supper…That sixty-stall hawker centre became alive at night, every night….I know the fishball noodle is good, the tzi char is good, the hokkien mee is good. They have quite a number of famous stalls…My favourite is always hokkien mee, fishball noodles. My team football captain actually the family runs a Teochew fishball stall. It is well known, it is called Ng Kee Fishball noodle stall. Till today they are still running the stall but it is at the hawker centre in Taman Jurong now \[at\] Block 399.
+
+**Night market**
+
+The night market mainly you have the street performers, then you have people selling different things. Mainly *tieda* \[铁打\] medicated oil…not so much food. Because the hawker centres already have a wide range of food. So you don't have many food stalls outside. Occasionally you will find people selling chestnuts. Sometimes they sell peanuts. But the majority are mainly street performers \[doing\] tieda…they tell you if you get injured, this is where you can buy this sort of medicated oil to massage your muscles and so on. There were many of these and some of course they have religious items they sell…\[and these\] vendors were not licensed.
 
 ---
 
