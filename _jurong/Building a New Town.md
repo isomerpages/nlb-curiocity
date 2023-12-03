@@ -58,7 +58,7 @@ The growth of Jurong Town was not an instant success as not many people wanted t
 
 In 1974, the Jurong Ice Skating Centre was opened. Located along Yuan Ching Road in Taman Jurong, the S$9 million facility was the first ice skating rink in Singapore and Southeast Asia at the time. Charging skaters S$2.50 for a two-hour session on weekdays and the same price for an hour during weekends, its rink could accommodate up to 1,000 skaters. Initially, the skating centre was very popular but its novelty died down shortly resulting the centre to be closed merely four years later in 1978. Thereafter, Jurong would opened another ice skating centre in 1994 when Fuji Ice Palace Rink moved its operations to the Jurong Entertainment Centre (later renamed JCube) from the former Rex Theatre in&nbsp;McKenzie Road. Came equipped with an Olympic-sized rink, Fuji Ice Palace Rink was renamed The Rink@JCube in 2011. It was a popular venue for ice-skating, ice hockey and curling, attracting athletes and skaters of all levels before the rink was closed down in August 2023.
 
-Snow City
+Snow City is Singapore’s first permanent indoor snow centre. Opened in 2000, the centre is located beside the Singapore Science Centre and has a snow chamber that delivers snow experience all year round. The snow level is maintained at 400mm in depth and up to 150 tons of snow are required to cover the snow grounds. This means about 10 to 15 tons of snow is made each week to maintain this snow level. The centre is known for its three-storey high and 60-metres long snow slope where visitors could snow tube.
 
 Ice rink oral history
 
