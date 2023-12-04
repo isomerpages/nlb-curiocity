@@ -107,6 +107,12 @@ JTC also made sure that its housing estates were designed to have recreational a
 
 ----
 
+**Tang Dynasty Village oral history**
+Sng Sow-Mei, former regional director for Economic Development Board (EDB) Centre in Hong Kong on how the village came about.
+https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/999a1bed-2173-11e6-95f9-0050568939ad
+
+Deacon Chiu was interested in antiques and he had an amusement park in Hong Kong, a Tang Village in Hong Kong. So I asked him if there was anything he could do in Singapore and would \[he\] liked to do something in Singapore…like a Song \[dynasty-themed\] village in Sentosa…So he came to Singapore and looked at \[Sentosa\]...\[But\] he said he didn’t like it…\[Instead he\] said he liked Jurong \[because of\] the Chinese Garden….\[and\] wanted to build something there…So I bought him to see JTC…Then he looked at \[a piece of\] land \[in Jurong\] and said he wanted to build a Tang Village \[there\] to put \[his\] antiques there and build up a city that looked like a Tang Village like 长安街 \[or “Chang'an Avenue”\].
+
 **Chinese gardens oral history**: https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/47b68038-a1e5-11e4-859c-0050568939ad
 
 There were quite a lot of excitement because these two were specially designed gardens, for Taman Jurong. So in a way it does bring a different set of architecture and landscape to the town. The Japanese Garden has got a lot of Japanese bonsai, rock garden. So it is very Japanese. Whereas the Chinese garden has a lot of Chinese architecture, it has got pagoda, it has got bridges. So again it is a different set of design. So these two sets of design are very new to the residents in Taman Jurong. The residents in Taman Jurong were mainly from the industrial estate so they were mainly from the working population. So to see these two sets of architecture is a...different experience altogether. And they do have a number of events. I remember they have Lantern Festival, they have events at the Chinese Garden So they have some festivals and some events at that time at these two gardens. And that did bring quite a lot of visitors and residents to the two gardens. And of course the Chinese Garden and Japanese Garden were very popular with taking of wedding photos.
