@@ -27,7 +27,7 @@ Embark on this journey of discovery of Jurong's past and present by exploring ou
 <a href="/digital-stories/bras-basah/bb-early/"><img src="/images/Jurongdigital/jurong_dg_icon_1.jpg" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/Jurongdigital/jurong_story_1map_icon_1.jpg" alt="image 4"></a>
+			<a href="https://go.gov.sg/29l0b1"><img src="/images/Jurongdigital/jurong_story_1map_icon_1.jpg" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
