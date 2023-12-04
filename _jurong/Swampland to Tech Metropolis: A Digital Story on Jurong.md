@@ -10,6 +10,6 @@ Jurong's evolution from an undeveloped region to a dynamic industrial and reside
 
 To truly grasp Jurong's remarkable evolution, it is essential not only to understand the narrative but also to delve into accompanying resources such as old photographs, paintings, postcards, maps, and memories.
 
-"Swamplands to Tech Metropolis: A Digital Tale of Jurong's Transformation" presents Jurong's history through resources from institutions like the National Library Board, the National Heritage Board, the Urban Redevelopment Authority, and the Jurong Town Corporation. Additionally, it features content compiled or created by heritage bloggers, filmmakers, and even YouTubers.
+<span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">“Swampland to Tech Metropolis: A Digital Story on Jurong"</span> presents Jurong's history through resources from institutions like the National Library Board, the National Heritage Board, the Urban Redevelopment Authority, and the Jurong Town Corporation. Additionally, it features content compiled or created by heritage bloggers, filmmakers, and even YouTubers.
 
 Embark on this journey of discovery of Jurong's past and present by exploring this digital story.
