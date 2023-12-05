@@ -2,10 +2,10 @@ collections:
   digital-stories:
     output: true
     order:
-      - Jurong/.keep
       - Digital Stories.md
-      - Fort Canning Hill/More Than Just A Hill.md
+      - Jurong/.keep
       - Fort Canning Hill/.keep
+      - Fort Canning Hill/More Than Just A Hill.md
       - "Fort Canning Hill/Bukit Larangan: Early Singapore in Maps, Texts, and
         Artifacts.md"
       - Fort Canning Hill/From Government Hill to Fort Canning Hill.md
