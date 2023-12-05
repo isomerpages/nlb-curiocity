@@ -138,4 +138,4 @@ The early economic activities in the Jurong region had a lasting impact on the l
 
 ##### **References**
 
-Click the PDF icon to view and download the reference list used for this page: [](/files/Reference_List_Jurong_Digital_Story_Section_1.pdf)
+Click the following PDF icon to view and download the reference list used for this page: [](/files/Reference_List_Section_2_Jurong_Digital_Story.pdf)
