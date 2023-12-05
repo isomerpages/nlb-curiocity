@@ -154,4 +154,8 @@ The provision of infrastructure is integral to the development of any estate, wh
 | ![Alt text for image on Isomer site](/images/jurong-industrial-street-map-1972-1.jpg)|
 | The development of Jurong as an industrial estate in Singapore included the construction of roads, with more than 30 thoroughfares built within the first decade of its development to connect factories to port facilities, housing estates, and the rest of the island. Interestingly, these new roads were given names that reflected themes of "industry" and "progress". For example, on the 1972 street map of Jurong, you could find roads with names like Corporation Road, Enterprise Road, Quality Road, Tractor Road, Fan Yoong Road (which means "Prosperity" Road in Chinese), Jalan Pesawat (or "Machinery" Road in Malay), or Neythal Road (or "Weaving" Road in Tamil, possibly referring to the presence of textile factories along the road). These names symbolised the industrial and economic growth taking place in Jurong. (Image Credit: [Copyright © 2023 OneMap, Singapore Land Authority](https://www.onemap.gov.sg/historicalmaps/){:target="_blank"}) |
 
-------
+---
+
+##### **References**
+
+Click the PDF icon to view and download the reference list used for this page: 
