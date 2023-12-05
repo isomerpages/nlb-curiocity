@@ -163,7 +163,7 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 Between 2022 and 2023, our Digital Research Fellows Bryan Wee, Brian Page and Amy DePierre from the University of Colorado Denver embarked on a research project to explore the historical and geographical history of hawkers in Singapore using the collections of the National Library Board of Singapore (NLB) and the National Archives of Singapore (NAS). By employing a spatial history approach, it traces the shift of our hawkers from their mobile street vending roots to fixed center stalls. Covering four eras from late-colonial to present day, the project's uniqueness lies in its use of interactive story maps that integrate archival materials with GIS mapping, data visualization, and digital storytelling techniques, offering readers an immersive experience and valuable insights into the history of hawkers in Singapore through the lens of digital humanities research.
 
-Click the image below to launch the story map.
+**Click the image below to launch the story map.**
 
 [![Evolving Foodscapes banner](/images/Jurongdigital/evolving_landscape_hawkers.jpg)](https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7){:target="_blank"}
 
