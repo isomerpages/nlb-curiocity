@@ -158,4 +158,4 @@ The provision of infrastructure is integral to the development of any estate, wh
 
 ##### **References**
 
-Click the PDF icon to view and download the reference list used for this page: 
+Click the following PDF icon to view and download the reference list used for this page: [](/files/Reference_List_Section_2_Jurong_Digital_Story.pdf)
