@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Digital Stories.md
+      - Jurong/Building an Industrial Estate.md
       - Jurong/.keep
       - "Jurong/Swampland to Tech Metropolis: A Digital Story on Jurong.md"
       - Jurong/Wild Wild West of Colonial Singapore.md
