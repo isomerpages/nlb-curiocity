@@ -157,9 +157,13 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pyCUi3E55BQ?si=KPCdr6AsSTiEL8fR" height="315" width="560"></iframe>
 
------
+----
 
-**Story Map on our hawker centres**
+### **Evolving Foodscapes: A Spatial History of Hawkers in Singapore**
+
+This research project explores the historical and geographical evolution of hawkers as 'intangible cultural heritage' using the collections of the National Library Board of Singapore (NLB) and the National Archives of Singapore (NAS). Differentiating itself from previous accounts, the study employs a spatial history approach grounded in digital sources, tracing the shift from mobile street vending to fixed center stalls in Singapore's changing social and built environments. Covering four eras from late-colonial to present day, the research highlights interconnected themes of addressing the hawker question and contesting the foodscape, revealing underlying social and political tensions. The project's uniqueness lies in its use of interactive story maps that integrate archival materials with GIS mapping, data visualization, and digital storytelling techniques, offering readers an immersive experience and valuable insights into the history of hawkers in Singapore through the lens of digital humanities research.
+
+![Evolving Foodscapes banner](/images/Jurongdigital/evolving_landscape_hawkers.jpg)
 
 https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
 
