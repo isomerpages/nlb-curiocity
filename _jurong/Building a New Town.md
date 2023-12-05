@@ -163,21 +163,8 @@ In the '70s and '80s the main social centre is the CC (Community Centre). The CC
 
 https://storymaps.arcgis.com/collections/a24b930bc0fa4666844eb6c0577a71e7
 
+-----
 
-**Resources**
+##### **References**
 
-Taman&nbsp;Jurong, our heritage, our home : a collection of stories (307.76095957 TAM)
-
-https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1852169-c5de-44ab-b794-c0635c8f0b89
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/f131de7e-1161-11e3-83d5-0050568939ad
-
-https://www.nas.gov.sg/archivesonline/photographs/record-details/adbe7fea-1162-11e3-83d5-0050568939ad
-
-annual report 1975
-
-
-
-Jurong by the 1980s
-
-super bowl
+Click the following PDF icon to view and download the reference list used for this page:
