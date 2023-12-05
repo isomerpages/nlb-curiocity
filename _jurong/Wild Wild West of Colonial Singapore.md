@@ -93,7 +93,7 @@ The deforestation of Jurong and its adjacent areas like Peng Kang attracted new 
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/jurong-early-communities-4-1.jpg)|
+| ![Jurong kampong school](/images/Jurongdigital/jurong_early_communities_4.jpg) |
 | In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
