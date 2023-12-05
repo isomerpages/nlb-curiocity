@@ -2,7 +2,6 @@ collections:
   digital-stories:
     output: true
     order:
-      - Jurong.md
       - Digital Stories.md
       - Fort Canning Hill/More Than Just A Hill.md
       - Fort Canning Hill/.keep
