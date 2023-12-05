@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Digital Stories.md
-      - Jurong/Building an Industrial Estate.md
       - Jurong/.keep
       - "Jurong/Swampland to Tech Metropolis: A Digital Story on Jurong.md"
       - Jurong/Wild Wild West of Colonial Singapore.md
+      - Jurong/Building an Industrial Estate.md
       - Fort Canning Hill/.keep
       - Fort Canning Hill/More Than Just A Hill.md
       - "Fort Canning Hill/Bukit Larangan: Early Singapore in Maps, Texts, and
