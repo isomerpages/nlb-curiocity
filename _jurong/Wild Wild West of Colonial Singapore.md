@@ -76,7 +76,7 @@ The deforestation of Jurong and its adjacent areas like Peng Kang attracted new 
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/jurong-early-communities-1-1.jpg)|
+| ![Early Jurong River painting](/images/Jurongdigital/jurong_early_communities_1.jpg)|
 | The Orang Laut were sea and river-based nomadic communities who had been living in Singapore and the surrounding region since at least the 16th century. The British documented some of their tribes or sukus after their arrival, including Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat, and Orang Sembulun. The Orang Sembulun were likely situated in Pulau Samulun, an island off the coast of Jurong at the end of the Jurong River. The image above, a lithograph, shows a canoe with an American flag on its stern approaching huts along the Jurong River bank. It was created by Peter Bernhard Wilhelm Heine, who was part of Commodore Matthew Perry's 1854 expedition to Japan. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/jurong-early-communities-2-1.jpg)|
 | In addition to the Orang Laut, the local Malay communities had long been residing along the Jurong River and the coastal areas of Jurong. Although they had distinct cultural backgrounds, the Malays and the Orang Laut shared a mutually beneficial relationship, often serving as the naval forces for various Malay kingdoms. Both communities relied on the resources of the land and sea, engaging in subsistence fishing, collecting plants and fruits from the forest for sustenance and medicinal purposes, and utilizing freshwater streams. The image above is a photograph from the 1950s depicting a fishing village along the Jurong River, illustrating the historical significance of these activities in the region. (Image Credit: [Han Chou Yuan Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2609d0ee-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
@@ -138,8 +138,3 @@ The early economic activities in the Jurong region had a lasting impact on the l
 ##### **References**
 
 Click the PDF icon to view and download the reference list for this page: [](/files/Reference_List_Jurong_Digital_Story_Section_1.pdf)
-
-|   | 
-|:--------:| 
-| !![Early Jurong River painting](/images/Jurongdigital/jurong_early_communities_1.jpg)|
-| The Orang Laut were sea and river-based nomadic communities who had been living in Singapore and the surrounding region since at least the 16th century. The British documented some of their tribes or sukus after their arrival, including Orang Biduanda Kallang, Orang Galang, Orang Gelam, Orang Seletar, Orang Selat, and Orang Sembulun. The Orang Sembulun were likely situated in Pulau Samulun, an island off the coast of Jurong at the end of the Jurong River. The image above, a lithograph, shows a canoe with an American flag on its stern approaching huts along the Jurong River bank. It was created by Peter Bernhard Wilhelm Heine, who was part of Commodore Matthew Perry's 1854 expedition to Japan. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad5c4648-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
