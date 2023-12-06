@@ -91,8 +91,3 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/o8uajS82mO4?si=rEqtXmrFmZv2iHqd" height="315" width="560"></iframe>
 
-----
-
-##### **References**
-
-Click the following PDF icon to view and download the reference list used for this page: 
