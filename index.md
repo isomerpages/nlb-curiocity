@@ -29,7 +29,7 @@ sections:
         an innovative and sustainable metropolis in this digital story.
       button: Start the Journey
       url: /digital-stories/jurong/intro/
-      image: /images/Jurongdigital/jurong_chinese_garden_aerial_modern_1.jpg
+      image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
       alt: Chinese Garden Aerial
   - infopic:
       title: Golden Mile Complex
