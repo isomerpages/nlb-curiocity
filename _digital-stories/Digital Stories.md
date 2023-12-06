@@ -2,10 +2,16 @@
 title: Digital Stories
 permalink: /digital-stories/introduction/
 description: ""
+variant: markdown
 ---
 Step into a world of captivating storytelling with our digital stories that bring to life the rich history of places in Singapore. Combining archival and library materials such as photographs, maps, and documents with engaging multimedia resources such as videos, music, and personal stories, our digital stories offer a unique and immersive way to experience the evolution of Singapore's urban landscape.
 
 Follow us on a journey through time and space, as we explore the cultural, social, and architectural transformations of iconic places in Singapore. With our digital stories, you can discover the hidden narratives and untold stories that have shaped the vibrant city we know today.
+
+| **<font size="5">Jurong</font>** |  | 
+| -------- | -------- | 
+| [<img src="/images/Jurongdigital/jtc_building_1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/fort-canning-hill/intro/)   | Jurong was once an undeveloped region but has now evolved into a thriving metropolis, blending innovation and sustainable living. Explore the transformation in this [digital story](/digital-stories/fort-canning-hill/intro/){:target="_blank"} .
+|
 
 | **<font size="5">Fort Canning Hill</font>** |  | 
 | -------- | -------- | 
