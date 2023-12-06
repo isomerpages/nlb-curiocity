@@ -96,29 +96,3 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 ##### **References**
 
 Click the following PDF icon to view and download the reference list used for this page: 
-
-https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
-
-https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.4?qt=%22jurong%20gateway%22&amp;q=%22jurong%20gateway%22
-
-https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.19.2?qt=%22jurong%20gateway%22&amp;q=%22jurong%20gateway%22
-
-https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-integ-land-use-mobility.pdf
-
-https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19
-
-https://www.mnd.gov.sg/mndlink/2017/Nov-Dec/plans-for-singapores-second-cbd-unveiled.htm
-
-https://www.ura.gov.sg/-/media/Corporate/Land-Sales/Sites/JLD/JLD-Planning-and-Urban-Design-Guide.pdf
-
-https://www.straitstimes.com/singapore/environment/plans-to-develop-jurong-lake-gardens-central-and-east-unveiled
-
-https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens
-
-https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2828111653385%29.jpg
-
-https://www.pmo.gov.sg/Newsroom/SM-Tharman-Shanmugaratnam-at-the-launch-of-the-Jurong-Innovation-District-Masterplan-Exhibition
-
-https://estates.jtc.gov.sg/jid/about
-
-https://www.straitstimes.com/business/property/jtc-jurong-innovation-district-industrial-estate-aims-to-attract-more-talent-with-high-tech-work
