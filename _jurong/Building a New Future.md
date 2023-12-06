@@ -79,12 +79,23 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 | ![Alt text for image on Isomer site](/images/Jurongdigital/jurong_new_future_jid_3_1_1.jpg)|
 | JTC has conceptualised the Jurong Innovation District not merely as a conventional industrial estate, but also a multifaceted zone that seamlessly blends work and recreation. This visionary district will feature amenities, revitalized parks, and public spaces, catering to both the working populace within the district and residents from the neighboring areas. With green coverage amounting to 40 percent of the district, including green links, parks like the Jurong Eco-Garden and Bulim Park, and dedicated pathways teeming with native birds and butterflies, Jurong Innovation District is set to be a harmonious convergence of technology, talent, and sustainability. It aims to serve as a hub where these elements coalesce to inspire innovative ideas that redefine the world we inhabit. Opening in phases from 2024, the district is expected to evolve into a thriving ecosystem encompassing research institutions, capability developers, training and technology firms, and manufacturers, all contributing to Singapore's aspirations in advanced manufacturing. (Credit: [Jurong Town Corporation](https://estates.jtc.gov.sg/jid/stories/5-things-you-should-know-about-jurong-innovation-district){:target="_blank"}) |
 
+-----
+
+**Want to learn more about the Jurong Innovation District? Check out these YouTube videos by the Jurong Town Corporation.**
+
+**Jurong Innovation District Masterplan**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TerlvTO7G6g?si=Roqj22G7dODCQLQK" height="315" width="560"></iframe>
+
+**The Jurong Innovation District**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/o8uajS82mO4?si=rEqtXmrFmZv2iHqd" height="315" width="560"></iframe>
 
 ----
+
+##### **References**
+
+Click the following PDF icon to view and download the reference list used for this page: 
 
 **Resources**
 
