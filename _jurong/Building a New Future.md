@@ -97,8 +97,6 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 
 Click the following PDF icon to view and download the reference list used for this page: 
 
-**Resources**
-
 https://www.jld.gov.sg/events-and-resources/publications/placemaking-jurong/
 
 https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080405-1.2.4?qt=%22jurong%20gateway%22&amp;q=%22jurong%20gateway%22
