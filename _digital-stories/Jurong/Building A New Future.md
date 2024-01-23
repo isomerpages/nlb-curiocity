@@ -80,7 +80,7 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 
 -----
 
-**Want to learn more about the Jurong Innovation District? Check out these YouTube videos by the Jurong Town Corporation.**
+**Want to learn more about the Jurong Innovation District? You can check out these YouTube videos by JTC below or visit the Jurong Innovation District microsite at: https://estates.jtc.gov.sg/jid.**
 
 **Jurong Innovation District Masterplan**
 
