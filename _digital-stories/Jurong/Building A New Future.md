@@ -80,7 +80,7 @@ In 2016, the government unveiled plans in its Budget statement to establish an i
 
 -----
 
-##### **Want to learn more about JID? You can check out the YouTube videos by JTC below or visit JID's microsite at: https://estates.jtc.gov.sg/jid.**
+##### **Want to learn more about JID? You can check out the YouTube videos by JTC below or visit JID's microsite at: [https://estates.jtc.gov.sg/jid](https://estates.jtc.gov.sg/jid){:target="_blank"}.**
 
 **Video on Jurong Innovation District Masterplan**
 
