@@ -53,7 +53,7 @@ In 2008, the Urban Redevelopment Authority revealed plans as part of the Master 
 
 ---
 
-**Watch this video from the Today YouTube Channel for a sneak peek into what Jurong Lake District might look like when fully developed.**
+**Watch this video from *Today*'s YouTube Channel for a sneak peek into what Jurong Lake District might look like when fully developed.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q8TT9y4Ge7M?si=ttJ7QRDzvG8aQRaL" height="315" width="560"></iframe>
 
