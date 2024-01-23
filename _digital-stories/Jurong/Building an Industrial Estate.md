@@ -11,7 +11,7 @@ Littered with villages, plantations, swamplands and patches of primary forests, 
 
 ### **Early Economic Activities in Jurong**
 
-Before the development of the Jurong Industrial Estate, the area was already teeming with a suite of economic activities involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forests to create lands for the establishment of estates and farms. 
+Before the development of the Jurong Industrial Estate, there were already some economic activities in the area involving plantations and farms. These not only brought settlers to the area, but also led to the clearing of forests to create lands for the establishment of estates and farms. 
 
 |   | 
 |:--------:| 
