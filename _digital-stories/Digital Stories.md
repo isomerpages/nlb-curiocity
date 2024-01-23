@@ -26,8 +26,9 @@ Follow us on a journey through time and space, as we explore the cultural, socia
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Fort Canning Hill photo by [Photo by Francisco Anzola via Flickr
-<br>2. Bras Basah photo Erwin Soo [CC BY-SA 2.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Jurong Town Corporation Building photo by Smuconlaw via Wikicommons [CC BY-SA 4.0]
+<br>2. Fort Canning Hill photo by Photo by Francisco Anzola via Flickr
+<br>3. Bras Basah photo Erwin Soo [CC BY-SA 2.0]
 </span>
 	
 </details>
