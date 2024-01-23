@@ -3,9 +3,8 @@ title: "Bras Basah: A Place Of Learning"
 permalink: /digital-stories/bras-basah/bb-books/
 description: ""
 third_nav_title: Bras Basah
+variant: markdown
 ---
-
-
 ### **Schools of Bras Basah**
 
 The close proximity of Bras Basah to the town centre and various ethnic enclaves of Singapore made it an ideal location for schools during the colonial period. Started by town planners, missionaries and philanthropists, these early schools provided local children an invaluable opportunity for education regardless of gender, race and religion. Here is a selection of those schools.
@@ -70,7 +69,7 @@ ____
 ____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When Mr Yeo Hong Eng was a student in the 1950s, he used to travel all the way from Changi to Bras Basah with his father for books. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below how he remembers the trip there and the things he saw in the bookstores. (Source: <a href="https://www.singaporememory.sg/contents/SMB-7eba6b15-870f-48ec-80a5-ff78c00e6fde" target="_blank"> Singapore Memory Project</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">When Mr Yeo Hong Eng was a student in the 1950s, he used to travel all the way from Changi to Bras Basah with his father for books. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below how he remembers the trip there and the things he saw in the bookstores. (Source: <a href="https://yeohongeng.blogspot.com/2014/01/bras-basah-complex.html" target="_blank"> Yeo Hong Eng</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"It was in one of the mornings of early January 1959, we went to Bras Basah Road via the No. 1 red and white Changi bus...I was lost for words when we walked along the corridors of the shops. Almost every shop was a bookshop – old and new. Periodicals, newspapers, weekenders, magazines..., school textbooks...,  fictional books, non-fiction books of varied different genres, stationery, etc. I felt groggy. To try to save a few dollars, we tried to hunt from the second-hand book stores. I remembered that I was excited when I got one of the books. It was entitled  “The World.” It was a Geography book. Then we proceeded to the book stores that sold new ones. We went in and out almost all the shops from the whole length of Bras Basah Road from Victoria Street to Prinsep Street...When I reached home I spent some time to wrap up those books I purchased with either brown Manila paper or expired monthly calendar with the unprinted back facing out. I found it too precious to dog-ear my books to indicate the pages that I stop referring to. I used chicken feathers as bookmarks. I was excited when I saw some fine feathers actually ‘growing’ from the main ones. I could not believe it. But when checked with some adult friends, they confirmed that feathers put in between books could grow. Surprise? Surprise? Surprise? That was my first experience of book purchasing." </span>
 	
@@ -78,9 +77,9 @@ ____
 
 ------
 
-#### **Methodist Publishing House and Koh & Company**
+#### **Methodist Publishing House and Koh &amp; Company**
 
-Two of the biggest English bookstores that used to be located in Bras Basah was Methodist Publishing House (MPH) and Koh & Company. Each of them offer a distinctive selection of books for their customers. Find out what they sell below.
+Two of the biggest English bookstores that used to be located in Bras Basah was Methodist Publishing House (MPH) and Koh &amp; Company. Each of them offer a distinctive selection of books for their customers. Find out what they sell below.
 
 |   | 
 |:--------:| 
@@ -101,7 +100,7 @@ Two of the biggest English bookstores that used to be located in Bras Basah was 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-books-koh-1.jpg) |
-| Established by Peranakan bookseller Koh Hoon Teck, Koh & Company was located inside Raffles Hotel (pictured) in 1905. Other than selling postcards and stamps, it also published Baba Malay titles as well as the only philatelic journal at the time – the monthly *Postcard Exchange Register*. Unfortunately, this unique bookstore ceased operations in the 1920s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
+| Established by Peranakan bookseller Koh Hoon Teck, Koh &amp; Company was located inside Raffles Hotel (pictured) in 1905. Other than selling postcards and stamps, it also published Baba Malay titles as well as the only philatelic journal at the time – the monthly *Postcard Exchange Register*. Unfortunately, this unique bookstore ceased operations in the 1920s. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/45815f5b-fbd4-4713-9956-f743b00d979d){:target="_blank"})|
 
 -------
 
@@ -148,7 +147,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 -----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In his contribution to the Singapore Memory Project, Yeo Hong Eng talks about the POPULAR bookstore in Bras Basah Complex. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below what he shared.</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">In his blog, Yeo Hong Eng talks about the POPULAR bookstore in Bras Basah Complex. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below what he shared. (Source: <a href="https://yeohongeng.blogspot.com/2014/01/bras-basah-complex.html" target="_blank"> Yeo Hong Eng</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"In the 80s and 90s, the whole area of Bras Basah Road, Victoria Street, North Bridge Road underwent a big transformation. The book stores of the areas mentioned either folded up or went over to the Bras Basah Complex. When my sons were of school going age, I brought them over. The Big Book, The World Book, Popular Book Store, Shanghai Book Store, United Publishing House, The Commercial Press, Chung Hwa Book Co, Nanyang Book Company etc were there. These companies were not strangers to me. As I was the Head of English Department in Gongshang Primary School then, every year I received numerous review copies of children’s books, assessment books, model compositions, etc from these various publishers and book companies. The most popular was the Popular Book Store as it was the biggest bilingual and most attractive store there. Many of my sons’ reference and story books were from there. One of the best buys was a set of Children’s Encyclopaedia which I still have today...Today the Popular Book Store not only sell Chinese and English books, school text and assessment books, stationery etc, it also sells music CDs, DVDs, computer printers, games, and other software." </span>
 	
@@ -159,7 +158,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 |  | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/bb-bb-complex-5.jpg) |
-| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their songs. To further help these amateur singers, the Young Songwriters’ Society (YSS) (above) started the annual Xinyao Festival in 1986 as a platform for them to perform. If you are not sure what xinyao is, click or tap on the question below to find out. You can also visit [MusicSG](https://eresources.nlb.gov.sg/music/search?page=1&q=xinyao&type=&fField=Genre&fKey=xinyao%2c+pop) to listen some of the xinyao songs. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1334354){:target="_blank"})  |
+| During the 1980s, this place was also a popular venue for Singapore "xinyao" singers to launch and promote their songs. To further help these amateur singers, the Young Songwriters’ Society (YSS) (above) started the annual Xinyao Festival in 1986 as a platform for them to perform. If you are not sure what xinyao is, click or tap on the question below to find out. You can also visit [MusicSG](https://eresources.nlb.gov.sg/music/search?page=1&amp;q=xinyao&amp;type=&amp;fField=Genre&amp;fKey=xinyao%2c+pop) to listen some of the xinyao songs. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1334354){:target="_blank"})  |
 
 ------
 
@@ -180,7 +179,7 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 **Watch this short video by students from the Nanyang Academy of Fine Arts and National Museum of Singapore on the significance of Bras Bash Complex.**
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ------
 
@@ -249,7 +248,7 @@ The former National Library Building was located at 91 Stamford Road. It officia
 Though the old National Library was demolished in 2004, it will live on forever in the memories of countless Singaporeans who frequented it over the decades. Local animation studio Robot Playground immortalised the National Library on Stamford Road in a 15-minute animated short titled Little Red Bricks. It pays tribute not only to the building but also the people through the life and times of a boy and a girl. Watch the breath-taking video below.
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ------
 
