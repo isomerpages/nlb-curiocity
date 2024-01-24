@@ -39,3 +39,31 @@ Please refer to the&nbsp;**Annex**&nbsp;for the draft mock-ups of the ChatBook a
 **NLB’s Chief Executive Officer Ng Cher Pong said:**
 
 &gt; We are pushing on with new ways of connecting with our patrons, and transforming how our content can be better discovered and experienced. Tech continues to be a key enabler in reshaping the future of libraries and archives. We welcome more like-minded partners to join us in experimenting and trying out more ways for everyone to read, learn and discover in meaningful and enriching ways.
+
+**About National Library Board**  
+
+The National Library Board (NLB) nurtures Readers for Life, Learning Communities and a Knowledgeable Nation by promoting reading, learning and history through its network of 28 libraries, the National Library and the National Archives of Singapore. NLB also forges strategic partnerships that encourage awareness, appreciation and greater discovery of Singapore's history through its rich collections in Singapore and the region.  
+  
+NLB achieves excellence through innovation, focusing on citizen engagement and co-creation, resource and digital innovation. This creates learning opportunities, greater access to library resources, services, and archival collections, as well as a continual development of innovative library spaces. Established on 1 September 1995 as a statutory board, NLB is under the Ministry of Communications and Information (MCI).
+
+For more information, please visit the&nbsp;[NLB website](https://www.nlb.gov.sg/),&nbsp;and NLB’s&nbsp;[Facebook](https://www.facebook.com/nlbsingapore),&nbsp;[Instagram](https://www.instagram.com/nlb.singapore),&nbsp;[LinkedIn](https://sg.linkedin.com/company/national-library-board)&nbsp;and&nbsp;[YouTube](https://www.youtube.com/c/NLBsg)&nbsp;channels.
+
+**For media enquiries, please contact:**
+
+Hoe I Yune&nbsp;  
+Weber Shandwick&nbsp;  
+Tel: 9324 2061  
+Email:&nbsp;[IHoe@webershandwick.com](mailto:IHoe@webershandwick.com)
+
+Quah Jia Ling&nbsp;  
+Weber Shandwick&nbsp;  
+Tel: 9699 0830&nbsp;  
+Email:&nbsp;[JQuah@webershandwick.com](mailto:JQuah@webershandwick.com)
+
+**ANNEX  
+****Mock-ups of ChatBook and Glue Prototypes**
+
+_\[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]_
+
+**ChatBook**
+
