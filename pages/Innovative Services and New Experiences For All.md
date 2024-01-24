@@ -42,16 +42,18 @@ Please refer to the&nbsp;**Annex**&nbsp;for the draft mock-ups of the ChatBook a
 
 -----
 
-<span style="font-weight: 700; text-decoration: underline;">ANNEX</span>
+<span style="font-weight: 700; font-size: 20px; text-decoration: underline;">ANNEX</span>
 
-**Mock-ups of ChatBook and Glue Prototypes**
+##### Mock-ups of ChatBook and Glue Prototypes
 
 *[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]*
 
 **ChatBook**
+
 ![nlb-chatbook](/images/nlb_chatbook.png)
 
 **Glue**
+
 ![nlb-glue](/images/nlb_glue.png)
 
 -----
