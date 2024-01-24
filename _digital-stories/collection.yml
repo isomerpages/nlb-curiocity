@@ -3,8 +3,14 @@ collections:
     output: true
     order:
       - Digital Stories.md
-      - Fort Canning Hill/More Than Just A Hill.md
+      - Jurong/.keep
+      - "Jurong/Swampland to Tech Metropolis: A Digital Story on Jurong.md"
+      - Jurong/Roots in Nature.md
+      - Jurong/Industrial Revolution.md
+      - Jurong/Urban Oasis.md
+      - Jurong/Future Horizons.md
       - Fort Canning Hill/.keep
+      - Fort Canning Hill/More Than Just A Hill.md
       - "Fort Canning Hill/Bukit Larangan: Early Singapore in Maps, Texts, and
         Artifacts.md"
       - Fort Canning Hill/From Government Hill to Fort Canning Hill.md

@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/fc-aerial-banner.jpg
+      background: /images/Jurongdigital/jurong_banner_1.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -22,14 +22,15 @@ sections:
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
   - infopic:
-      title: More Than Just A Hill
+      title: Swampland to Tech Metropolis
       subtitle: Digital Stories
-      description: Fort Canning Hill has a rich history that dates back to the 14th
-        century. Explore its history in this digital story.
-      button: Start the journey
-      url: /digital-stories/fort-canning-hill/intro/
-      image: /images/fort-canning-cover-dg.jpg
-      alt: Image alt text
+      id: infopic
+      description: Learn about Jurong's transformation from an undeveloped region to
+        an innovative and sustainable metropolis in this digital story.
+      button: Start the Journey
+      url: /digital-stories/jurong/intro/
+      image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
+      alt: Chinese Garden Aerial
   - infopic:
       title: Golden Mile Complex
       subtitle: ArchiTimelines
@@ -40,14 +41,14 @@ sections:
       image: /images/golden-mile-complex-photo-1-1.jpg
       alt: Image alt text
   - infopic:
-      title: Bras Basah Through Time
+      title: More Than Just A Hill
       subtitle: Digital Stories
-      description: Take a journey through Bras Basah and learn about its history in
-        this digital story.
-      url: /digital-stories/bras-basah/bb-intro/
-      image: /images/bb-showcase-cover-dg.png
-      alt: Story Maps banner
-      button: Start the Journey
+      description: Fort Canning Hill has a rich history that dates back to the 14th
+        century. Explore its history in this digital story.
+      button: Start the journey
+      url: /digital-stories/fort-canning-hill/intro/
+      image: /images/fort-canning-cover-dg.jpg
+      alt: Image alt text
   - infopic:
       title: Heritage Bridges of Singapore River
       subtitle: Story Map
@@ -58,14 +59,14 @@ sections:
       alt: Image alt text
       image: /images/landing-bridge.jpg
   - infopic:
-      title: The Civic District
-      subtitle: Story Map
-      description: Learn the historic landmarks and spaces of the Civic District in
-        this story map.
-      button: View Story Map
-      url: /resource-room/story-maps/civic-district
-      image: /images/landing-civic-district.jpg
-      alt: Image alt text
+      title: Bras Basah Through Time
+      subtitle: Digital Stories
+      description: Take a journey through Bras Basah and learn about its history in
+        this digital story.
+      url: /digital-stories/bras-basah/bb-intro/
+      image: /images/bb-showcase-cover-dg.png
+      alt: Story Maps banner
+      button: Start the Journey
   - infopic:
       title: Kampong Glam
       subtitle: Story Map
@@ -73,6 +74,15 @@ sections:
       button: View The Story Map
       url: /resource-room/story-maps/kampong-glam
       image: /images/landing-kampong-glam.png
+      alt: Image alt text
+  - infopic:
+      title: The Civic District
+      subtitle: Story Map
+      description: Learn the historic landmarks and spaces of the Civic District in
+        this story map.
+      button: View Story Map
+      url: /resource-room/story-maps/civic-district
+      image: /images/landing-civic-district.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg

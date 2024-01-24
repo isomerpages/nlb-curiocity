@@ -2,10 +2,16 @@
 title: Digital Stories
 permalink: /digital-stories/introduction/
 description: ""
+variant: markdown
 ---
 Step into a world of captivating storytelling with our digital stories that bring to life the rich history of places in Singapore. Combining archival and library materials such as photographs, maps, and documents with engaging multimedia resources such as videos, music, and personal stories, our digital stories offer a unique and immersive way to experience the evolution of Singapore's urban landscape.
 
 Follow us on a journey through time and space, as we explore the cultural, social, and architectural transformations of iconic places in Singapore. With our digital stories, you can discover the hidden narratives and untold stories that have shaped the vibrant city we know today.
+
+| **<font size="5">Jurong</font>** |  | 
+| -------- | -------- | 
+| [<img src="/images/Jurongdigital/jtc_building_1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/jurong/intro/)   | Jurong was once an undeveloped region but has now evolved into a thriving metropolis, blending innovation and sustainable living. Explore the transformation in this [digital story](/digital-stories/jurong/intro/){:target="_blank"} .
+|
 
 | **<font size="5">Fort Canning Hill</font>** |  | 
 | -------- | -------- | 
@@ -20,8 +26,9 @@ Follow us on a journey through time and space, as we explore the cultural, socia
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#353839">Click or tap here for image credit.</span></summary>
 <br>	
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Fort Canning Hill photo by [Photo by Francisco Anzola via Flickr
-<br>2. Bras Basah photo Erwin Soo [CC BY-SA 2.0]
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#778899">1. Jurong Town Corporation Building photo by Smuconlaw via Wikicommons [CC BY-SA 4.0]
+<br>2. Fort Canning Hill photo by Photo by Francisco Anzola via Flickr
+<br>3. Bras Basah photo Erwin Soo [CC BY-SA 2.0]
 </span>
 	
 </details>

@@ -3,9 +3,8 @@ title: Becoming Bras Basah Bugis
 permalink: /digital-stories/bras-basah/conclude-bb/
 description: ""
 third_nav_title: Bras Basah
+variant: markdown
 ---
-
-
 ### **In Need For Renewal**
 
 Until the 1970s, Bras Basah and its adjacent district, Bugis, were abuzz with activities, thanks to the schools, bookstores, cinemas, hawkers and nightlife there. But like other inner-city areas, the two districts were in need of renewal as its streets were congested and colonial-era shophouses in dilapidated condition. To address these issues, the Urban Redevelopment Authority (URA) extended its urban renewal programme to Bras Basah and Bugis. This saw many buildings in the area being torn down and redeveloped.
@@ -64,7 +63,7 @@ ______
 
 The ability of BBB to retains its architectural and cultural heritage has made itself unique compared to other precincts especially Orchard Road and the Downtown Core. This identity is further enhanced by the existence of renowned educational institutions and arts groups in BBB as it did in the past.
 
-To capture the the arts and heritage identity of BBB, you can embark on these <span style="font-weight: 700; font-size: 20px; font-style: strong; color:#eb7044">heritage trials</span> below.
+To capture the the arts and heritage identity of BBB, you can embark on these <span style="font-weight: 700; font-size: 20px; font-style: strong; color:#eb7044">heritage trails</span> below.
 
 |  |  |  |
 | :--------: | :--------: | :--------: |

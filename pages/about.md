@@ -2,6 +2,7 @@
 title: About Curiocity
 permalink: /about/
 breadcrumb: About Curiocity
+variant: markdown
 ---
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">Curiocity is a National Library Board (NLB) website that uses digital storytelling tools to create content that tell interactive and compelling stories about the history of places in Singapore.</span>
 
@@ -17,4 +18,4 @@ breadcrumb: About Curiocity
 
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">Curiocity brings the past to life by using digitised materials from the collections of NLB, NAS, NHB and URA, such as photographs, maps, paintings, postcards, artefacts, memories and oral history interviews. These materials supplement the written text in our Story Maps and Digital Stories, providing a rich and immersive experience for our users. Explore Singapore's heritage and witness the city-state's evolution through time and space with our carefully curated collection of multimedia resources.</span>
 
-Homepage banner image credit: [Photo by Marco Verch Professional Photographer via Wikicommons [CC BY-SA 2.0]]
+Homepage banner image credit: [Photo by Edsel Little via Wikicommons (CC BY-SA 2.0)](https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2827496133873%29.jpg) 
