@@ -40,7 +40,23 @@ Please refer to the&nbsp;**Annex**&nbsp;for the draft mock-ups of the ChatBook a
 
 &gt; We are pushing on with new ways of connecting with our patrons, and transforming how our content can be better discovered and experienced. Tech continues to be a key enabler in reshaping the future of libraries and archives. We welcome more like-minded partners to join us in experimenting and trying out more ways for everyone to read, learn and discover in meaningful and enriching ways.
 
-**About National Library Board**  
+-----
+
+<span style="font-weight: 700; text-decoration: underline;">ANNEX</span>
+
+**Mock-ups of ChatBook and Glue Prototypes**
+
+*[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]*
+
+**ChatBook**
+![nlb-chatbook](/images/nlb_chatbook.png)
+
+**Glue**
+![nlb-glue](/images/nlb_glue.png)
+
+-----
+
+<span style="font-weight: 700; text-decoration: underline;">About National Library Board</span>
 
 The National Library Board (NLB) nurtures Readers for Life, Learning Communities and a Knowledgeable Nation by promoting reading, learning and history through its network of 28 libraries, the National Library and the National Archives of Singapore. NLB also forges strategic partnerships that encourage awareness, appreciation and greater discovery of Singapore's history through its rich collections in Singapore and the region.  
   
@@ -59,14 +75,4 @@ Quah Jia Ling&nbsp;
 Weber Shandwick&nbsp;  
 Tel: 9699 0830&nbsp;  
 Email:&nbsp;[JQuah@webershandwick.com](mailto:JQuah@webershandwick.com)
-
-**ANNEX**
-
-**Mock-ups of ChatBook and Glue Prototypes**
-
-*[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]*
-
-**ChatBook**
-
-
 
