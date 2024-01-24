@@ -60,10 +60,13 @@ Weber Shandwick&nbsp;
 Tel: 9699 0830&nbsp;  
 Email:&nbsp;[JQuah@webershandwick.com](mailto:JQuah@webershandwick.com)
 
-**ANNEX  
-****Mock-ups of ChatBook and Glue Prototypes**
+**ANNEX**
 
-_\[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]_
+**Mock-ups of ChatBook and Glue Prototypes**
+
+*[Note: The mock-ups are subject to further iterations and actual interfaces would differ.\]*
 
 **ChatBook**
+
+
 
