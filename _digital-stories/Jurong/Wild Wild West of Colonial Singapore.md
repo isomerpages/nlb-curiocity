@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Jurong
 ---
-Jurong is an area in the southwest of Singapore. Comprising of housing estates such as Jurong West and Jurong East as well as the innovation, business and industrial estates of Jurong Lake District and the Jurong Innovation District among others, it was a very different place before its development in the 1960s. Largely undeveloped, it was an area of littered with villages, swamps, patches of jungles and plantations with numerous river, steams and tributaries.
+Jurong is an area in the southwest of Singapore, comprising housing estates such as Jurong West and Jurong East, as well as the innovation, business, and industrial estates of Jurong Lake District and the Jurong Innovation District, among others. It was a very different place before its development in the 1960s. Largely undeveloped, it was an area littered with villages, swamps, patches of jungle, and plantations, with numerous rivers, streams, and tributaries
 
 -----
 
@@ -95,7 +95,7 @@ The deforestation of Jurong and its adjacent areas like Peng Kang attracted new 
 |   | 
 |:--------:| 
 | ![Jurong kampong school](/images/Jurongdigital/jurong_early_communities_4.jpg) |
-| In the early 20th century, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| In the early 1900s, the growth of existing and new villages in rural areas like Jurong was driven by various factors, including the expansion of rubber plantations, the establishment of British military bases, and improvements to the road and transportation network. By the late 1950s, many of these rural villages were well-equipped with basic amenities and services, such as schools, places of worship, markets, provision shops, and even clinics. The image above shows Sin Nan Public School, founded in 1932 near Hong Kah Village. Today, the school is situated in Jurong West and is known as Xingnan Primary School. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f74e3762-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 -----
 
