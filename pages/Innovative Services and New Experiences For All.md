@@ -36,6 +36,6 @@ Details of the three tech prototypes and our vision for what they can be are as 
 
 Please refer to the&nbsp;**Annex**&nbsp;for the draft mock-ups of the ChatBook and Glue prototypes.
 
-**NLB’s Chief Executive Officer Ng Cher Pong said: **
+**NLB’s Chief Executive Officer Ng Cher Pong said:**
 
 &gt; We are pushing on with new ways of connecting with our patrons, and transforming how our content can be better discovered and experienced. Tech continues to be a key enabler in reshaping the future of libraries and archives. We welcome more like-minded partners to join us in experimenting and trying out more ways for everyone to read, learn and discover in meaningful and enriching ways.
