@@ -17,9 +17,8 @@ View the story map in [full screen](https://go.gov.sg/hfstorymap){:target="_blan
 
 Notes:
 
-1. This story map does not show a comprehensive coverage of the historical buildings and landmarks in Toa Payoh.
+1. This story map does not show a comprehensive coverage of the historical buildings and landmarks in HarbourFront.
 
 2. The title of the base map used in this story map is the [Singapore Topographical Map]( https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb66894d-115c-11e3-83d5-0050568939ad) (1987).
 
-3. This story map used related articles in [Infopedia](https://eresources.nlb.gov.sg/infopedia/), [HistorySG](http://eresources.nlb.gov.sg/history), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018), [Ray Tyers’ Singapore: Then &amp; Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988), and [Toa Payoh: Heritage Trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=201167484) (2014).
-4. This story map was made by Zhixin Zheng and Yeo Soon Ping
+3. This story map used related articles produced by the National Library Board from [National Library Online](https://www.nlb.gov.sg/main/nlonline), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018), [Ray Tyers’ Singapore: Then &amp; Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), and [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988).
