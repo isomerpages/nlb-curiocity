@@ -1,6 +1,7 @@
 ---
 title: Central Area
 permalink: /story-maps/central-area/
+variant: markdown
 ---
 Comprising the 11 Planning Areas of Outram, Museum, Newton, River Valley, Singapore River, Marina South, Marina East, Straits View,  Rochor, Orchard and Downtown Core, the Central Area is both the economic and historic heart of Singapore. Having a mix of both modern and heritage buildings, this area creates a unique cityscape that attests us to our vibrant and plural history, as well as our economic progress from colonial outpost to a thriving global financial and business hub.
 
@@ -46,6 +47,7 @@ _______
 <br>9. Old Kallang photo via National Archives of Singapore
 <br>10. Present day Kallang photo by William Cho via Flickr
 <br>11. Orchard Road photo by chensiyuan [CC BY-SA 4.0]
+<br>12. HarbourFront photo by Maksym [CC BY-SA 4.0]
 </span>
 	
 </details>
