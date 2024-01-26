@@ -31,7 +31,7 @@ __________
 
 [![Historic Kallang Story Map](/images/storymap-image-orchard-road.png)](/resource-room/story-maps/orchard-road)
 
-![](/images/storymap_harbourfront.jpg)(/images/storymap-image-orchard-road.png)](/resource-room/story-maps/harbourfront)
+[![HarbourFront Story Map](/images/storymap_harbourfront.jpg)](/resource-room/story-maps/harbourfront)
 
 _______
 
