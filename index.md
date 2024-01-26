@@ -32,13 +32,12 @@ sections:
       image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
       alt: Chinese Garden Aerial
   - infopic:
-      title: Golden Mile Complex
-      subtitle: ArchiTimelines
-      description: Explore the history of Golden Mile Complex through library and
-        archival materials.
-      button: View Timeline
-      url: /resource-room/timelines/golden-mile-complex
-      image: /images/golden-mile-complex-photo-1-1.jpg
+      title: HarbourFront
+      subtitle: Story Map
+      description: Explore the places of interest of HarbourFront in this story map.
+      button: View The Story Map
+      url: /resource-room/story-maps/harbourfront
+      image: /images/harbourfront_homepage_infopic.jpg
       alt: Image alt text
   - infopic:
       title: More Than Just A Hill
@@ -48,6 +47,15 @@ sections:
       button: Start the journey
       url: /digital-stories/fort-canning-hill/intro/
       image: /images/fort-canning-cover-dg.jpg
+      alt: Image alt text
+  - infopic:
+      title: Golden Mile Complex
+      subtitle: ArchiTimelines
+      description: Explore the history of Golden Mile Complex through library and
+        archival materials.
+      button: View Timeline
+      url: /resource-room/timelines/golden-mile-complex
+      image: /images/golden-mile-complex-photo-1-1.jpg
       alt: Image alt text
   - infopic:
       title: Heritage Bridges of Singapore River
@@ -67,14 +75,6 @@ sections:
       image: /images/bb-showcase-cover-dg.png
       alt: Story Maps banner
       button: Start the Journey
-  - infopic:
-      title: Kampong Glam
-      subtitle: Story Map
-      description: Explore the old-world charm of Kampong Glam in this story map.
-      button: View The Story Map
-      url: /resource-room/story-maps/kampong-glam
-      image: /images/landing-kampong-glam.png
-      alt: Image alt text
   - infopic:
       title: The Civic District
       subtitle: Story Map
