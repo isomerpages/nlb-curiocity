@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/NLB_Glue_6.png
+      background: /images/NLB_Glue_banner_1920x720.png
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
