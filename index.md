@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/Jurongdigital/jurong_banner_1.jpg
+      background: /images/NLB_Glue_banner_1920x720.png
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -21,6 +21,7 @@ sections:
         - title: Discover architectural history
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
+      variant: image
   - infopic:
       title: Swampland to Tech Metropolis
       subtitle: Digital Stories
