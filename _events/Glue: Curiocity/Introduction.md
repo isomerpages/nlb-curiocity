@@ -5,6 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: "Glue: Curiocity"
 ---
+
+
+![](/images/Events/Glue_jpeg_Website_Banner_2.jpg)
+
 Explore and discover hidden gems of history, stories, and even good eats of Jurong and Harbourfront with **Glue: Curiocity**. Through this new interactive tech prototype, users can discover more about the places they live, work or play in, as it draws from the rich resources of the National Library and National Archives of Singapore. The prototype has been co-developed by the National Library Board (NLB) and Open Government Products (OGP).
 
 The **Glue:Curiocity** showcases will be at **Jurong Regional Library and library@harbourfront till 28 March 2024**, where patrons can explore the rich heritage of Jurong and Harbourfront. Some key highlights are:
@@ -19,4 +23,4 @@ The **Glue:Curiocity** showcases will be at **Jurong Regional Library and librar
 
 In addition to the showcases, the **mobile prototype of Glue: Curiocity** will be available from **March 2024**. The mobile version will provide users with a personalised digital experience to continue exploring Jurong and Harbourfront conveniently and while on the go.
 
-> Glue: Curiocity, NLB’s latest tech prototype, is part of NLB’s LAB25 efforts, and wide-ranging experiment to push new frontiers in learning and discovery. NLB will continue to leverage new cutting-edge technologies in collaboration with private and public sector partners, and welcome more partners to work with it to enhance how Singaporeans discover, learn and experience.
+**Glue: Curiocity**, NLB’s latest tech prototype, is part of NLB’s LAB25 efforts, and wide-ranging experiment to push new frontiers in learning and discovery. NLB will continue to leverage new cutting-edge technologies in collaboration with private and public sector partners, and welcome more partners to work with it to enhance how Singaporeans discover, learn and experience.
