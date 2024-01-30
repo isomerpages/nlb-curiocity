@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - "Glue: Curiocity.md"
       - Events.md
       - "Curiocity Encounters: SNF 2022/.keep"
       - "Curiocity Encounters: SNF 2022/Introduction.md"
