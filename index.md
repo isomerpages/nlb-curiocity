@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/NLB_Glue_banner_1920x720.png
+      background: /images/Events/glue_website_banner_1.png
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -23,8 +23,18 @@ sections:
           url: /archichronicles/introduction/
       variant: image
   - infopic:
+      title: "Glue: Curiocity"
+      subtitle: Event
+      id: infopic
+      description: "Explore and discover hidden gems of history, stories, and even
+        good eats of Jurong and Harbourfront with Glue: Curiocity."
+      button: Click here to find out more
+      url: /events/glue-curiocity/introduction/
+      image: /images/Events/Glue_Website_Annoucement.png
+      alt: Image alt text
+  - infopic:
       title: Swampland to Tech Metropolis
-      subtitle: Digital Stories
+      subtitle: Digital Story
       id: infopic
       description: Learn about Jurong's transformation from an undeveloped region to
         an innovative and sustainable metropolis in this digital story.
@@ -42,7 +52,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: More Than Just A Hill
-      subtitle: Digital Stories
+      subtitle: Digital Story
       description: Fort Canning Hill has a rich history that dates back to the 14th
         century. Explore its history in this digital story.
       button: Start the journey
@@ -51,7 +61,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Golden Mile Complex
-      subtitle: ArchiTimelines
+      subtitle: ArchiTimeline
       description: Explore the history of Golden Mile Complex through library and
         archival materials.
       button: View Timeline
@@ -69,7 +79,7 @@ sections:
       image: /images/landing-bridge.jpg
   - infopic:
       title: Bras Basah Through Time
-      subtitle: Digital Stories
+      subtitle: Digital Story
       description: Take a journey through Bras Basah and learn about its history in
         this digital story.
       url: /digital-stories/bras-basah/bb-intro/
@@ -81,7 +91,7 @@ sections:
       subtitle: Story Map
       description: Learn the historic landmarks and spaces of the Civic District in
         this story map.
-      button: View Story Map
+      button: View the Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
