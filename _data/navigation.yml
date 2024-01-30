@@ -30,6 +30,8 @@ links:
   - title: Events
     url: /events/overview
     sublinks:
+      - title: "Glue: Curiocity"
+        url: /events/glue-curiocity/introduction/
       - title: "Curiocity Encounters: SNF 2022"
         url: /events/curiocity-encounters-snf
       - title: "Curiocity: Places&Perspectives"
