@@ -12,7 +12,7 @@ variant: markdown
 
 | [**<font size="5"> Curiocity Encounters: Singapore Night Festival 2022 </font>**](/events/curiocity-encounters-snf){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/Events/events_curiocityencounters.png" alt="central-area" style="width:650px">](/events/curiocity-encounters-snf)   | Curiocity comes alive at night in the Bras Basah.Bugis precinct. Click [here](/events/curiocity-encounters-snf){:target="_blank"} to find out more.
+| [<img src="/images/Events/events_curiocityencounters.png" alt="central-area" style="width:650px">](/events/curiocity-encounters-snf)   | Curiocity comes alive at night in the Bras Basah.Bugis precinct where old and new stories can be unearthed through creative installations and digital content. Click [here](/events/curiocity-encounters-snf){:target="_blank"} to find out more.
 |
 
 | [**<font size="5"> Curiocity: Places &amp; Perspectives </font>**](/events/curiocity-showcase-2022){:target="_blank"}  |  | 
