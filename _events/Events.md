@@ -6,7 +6,7 @@ variant: markdown
 ---
 | [**<font size="5"> Glue: Curiocity </font>**](/events/glue-curiocity/introduction/){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/Events/events_glue.png" alt="glue:curiocity" style="width:650px">](/events/glue-curiocity/introduction/)   | Explore and discover hidden gems of history, stories, and even good eats of Jurong and Harbourfront with&nbsp;Glue: Curiocity. Click [here](/events/glue-curiocity/introduction/){:target="_blank"} to find out more.
+| [<img src="/images/Events/events_Glue_Website_Annoucement_1.png" alt="glue:curiocity" style="width:650px">](/events/glue-curiocity/introduction/)   | Explore and discover hidden gems of history, stories, and even good eats of Jurong and Harbourfront with&nbsp;Glue: Curiocity. Click [here](/events/glue-curiocity/introduction/){:target="_blank"} to find out more.
 |
 
 
