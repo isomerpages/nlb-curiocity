@@ -23,6 +23,16 @@ sections:
           url: /archichronicles/introduction/
       variant: image
   - infopic:
+      title: "Glue: Curiocity"
+      subtitle: Events
+      id: infopic
+      description: "Explore and discover hidden gems of history, stories, and even
+        good eats of Jurong and Harbourfront with Glue: Curiocity."
+      button: Click here to find out more
+      url: /events/glue-curiocity/introduction/
+      image: /images/Events/Glue_Website_Annoucement.png
+      alt: Image alt text
+  - infopic:
       title: Swampland to Tech Metropolis
       subtitle: Digital Stories
       id: infopic
