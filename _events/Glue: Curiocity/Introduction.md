@@ -13,13 +13,11 @@ Explore and discover hidden gems of history, stories, and even good eats of Juro
 
 The **Glue:Curiocity** showcases will be at **Jurong Regional Library and library@harbourfront till 28 March 2024**, where patrons can explore the rich heritage of Jurong and Harbourfront. Some key highlights are:
 
-1.  **Touchscreen displays with interactive maps and quizzes:** Visitors can explore location-specific content from the National Library, National Archives of Singapore, and other sources.
-
-1.  **At Jurong Regional Library:** Visitors can discover stories of the Jurong area, and explore its evolution from an industrial area to a bustling hub of community, commercial and recreational activity;
-2.  **At library@harbourfront**: Visitors can learn more about the development of the Harbourfront and the wider Telok Blangah area from a maritime hub to a residential, recreational and nature zone.
-
-2.  **Personalised trails:** Visitors can also customise their personalised trails led by a unique digital “tour guide”, which they can view on their mobile devices.
-3.  **Food finds:** Glue: Curiocity will also show where you can find some of the good eats around Jurong and Harbourfront.
+1. **Touchscreen displays with interactive maps and quizzes:** Visitors can explore location-specific content from the National Library, National Archives of Singapore, and other sources.
+2. **At Jurong Regional Library:** Visitors can discover stories of the Jurong area, and explore its evolution from an industrial area to a bustling hub of community, commercial and recreational activity;
+3. **At library@harbourfront**: Visitors can learn more about the development of the Harbourfront and the wider Telok Blangah area from a maritime hub to a residential, recreational and nature zone.
+4. **Personalised trails:** Visitors can also customise their personalised trails led by a unique digital “tour guide”, which they can view on their mobile devices.
+5. **Food finds:** Glue: Curiocity will also show where you can find some of the good eats around Jurong and Harbourfront.
 
 In addition to the showcases, the **mobile prototype of Glue: Curiocity** will be available from **March 2024**. The mobile version will provide users with a personalised digital experience to continue exploring Jurong and Harbourfront conveniently and while on the go.
 
