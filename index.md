@@ -91,7 +91,7 @@ sections:
       subtitle: Story Map
       description: Learn the historic landmarks and spaces of the Civic District in
         this story map.
-      button: View Story Map
+      button: View the Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
