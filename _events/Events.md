@@ -2,7 +2,14 @@
 title: Events
 permalink: /events/overview/
 description: ""
+variant: markdown
 ---
+| [**<font size="5"> Glue: Curiocity </font>**](/events/glue-curiocity/introduction/){:target="_blank"}  |  | 
+| -------- | -------- | 
+| [<img src="/images/Glue_Website_Banner_1.png" alt="glue:curiocity" style="width:650px">](/events/glue-curiocity/introduction/)   | Explore and discover hidden gems of history, stories, and even good eats of Jurong and Harbourfront with&nbsp;Glue: Curiocity. Click [here](/events/glue-curiocity/introduction/){:target="_blank"} to find out more.
+|
+
+
 | [**<font size="5"> Curiocity Encounters: Singapore Night Festival 2022 </font>**](/events/curiocity-encounters-snf){:target="_blank"}  |  | 
 | -------- | -------- | 
 | [<img src="/images/CuriocitySNF%20Website%20Webbanner.png" alt="central-area" style="width:650px">](/events/curiocity-encounters-snf)   | Curiocity comes alive at night in the Bras Basah.Bugis precinct. Click [here](/events/curiocity-encounters-snf){:target="_blank"} to find out more.
