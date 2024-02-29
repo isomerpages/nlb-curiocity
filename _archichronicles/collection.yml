@@ -1,0 +1,7 @@
+collections:
+  archichronicles:
+    output: true
+    order:
+      - ArchiChronicles.md
+      - ArchiTimelines.md
+      - ArchiSnapShots.md

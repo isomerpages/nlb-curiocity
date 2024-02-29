@@ -1,0 +1,61 @@
+title: National Library Board
+description: Curiocity is a National Library Board (NLB) website that uses
+  digital storytelling tools to create content that tell interactive and
+  compelling stories about the history of places in Singapore.
+url: https://curiocity.nlb.gov.sg
+google_analytics: UA-50449401-25
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+resources_name: resource-room
+paginate: 12
+paginate_path: /resource-room/page:num
+favicon: /images/favicon-nlb.ico
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+colors:
+  primary-color: "#f43c18"
+  secondary-color: "#eb7044"
+  media-colors:
+    - title: media-color-one
+      color: "#db3615"
+    - title: media-color-two
+      color: "#c33013"
+    - title: media-color-three
+      color: "#aa2a10"
+    - title: media-color-four
+      color: "#92240e"
+    - title: media-color-five
+      color: "#791e0c"
+staging: https://staging.d12jjk4dxc46e9.amplifyapp.com/
+prod: https://master.d12jjk4dxc46e9.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics_ga4: G-PDYL83VK21
+linkedin-insights: ""

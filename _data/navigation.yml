@@ -1,0 +1,44 @@
+logo: /images/logo-curiocity-new-1.png
+links:
+  - title: Story Maps
+    url: /story-maps/explore
+    sublinks:
+      - title: Central Area
+        url: /story-maps/central-area
+      - title: Historic Districts
+        url: /story-maps/historic-districts
+      - title: The Heartland
+        url: /story-maps/heartland
+      - title: Green and Blue
+        url: /story-maps/green-and-blue
+  - title: Digital Stories
+    url: /digital-stories/introduction
+    sublinks:
+      - title: Jurong
+        url: /digital-stories/jurong/intro/
+      - title: Fort Canning Hill
+        url: /digital-stories/fort-canning-hill/intro/
+      - title: Bras Basah
+        url: /digital-stories/bras-basah/bb-intro/
+  - title: ArchiChronicles
+    url: /archichronicles/introduction
+    sublinks:
+      - title: ArchiTimelines
+        url: /archichronicles/architimelines
+      - title: ArchiSnapShots
+        url: /archichronicles/archisnapshots
+  - title: Events
+    url: /events/overview
+    sublinks:
+      - title: "Glue: Curiocity"
+        url: /events/glue-curiocity/introduction/
+      - title: "Curiocity Encounters: SNF 2022"
+        url: /events/curiocity-encounters-snf
+      - title: "Curiocity: Places&Perspectives"
+        url: /events/curiocity-showcase-2022
+      - title: Curiocity Treasure Hunt
+        url: /events/curiocity-treasure-hunt/introduction
+  - title: Research Resources
+    url: /research-resources/
+  - title: About Us
+    url: /about/
