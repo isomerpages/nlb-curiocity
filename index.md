@@ -21,7 +21,7 @@ sections:
         - title: Discover architectural history
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
-      variant: image
+      variant: center
   - infopic:
       title: Swampland to Tech Metropolis
       subtitle: Digital Story
