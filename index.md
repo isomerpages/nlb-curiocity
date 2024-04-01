@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/Events/glue_website_banner_1.png
+      background: /images/Jurongdigital/jurong_banner_1.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -23,16 +23,6 @@ sections:
           url: /archichronicles/introduction/
       variant: image
   - infopic:
-      title: "Glue: Curiocity"
-      subtitle: Event
-      id: infopic
-      description: "Explore and discover hidden gems of history, stories, and even
-        good eats of Jurong and Harbourfront with Glue: Curiocity."
-      button: Click here to find out more
-      url: /events/glue-curiocity/introduction/
-      image: /images/Events/Glue_Website_Annoucement.png
-      alt: Image alt text
-  - infopic:
       title: Swampland to Tech Metropolis
       subtitle: Digital Story
       id: infopic
@@ -42,6 +32,16 @@ sections:
       url: /digital-stories/jurong/intro/
       image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
       alt: Chinese Garden Aerial
+  - infopic:
+      title: "Glue: Curiocity"
+      subtitle: Event
+      id: infopic
+      description: "Explore and discover hidden gems of history, stories, and even
+        good eats of Jurong and Harbourfront with Glue: Curiocity."
+      button: Click here to find out more
+      url: /events/glue-curiocity/introduction/
+      image: /images/Events/Glue_Website_Annoucement.png
+      alt: Image alt text
   - infopic:
       title: HarbourFront
       subtitle: Story Map
