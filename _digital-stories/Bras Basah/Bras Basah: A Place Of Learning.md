@@ -62,7 +62,7 @@ ____
 |  | 
 | :--------: | 
 | ![Alt text for image on Isomer site](/images/bb-bookstores-2.jpg) |
-| The students who visited these bookstores such as Modern Book Store and National Book Store were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Image Credit: [From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://eresources.nlb.gov.sg/pictures/Details/eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"})   |
+| The students who visited these bookstores such as Modern Book Store and National Book Store were not only from nearby schools such as Raffles Institution, Convent of the Holy Infant Jesus and St Joseph’s Institution, but also other parts of Singapore. (Image Credit: [All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009](https://www.nlb.gov.sg/main/image-detail?cmsuuid=eb98e4fc-9fc0-4d03-b7b6-a134eb556aa3){:target="_blank"})   |
 |  ![Alt text for image on Isomer site](/images/bb-bookstores-3.jpg)  |
 |  Besides students, the general public was also drawn to the area for its affordable books and stationery, allowing Bras Basah to cement its reputation as the city of books. (Image Credit: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/aa31c292-1162-11e3-83d5-0050568939ad){:target="_blank"})     |
 
