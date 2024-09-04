@@ -8,7 +8,7 @@ The National Library and National Archives of Singapore have over 10,000 maps an
 
 <table class="table-v">
   <tbody><tr>
-    <td><img src="/images/logo-picturesg.png" alt="PictureSG"></td>
+    <td><img src="/images/logo_nlb.png" alt="PictureSG"></td>
     <td>
 		<strong><a href="https://www.nlb.gov.sg/main/nlonline" target="_blank">NL Online</a></strong><br>
 		NL Online enables you to search the digitised collections of the National Library, Singapore. By using the database, you can find photographs, maps, newspapers, ephemera, music albums, audiovisual materials, manuscripts, documents and articles.
