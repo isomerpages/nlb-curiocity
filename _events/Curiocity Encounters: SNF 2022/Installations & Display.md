@@ -21,7 +21,7 @@ variant: markdown
 </style>
 
 ## **Installations**
-Explore Curiocity installations in the Bras Basah.Bugis precinct during the [Singapore Night Festival 2022](https://www.nightfestival.gov.sg){:target="_blank"}! See our history comes alive through new creative works by artists based in Singapore.
+Explore Curiocity installations in the Bras Basah.Bugis precinct during the Singapore Night Festival 2022! See our history comes alive through new creative works by artists based in Singapore.
 
 The installations are co-presented by the National Heritage Board (NHB) and National Library Board (NLB) as part of Singapore Night Festival and Curiocity, to discover hidden stories and facets of Singapore's past from the National Library and the National Archives of Singapore collections. #SGStoryTellers
 <br>
@@ -65,10 +65,10 @@ ___
 
 Conveying the value of&nbsp;*bergotong-royong* &nbsp;(Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional&nbsp;*kampung*&nbsp; house, signifying shelter and safety as our community slowly transitions into “the new normal”.
 
-Creating an atmospheric auditory experience is an accompanying [soundtrack](https://www.speakcryptic.com/an-ocean-without-the-anchor.html){:target="_blank"} featuring the sounds of the sea and&nbsp;*kampung*&nbsp; life drawn from SoundScapeSG and the National Archives of Singapore.
+Creating an atmospheric auditory experience is an accompanying soundtrack featuring the sounds of the sea and&nbsp;*kampung*&nbsp; life drawn from SoundScapeSG and the National Archives of Singapore.
 
 **About the artist:**
-<br>Farizwan Fajari, professionally known as [Speak Cryptic](https://www.speakcryptic.com){:target="_blank"}, is a Singapore-based artist. Endless manifestations of the self are a feature of his work, depicting identity in the form of texts and phrases extracted from punk lyrics and intricate patterns and figures. His drawings, paintings and installations stem from inquiries into ancestral migration, ethnic dislocation, gentrification and alternative subcultures. Fajari has participated in exhibitions such as the Koganecho Art Bazaar (Yokohama, Japan, 2018), the 1st Kuala Lumpur Biennale (2017), Secret Archipelago (Paris, France, 2015), the Singapore Biennale (2013) and Future Proof (Singapore, 2012).
+<br>Farizwan Fajari, professionally known as Speak Cryptic is a Singapore-based artist. Endless manifestations of the self are a feature of his work, depicting identity in the form of texts and phrases extracted from punk lyrics and intricate patterns and figures. His drawings, paintings and installations stem from inquiries into ancestral migration, ethnic dislocation, gentrification and alternative subcultures. Fajari has participated in exhibitions such as the Koganecho Art Bazaar (Yokohama, Japan, 2018), the 1st Kuala Lumpur Biennale (2017), Secret Archipelago (Paris, France, 2015), the Singapore Biennale (2013) and Future Proof (Singapore, 2012).
 
 **Learn more:**
 <br>To find out more about the development of Bugis, check out [Becoming Bras Basah Bugis](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/conclude-bb){:target="_blank"} in Curiocity's Bras Basah digital story or watch this [episode](https://youtu.be/7u8uNHRJ1HM){:target="_blank"} of The Library Report.
@@ -90,7 +90,7 @@ ___
 Follow the text running along the clusters of rice paddy to trace the story of Bras Basah (which means “wet rice” in Malay) – from its agricultural roots to its history of redevelopment over the years. These quotes are extracted from poems (including “Bras Basah 1953” by Singapore poet Edwin Thumboo) and articles found in the collections of the National Archives of Singapore and National Library.
 
 **About the collective:**
-<br>[FARM](https://www.farm.sg){:target="_blank"} is a cross-disciplinary company spanning design, architecture, arts and research. The company seeks to cultivate a culture of imagination, endeavouring to share the delight and joyful creativity that underpins all human action. Since 2005, FARM has worked on community projects which promote the arts and has organised national public art competitions and events. In 2007, FARM established its cross-disciplinary design arm, and has since embarked on diverse collaborations with artists and designers. These include architecture and interior design, product design and merchandising, graphic design and branding, art installation and sculpture, exhibition design and curatorial work.
+<br>FARM is a cross-disciplinary company spanning design, architecture, arts and research. The company seeks to cultivate a culture of imagination, endeavouring to share the delight and joyful creativity that underpins all human action. Since 2005, FARM has worked on community projects which promote the arts and has organised national public art competitions and events. In 2007, FARM established its cross-disciplinary design arm, and has since embarked on diverse collaborations with artists and designers. These include architecture and interior design, product design and merchandising, graphic design and branding, art installation and sculpture, exhibition design and curatorial work.
 
 **Learn more:**
 <br>Wish to discover the history of Bras Basah? Explore [Bras Basah In Early Maps, Paintings and Postcards](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/bb-early){:target="_blank"} via Curiocity's Bras Basah digital story.
