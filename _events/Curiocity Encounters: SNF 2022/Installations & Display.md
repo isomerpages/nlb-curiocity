@@ -3,6 +3,7 @@ permalink: /events/curiocity-encounters-snf/installations/
 description: ""
 third_nav_title: "Curiocity Encounters: SNF 2022"
 title: Installations & Display
+variant: markdown
 ---
 <style type="text/css">
 	/* Click Box */
@@ -60,11 +61,11 @@ ___
 <br>**Outside Raffles City** (facing Capitol)
 
 **About the installation:**
-<br>*An Ocean Without the Anchor*  is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers. 
+<br>*An Ocean Without the Anchor*&nbsp; is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers.&nbsp;
 
-Conveying the value of *bergotong-royong*  (Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional *kampung*  house, signifying shelter and safety as our community slowly transitions into “the new normal”.
+Conveying the value of&nbsp;*bergotong-royong* &nbsp;(Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional&nbsp;*kampung*&nbsp; house, signifying shelter and safety as our community slowly transitions into “the new normal”.
 
-Creating an atmospheric auditory experience is an accompanying [soundtrack](https://www.speakcryptic.com/an-ocean-without-the-anchor.html){:target="_blank"} featuring the sounds of the sea and *kampung*  life drawn from SoundScapeSG and the National Archives of Singapore.
+Creating an atmospheric auditory experience is an accompanying [soundtrack](https://www.speakcryptic.com/an-ocean-without-the-anchor.html){:target="_blank"} featuring the sounds of the sea and&nbsp;*kampung*&nbsp; life drawn from SoundScapeSG and the National Archives of Singapore.
 
 **About the artist:**
 <br>Farizwan Fajari, professionally known as [Speak Cryptic](https://www.speakcryptic.com){:target="_blank"}, is a Singapore-based artist. Endless manifestations of the self are a feature of his work, depicting identity in the form of texts and phrases extracted from punk lyrics and intricate patterns and figures. His drawings, paintings and installations stem from inquiries into ancestral migration, ethnic dislocation, gentrification and alternative subcultures. Fajari has participated in exhibitions such as the Koganecho Art Bazaar (Yokohama, Japan, 2018), the 1st Kuala Lumpur Biennale (2017), Secret Archipelago (Paris, France, 2015), the Singapore Biennale (2013) and Future Proof (Singapore, 2012).
@@ -84,7 +85,7 @@ ___
 <br>**Stamford Walkway** (along Stamford Road, opposite Capitol)
 
 **About the installation:**
-<br>*Paddy Fields*  recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
+<br>*Paddy Fields* &nbsp;recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
 
 Follow the text running along the clusters of rice paddy to trace the story of Bras Basah (which means “wet rice” in Malay) – from its agricultural roots to its history of redevelopment over the years. These quotes are extracted from poems (including “Bras Basah 1953” by Singapore poet Edwin Thumboo) and articles found in the collections of the National Archives of Singapore and National Library.
 
@@ -106,10 +107,10 @@ ___
 <br>**National Archives Building** 
 
 **About the installation:**
-<br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions, *Midnight Show at the Capitol*  lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
+<br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions,&nbsp;*Midnight Show at the Capitol* &nbsp;lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
 
 **About the artist:**
-<br>If you are not already familiar with his work, [MOJOKO](https://mojoko.net){:target="_blank"}  is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of EYEYAH! Magazine, he hopes to share this creativity to inspire the next generation of artists.
+<br>If you are not already familiar with his work, MOJOKO is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of&nbsp;EYEYAH!&nbsp;Magazine, he hopes to share this creativity to inspire the next generation of artists.
 
 **Learn more:**
 <br>Check out [Bras Basah: A Place For Entertainment](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/bb-cinemas){:target="_blank"} in Curiocity's Bras Basah digital story to revisit the seven most iconic cinemas in the area.
@@ -118,8 +119,8 @@ ___
 
 ## **Display**
 ![Alt text for image on Isomer site](/images/NASdisplay_Overallview2.png)
-#### **Curiocity: Sights & Stories**
+#### **Curiocity: Sights &amp; Stories**
 **19 August – 27 August 2022**
-<br>**10 am – 9 pm (except 19, 20, 21, 26 & 27 August: 10 pm – 12am)**
+<br>**10 am – 9 pm (except 19, 20, 21, 26 &amp; 27 August: 10 pm – 12am)**
 <br>**National Archives Building, Atrium, Level 3** 
 <br>Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
