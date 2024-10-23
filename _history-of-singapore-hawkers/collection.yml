@@ -2,5 +2,5 @@ collections:
   history-of-singapore-hawkers:
     output: true
     order:
-      - "From Streets to Shelters: Hawkers during the Colonial Period.md"
       - Introduction.md
+      - "From Streets to Shelters: Hawkers during the Colonial Period.md"
