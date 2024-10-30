@@ -70,7 +70,7 @@ The first hawker shelter was built in 1922 at Finlayson Green to house street ha
 
 ----
 
-### **The Hawker Question Persists**
+### **The "Hawker Question" Persists**
 
 In April 1950, a 10-member Hawker Inquiry Commission was formed to address the social, economic, and health challenges posed by unlicensed street hawkers. The commission’s final report, released in September 1950 recommended new policies, including a licensing scheme to regulate hawkers, manage their operating areas, and ensure better hygiene. Cooked-food hawkers were also required to undergo medical examinations and vaccinations. However, the commission recognised that hawking was a legitimate form of employment that provided affordable food for the working class, rather than a public nuisance.
 
