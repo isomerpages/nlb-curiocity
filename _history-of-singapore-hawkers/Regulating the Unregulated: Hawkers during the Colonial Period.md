@@ -21,6 +21,15 @@ As early as the mid-19th century, there were already many street hawkers making 
 | ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
 | In the suburbs, hawkers brought food and other essentials right to residents' doorsteps, adding convenience to daily life. These traveling vendors followed regular routes, and their customers were familiar with their schedules. To announce their arrival, hawkers often used sound makers like bamboo sticks or bells. (Image Credit: [Derek Lehrle Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9e70d07a-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">These early schools of Bras Basah are among Singapore’s oldest and most prestigious education institutions. However, most of them have out of the area by the early 1980s. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below the former principal of Raffles Institution (1986-1994) Eugene Wijeysingha's explanation why these schools were relocated. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/de38d4b8-115f-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"From as early as the 1930s, the building in Bras Basah was already beginning to show signs of serious wear and tear. Leaking, threatening also [to collapse]. One block had to be pulled down because it posed a serious threat to the safety of people. It was then an issue of whether to re-build on the existing site or move elsewhere. I am quite sure that the decision to move was part and parcel of the whole process of urban renewal. There must have been talk even then of expanding the business district. And that was quite a valuable piece of land. Even then, the town planners must have seen a point in our development when all the schools located in the city centre would have to move out. That actually has happened. RGS [Raffles Girls’ School), Consent of The Holy Jesus, Catholic High School [and] St Joseph’s Institution [have all moved out]. This must have been part of the whole process." </span>
+	
+</details>
+
 ----
 
 ### **Hawker Food and Ethnicity**
