@@ -73,3 +73,8 @@ The first hawker shelter was built in 1922 at Finlayson Green to house street ha
 ### **Revisiting the Hawker Question**
 
 In April 1950, a 10-member Hawker Inquiry Commission was formed to address the social, economic, and health challenges posed by unlicensed street hawkers. The commission’s final report, released in September 1950 recommended new policies, including a licensing scheme to regulate hawkers, manage their operating areas, and ensure better hygiene. Cooked-food hawkers were also required to undergo medical examinations and vaccinations. However, the commission recognised that hawking was a legitimate form of employment that provided affordable food for the working class, rather than a public nuisance.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
+| One of the more notable hawkers’ shelters before the war was located at People's Park, a public park near Pearl's Hill in Chinatown.  Established in 1923, it quickly gained popularity, and by 1930, it was expanded to include a market to become a market-cum-hawkers shelter. The People’s Park Market (or Pearl’s Market), as it called then, continued to grow, and by 1940, it over 300 stalls, making it the largest in Singapore at the time. However, in December 1966, a devastating fire destroyed 186 stalls and shops, causing over a million dollars in damages. This event hastened the government’s urban renewal plans, leading to the rebuilding of the People's Park Market into the People's Park Complex across the street. (Image Credit: [Wong Kwan Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b3cf04f5-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
