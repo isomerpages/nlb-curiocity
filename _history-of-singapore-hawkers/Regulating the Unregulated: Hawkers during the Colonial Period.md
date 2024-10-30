@@ -53,8 +53,6 @@ _____
 	
 </details>
 
-_____
-
 ----
 
 ### **The Hawker Question**
@@ -88,6 +86,15 @@ The first hawker shelter was built in 1922 at Finlayson Green to house street ha
 | The building of hawker shelters reduced the total number of unlicensed roadside hawkers from 11,249 in 1919 to 5,513 in 1929. But in reality, little progress was made in tackling hawker issue as the efforts during the prewar years were summed up by the municipality as “a vain hope” as major roads in the town were still cluttered with unlicensed hawkers. By 1950, due to the lack of a decisive policy against unlicensed hawkers as well as the high unemployment rate during the postwar years, the number of such hawkers ballooned to 20,000, thus magnifying the various problems with them and once again led to calls for their complete eradication from the streets. (Image Credit: [A J Hawker Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cfe5e2e9-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 ----
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Like the cinemas today, Cathay Cinema during the 1960s and 1970s was frequented by students, especially those from Raffles Institution, St. Jospeh's Institution and Raffles' Girls School when these schools were still located in Bras Basah. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below Michael Lim's, a former student from St Jospeh's Institution, recollection of those days. (Source: <a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000704-1.2.88.2.8" target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Whenever the weather was hot, we would skip school and sneak into Cathay, which was one of the few places in town with air-conditioning…You can tell who went to the movies by the ice-cream stains on their shirts. Our teachers used to catch us that way. Actually, they themselves snuck off to the movies in the afternoons. I remember seeing a couple of them in the back row once. Maybe they were there to bust us."</span>
+	
+</details>
+
+---
 
 ### **The "Hawker Question" Persists**
 
