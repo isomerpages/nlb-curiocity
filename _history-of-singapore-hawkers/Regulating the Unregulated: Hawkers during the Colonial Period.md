@@ -70,6 +70,15 @@ The presence of roadside hawkers, combined with their poor hygiene practices, po
 
 ----
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">How could moving hawkers from the streets to shelters improve hygiene? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to the Municipal Commission's explanation. (Source: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190303-1.2.12" target="_blank">NewspaperSG</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"This provision of hawkers’ shelters should be extended, and many others set apart in the town. The convenience to the large body of clerks and tambies who work in the town by day and trust to the food hawkers for their mid-day meals, and often for others, added to the greater cleanliness, would at least do something to mitigate the present evil practice of squatting in the five-foot way, in close proximity to a drain, and there consuming eatables that have been dressed and cooked in the dust-laden air, carried about openly to be infected by any air borne disease germ or filth, and then consumed under such unappetising and dangerous to health conditions. There already exist several small areas where food stalls are set up…We would like to see the number of these increased…and many plain sheds built, with a supply of clean water provided. Nothing in the way of a permanency should be allowed to be in the eating shed, and during the night, the clear concrete floor should be swept and washed down ready for the next day’s ingress of hawkers. The conditions of eating even then would not be ideal, but they would be far better than at present."</span>
+	
+</details>
+
+---
+
 ### **Hawker Shelters**
 
 The first hawker shelter was built in 1922 at Finlayson Green to house street hawkers in the area. Over the next few decades, more shelters were built in places like People’s Park (1923), Carnie Street (1929), Queen Street (1929), Balestier Road (1929), Lim Tua Tow (1955), Tiong Bahru (1952), and the Esplanade (1952). These shelters were basic structures with a roof and proper flooring. The aim was to provide diners with a proper place to eat and give hawkers a designated, sheltered space where they could set up stalls, access clean water, prepare food, and wash utensils. By moving hawkers into these shelters, the authorities could take them off the streets and manage hygiene more effectively through regular cleaning.
@@ -88,7 +97,7 @@ The first hawker shelter was built in 1922 at Finlayson Green to house street ha
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">How could moving hawkers from the streets to shelters improve hygiene?. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to the Municipal Commission's explanation. (Source: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190303-1.2.12" target="_blank">NewspaperSG</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">How could moving hawkers from the streets to shelters improve hygiene? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to the Municipal Commission's explanation. (Source: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190303-1.2.12" target="_blank">NewspaperSG</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"This provision of hawkers’ shelters should be extended, and many others set apart in the town. The convenience to the large body of clerks and tambies who work in the town by day and trust to the food hawkers for their mid-day meals, and often for others, added to the greater cleanliness, would at least do something to mitigate the present evil practice of squatting in the five-foot way, in close proximity to a drain, and there consuming eatables that have been dressed and cooked in the dust-laden air, carried about openly to be infected by any air borne disease germ or filth, and then consumed under such unappetising and dangerous to health conditions. There already exist several small areas where food stalls are set up…We would like to see the number of these increased…and many plain sheds built, with a supply of clean water provided. Nothing in the way of a permanency should be allowed to be in the eating shed, and during the night, the clear concrete floor should be swept and washed down ready for the next day’s ingress of hawkers. The conditions of eating even then would not be ideal, but they would be far better than at present."</span>
 	
