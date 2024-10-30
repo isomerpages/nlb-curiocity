@@ -26,7 +26,7 @@ _______
 <details>
 <summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before the days of hawker centres, businessman Foo Kee Seng recalls the travelling hawkers and how they sold food and produce to the residents of Katong during the pre-war years. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/49fa9ce1-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
 <br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The hawker, they sell the food with two baskets with a bamboo pole. One in front, one at the back. That is our eating shops. And you can be sure they are far in between. We have no need for hawker shops. But they still come around. And you know what’s our market? We have no market. Our market is again the hawker market. He comes round with two baskets of vegetables and fruit and whatever." </span>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The hawker, they sell the food with two baskets with a bamboo pole. One in front, one at the back. That is our eating shop...And you know what’s our market? We have no market. Our market is again the hawker market. He comes round with two baskets of vegetables and fruit and whatever." </span>
 	
 </details>
 
