@@ -21,6 +21,16 @@ As early as the mid-19th century, there were already many street hawkers making 
 | ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
 | In the suburbs, hawkers brought food and other essentials right to residents' doorsteps, adding convenience to daily life. These traveling vendors followed regular routes, and their customers were familiar with their schedules. To announce their arrival, hawkers often used sound makers like bamboo sticks or bells. (Image Credit: [Derek Lehrle Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9e70d07a-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+_____
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert &amp; Co. engaging in it. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
+	
+</details>
+
+_____
+
 ----
 
 ### **Hawker Food and Ethnicity**
