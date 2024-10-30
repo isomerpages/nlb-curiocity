@@ -23,7 +23,7 @@ As early as the mid-19th century, there were already many street hawkers making 
 
 ----
 
-### **Melting Pot of Food and Identity**
+### **Hawker Food and Ethnicity**
 
 The diverse communities of Singapore played a major role in shaping the city’s hawker culture. Each group brought its own unique flavours, trades, and traditions to the streets, creating a vibrant tapestry of hawkers that catered to all.
 
