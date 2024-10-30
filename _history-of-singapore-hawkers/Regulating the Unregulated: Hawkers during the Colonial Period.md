@@ -26,3 +26,8 @@ As early as the mid-19th century, there were already many street hawkers making 
 ### **Melting Pot of Food and Identity**
 
 The diverse communities of Singapore played a major role in shaping the city’s hawker culture. Each group brought its own unique flavours, trades, and traditions to the streets, creating a vibrant tapestry of hawkers that catered to all.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
+| The Hokkiens were the largest group of Chinese hawkers and could be found throughout the city, especially in Chinatown. They typically sold coffee and cooked food, while some vegetables they grew. The Teochews, on the other hand, made up about a quarter of the Chinese hawkers, selling cooked food, fresh fish, and pork, but they were especially known for selling fruits and vegetables. They operated as a network of wholesalers and peddlers, dominating the fruit and vegetable trade between China and Singapore. They even had their own association, headquartered near Ellenborough Market. (Image Credit: [Wong Kwan Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/b3fc288a-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
