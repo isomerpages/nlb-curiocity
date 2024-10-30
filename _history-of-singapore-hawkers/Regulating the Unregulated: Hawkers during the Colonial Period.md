@@ -21,16 +21,6 @@ As early as the mid-19th century, there were already many street hawkers making 
 | ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
 | In the suburbs, hawkers brought food and other essentials right to residents' doorsteps, adding convenience to daily life. These traveling vendors followed regular routes, and their customers were familiar with their schedules. To announce their arrival, hawkers often used sound makers like bamboo sticks or bells. (Image Credit: [Derek Lehrle Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9e70d07a-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
-_____
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The hawker scene during the colonial period was as equally bustling as it is today as diners were greeted by rows of stalls selling an endless selection of tasty and affordable local foods ranging from Malay&nbsp; kueh&nbsp;(cakes) to Chinese dishes. John Cameron in <span style="font-style: italic;">Our Tropical Possessions in Malayan India</span> (1865) (<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58" target="_blank">Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal more. <span style="font-style: italic;"></span></span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"There is probably no city in the world with such a motley crowd of itinerant vendors of wares, fruits, cakes, vegetables. There are Malays, generally with fruit, Chinamen with a mixture of all sorts, and Klings with cakes and different kinds of nuts. Malays and Chinamen always use the shoulder-stick, having equally-balanced loads suspended at either end; the Klings, on the contrary, carry their wares on the head on trays. The travelling cook shops of the Chinese are probably the most extraordinary of the things that are carried about this way. They are suspended on one of the common shoulder-sticks, and consist of a box on one side and a basket on the other, the former containing a fire and small copper cauldron for soup, the latter loaded with rice, vermicelli, cakes, jellies, and condiments."</span>
-	
-</details>
-
-_____
-
 ----
 
 ### **Hawker Food and Ethnicity**
@@ -45,6 +35,16 @@ The diverse communities of Singapore played a major role in shaping the city’s
 | Cantonese hawkers were mainly found in areas like People’s Park, Kreta Ayer, and Jalan Besar, selling a range of goods such as food, vegetables, clothes, toys, and cigarettes. They also controlled the supply of vegetables from farms in Balestier, as well as durians and mangosteens from Malaya. The Hockchias and Hockchius mainly ran night stalls along Queen Street and Johore Road, where many rickshaw pullers lived. They were well-organised and had their own association, the Hockchia Coffee Stall Keepers Guild, which regulated their trade. The Shanghainese were mainly itinerant traders, buying silk from Chinese ports and selling it in markets across Singapore, Indonesia, and India. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/332fa613-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
 | Malay and Javanese hawkers were mostly found in the small lanes around Middle Road, selling satay, curios, and cloth. Indian food hawkers were common at street corners, near schools, football fields, and toddy shops during midday and tiffin hours. They sold snacks and drinks like Indian rojak, mee goreng, vadai, muruku, kachang puteh, goat’s milk, and yoghurt. North Indian Muslim hawkers were known for their tea, ginger water, and buns, which they carried in tall tin cans. One of the most popular with schoolchildren was the ice-water seller, who sold ice balls coated with syrup. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ad9ea143-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+_____
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The multi-ethnicity of Singapore's local hawker scene is not something recent but has been going on since the early colonial period. This is vividly captured by John Cameron in <span style="font-style: italic;">Our Tropical Possessions in Malayan India</span> (1865) (<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58" target="_blank">Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G</a>). Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out. <span style="font-style: italic;"></span></span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"There is probably no city in the world with such a motley crowd of itinerant vendors of wares, fruits, cakes, vegetables. There are Malays, generally with fruit, Chinamen with a mixture of all sorts, and Klings with cakes and different kinds of nuts. Malays and Chinamen always use the shoulder-stick, having equally-balanced loads suspended at either end; the Klings, on the contrary, carry their wares on the head on trays. The travelling cook shops of the Chinese are probably the most extraordinary of the things that are carried about this way. They are suspended on one of the common shoulder-sticks, and consist of a box on one side and a basket on the other, the former containing a fire and small copper cauldron for soup, the latter loaded with rice, vermicelli, cakes, jellies, and condiments."</span>
+	
+</details>
+
+_____
 
 ----
 
