@@ -20,3 +20,9 @@ As early as the mid-19th century, there were already many street hawkers making 
 | Hawkers transported their goods in a variety of ways. Some walked through the streets carrying baskets on a shoulder pole or balancing trays on their heads. Others used barrows, bicycles, tricycles, or carts equipped with cooking tools. Soup noodle carts, for example, were designed with glass compartments to display ingredients and a cauldron with sections for soup and boiling water. Hawkers would sometimes set up at busy spots to attract more customers. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/95adbfc5-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/hawkers-colonial-sample-1.jpg)|
 | In the suburbs, hawkers brought food and other essentials right to residents' doorsteps, adding convenience to daily life. These traveling vendors followed regular routes, and their customers were familiar with their schedules. To announce their arrival, hawkers often used sound makers like bamboo sticks or bells. (Image Credit: [Derek Lehrle Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/9e70d07a-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+### **Melting Pot of Food and Identity**
+
+The diverse communities of Singapore played a major role in shaping the city’s hawker culture. Each group brought its own unique flavours, trades, and traditions to the streets, creating a vibrant tapestry of hawkers that catered to all.
