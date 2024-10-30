@@ -2,5 +2,6 @@ collections:
   history-of-singapore-hawkers:
     output: true
     order:
+      - Hawkers during the Colonial Period.md
       - Introduction.md
       - "Regulating the Unregulated: Hawkers during the Colonial Period.md"
