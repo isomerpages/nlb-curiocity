@@ -40,7 +40,7 @@ The diverse communities of Singapore played a major role in shaping the city’s
 
 ### **The Hawker Question**
 
-The diverse communities of Singapore played a major role in shaping the city’s hawker culture. Each group brought its own unique flavours, trades, and traditions to the streets, creating a vibrant tapestry of hawkers that catered to all.
+The presence of roadside hawkers, combined with their poor hygiene practices, posed significant challenges to the health and safety of road users, pedestrians, and diners. While the authorities aimed to regulate hawkers to address these issues, they faced the difficult balance of disrupting the hawkers’ livelihoods and limiting the public's access to affordable food — proving that the “Hawker Question”, as the colonial authorities called it, was not easy to resolve.
 
 |   | 
 |:--------:| 
