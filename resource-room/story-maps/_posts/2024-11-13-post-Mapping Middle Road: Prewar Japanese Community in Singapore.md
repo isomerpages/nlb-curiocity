@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-middle-road-japan-sample-1.jpg)](https://go.gov.sg/29l0b1)
+[![Alt text for image on Isomer site](/images/storymap-image-middle-road-japan-sample-1.jpg)](https://go.gov.sg/mdrdjp)
 
 Jurong was transformed during the nation-building years into Singapore’s first industrial estate. This was part of the government’s plan to generate mass employment through industrialisation. Once a swampland, Jurong rapidly developed into a self-sufficient new town with housing, social and leisure amenities. Today, Jurong has embarked on its latest phase of redevelopment as the largest commercial and regional hub outside Singapore’s city centre. 
 Discover some of its iconic landmarks past and present in this story map.
