@@ -11,7 +11,7 @@ variant: markdown
 
 A small Japanese community began forming in the area around Middle Road in the 1880s and 1890s. The core of this community were the *karayuki-san*, Japanese prostitutes who worked in a red-light district around Malay Street, Malabar Street, and Hylam Street (present-day Bugis Junction). Various shops like the clothier Echigoya and services like the clinic of Dr. Nishimura Takeshiro that catered to the *karayuki-san* were established near Middle Road. As they community grew, they were followed by new institutions such as the Toyo Hotel, the Harima Hall cinema, and the Japanese Association. Particularly after 1910, when many Japanese firms established offices in the present-day CBD, the impact of the Japanese community could also be seen well beyond Middle Road. 
 
-In this story map you can learn about how Japanese individuals and institutions lived and worked alongside the other communities of colonial Singapore, as well as the isolation of this community in the late 1930s as a result of Japanese aggression in Asia.
+In this story map, you can learn about how Japanese individuals and institutions lived and worked alongside the other communities of colonial Singapore, as well as the isolation of this community in the late 1930s as a result of Japanese aggression in Asia.
 
 View the story map in [full screen](https://go.gov.sg/mdrdjp){:target="_blank"} or on your mobile device by scanning the QR code below.
 
