@@ -20,7 +20,7 @@ Notes:
 
 1. This story map is based on research conducted under a Heritage Research Grant from the National Heritage Board of Singapore.
 
-2. Information on this map is based on a variety of sources, including several pre-WWII Japanese-language books on Southeast Asia that can be found digitally through the [National Diet Library (Japan)](https://www.ndl.go.jp/en/). A full reference list for this story map can be found here \[link to our pdf\].
+2. Information on this map is based on a variety of sources, including several pre-WWII Japanese-language books on Southeast Asia that can be found digitally through the [National Diet Library (Japan)](https://www.ndl.go.jp/en/). A full reference list for this story map can be found here [](/files/Mapping_Middle_Road_Full_Reference_List.pdf).
 
 3. This story map used related articles in [Infopedia](https://www.nlb.gov.sg/main/onesearch/result?type=infopedia&amp;nlonline=true), [BiblioAsia](https://biblioasia.nlb.gov.sg/), [Roots](https://www.roots.gov.sg/) and the collections of the [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/) as references. Volumes held by Singaporean libraries consulted for this project include: [Postcard Impressions of Early 20th-Century Singapore: Perspective from the Japanese Community](https://catalogue.nlb.gov.sg/search/card?recordId=204353382) (2020), [Prewar Japanese Community in Singapore: Picture and Record, Revised Edition](https://catalogue.nlb.gov.sg/search/card?recordId=13048775) (2004); and [Sekido o Yuku: Shingaporu An’nai](https://digitalgems.nus.edu.sg/view/53623) (1939).
 
