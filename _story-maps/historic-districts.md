@@ -1,6 +1,7 @@
 ---
 title: Historic Districts
 permalink: /story-maps/historic-districts/
+variant: markdown
 ---
 The Historic Districts of Chinatown, Kampong Glam, Little India and Boat Quay are historically significant and culturally rich localities. Characterised by predominantly two- and three-storey shophouses ranging from the Early Shophouse Style to the Art Deco Shophouse Style, they are places where we can not only learn about our past, but also the different aspects of Singapore's evolving landscape.
 
@@ -22,6 +23,8 @@ ______
 
 [![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river-1.png)](/resource-room/story-maps/bridges-singapore-river)
 
+[![Alt text for image on Isomer site](/images/Storymaps/Middleroad/storymap_image_middle_road_japan_sample_1.jpg)](https://go.gov.sg/mdrdjp)
+
 _______
 
 <details>
@@ -34,6 +37,7 @@ _______
 <br>5. Little India photo by Zairon  [CC BY 4.0]
 <br>6. Little India streets photo by KimonBerlin [CC BY 2.0]
 <br>7. Singapore River bridges photo by William Cho [CC BY 2.0]
+<br>8. Mapping Middle Road photo courtesy of National Archives of Singapore
 </span>
 	
 </details>
