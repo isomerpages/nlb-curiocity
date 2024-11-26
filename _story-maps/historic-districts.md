@@ -39,7 +39,7 @@ _______
 <br>5. Little India photo by Zairon  [CC BY 4.0]
 <br>6. Little India streets photo by KimonBerlin [CC BY 2.0]
 <br>7. Singapore River bridges photo by William Cho [CC BY 2.0]
-<br>8. Mapping Middle Road photo courtesy of National Archives of Singapore
+<br>8. The Japanese Association Singapore Collection, courtesy of National Archives of Singapore
 </span>
 	
 </details>
