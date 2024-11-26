@@ -99,11 +99,11 @@ sections:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: Discover the history of Singapore's Japanese community around
-        Middle Road during the colonial period.
+      description: Discover the history of the Japanese community around Middle Road
+        during the colonial period.
       button: View the Story Map
       url: /mapping-middle-road-prewar-japanese-community-in-singapore/
-      image: /images/Storymaps/middle_road_1.jpg
+      image: /images/Storymaps/Middleroad/middle_road_2.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg
