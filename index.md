@@ -23,6 +23,16 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
+      title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
+      subtitle: Story Map
+      id: infopic
+      description: Discover the history of the Japanese community around Middle Road
+        during the colonial period.
+      button: View the Story Map
+      url: /mapping-middle-road-prewar-japanese-community-in-singapore/
+      image: /images/Storymaps/Middleroad/middle_road_2.jpg
+      alt: Image alt text
+  - infopic:
       title: Swampland to Tech Metropolis
       subtitle: Digital Story
       id: infopic
@@ -94,16 +104,6 @@ sections:
       button: View the Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Discover the history of the Japanese community around Middle Road
-        during the colonial period.
-      button: View the Story Map
-      url: /mapping-middle-road-prewar-japanese-community-in-singapore/
-      image: /images/Storymaps/Middleroad/middle_road_2.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg
