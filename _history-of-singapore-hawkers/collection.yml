@@ -1,0 +1,7 @@
+collections:
+  history-of-singapore-hawkers:
+    output: true
+    order:
+      - Introduction.md
+      - Hawkers during the Colonial Period.md
+      - Hawkers after Independence.md

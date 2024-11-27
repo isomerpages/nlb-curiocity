@@ -3,9 +3,8 @@ title: Bras Basah In Early Maps, Paintings and Postcards
 permalink: /digital-stories/bras-basah/bb-early/
 third_nav_title: Bras Basah
 description: ""
+variant: markdown
 ---
-
-
 ### **Early Bras Basah In Maps**
 
 Bras Basah is one of the oldest districts in Singapore. Situated within the European part of Stamford Raffles’s 1822 plan for the town of Singapore (also known as the Raffles Town Plan), it served as the suburb just outside of Commercial Square (now known as Raffles Place). Over the next two centuries, Bras Basah would flourish: schools were established, religious buildings and some of the finest colonial structures in Singapore were constructed.
@@ -52,13 +51,13 @@ During the 19th century, much of Singapore’s early growth and progress, includ
 | | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/painting-1.jpg) |
-| This 1837 lithograph, “View of Singapore from Government Hill”, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1837 lithograph, “View of Singapore from Government Hill”, by W. C. Smith shows the development of the town by the mid-1830s. On the left are buildings in Bras Basah which include the Armenian Church, Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints &amp; Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-3.jpg)|
-| This 1861 coloured lithograph by W. Gray provides a panoramic view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the right. Buildings including St Andrew’s Cathedral, Raffles Institution and others like the Court House can all be seen clearly. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1861 coloured lithograph by W. Gray provides a panoramic view of the town as seen from the harbour, from Telok Blangah on the left to Beach Road on the right. Buildings including St Andrew’s Cathedral, Raffles Institution and others like the Court House can all be seen clearly. (Image Source: [Singapore Through 19th Century Prints &amp; Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-4.jpg)|
-| This 1852 tinted lithograph by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St Andrew’s Church and Raffles Institution.  (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1852 tinted lithograph by Charles Walker Kinloch provides one of the clearest views of Bras Basah at the time including buildings such as St Andrew’s Church and Raffles Institution.  (Image Source: [Singapore Through 19th Century Prints &amp; Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-2.jpg)|
-| This 1846 coloured lithograph by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah (left). The buildings that can be seen are Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints & Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
+| This 1846 coloured lithograph by John Turnbull Thomson is known for its accurate portrayal of the town including Bras Basah (left). The buildings that can be seen are Raffles Institution and St Andrew’s Church. (Image Source: [Singapore Through 19th Century Prints &amp; Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13313091){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/painting-5.jpg)|
 | This 1851 oil painting is also by John Turnbull Thomson. It shows a view of the Padang from Scandal Point, the Saluting Battery situated at the edge of Connaught Drive, southeast of St Andrew’s Church whose spiral can be seen at the far right. (Image Credit: [Courtesy of the National Museum of Singapore, National Heritage Board](https://www.roots.gov.sg/Collection-Landing/listing/1052004){:target="_blank"})  |
 
@@ -93,7 +92,7 @@ The first postcard in the Straits Settlements was issued in 1879. However, it wa
 _____
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert & Co. engaging in it. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The postcard industry was a very profitable business in Singapore during the early 1900s with many well-known photography studios including G.R. Lambert &amp; Co. engaging in it. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below the studio’s turnover, as described in <span style="font-style: italic;">Twentieth Century Impressions of British Malaya</span> (1908). (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051" target="_blank">Call no.: RDTYS 959.52033 TWE</a>) </span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"Lambert has maintained a high reputation for artistic portraiture, and of landscapes they have one of the finest collections in the East, comprising about three thousand subjects relating to Siam, Singapore, Borneo, Malaya and China. An extensive trade is done in picture postcards, the turnover being about a quarter million cards a year. A large stock of apparatus is always kept in hand."</span>
 	
