@@ -25,7 +25,7 @@ ______
 
 [![Singapore-River-Bridges Story Map](/images/storymap-image-bridges-singapore-river-1.png)](/resource-room/story-maps/bridges-singapore-river)
 
-[![Alt text for image on Isomer site](/images/Storymaps/Middleroad/storymap_image_middle_road_japan_sample_1.jpg)](https://go.gov.sg/mdrdjp)
+[![Alt text for image on Isomer site](/images/Storymaps/Middleroad/storymap_image_middle_road_japan_sample_1.jpg)](/resource-room/story-maps/mapping-middle-road-prewar-japanese-community-in-singapore/)
 
 _______
 
