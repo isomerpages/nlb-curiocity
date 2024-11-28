@@ -31,6 +31,15 @@ _______
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_3_sample.jpg)|
 | A special squad was established to handle illegal hawkers, conducting street raids alongside auxiliary police officers to remove unlicensed vendors. Offenders were fined and then referred to the Ministry of Labour for job placement. With growing confidence from economic progress and job creation, the Hawkers Department stopped issuing new hawker licenses to able-bodied individuals, especially those under 40, to encourage them to pursue alternative employment opportunities. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ba906e36-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+_______
+
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The raiding of illegal hawkers was not an easy job for authorities as it involved threatening someone's livelihood. As a result, some hawkers would react aggressively to these raids as Philip Chew Peng Kia, who was a Public Health Inspector during the 1970s, remembered in his oral history interview on 26 April 1999. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out what he said. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/48426da9-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"I remember during raids in Boon Keng Road side…there are a lot of illegal hawkers [there] especially during lunch time. So we have to organise raids. Because they are in large numbers, they become brave, they’re not afraid of us. So we got to get police escort…just to see that we are not attacked by these people. We have to do a very fast job. The moment we reach there, of course they’ve got look-out, they saw us, they would disperse very fast. But somehow or rather there are a few slow hawkers who dd not run away in time…And when we came near them, some of them will fight with us and [become] very aggressive…[T]hey would not want us to seize their goods because it cost them money and their livelihood." </span>
+	
+</details>
+
 ----
 
 ### **Building Hawker Centres**
