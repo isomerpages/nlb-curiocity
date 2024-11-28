@@ -20,4 +20,13 @@ Following independence, the government tackled the hawker issue through measures
 | A special squad was established to handle illegal hawkers, conducting street raids alongside auxiliary police officers to remove unlicensed vendors. Offenders were fined and then referred to the Ministry of Labour for job placement. With growing confidence from economic progress and job creation, the Hawkers Department stopped issuing new hawker licenses to able-bodied individuals, especially those under 40, to encourage them to pursue alternative employment opportunities. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ba906e36-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 
+_______
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Before the days of hawker centres, businessman Foo Kee Seng recalls the travelling hawkers and how they sold food and produce to the residents of Katong during the pre-war years. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out. (Source: <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/49fa9ce1-115e-11e3-83d5-0050568939ad" target="_blank">National Archives of Singapore</a>)</span></summary>
+<br>
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The hawker, they sell the food with two baskets with a bamboo pole. One in front, one at the back. That is our eating shop...And you know what’s our market? We have no market. Our market is again the hawker market. He comes round with two baskets of vegetables and fruit and whatever." </span>
+	
+</details>
+
+----
