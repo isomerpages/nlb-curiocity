@@ -4,8 +4,6 @@ permalink: /hawkers-after-independence/
 variant: markdown
 description: ""
 ---
-
-
 ----
 
 ### **Licensing Hawkers**
@@ -14,5 +12,11 @@ Following independence, the government tackled the hawker issue through measures
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/colonial_1_sample.jpg)|
-| In the years following independence, the government’s efforts to tackle the hawker issue were spearheaded by Minister for Health Yong Nyuk Lin. Recognising that there was an urgent need to resolve the issue, Yong announced in December 1965 that the first step was to register all hawkers. In March 1966, the Ministry of Health (MOH) introduced the Hawkers' Code. Under the code, only Singaporeans could obtain a hawker licence, and hawkers were prohibited from operating on busy streets, in daytime car parks, near bus stops, schools, or other public buildings. The MOH's Hawkers Department conducted the registration over a period of time, and by 1969, the number of registered hawkers stood at around 24,000, much lower than the initial estimate. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
+| In the years following independence, the government’s efforts to tackle the hawker issue were spearheaded by Minister for Health Yong Nyuk Lin. Recognising that there was an urgent need to resolve the issue, Yong announced in December 1965 that the first step was to start licensing all hawkers and implement a Hawkers’ Code by early 1966. Under the code, only Singaporeans could obtain a hawker licence, and hawkers were prohibited from operating on busy streets, in daytime car parks, near bus stops, schools, or other public buildings. These measures allowed the government to ascertain that the number of street hawkers at the time stood at around 24,000, much lower than the initial estimation of close to 50,000 hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/c62c407f-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+
+
+
+
+
