@@ -67,12 +67,11 @@ _______
 
 ----
 
-### **Building Hawker Centres**
+### **Improving Hygiene Standards**
 
-During the 1970s, the Hawker Centres Development Committee and later the Ministry of Environment were task to spearhead the building of hawker centres and the relocation of street hawkers into such premises. Despite being a mammoth task, it was completed in 1986 which saw some 18,000 street hawkers being moved to more than 110 hawker centres across Singapore.
-
+Over the years, significant efforts were made to improve hygiene standards in hawker culture. Measures included the introduction of the Environmental Public Health Act in 1969, public health education campaigns in the 1970s and 1980s, and a stall grading system launched in 1998. These initiatives established stricter regulations, promoted food safety practices, and incentivized hawkers to maintain higher cleanliness standards, ensuring safer dining experiences for the public.
 
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
-| The Hawker Centres Development Committee was established in 1971 to oversee the creation of new hawker centres. They selected locations that were easily accessible to the public and offered good business potential for hawkers. To ensure affordability, rental fees at these centres were kept low so that hawkers would not need to increase their food prices after relocating. Among the first hawker centres built were the 110-stall Collyer Quay centre, the 80-stall Boat Quay centre, and the Yung Sheng Road hawker centre in Jurong. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
+| The newly constructed hawker centres were designed with proper facilities for food preparation and cooking to improve hygiene standards. In support of this, the Environmental Public Health Act was introduced in January 1969. This legislation established public health practices for the licensing and regulation of hawkers and food establishments. For example, stallholders were required to undergo medical examinations and immunizations. They also needed approval for any extensions or alterations to their stalls. Most importantly, they had to maintain cleanliness and ensure food was safely stored and prepared. Penalties for violations were increased, and public health regulations were strictly enforced. (Image Credit: [Ministry of the Environment, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/posters/record-details/a867e464-b57e-11e3-927b-0050568939ad){:target="_blank"}) |
