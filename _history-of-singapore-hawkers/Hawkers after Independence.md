@@ -91,3 +91,14 @@ _______
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
 | In 1998, a new grading system was introduced to indicate the cleanliness of each stall, replacing the demerit point system from the previous decade. Under this system, stalls are graded from "A" for excellence in cleanliness and food hygiene to "D" for below-average standards. The grading is based on various criteria, including housekeeping, cleanliness, food hygiene, and the personal hygiene habits of the hawkers. Stallholders are required to display their grades prominently, allowing the public to be informed about cleanliness levels. This initiative encouraged hawkers to maintain or improve their grades to attract customers. (Image Credit: [All rights reserved. Ministry of the Environment](https://www.nas.gov.sg/archivesonline/posters/record-details/a6744aed-b57e-11e3-927b-0050568939ad){:target="_blank"}) |
+
+----
+
+### **Next Generation Hawker Centres**
+
+To enhance aging hawker centres and preserve Singapore's hawker culture, the government introduced the Hawker Centres Upgrading Programme in 2001, focusing on improving facilities and heritage preservation. Efforts included renovations reflecting local history, such as East Coast Lagoon Food Village and Bedok Food Centre, as well as initiatives like training programmes, lower rentals, and succession schemes to support aspiring and retiring hawkers. More recently, modern hawker centres, such as Bukit Canberra, were built with eco-friendly features and improved infrastructure to serve both existing and new communities.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
+| The Hawker Centres Development Committee was established in 1971 to oversee the creation of new hawker centres. They selected locations that were easily accessible to the public and offered good business potential for hawkers. To ensure affordability, rental fees at these centres were kept low so that hawkers would not need to increase their food prices after relocating. Among the first hawker centres built were the 110-stall Collyer Quay centre, the 80-stall Boat Quay centre, and the Yung Sheng Road hawker centre in Jurong. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
