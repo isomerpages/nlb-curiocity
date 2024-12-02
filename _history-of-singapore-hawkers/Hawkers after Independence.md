@@ -66,3 +66,13 @@ _______
 </details>
 
 ----
+
+### **Building Hawker Centres**
+
+During the 1970s, the Hawker Centres Development Committee and later the Ministry of Environment were task to spearhead the building of hawker centres and the relocation of street hawkers into such premises. Despite being a mammoth task, it was completed in 1986 which saw some 18,000 street hawkers being moved to more than 110 hawker centres across Singapore.
+
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
+| The Hawker Centres Development Committee was established in 1971 to oversee the creation of new hawker centres. They selected locations that were easily accessible to the public and offered good business potential for hawkers. To ensure affordability, rental fees at these centres were kept low so that hawkers would not need to increase their food prices after relocating. Among the first hawker centres built were the 110-stall Collyer Quay centre, the 80-stall Boat Quay centre, and the Yung Sheng Road hawker centre in Jurong. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
