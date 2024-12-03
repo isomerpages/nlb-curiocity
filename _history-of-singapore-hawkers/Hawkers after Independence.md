@@ -114,7 +114,19 @@ _______
 	
 </details>
 
+---
+
+**Curious to learn more about how the Hawkers' Development Programme supports aspiring hawkers?**
+
+Watch the video to hear from participants Ken Chew and Steven Goh as they share their journey through the programme and their experiences moving on to manage their own stalls!
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Hq13TRxKce0?si=UP_N7oMvTDwHmFe5" height="315" width="560"></iframe>
+
+---
+
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_12.jpg)|
 | To further cement the government’s intention to preserve Singapore’s hawker culture, the National Environment Agency announced in 2015 that it would be building at least 10 hawker centres in the next 12 years. These would be located in new estates such as Canberra, or in existing ones that are relatively under-served, such as Bidadari, Sengkang, Choa Chu Kang, Bukit Panjang and Bukit Batok. These newer hawker centres’ design and infrastructure was made more conducive for the environment, featuring bigger stall sizes, wider aisles and the availability of High Volume Low Speed fans to improve ventilation and keep the centres cool. Provision was also made for the adoption of automated equipment such as centralised dishwashing, automated tray return and food waste digester systems, as well as the integration of greenery and even recreational facilities. One example is Bukit Canberra Hawker Centre which is shown in the photograph above. Opened in 2021, it is covered in lush green and has a layout that is bright and airy. Furthermore, it is also connected to the Bukit Canberra Sports Centre which has a public swimming pool and indoor sports hall. (Image Credit: [Photo by Jun Jie Yam via Wikicommons](https://commons.wikimedia.org/wiki/File:Bukit_Canberra_Swimming_Complex_and_Canberra_House_Pre-Opening_-_October_2023.jpg#/media/File:Bukit_Canberra_Swimming_Complex_and_Canberra_House_Pre-Opening_-_October_2023.jpg){:target="_blank"}) |
+
+----
