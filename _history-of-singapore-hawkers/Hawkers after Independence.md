@@ -12,7 +12,7 @@ Following independence, the government tackled the hawker issue through measures
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_1_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_1_sample.jpg)|
 | In the years following independence, the government’s efforts to tackle the hawker issue were spearheaded by Minister for Health Yong Nyuk Lin. Recognising that there was an urgent need to resolve the issue, Yong announced in December 1965 that the first step was to start licensing all hawkers and implement a Hawkers’ Code by early 1966. Under the code, only Singaporeans could obtain a hawker licence, and hawkers were prohibited from operating on busy streets, in daytime car parks, near bus stops, schools, or other public buildings. These measures allowed the government to ascertain that the number of street hawkers at the time stood at around 24,000, much lower than the initial estimation of close to 50,000 hawkers. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/c62c407f-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 _______
@@ -26,9 +26,9 @@ _______
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_2_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_2_sample.jpg)|
 | After registering the street hawkers, the next step was to move them to permanent premises or hawker centres. As it would take time to build these premises, the government started by relocating street hawkers from main roads to less congested such as back lanes, side streets, vacant lots, or car parks. One of the most notable car parks used as a hawker site was the Orchard Road car park, later known as Glutton’s Square. The relocation process needed to be handled with care, and Members of Parliament, along with grassroots leaders, were involved in addressing the concerns and grievances of the displaced hawkers. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/cfcd9ead-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_3_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_3_sample.jpg)|
 | A special squad was established to handle illegal hawkers, conducting street raids alongside auxiliary police officers to remove unlicensed vendors. Offenders were fined and then referred to the Ministry of Labour for job placement. With growing confidence from economic progress and job creation, the Hawkers Department stopped issuing new hawker licenses to able-bodied individuals, especially those under 40, to encourage them to pursue alternative employment opportunities. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ba906e36-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 _______
@@ -49,11 +49,11 @@ During the 1970s, the Hawker Centres Development Committee and later the Ministr
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_4_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_4_sample.jpg)|
 | The Hawker Centres Development Committee was established in 1971 to oversee the creation of new hawker centres. They selected locations that were easily accessible to the public and offered good business potential for hawkers. To ensure affordability, rental fees at these centres were kept low so that hawkers would not need to increase their food prices after relocating. Among the first hawker centres built were the 110-stall Collyer Quay centre, the 80-stall Boat Quay centre, and the Yung Sheng Road hawker centre in Jurong. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_5_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_5_sample.jpg)|
 | In 1972, the Ministry of Environment was form to take over the mammoth task of building new hawker centres and relocating street hawkers. By 1975, more than 15,000 licensed hawkers had been removed from the streets and housed in new hawker centres in areas such as Empress Place, Adam Road, Yeong Sheng Road, Upper Thomson Road, and Taman Jurong One and Two. As the ultimate aim was to relocate all remaining licensed street hawkers to hawker centres, which stood at a figure of about 29,000 in 1975, the Ministry announced that it would continue the effort to building more hawker centres. It even set the target to complete the resitting of street hawkers to hawker centres by the end of 1980s. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/3af38bd7-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_6_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_6_sample.jpg)|
 | As hawkers would be provided with proper facilities such as clean water, electricity and piped gas, as well as daily cleaning, the Ministry of Environment saw their resitting as a very important task as it would safeguard public cleanliness and health. By placing hawkers in proper locations, health authorities were also able to conduct medical examination on hawkers regularly, thereby preventing the spread of infectious diseases such as typhoid and cholera. The resitting of street hawkers to hawker centres were successfully completed by early 1986 when the last group of some 80 street hawkers at China Square and Haw Par Villa were relocated. At the time, there were about 113 hawker centres across the island. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d65ad4db-1161-11e3-83d5-0050568939ad ){:target="_blank"}) |
 
 _______
@@ -73,9 +73,9 @@ Over the years, significant efforts were made to improve hygiene standards in ha
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_7_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_7_sample.jpg)|
 | The newly constructed hawker centres were designed with proper facilities for food preparation and cooking to improve hygiene standards. In support of this, the Environmental Public Health Act was introduced in January 1969. This legislation established public health practices for the licensing and regulation of hawkers and food establishments. For example, stallholders were required to undergo medical examinations and immunizations. They also needed approval for any extensions or alterations to their stalls. Most importantly, they had to maintain cleanliness and ensure food was safely stored and prepared. Penalties for violations were increased, and public health regulations were strictly enforced. (Image Credit: [Ministry of the Environment, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/posters/record-details/a867e464-b57e-11e3-927b-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_8_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_8_sample.jpg)|
 | Despite the regulations, many hawkers continued to operate in unsanitary conditions, often engaging in unhygienic practices like smoking, spitting, and handling food without washing their hands. In response, the Ministry of Environment launched a series of public health education campaigns and expand existing ones such as the Courtesy Campaign in the 1970s and 1980s to encourage better food hygiene. They also published handbooks, such as Clean Food for Better Health (1982) and Food for Thought (1989), offering tips on food safety. Additionally, it became mandatory for food handlers to obtain a Food Hygiene Certificate before they could be registered. (Image Credit: [All rights reserved. Ministry of the Environment](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=dcbb794b-ee8d-4c50-beb1-ed5beb9f9599){:target="_blank"}) |
 
 _______
@@ -89,7 +89,7 @@ _______
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_9_sample.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_9_sample.jpg)|
 | In 1998, a new grading system was introduced to indicate the cleanliness of each stall, replacing the demerit point system from the previous decade. Under this system, stalls are graded from "A" for excellence in cleanliness and food hygiene to "D" for below-average standards. The grading is based on various criteria, including housekeeping, cleanliness, food hygiene, and the personal hygiene habits of the hawkers. Stallholders are required to display their grades prominently, allowing the public to be informed about cleanliness levels. This initiative encouraged hawkers to maintain or improve their grades to attract customers. (Image Credit: [All rights reserved. Ministry of the Environment](https://www.nas.gov.sg/archivesonline/posters/record-details/a6744aed-b57e-11e3-927b-0050568939ad){:target="_blank"}) |
 
 ----
@@ -100,9 +100,9 @@ To enhance aging hawker centres and preserve Singapore's hawker culture, the gov
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_10.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_10.jpg)|
 | In an effort to improve the conditions and facilities of aging hawker centres and markets, the government launched the Hawker Centres Upgrading Programme in 2001. Led by the National Environment Agency, the programme included measures to ensure that hawker centres with significant heritage value underwent more extensive upgrades. For instance, the East Coast Lagoon Food Village was renovated in 2001 with a tropical theme featuring pavilions, gazebos, cabanas, open-sided structures, and tables set on sand to complement its seaside setting. By late 2013, this beachfront hawker centre had undergone another round of enhancements. Similarly, the Bedok Food Centre was redesigned to reflect the area’s Malay kampong heritage, incorporating Minangkabau-inspired roof architecture, outdoor landscaped restrooms, and lush vegetation. Other notable upgrades included Newton Food Centre and Tiong Bahru Market. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_11.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_11.jpg)|
 | In addition to upgrading hawker centres, the government made significant efforts to preserve and sustain Singapore's hawker culture. Initiatives included offering lower stall rentals to reduce costs for new hawkers starting out, encouraging veteran hawkers to continue their trade, or passing it on to family members or relatives. In 2013, a hawker training programme was introduced to teach aspiring hawkers the fundamentals of the trade. These include not only preparing popular dishes like roti prata and chicken rice, but also how to run hawker stalls effectively. Additionally, a hawker succession scheme was piloted in 2021 to help retiring veteran hawkers pass on their skills, recipes, and stalls to aspiring hawkers when no suitable successors were available within their families. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
 
 _______
@@ -116,5 +116,5 @@ _______
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post-independence_12.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_12.jpg)|
 | To further cement the government’s intention to preserve Singapore’s hawker culture, the National Environment Agency announced in 2015 that it would be building at least 10 hawker centres in the next 12 years. These would be located in new estates such as Canberra, or in existing ones that are relatively under-served, such as Bidadari, Sengkang, Choa Chu Kang, Bukit Panjang and Bukit Batok. These newer hawker centres’ design and infrastructure was made more conducive for the environment, featuring bigger stall sizes, wider aisles and the availability of High Volume Low Speed fans to improve ventilation and keep the centres cool. Provision was also made for the adoption of automated equipment such as centralised dishwashing, automated tray return and food waste digester systems, as well as the integration of greenery and even recreational facilities. One example is Bukit Canberra hawker centre. Opened in 2021, it is covered in lush green and has a layout that is bright and airy. Furthermore, it is also connected to the Bukit Canberra Sports Centre which has a public swimming pool and indoor sports hall. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/e345de73-1161-11e3-83d5-0050568939ad){:target="_blank"}) |
