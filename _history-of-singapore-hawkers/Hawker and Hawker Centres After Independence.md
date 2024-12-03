@@ -4,8 +4,6 @@ permalink: /hawkers-after-independence/
 variant: markdown
 description: ""
 ---
-----
-
 ### **Licensing Hawkers**
 
 Following independence, the government tackled the hawker issue through measures like the 1966 Hawkers' Code, which introduced licensing regulations and restricted hawking in congested areas. Licensed hawkers were relocated to less busy sites, while a special squad conducted raids to remove illegal vendors, encouraging able-bodied individuals to seek alternative employment.
