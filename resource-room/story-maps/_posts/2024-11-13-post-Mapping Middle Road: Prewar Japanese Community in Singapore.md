@@ -19,7 +19,7 @@ View the story map in [full screen](https://go.gov.sg/mdrdjp){:target="_blank"} 
 
 Notes:
 
-1. This story map is based on research conducted under a Heritage Research Grant from the National Heritage Board of Singapore.
+1. This story map is based on research conducted under a Heritage Research Grant from the National Heritage Board of Singapore. The research team of this grant included Dr.&nbsp;[Clay Eaton](https://discovery.nus.edu.sg/13298-clay-keller-eaton), Prof.&nbsp;[Naoko Shimazu](https://www.tc.u-tokyo.ac.jp/en/members/10205/), and Dr.&nbsp;[Chee Keng Lee](https://discovery.nus.edu.sg/7839-chee-keng-lee), with the collaboration of the National Library of Singapore, the National Archives of Singapore, the National Museum of Singapore, Mr. Lim Shao Bin, and Mr. Kazuo Sugino. We would like to express special thanks to our research assistant, Ms. Ayano Sato, and the Japanese Association, Singapore.
 
 2. Information on this map is based on a variety of sources, including several pre-WWII Japanese-language books on Southeast Asia that can be found digitally through the [National Diet Library (Japan)](https://www.ndl.go.jp/en/). A full reference list for this story map can be found here [](/files/Mapping_Middle_Road_Full_Reference_List.pdf).
 

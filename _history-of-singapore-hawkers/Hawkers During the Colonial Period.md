@@ -1,5 +1,5 @@
 ---
-title: Hawkers during the Colonial Period
+title: Hawkers During the Colonial Period
 permalink: /hawkers-during-the-colonial-period/
 variant: markdown
 description: ""
