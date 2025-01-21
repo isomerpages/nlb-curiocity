@@ -123,3 +123,6 @@ In April 1950, a 10-member Hawker Inquiry Commission was formed to address the s
 | The Hawkers' Union, supporting the hawkers, proposed that instead of punishing them, a better approach would be to collaborate with them. They suggested preserving their livelihood by building more shelters where hawkers could continue their trade legally. During the 1950s, some hawkers even formed syndicates to purchase land and construct markets and hawker shelters in areas like Somerset Road, Sennett Estate, Mackenzie Road, and Serangoon Road. However, this bold initiative failed to inspire a similar response from the authorities, and illegal hawker stalls, along with mass raids, persisted. It was only after Singapore gained independence in 1965 that the government made a serious, coordinated effort to address the hawker problem. This 1950s colour photograph captures Upper Chin Chew Street, where hawkers line the roadside and laundry is hung on bamboo poles overhead. (Image Credit: [Arthur B Reich Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/757916a7-ca7f-11e3-927b-0050568939ad ){:target="_blank"}) |
 
 ---
+
+![hawkers-story-map-1](/images/Hawkersdigital/hawkers_story_map_1.jpg)
+
