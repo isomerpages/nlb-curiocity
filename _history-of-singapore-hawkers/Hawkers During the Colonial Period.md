@@ -124,5 +124,4 @@ In April 1950, a 10-member Hawker Inquiry Commission was formed to address the s
 
 ---
 
-![hawkers-story-map-1](/images/Hawkersdigital/hawkers_story_map_1.jpg)
-
+[![hawkers-story-map-1](/images/Hawkersdigital/hawkers_story_map_1.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/pre-1965-markets/index.html){:target="_blank"}) 
