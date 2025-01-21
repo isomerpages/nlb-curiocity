@@ -2,6 +2,7 @@ collections:
   history-of-singapore-hawkers:
     output: true
     order:
+      - Example Title.md
       - Introduction.md
       - Hawkers During the Colonial Period.md
       - Hawkers and Hawker Centres After Independence.md
