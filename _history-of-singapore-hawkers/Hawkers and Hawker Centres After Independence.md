@@ -123,3 +123,5 @@ Watch the video to hear from participants Ken Chew and Steven Goh as they share 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Hq13TRxKce0?si=UP_N7oMvTDwHmFe5" height="315" width="560"></iframe>
 
 ---
+
+![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)
