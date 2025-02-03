@@ -59,6 +59,11 @@ Singapore's vibrant food scene isn't just a government initiative — it is a pa
 
 The pinnacle of the evolving hawker scene in Singapore arrived when the country’s hawker culture was successfully inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity on 16 Dec 2020. This coveted recognition marked the culmination of decades of efforts undertaken by the nation in preserving its hawker culture, solidifying it as a vital and celebrated aspect of Singaporean identity.
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/documenting_hawker_1_sample.jpg)|
+| In the 1990s, Singapore began promoting its food as a major attraction for tourists, marked by the launch of the Singapore Food Festival in 1994. Organised annually by the Singapore Tourism Board (STB), this culinary event celebrates Singapore’s rich food heritage and vibrant local culinary scene, highlighting the nation’s favourite cuisines and hawker fare from all ethnic groups. The inaugural festival featured a month-long extravaganza of feasting and entertainment at venues ranging from upscale five-star restaurants to humble hawker centres. Showcasing dishes that spanned local multi-ethnic flavours and international cuisine in multiple locations such as Clarke Quay, Little India, the Malay Village in Geylang, Singapore River (shown above) and Sentosa, and the event was designed to appeal to both visitors and locals alike. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/1180c6e0-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 ### **Types of Hawker Food**
 
 #### **Chinese Food**
