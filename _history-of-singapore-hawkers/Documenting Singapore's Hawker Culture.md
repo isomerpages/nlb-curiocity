@@ -68,6 +68,8 @@ The pinnacle of the evolving hawker scene in Singapore arrived when the countryâ
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/documenting_hawker_6_sample.jpg)|
 | In December 2020, Singaporeâ€™s hawker culture achieved international recognition when it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.  The achievement not only celebrated the unique culinary traditions of Singaporean hawkers but also acknowledged their vital role in shaping the nation's social fabric and cultural identity.  It solidified hawker culture's place as a treasured part of Singapore's heritage, ensuring its preservation for generations to come. (Image Credit: [National Heritage Board](https://www.nas.gov.sg/archivesonline/photographs/record-details/1180c6e0-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 
+---
+
 ### **Types of Hawker Food**
 
 #### **Chinese Food**
