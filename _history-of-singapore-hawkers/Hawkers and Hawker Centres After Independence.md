@@ -126,4 +126,4 @@ Watch the video to hear from participants Ken Chew and Steven Goh as they share 
 
 [![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/new-generation-hawker-centres/index.html){:target="_blank"})
 
-https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/post-independence-hawker-centres/index.html
+[![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/post-independence-hawker-centres/index.html){:target="_blank"})
