@@ -36,6 +36,11 @@ In the 1990s, Singapore took a deliberate step to position its diverse culinary 
 
 Singapore's vibrant food scene isn't just a government initiative — it is a passion shared by many.  Beyond official branding efforts, individuals like K. F. Seetoh and Dr Leslie Tay, among others, championed our unique culinary heritage, creating influential food directories and reviews in the 1990s. Their work ignited a food-focused explosion in the 2000s, paving the way for food bloggers, documentaries, and more. These passionate contributions cemented Singapore's food legacy and continue to shape our ever-evolving gastronomic story.
 
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/makansutra_cover.jpg)|
+| Created by local food consultant, photographer, writer and television host Seetoh Kok Fye, better known as K. F. Seetoh, the first edition of Makansutra was published in 1998 at the cost of S$40,000. It listed selected hawker stalls along with their address and food rating. The guide used a novel chopstick rating system, with more chopsticks indicating a higher rating. The maximum score of three pairs of chopsticks carried the now-famous catchphrase, “Die, die must try!”. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/1180c6e0-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
 
 ### **Types of Hawker Food**
 
