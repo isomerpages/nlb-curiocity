@@ -82,8 +82,12 @@ Singapore's hawker centers offer an array of Chinese culinary classics. From the
 
 #### **Malay Food**
 
+Malay cuisine in Singapore's hawker centers offers a symphony of rich and aromatic flavors.  From the fragrant coconut rice of nasi lemak, accompanied by a medley of sambal, fried chicken, and other delectable sides, to the slow-cooked, spice-infused rendang, these dishes showcase the complexity and depth of Malay culinary traditions.
+
 <iframe allowfullscreen="true" height="543" width="914" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTj7HY8DZTuGNfTnMYO2S5oLMf9HoV-k9MuHWw0pTQCqxRTXRyUDdUmhuxa8iqNrz-_lMrcOwAAnmQx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Indian Food**
+
+Singapore's hawker centers wouldn't be complete without the vibrant and diverse flavors of Indian cuisine.  From the fiery and tangy fish head curry, a beloved local favorite, to the crispy, buttery prata, perfect for dipping into flavorful curries, these dishes offer a tantalizing glimpse into India's rich culinary heritage. 
 
 <iframe allowfullscreen="true" height="543" width="914" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTey_sclGzKbkwEfH3_DQZ1rJJG3gBNy8g0UNvog5lKcvBTfP0302FWOexT-UI2zw22Qzp17WnOu50/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
