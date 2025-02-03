@@ -76,6 +76,8 @@ Singapore's hawker centers are a vibrant tapestry of flavors, reflecting the nat
 
 #### **Chinese Food**
 
+Singapore's hawker centers offer an array of Chinese culinary classics. From the comforting warmth of Hainanese chicken rice, with its tender poached chicken and fragrant rice, to the smoky char kway teow, a symphony of wok hei and savory sauces, these dishes showcase the depth and diversity of Chinese culinary traditions.  Here is a delicious glimpse into some common Chinese hawker food.
+
 <iframe allowfullscreen="true" height="543" width="914" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIClVdjDA69tDODypYNJDM5XjmjQAymIGkbRIjsiHCZd4FYpyKenrSUSMc8ZtRd0rQ168jP3uW3Mqz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Malay Food**
