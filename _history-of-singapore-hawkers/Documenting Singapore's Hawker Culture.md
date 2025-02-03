@@ -4,9 +4,9 @@ permalink: /documenting-singapore-s-hawker-food-and-culture/
 variant: markdown
 description: ""
 ---
-### **Licensing Hawkers**
+### **Early Singapore Food Guides**
 
-Following independence, the government tackled the hawker issue through measures like the 1966 Hawkers' Code, which introduced licensing regulations and restricted hawking in congested areas. Licensed hawkers were relocated to less busy sites, while a special squad conducted raids to remove illegal vendors, encouraging able-bodied individuals to seek alternative employment.
+Singapore's culinary journey, from its early documentation in colonial travelogues to the rise of today's influential food blogs, reflects a deep and enduring passion for food. These publications, along with countless other forms of culinary expression, have helped shape and preserve Singapore's unique food culture, culminating in the prestigious UNESCO recognition of its hawker heritage.
 
 |   | 
 |:--------:| 
