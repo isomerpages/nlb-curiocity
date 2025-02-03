@@ -55,6 +55,10 @@ Singapore's vibrant food scene isn't just a government initiative — it is a pa
 
 ---
 
+### **International Recognition of Singapore's Hawker Culture**
+
+The pinnacle of the evolving hawker scene in Singapore arrived when the country’s hawker culture was successfully inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity on 16 Dec 2020. This coveted recognition marked the culmination of decades of efforts undertaken by the nation in preserving its hawker culture, solidifying it as a vital and celebrated aspect of Singaporean identity.
+
 ### **Types of Hawker Food**
 
 #### **Chinese Food**
