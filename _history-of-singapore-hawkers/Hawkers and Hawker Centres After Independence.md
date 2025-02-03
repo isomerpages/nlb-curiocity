@@ -65,6 +65,12 @@ _______
 
 ----
 
+### **Hawker Centres of the Nation-Building Years**
+
+During Singapore's nation-building years from the 1960s to the 1980s, the development of purpose-built hawker centers was a crucial step in organising street food vendors and providing affordable, hygienic dining options for a rapidly growing population. These centers became not just places to eat, but also vital community spaces, reflecting the government's commitment to both public health and social cohesion. Visit the story map below to see where are some of these hawker centres were located.
+
+[![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/post-independence-hawker-centres/index.html){:target="_blank"})
+
 ### **Improving Hygiene Standards**
 
 Over the years, significant efforts were made to improve hygiene standards in hawker culture. Measures included the introduction of the Environmental Public Health Act in 1969, public health education campaigns in the 1970s and 1980s, and a stall grading system launched in 1998. These initiatives established stricter regulations, promoted food safety practices, and incentivized hawkers to maintain higher cleanliness standards, ensuring safer dining experiences for the public.
@@ -92,7 +98,7 @@ _______
 
 ----
 
-### **Next Generation Hawker Centres**
+### **Renewing Hawker Centres**
 
 To enhance aging hawker centres and preserve Singapore's hawker culture, the government introduced the Hawker Centres Upgrading Programme in 2001, focusing on improving facilities and heritage preservation. Efforts included renovations reflecting local history, such as East Coast Lagoon Food Village and Bedok Food Centre, as well as initiatives like training programmes, lower rentals, and succession schemes to support aspiring and retiring hawkers. More recently, modern hawker centres, such as Bukit Canberra, were built with eco-friendly features and improved infrastructure to serve both existing and new communities.
 
@@ -124,6 +130,8 @@ Watch the video to hear from participants Ken Chew and Steven Goh as they share 
 
 ---
 
-[![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/new-generation-hawker-centres/index.html){:target="_blank"})
+### **Hawker Centres for the Next Generation**
 
-[![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/post-independence-hawker-centres/index.html){:target="_blank"})
+The evolution of Singapore's hawker centers continued into the 2010s, with a renewed focus on creating eating spaces for the next generation. These centers aimed to not only preserve the beloved hawker culture but also incorporate modern amenities, sustainable practices, and design elements to enhance the dining experience for both hawkers and patrons. Below is a story map that locates some of the newer hawker centres.
+
+[![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/new-generation-hawker-centres/index.html){:target="_blank"})
