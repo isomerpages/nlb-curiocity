@@ -124,4 +124,8 @@ In April 1950, a 10-member Hawker Inquiry Commission was formed to address the s
 
 ---
 
+#### **Markets and Hawker Shelters of the Colonial Period**
+
+In the 1950s, pre-independence Singapore grappled with the challenges of a burgeoning street food scene. While hawkers provided essential and affordable meals, their unregulated presence posed concerns about hygiene and public order. This era saw the beginnings of efforts to organise and manage street food vendors with the building of hawker shelters and markets with eating spaces to house them. This foreshadows the more structured approach to hawker centers that would emerge in the nation-building years to come. Visit the story map below to see some of the markets and hawker shelters of the colonial period.
+
 [![hawkers-story-map-1](/images/Hawkersdigital/hawkers_story_map_1.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/pre-1965-markets/index.html){:target="_blank"})
