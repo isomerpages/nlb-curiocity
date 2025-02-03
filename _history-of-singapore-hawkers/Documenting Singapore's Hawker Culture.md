@@ -39,7 +39,7 @@ Singapore's vibrant food scene isn't just a government initiative — it is a pa
 |   | 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/makansutra_cover.jpg)|
-| Created by local food consultant, photographer, writer and television host Seetoh Kok Fye, better known as K. F. Seetoh, the first edition of Makansutra was published in 1998 at the cost of S$40,000. It listed selected hawker stalls along with their address and food rating. The guide used a novel chopstick rating system, with more chopsticks indicating a higher rating. The maximum score of three pairs of chopsticks carried the now-famous catchphrase, “Die, die must try!”. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/1180c6e0-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| Created by local food consultant, photographer, writer and television host Seetoh Kok Fye, better known as K. F. Seetoh, the first edition of Makansutra (RSING 647.955957 MEL) was published in 1998 at the cost of S$40,000. It listed selected hawker stalls along with their address and food rating. The guide used a novel chopstick rating system, with more chopsticks indicating a higher rating. The maximum score of three pairs of chopsticks carried the now-famous catchphrase, “Die, die must try!”. Shown above is the cover of the 1998 edition of Makansutra available at the [National Library Singapore](https://catalogue.nlb.gov.sg/search/card?recordId=9150181){:target="blank"}. (Image Credit: [All rights reserved. Makansutra, 1998. Makansutra Pub.](https://catalogue.nlb.gov.sg/search/card?recordId=9150181){:target="_blank"}) |
 
 
 ### **Types of Hawker Food**
