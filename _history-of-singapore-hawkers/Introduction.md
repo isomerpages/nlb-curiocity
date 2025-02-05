@@ -4,7 +4,7 @@ permalink: /introduction/
 variant: markdown
 description: ""
 ---
-![](/images/Hawkersdigital/post_independence_12.jpg)
+![](/images/Hawkersdigital/hawkers-digitalstory-cover-dg.jpg)
 <span style="font-weight: 400; font-size: 10px; font-style: normal; color:#000000">Bukit Canberra Hawker Centre and Integrated Hub</span>
 
 Food is a big part of life in Singapore. The city state is known for its wide variety of multi-ethnic dishes, with Malay, Indian, and Chinese food being the most common, alongside others like Peranakan and Eurasian cuisines. While Singapore has many restaurants, most people agree that the most affordable and authentic food can be found at hawker centres.
