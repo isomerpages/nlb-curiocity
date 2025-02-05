@@ -1,5 +1,5 @@
 collections:
-  history-of-singapore-hawkers:
+  our-hawker-culture:
     output: true
     order:
       - Introduction.md
