@@ -21,6 +21,17 @@ Singapore's culinary journey, from its early documentation in colonial travelogu
 
 ---
 
+<details>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The claim that Singapore is a food paradise is not a recent phenomenon as the country’s unique, multicultural culinary identity was recognised and promoted from its earliest days of independence. A testament to this is Minister Eddie Barker’s 1968 endorsement of Singapore as a food destination in the Singapore Gourmet's Guide. Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to find out what he wrote. (Source: <a href="https://catalogue.nlb.gov.sg/search/card?recordId=5047519" target="\_blank"> Singapore Gourmet’s Guide</a>)</span></summary>
+
+<br>
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">”Singapore has been described as one of the world’s greatest eating-houses. This description is both amusing and apt having regard to our multi-racial society and the varied culinary arts found here both in their pure, ethic types as well as in their synthesis in the Singapore forms. In air-conditioned restaurants or in open-air places…Singapore offers a variety of food and delicacies, reflecting yet another aspect of our claim to be a fair cross-section of Asia, if not of the world…” </span>
+
+</details>
+
+---
+
 ### **Singapore's Culinary Tourism Push in the 1990s**
 
 In the 1990s, Singapore took a deliberate step to position its diverse culinary landscape as a key tourist attraction.  The launch of initiatives like the Singapore Food Festival and the World Gourmet Summit marked a new era in promoting the nation's rich food heritage to a global audience.
