@@ -40,6 +40,21 @@ In the 1990s, Singapore took a deliberate step to position its diverse culinary 
 |:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/documenting_hawker_1_sample.jpg)|
 | In the 1990s, Singapore began promoting its food as a major attraction for tourists, marked by the launch of the Singapore Food Festival in 1994. Organised annually by the Singapore Tourism Board (STB), this culinary event celebrates Singapore’s rich food heritage and vibrant local culinary scene, highlighting the nation’s favourite cuisines and hawker fare from all ethnic groups. The inaugural festival featured a month-long extravaganza of feasting and entertainment at venues ranging from upscale five-star restaurants to humble hawker centres. Showcasing dishes that spanned local multi-ethnic flavours and international cuisine in multiple locations such as Clarke Quay, Little India, the Malay Village in Geylang, Singapore River (shown above) and Sentosa, and the event was designed to appeal to both visitors and locals alike. (Image Credit: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/1180c6e0-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+<details>
+
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">The launch of the Singapore Food Festival in 1994 started the trend of packaging Singapore as a food paradise and destination by the Singapore Tourism Board. But what was the festival’s goal? Click <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to read how then Minister for Trade and Industry Yeo Cheow Tong put it. (Source: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940702-1.2.36.15" target="\_blank">The Straits Times</a>)</span></summary>
+
+<br>
+
+<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The fine food of Singapore is a mouth-watering experience which deserves to be told internationally. For, while Singaporeans never tire of exchanging notes on where the latest good food can be found, the world remains largely unaware of this aspect of our culture…Over this month, the variety and superb quality of Singapore cooking will be on display to the world…The festival should win new converts to our cuisine and strengthen the Lion City’s image a gourmet’s paradise." </span>
+
+</details>
+
+|   | 
+|:--------:| 
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/documenting_hawker_2_sample.jpg)|
 | Besides the Singapore Food Festival, STB also launched the World Gourmet Summit in 1997 in partnership with Peter Knipp Holdings (PKH) as an upscale, Western-centric counterpart to the Singapore Food Festival. Conceived by former STB CEO Tan Chin Nam and food consultant Peter Knipp, the summit showcased the culinary artistry of world-renowned master chefs. The inaugural event featured chefs from 12 prestigious hotels and restaurants, who hosted cooking classes and gourmet safaris, offering lavish four-course meals at premium prices. After the summit’s second edition, STB handed over its organisation and funding entirely to PKH, allowing the event to flourish independently. Shown above is a poster from the 1997 World Gourmet Summit. (Image Credit: [Singapore Tourism Board, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/posters/record-details/30a9ea26-115c-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/documenting_hawker_3_sample.jpg)|
