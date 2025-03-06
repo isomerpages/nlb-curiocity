@@ -33,3 +33,20 @@ But in truth, Singapore's hawker scene has always been a melting pot of flavours
 | Traditional hawker fare is undergoing a fascinating evolution. Young hawkers are creatively fusing local flavours with international influences, resulting in exciting and unexpected culinary combinations. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
 | Classic dishes are being reimagined with contemporary twists. Think deconstructed laksa, gourmet satay, and innovative takes on chicken rice. These modern interpretations appeal to discerning palates while honouring the essence of traditional flavours. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+### **Going Global and Becoming Global**
+
+As Singapore solidifies its position as a global culinary destination, its hawker centres are reflecting this diversity. The arrival of international cuisines and the global recognition of Singapore's own hawker heritage are adding new dimensions to this vibrant and evolving culinary landscape.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
+| Singapore's hawker centres are becoming increasingly diverse, reflecting the country's multicultural landscape. The arrival of foreign cuisines, such as China's fiery mala and Korean barbecue, adds a vibrant layer to the culinary tapestry. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
+| The increasing popularity of Singaporean hawker food on the global stage is attracting international attention. This global recognition is further fuelling the growth and evolution of the hawker scene.  (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+---
+
+The rise of next-gen hawkers signifies a bright future for Singapore's culinary heritage. By embracing innovation while honouring tradition, these young entrepreneurs are ensuring that the vibrant spirit of Singapore's hawker culture continues to thrive for generations to come.
