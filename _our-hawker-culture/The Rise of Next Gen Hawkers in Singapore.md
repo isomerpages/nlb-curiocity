@@ -36,7 +36,7 @@ But in truth, Singapore's hawker scene has always been a melting pot of flavours
 
 ----
 
-### **Going Global and Becoming Global**
+### **Becoming Global**
 
 As Singapore solidifies its position as a global culinary destination, its hawker centres are reflecting this diversity. The arrival of international cuisines and the global recognition of Singapore's own hawker heritage are adding new dimensions to this vibrant and evolving culinary landscape.
 
