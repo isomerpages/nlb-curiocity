@@ -20,3 +20,16 @@ The heart of Singapore’s hawker culture is being reinvigorated by a dynamic wa
 | Sometimes referred to as "hawkerpreneurs", they leverage their entrepreneurial spirit and digital savvy to build successful brands. One strategy is the use of social media platforms to showcase their culinary creations, engage with customers, and build a strong online presence. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
 | ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
 | But not all young hawkers are aiming to reinvent the food we eat in hawker centres. Some of them are taking over their family businesses, carrying on the legacy of their parents or grandparents. While honouring traditional recipes, they often experiment with modern techniques and presentations, attracting a younger clientele. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+
+----
+
+### **Evolution of Flavours**
+
+But in truth, Singapore's hawker scene has always been a melting pot of flavours - Chinese, Malay, Indian, Eurasian, western and eastern, you name it. But the next generation is taking this to new heights. By creatively blending traditional recipes with modern techniques and international influences, they are crafting exciting and innovative dishes that redefine the hawker experience.
+
+|   | 
+|:--------:| 
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
+| Traditional hawker fare is undergoing a fascinating evolution. Young hawkers are creatively fusing local flavours with international influences, resulting in exciting and unexpected culinary combinations. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/new-gen_1_sample.jpg)|
+| Classic dishes are being reimagined with contemporary twists. Think deconstructed laksa, gourmet satay, and innovative takes on chicken rice. These modern interpretations appeal to discerning palates while honouring the essence of traditional flavours. (Image Credit: [Courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/34457638-1162-11e3-83d5-0050568939ad){:target="_blank"}) |
