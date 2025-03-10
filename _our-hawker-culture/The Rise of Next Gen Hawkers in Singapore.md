@@ -51,14 +51,16 @@ As Singapore solidifies its position as a global culinary destination, its hawke
 
 ---
 
-**Want to take a tour of Urban Hawker? Check out this tour**
+**Want to take a tour of Urban Hawker? Check out this YouTube video tour.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qI5MM4ym3v4?si=X-7q1k2pyfUiLzvt" height="315" width="560"></iframe>
-
-The rise of next-gen hawkers signifies a bright future for Singapore's culinary heritage. By embracing innovation while honouring tradition, these young entrepreneurs are ensuring that the vibrant spirit of Singapore's hawker culture continues to thrive for generations to come.
 
 ---
 
 ### **Vanishing Hawker Food**
+
+The rise of next-gen hawkers is a natural continuation of Singapore's culinary evolution. For two centuries, our hawker culture has adapted to changing tastes, with dishes fading and new fusions emerging. These young entrepreneurs aren't abandoning tradition; they're actively participating in its ongoing transformation. Just as past dishes have given way to new favorites, they're shaping the flavors of tomorrow, ensuring our hawker heritage remains vibrant and relevant. 
+
+Below is a photo gallery that showcases some of the vanishing hawker food that reflects this ongoing culinary shift.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0UOnzzZDoGrExpHOFSR9sCCUJ8hRIrJKu4Yi7VUKZb1JWzo1Q61NSm-BnXakyINvKnP4dSCXOGI_q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
