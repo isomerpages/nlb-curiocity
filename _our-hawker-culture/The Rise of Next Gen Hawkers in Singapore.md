@@ -51,6 +51,8 @@ As Singapore solidifies its position as a global culinary destination, its hawke
 
 ---
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qI5MM4ym3v4?si=X-7q1k2pyfUiLzvt" height="315" width="560"></iframe>
+
 The rise of next-gen hawkers signifies a bright future for Singapore's culinary heritage. By embracing innovation while honouring tradition, these young entrepreneurs are ensuring that the vibrant spirit of Singapore's hawker culture continues to thrive for generations to come.
 
 ---
