@@ -25,7 +25,7 @@ The heart of Singapore’s hawker culture is being reinvigorated by a dynamic wa
 
 ### **Evolution of Flavours**
 
-But in truth, Singapore's hawker scene has always been a melting pot of flavours - Chinese, Malay, Indian, Eurasian, western and eastern, you name it. But the next generation is taking this to new heights. By creatively blending traditional recipes with modern techniques and international influences, they are crafting exciting and innovative dishes that redefine the hawker experience.
+In retrospect, Singapore's hawker scene has always been a melting pot of flavours - Chinese, Malay, Indian, Eurasian, western and eastern, you name it. But the next generation is taking this to new heights. By creatively blending traditional recipes with modern techniques and international influences, they are crafting exciting and innovative dishes that redefine the hawker experience.
 
 |   | 
 |:--------:| 
