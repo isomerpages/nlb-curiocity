@@ -2,8 +2,8 @@ collections:
   digital-stories:
     output: true
     order:
-      - Our Hawker Story/.keep
       - Digital Stories.md
+      - Our Hawker Story/.keep
       - Jurong/.keep
       - "Jurong/Swampland to Tech Metropolis: A Digital Story on Jurong.md"
       - Jurong/Roots in Nature.md
