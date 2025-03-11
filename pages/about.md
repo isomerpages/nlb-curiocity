@@ -18,4 +18,4 @@ variant: markdown
 
 <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">Curiocity brings the past to life by using digitised materials from the collections of NLB, NAS, NHB and URA, such as photographs, maps, paintings, postcards, artefacts, memories and oral history interviews. These materials supplement the written text in our Story Maps and Digital Stories, providing a rich and immersive experience for our users. Explore Singapore's heritage and witness the city-state's evolution through time and space with our carefully curated collection of multimedia resources.</span>
 
-Homepage banner image credit: [Photo by Edsel Little via Wikicommons (CC BY-SA 2.0)](https://commons.wikimedia.org/wiki/File:Jurong_East,_Singapore_%2827496133873%29.jpg) 
+Homepage banner image credit: [Photo by Jun Jie Yam via Wikicommons (CC BY 4.0)](https://commons.wikimedia.org/wiki/File:Bukit_Canberra_Swimming_Complex_and_Canberra_House_Pre-Opening_-_October_2023.jpg#/media/File:Bukit_Canberra_Swimming_Complex_and_Canberra_House_Pre-Opening_-_October_2023.jpg)
