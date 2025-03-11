@@ -59,7 +59,7 @@ As Singapore solidifies its position as a global culinary destination, its hawke
 
 ### **Vanishing Hawker Food**
 
-The rise of next-gen hawkers is a natural continuation of Singapore's culinary evolution. For two centuries, our hawker culture has adapted to changing tastes, with dishes fading and new fusions emerging. These young entrepreneurs aren't abandoning tradition; they're actively participating in its ongoing transformation. Just as past dishes have given way to new favorites, they're shaping the flavors of tomorrow, ensuring our hawker heritage remains vibrant and relevant. 
+The rise of next-gen hawkers could be seen as a natural continuation of Singapore's culinary evolution. For two centuries, our hawker culture has adapted to changing tastes, with dishes fading and new fusions emerging. These young entrepreneurs aren't abandoning tradition; they're actively participating in its ongoing transformation. Just as past dishes have given way to new favorites, they're shaping the flavors of tomorrow, ensuring our hawker heritage remains vibrant and relevant. 
 
 Below is a photo gallery that showcases some of the vanishing hawker food that reflects this ongoing culinary shift.
 
