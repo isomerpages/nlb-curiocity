@@ -23,10 +23,10 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-<a href="/digital-stories/bras-basah/bb-early/"><img src="/images/Hawkersdigital/hawkers_dg_icon_1.jpg" alt="image 2"></a>
+<a href="/digital-stories/bras-basah/bb-early/"><img src="/images/Hawkersdigital/hawkers_dg_icon_1.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/Hawkersdigital/hawkers_map_icon_1_1.jpg" alt="image 4"></a>
+			<a href="https://go.gov.sg/curiocity-tahbbmap"><img src="/images/Hawkersdigital/hawkers_map_icon_1_1.png" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
