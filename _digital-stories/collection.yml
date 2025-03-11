@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Digital Stories.md
+      - Our Hawkers Through Time/Our Hawkers Through Time.md
       - Our Hawkers Through Time/.keep
       - Jurong/.keep
       - "Jurong/Swampland to Tech Metropolis: A Digital Story on Jurong.md"
