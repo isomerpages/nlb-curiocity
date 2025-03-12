@@ -1,9 +1,0 @@
-collections:
-  our-hawker-culture:
-    output: true
-    order:
-      - Introduction.md
-      - Hawkers During the Colonial Period.md
-      - Hawkers and Hawker Centres After Independence.md
-      - Documenting Singapore's Hawker Culture.md
-      - The Rise of Next Gen Hawkers in Singapore.md
