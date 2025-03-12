@@ -10,7 +10,7 @@ Follow us on a journey through time and space, as we explore the cultural, socia
 
 | **<font size="5">Our Hawkers</font>** |  | 
 | -------- | -------- | 
-| [<img src="/images/Hawkersdigital/post_independence_12.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/our-hawkers-through-time/introduction/)   | Jurong was once an undeveloped region but has now evolved into a thriving metropolis, blending innovation and sustainable living. Explore the transformation in this [digital story](/digital-stories/our-hawkers-through-time/introduction/){:target="_blank"} .
+| [<img src="/images/Hawkersdigital/post_independence_12.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/our-hawkers-through-time/introduction/)   | Food is a big part of life in Singapore. The city state is known for its wide variety of food selections especially in its hawker centres. Explore the story of Singapore's hawkers in this [digital story](/digital-stories/our-hawkers-through-time/introduction/){:target="_blank"} .
 |
 
 | **<font size="5">Jurong</font>** |  | 
