@@ -12,6 +12,8 @@ Food is a big part of life in Singapore. The city state is known for its wide va
 
 Hawker centres are generally open-air spaces with food stalls offering affordable meals. They are clean, easy to access, and popular with people from all walks of life. Many stalls are run by families and serve one or two dishes that have been perfected over time or are based on family recipes passed down through generations. Recently, more young "hawkerpreneurs" have started stalls, offering traditional dishes with a modern twist. Overall, hawker food is not only delicious but also rich in history and culture.
 
+<span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">“Our Hawkers Through Time”</span> presents the history of our hawker culture as documented in the resources and content from institutions such as the National Library Board, National Heritage Board and Urban Redevelopment Authority as well as those compiled or created by foodies, YouTubers and even the hawkers themselves just to name a few.
+
 Join us on this journey of discovery by either checking out our <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">digital story</span> or innovative <span style="font-weight: 700; font-size: 20px; font-style: normal; color:#eb7044">story map</span>.
 
 <div class="container__line padding--lg">
