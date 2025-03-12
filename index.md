@@ -26,9 +26,11 @@ sections:
       title: Our Hawkers Through Time
       subtitle: Digital Story
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Explore the story of Singapore's hawkers in this digital story.
+      button: Start the Journey
       alt: Image alt text
+      url: /digital-stories/our-hawkers-through-time/introduction/
+      image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
   - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
