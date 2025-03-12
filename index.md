@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: Explore the story of Singapore's hawkers in this digital story.
       button: Start the Journey
-      alt: Image alt text
+      alt: Bukit Canberra
       url: /digital-stories/our-hawkers-through-time/introduction/
       image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
   - infopic:
