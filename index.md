@@ -23,6 +23,13 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
+      title: Our Hawkers Through Time
+      subtitle: Digital Story
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
       id: infopic
