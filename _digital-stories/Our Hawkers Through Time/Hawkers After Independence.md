@@ -70,7 +70,7 @@ _______
 
 During Singapore's nation-building years from the 1960s to the 1980s, the development of purpose-built hawker centers was a crucial step in organising street food vendors and providing affordable, hygienic dining options for a rapidly growing population. These centers became not just places to eat, but also vital community spaces, reflecting the government's commitment to both public health and social cohesion. Visit the story map below to see where are some of these hawker centres were located.
 
-[![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/post-independence-hawker-centres/index.html){:target="_blank"})
+[![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://go.gov.sg/nationbldgyrshawkercentres){:target="_blank"})
 
 ### **Improving Hygiene Standards**
 
@@ -135,4 +135,4 @@ Watch the video to hear from participants Ken Chew and Steven Goh as they share 
 
 The evolution of Singapore's hawker centers continued into the 2010s, with a renewed focus on creating eating spaces for the next generation. These centers aimed to not only preserve the beloved hawker culture but also incorporate modern amenities, sustainable practices, and design elements to enhance the dining experience for both hawkers and patrons. Below is a story map that locates some of the newer hawker centres.
 
-[![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/new-generation-hawker-centres/index.html){:target="_blank"})
+[![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://go.gov.sg/newhawkercentres){:target="_blank"})
