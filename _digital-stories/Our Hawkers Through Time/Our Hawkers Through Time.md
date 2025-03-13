@@ -29,7 +29,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <a href="/digital-stories/our-hawkers-through-time/introduction"><img src="/images/Hawkersdigital/hawkers_dg_icon_1.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
-			<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-hawkers-story-map/index.html"><img src="/images/Hawkersdigital/hawkers_map_icon_1_1.png" alt="image 4"></a>
+			<a href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-hawkers-story-map/index.html"><img src="/images/Hawkersdigital/hawkers_map_icon_1_2.png" alt="image 4"></a>
 </div>
 	</div> 
 	</div>
