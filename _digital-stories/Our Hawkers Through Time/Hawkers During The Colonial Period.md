@@ -82,7 +82,7 @@ The presence of roadside hawkers (both itinerant and stall), combined with their
 
 ### **Hawker Shelters and Markets**
 
-From the 1920s, the colonial government began to build hawker shelters in places like Telok Ayer Market/Finlayson Green (1921), People’s Park (1923), Carnie Street (1929), Queen Street (1929), Balestier Road (1929), Lim Tua Tow Road (1955), Seng Poh Road (Tiong Bahru) (1951), and the Esplanade (1952). These shelters were basic structures with a roof and proper flooring. The aim was to provide diners with a proper place to eat and give hawkers a designated, sheltered space where they could set up stalls, access clean water, prepare food, and wash utensils. By moving hawkers into these shelters, the authorities could take them off the streets and manage hygiene more effectively through regular cleaning.
+From the 1920s, the colonial government began to build hawker shelters in places like Telok Ayer Market/Finlayson Green (1921), People’s Park (1923), Carnie Street (1929), Queen Street (1929), Balestier Road (1929), Lim Tua Tow Road (1955), Seng Poh Road (Tiong Bahru) (1951), and the Esplanade (1952). These shelters were basic structures with a roof and proper flooring. The aim was to provide diners with a proper place to eat and give cooked food hawkers a designated, sheltered space where they could set up stalls, access clean water, prepare food, and wash utensils. By moving hawkers into these shelters, the authorities could take them off the streets and manage hygiene more effectively through regular cleaning.
 
 |   | 
 |:--------:| 
