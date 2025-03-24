@@ -11,7 +11,7 @@ During Singapore's colonial period and the early years of independence, the idea
 
 ### **Early Hawkers**
 
-As early as the mid-19th century, there were already many street hawkers making a living on the streets of Singapore. Broadly speaking, hawkers then were broadly categorised into two distinct types: itinerant and stall hawkers. Itinerant hawkers operated on a very small scale, relying on daily sales for their livelihood. They moved from place to place, displaying and selling goods such as cooked and uncooked food, household wares, and everyday items along streets or from door to door. Stall hawkers, on the other hand, were more akin to street-based business owners. While they also conducted their trade in public spaces, they differed from itinerant hawkers by establishing fixed locations, essentially treating the streets as their storefronts.
+As early as the mid-19th century, there were already many street hawkers making a living on the streets of Singapore. Broadly speaking, hawkers then were broadly categorised into two distinct types: itinerant and stall hawkers. Itinerant hawkers operated on a very small scale, relying on daily sales for their livelihood. They moved from place to place, displaying and selling goods such as cooked and uncooked food, household wares, and everyday items along streets or from door to door. Stall hawkers, on the other hand, conducted their trade in public spaces by establishing fixed locations, essentially treating the streets as their storefronts.
 
 |   | 
 |:--------:| 
