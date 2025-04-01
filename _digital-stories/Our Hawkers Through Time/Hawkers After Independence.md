@@ -72,6 +72,8 @@ During Singapore's nation-building years from the 1960s to the 1980s, the develo
 
 [![hawkers-story-map-2](/images/Hawkersdigital/hawkers_story_map_2.jpg)](https://go.gov.sg/nationbldgyrshawkercentres){:target="_blank"})
 
+---
+
 ### **Improving Hygiene Standards**
 
 Over the years, significant efforts were made to improve hygiene standards in hawker culture. Measures included the introduction of the Environmental Public Health Act in 1969, public health education campaigns in the 1970s and 1980s, and a stall grading system launched in 1998. These initiatives established stricter regulations, promoted food safety practices, and incentivized hawkers to maintain higher cleanliness standards, ensuring safer dining experiences for the public.
