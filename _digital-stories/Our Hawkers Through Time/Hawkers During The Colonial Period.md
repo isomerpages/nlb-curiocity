@@ -135,5 +135,4 @@ In the 1950s, pre-independence Singapore grappled with the challenges of a burge
 
 ##### **References**
 
-Click the following PDF icon to view and download the reference list used for this page:
-[Hawkers_during_the_Colonial_Period_References](/files/Hawkers_during_the_Colonial_Period_References.pdf)
+Click the following PDF icon to view and download the reference list used for this page: [Hawkers_during_the_Colonial_Period_References](/files/Hawkers_during_the_Colonial_Period_References.pdf)
