@@ -143,5 +143,4 @@ The evolution of Singapore's hawker centers continued into the 2010s, with a ren
 
 ##### **References**
 
-Click the following PDF icon to view and download the reference list used for this page:
-[Hawkers_after_Independence_References](/files/Hawkers_after_Independence_References.pdf)
+Click the following PDF icon to view and download the reference list used for this page: [Hawkers_after_Independence_References](/files/Hawkers_after_Independence_References.pdf)
