@@ -118,3 +118,10 @@ Malay cuisine in Singapore's hawker centers offers a symphony of rich and aromat
 Singapore's hawker centers wouldn't be complete without the vibrant and diverse flavors of Indian cuisine.  From the fiery and tangy fish head curry, a beloved local favorite, to the crispy, buttery prata, perfect for dipping into flavorful curries, these dishes offer a tantalizing glimpse into India's rich culinary heritage. 
 
 <iframe allowfullscreen="true" height="543" width="914" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTey_sclGzKbkwEfH3_DQZ1rJJG3gBNy8g0UNvog5lKcvBTfP0302FWOexT-UI2zw22Qzp17WnOu50/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+---
+
+##### **References**
+
+Click the following PDF icon to view and download the reference list used for this page:
+[](/files/Documenting_Our_Hawkers_Digital_Story_References.pdf)
