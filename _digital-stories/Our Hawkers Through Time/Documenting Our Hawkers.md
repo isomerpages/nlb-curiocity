@@ -124,4 +124,4 @@ Singapore's hawker centers wouldn't be complete without the vibrant and diverse 
 ##### **References**
 
 Click the following PDF icon to view and download the reference list used for this page:
-[](/files/Documenting_Our_Hawkers_Digital_Story_References.pdf)
+[Documenting_Our_Hawkers_References](/files/Documenting_Our_Hawkers_References.pdf)
