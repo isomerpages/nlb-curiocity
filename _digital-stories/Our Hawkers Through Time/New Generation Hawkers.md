@@ -69,3 +69,9 @@ The rise of next-gen hawkers could be seen as a natural continuation of Singapor
 Below is a photo gallery that showcases some of the vanishing hawker food that reflects this ongoing culinary shift.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0UOnzzZDoGrExpHOFSR9sCCUJ8hRIrJKu4Yi7VUKZb1JWzo1Q61NSm-BnXakyINvKnP4dSCXOGI_q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+---
+
+##### **References**
+
+Click the following PDF icon to view and download the reference list used for this page:
