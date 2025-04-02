@@ -138,3 +138,10 @@ Watch the video to hear from participants Ken Chew and Steven Goh as they share 
 The evolution of Singapore's hawker centers continued into the 2010s, with a renewed focus on creating eating spaces for the next generation. These centers aimed to not only preserve the beloved hawker culture but also incorporate modern amenities, sustainable practices, and design elements to enhance the dining experience for both hawkers and patrons. Below is a story map that locates some of the newer hawker centres.
 
 [![hawkers-story-map-3](/images/Hawkersdigital/hawkers_story_map_3.jpg)](https://go.gov.sg/newhawkercentres){:target="_blank"})
+
+---
+
+##### **References**
+
+Click the following PDF icon to view and download the reference list used for this page:
+[](/files/Hawkers_after_Independence_Digital_Story_References.pdf)
