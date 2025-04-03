@@ -74,4 +74,4 @@ Below is a photo gallery that showcases some of the vanishing hawker food that r
 
 ##### **References**
 
-Click the following PDF icon to view and download the reference list used for this page:
+Click the following PDF icon to view and download the reference list used for this page: [Next Generation Hawkers References](/files/Next_Generation_Hawkers_References.pdf)
