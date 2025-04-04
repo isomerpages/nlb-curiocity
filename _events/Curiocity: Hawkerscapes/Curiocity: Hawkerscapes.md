@@ -47,7 +47,7 @@ a token while deepening your appreciation of Singapore’s unique heritage.</p>
 <p><strong>Step 1: Explore &amp; Find Answers</strong>
 </p>
 <p>Browse Curiocity’s digital story, story maps, and videos to uncover clues
-for the quiz!</p>
+for the quiz.</p>
 <p><strong>Step 2:</strong>  <strong>Take the Quiz</strong>
 </p>
 <p>Test your foodie knowledge at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/curiocityquiz</a> and
