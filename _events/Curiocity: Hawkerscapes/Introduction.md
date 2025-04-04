@@ -59,7 +59,8 @@ see if you can get them all right!</p>
 <br>National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
 <p></p>
-<p>*While stocks last. Don’t miss out!</p>
+<p><em>*While stocks last. </em>
+</p>
 <p></p>
 <h4><strong>Acknowledgements</strong></h4>
 <p>Prizes sponsored by Old Chang Kee.</p>
