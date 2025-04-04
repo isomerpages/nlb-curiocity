@@ -63,3 +63,6 @@ see if you can get them all right!</p>
 <p></p>
 <p>While stocks last. Don’t miss out!</p>
 <p></p>
+<h4><strong>Acknowledgements</strong></h4>
+<p>Prizes sponsored by Old Chang Kee.</p>
+<p></p>
