@@ -38,17 +38,17 @@ out the digital content and watch the videos below now!</p>
 <p>&lt;embed content videos&gt;</p>
 <h4><strong>Play, Learn &amp; Redeem a Treat!</strong></h4>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
-explore local history and uncover insights about Singapore’s flavours and
+explore local history and uncover insights about Singapore’s cuisines and
 places. Fun and educational, this quiz gives you the chance to redeem a
-token while enhancing your appreciation for Singapore’s rich heritage!</p>
+token while enhancing your appreciation for Singapore’s heritage!</p>
 <p></p>
 <p><strong>Step 1: Explore &amp; Find Answers</strong>
 </p>
-<p>Browse Curiocity’s digital story, story maps, and videos to uncover clues
+<p>Browse Curiocity’s digital story, story maps and videos to uncover clues
 for the quiz.</p>
 <p><strong>Step 2:</strong>  <strong>Take the Quiz</strong>
 </p>
-<p>Test your foodie knowledge at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/curiocityquiz</a> and
+<p>Challenge your foodie knowledge at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/curiocityquiz</a> and
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
