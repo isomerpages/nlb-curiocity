@@ -16,8 +16,8 @@ culture in a dynamic way.</p>
 resources, exploring hawkers from the colonial era, their evolution after
 independence, efforts to document their legacy, and the rise of the next
 generation of hawkers shaping the future of our food culture.</p>
-<p>Delve into the flavours and stories that define our local hawker culture
-by checking out the digital content and watch the videos below now!</p>
+<p>Delve into the flavours and stories that shape our local hawker culture—explore
+the digital content and watch the videos below now!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,10 +25,7 @@ by checking out the digital content and watch the videos below now!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
