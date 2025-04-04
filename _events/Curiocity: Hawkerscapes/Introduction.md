@@ -52,13 +52,17 @@ for the quiz.</p>
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
-<p>Get all answers correct and redeem an <strong>Old Chang Kee product voucher</strong>!</p>
-<p>Show your quiz completion page with the full score at the <strong>information counter, Level 1, National Library Building</strong>.</p>
+<p>Get all answers correct and redeem an <strong>Old Chang Kee product voucher*</strong>!</p>
+<p>Show your quiz completion page with the full score to qualify.</p>
 <p></p>
-<p><strong>Redemption Period: 2 May (Fri), 1300 hrs – 31 May 2025 (Sat), 1159 hrs</strong>
-</p>
+<p><strong>Redemption Period:</strong>  <strong><br>2 May – 31 May 2025</strong>
+<br>10 am to 9 pm daily (closed on Public Holidays)
+<br><strong>Location:</strong>
+<br>Level 1 Information Counter
+<br>National Library Building
+<br>100 Victoria Street, Singapore 188064</p>
 <p></p>
-<p>While stocks last. Don’t miss out!</p>
+<p>*While stocks last. Don’t miss out!</p>
 <p></p>
 <h4><strong>Acknowledgements</strong></h4>
 <p>Prizes sponsored by Old Chang Kee.</p>
