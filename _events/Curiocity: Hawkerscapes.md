@@ -15,10 +15,28 @@ culture in a dynamic way.</p>
 resources, exploring hawkers from the colonial era, their evolution after
 independence, efforts to document their legacy, and the rise of the next
 generation of hawkers shaping the future of our food culture.</p>
-<p>Let’s delve into the flavours and stories that define our local hawker
-culture!</p>
-<p></p>
-<p>Check out the digital content below:</p>
+<p>Delve into the flavours and stories that define our local hawker culture
+by checking out the digital content and watch the videos below for more!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <h4><strong>Solve the Curiocity Quiz</strong></h4>
@@ -40,11 +58,11 @@ to uncover hidden stories and quiz answers!</p>
 if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
-<p>Acing the quiz? Score full marks and claim an Old Chang Kee product voucher!
-Show your completion page at the information counter at National Library
+<p>Acing the quiz? Score full marks and claim an Old Chang Kee product voucher!</p>
+<p>Show your completion page at the information counter at National Library
 Building, Level 1.</p>
 <p><strong>Redemption period: </strong>2 May (Fri), 1300 hrs – 31 May 2025
 (Sat), 1159 hrs.</p>
 <p></p>
-<p>Don’t miss out!</p>
+<p>While stocks last. Don’t miss out!</p>
 <p></p>
