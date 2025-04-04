@@ -28,7 +28,7 @@ Fun, rewarding and educational, these quizzes offer the chance to redeem
 a token while deepening your appreciation of Singapore’s unique heritage.</p>
 <p></p>
 <blockquote>
-<h4>Play, Learn &amp; Get a Treat! </h4>
+<h4>Play, Learn &amp; Get a Treat!</h4>
 </blockquote>
 <p><strong>Step 1: Explore &amp; Find Answers</strong>
 </p>
