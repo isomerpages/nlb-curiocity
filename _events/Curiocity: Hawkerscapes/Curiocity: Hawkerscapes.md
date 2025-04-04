@@ -35,7 +35,7 @@ the digital content and watch the videos below now!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&lt;embed content videos&gt;</p>
 <h4><strong>Solve the Curiocity Quiz</strong></h4>
 <p>Challenge yourself with the Curiocity quiz to understand local history,
 test your knowledge and gain insights about Singapore’s flavours and places.
