@@ -27,10 +27,7 @@ out the digital content and watch the videos below now!</p>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-hawkers-story-map/index.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png"></a>
 </th>
 </tr>
 </tbody>
