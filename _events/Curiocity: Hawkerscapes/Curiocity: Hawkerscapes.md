@@ -37,10 +37,11 @@ the digital content and watch the videos below now!</p>
 </table>
 <p>&lt;embed content videos&gt;</p>
 <h4><strong>Solve the Curiocity Quiz</strong></h4>
-<p>Challenge yourself with the Curiocity quiz to understand local history,
-test your knowledge and gain insights about Singapore’s flavours and places.
-Fun, rewarding and educational, these quizzes offer the chance to redeem
-a token while deepening your appreciation of Singapore’s unique heritage.</p>
+<p>Want more? Challenge yourself with the Curiocity quiz to understand local
+history, test your knowledge and gain insights about Singapore’s flavours
+and places. Fun, rewarding and educational, these quizzes offer the chance
+to redeem a token while deepening your appreciation of Singapore’s unique
+heritage.</p>
 <p></p>
 <p><strong><u>Play, Learn &amp; Redeem a Treat!</u></strong>
 </p>
