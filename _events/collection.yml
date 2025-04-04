@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Introduction/.keep
       - Events.md
       - "Curiocity: Hawkerscapes.md"
       - "Glue: Curiocity/.keep"
