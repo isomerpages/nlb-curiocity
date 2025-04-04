@@ -4,7 +4,6 @@ collections:
     order:
       - Introduction/.keep
       - Events.md
-      - "Curiocity: Hawkerscapes.md"
       - "Glue: Curiocity/.keep"
       - "Glue: Curiocity/Introduction.md"
       - "Curiocity Encounters: SNF 2022/.keep"
