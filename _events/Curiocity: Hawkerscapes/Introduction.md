@@ -32,12 +32,12 @@ out the digital content and watch the videos below now!</p>
 </tr>
 </tbody>
 </table>
-<p>&lt;embed content videos&gt;</p>
+<p>&lt;embed YT content videos&gt;</p>
 <h4><strong>Play, Learn &amp; Redeem a Treat!</strong></h4>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
-explore local history and uncover insights about Singapore’s cuisines and
-places. Fun and educational, this quiz gives you the chance to redeem a
-token while enhancing your appreciation for Singapore’s heritage!</p>
+explore local history and uncover insights about Singapore’s hawker cuisines
+and places. Fun and educational, this quiz gives you the chance to redeem
+a token while enhancing your appreciation for Singapore’s heritage!</p>
 <p></p>
 <p><strong>Step 1: Explore &amp; Find Answers</strong>
 </p>
