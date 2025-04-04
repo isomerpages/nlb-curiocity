@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - "Curiocity: Hawkerscapes/Curiocity: Hawkerscapes.md"
-      - "Curiocity: Hawkerscapes/.keep"
       - Events.md
+      - "Curiocity: Hawkerscapes/.keep"
+      - "Curiocity: Hawkerscapes/Curiocity: Hawkerscapes.md"
       - "Glue: Curiocity/.keep"
       - "Glue: Curiocity/Introduction.md"
       - "Curiocity Encounters: SNF 2022/.keep"
