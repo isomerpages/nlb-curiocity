@@ -15,7 +15,7 @@ The National Library and National Archives of Singapore have over 10,000 maps an
 	</td>
   </tr>
   <tr>
-    <td><img src="/images/logo-spatialdiscovery.png" alt="Spatial Discovery"></td>
+    <td><img src="/images/logo_spatialdiscovery_nlb.png" alt="Spatial Discovery"></td>
     <td>
 		<strong><a href="http://search.nlb.gov.sg/spatialdiscovery" target="_blank">Spatial Discovery</a></strong><br>
 		Spatial Discovery is designed to allow users to explore and search maps related information across the National Archives of Singapore’s Maps &amp; Building Plans database and National Library’s Rare Maps collection. At present, there are over 3,500 high resolution geo-referenced maps in Spatial Discovery. More maps will be made available when digitization and geo-referencing are completed.
