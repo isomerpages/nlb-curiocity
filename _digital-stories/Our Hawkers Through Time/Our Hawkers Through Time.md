@@ -26,7 +26,7 @@ Join us on this journey of discovery by either checking out our <span style="fon
 <div>
 	<div class="row is-multiline">
 	    <div class="col is-half-desktop is-half-tablet">
-<a href="/digital-stories/our-hawkers-through-time/introduction"><img src="/images/Hawkersdigital/hawkers_dg_icon_1.png" alt="image 2"></a>
+<a href="/digital-stories/our-hawkers-through-time/hawkers-during-colonial-period/"><img src="/images/Hawkersdigital/hawkers_dg_icon_1.png" alt="image 2"></a>
 	</div>
     <div class="col is-half-desktop is-half-tablet">
 			<a href="https://go.gov.sg/ourhawkerscentres"><img src="/images/Hawkersdigital/hawkers_map_icon_1_2.png" alt="image 4"></a>
