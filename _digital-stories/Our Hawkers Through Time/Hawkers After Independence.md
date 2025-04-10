@@ -76,7 +76,7 @@ During Singapore's nation-building years from the 1960s to the 1980s, the develo
 
 ### **Improving Hygiene Standards**
 
-Over the years, significant efforts were made to improve hygiene standards in hawker culture. Measures included the introduction of the Environmental Public Health Act in 1969, public health education campaigns in the 1970s and 1980s, a stall grading system launched in 1998 as well as today's Safety Assurance for Food Establishments (SAFE) framework. These initiatives established stricter regulations, promoted food safety practices, and incentivized hawkers to maintain higher cleanliness standards, ensuring safer dining experiences for the public.
+Over the years, significant efforts were made to improve hygiene standards in hawker culture. Measures included the introduction of the Environmental Public Health Act in 1969, public health education campaigns in the 1970s and 1980s, a stall grading system launched in 1998 as well as today's Safety Assurance for Food Establishments (SAFE) framework. These initiatives established stricter regulations, promoted food safety practices, and incentivised hawkers to maintain higher cleanliness standards, ensuring safer dining experiences for the public.
 
 |   | 
 |:--------:| 
