@@ -24,7 +24,7 @@ exclude:
 resources_name: resource-room
 paginate: 12
 paginate_path: /resource-room/page:num
-favicon: /images/favicon-nlb.ico
+favicon: /images/nlb_favicon_32.png
 permalink: none
 baseurl: ""
 defaults:
