@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "Curiocity: Hawkerscapes"
 ---
 <h2>Curiocity: Hawkerscapes</h2>
-<p>From 2 to 31 May 2025, Curiocity: Hawkerscapes invites you to explore
+<p>From 5 May to 30 June 2025, Curiocity: Hawkerscapes invites you to explore
 Singapore’s rich heritage through an engaging digital story, interactive
 story maps and insightful content videos on local food history. Discover
 the fascinating stories behind iconic hawker dishes and food centres, uncover
@@ -32,7 +32,7 @@ out the digital content and watch the videos below now!</p>
 </tr>
 </tbody>
 </table>
-<p>&lt;embed YT content videos&gt;</p>
+<p></p>
 <h4><strong>Play, Learn &amp; Redeem a Treat!</strong></h4>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
 explore local history and uncover insights about Singapore’s hawker cuisines
@@ -49,10 +49,10 @@ for the quiz.</p>
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
-<p>Get all answers correct and redeem an <strong>Old Chang Kee product voucher*</strong>!
-Show your quiz completion page with the full score to qualify.</p>
+<p>Get all answers correct and redeem an <strong>Old Chang Kee $10 voucher*</strong>!
+Show your quiz completion page with the full score (6/6) to qualify.</p>
 <p></p>
-<p><strong>Redemption Period:</strong>  <strong><br>2 May – 31 May 2025</strong>
+<p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
 <br>10 am to 9 pm daily (closed on Public Holidays)
 <br><strong>Location:</strong>
 <br>Level 1 Information Counter
