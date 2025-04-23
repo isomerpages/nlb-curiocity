@@ -6,6 +6,10 @@ description: ""
 third_nav_title: "Curiocity: Hawkerscapes"
 ---
 <h2>Curiocity: Hawkerscapes</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Curiocity_Hawkerscapes___website_banner_big.png">
+</div>
 <p>From 5 May to 30 June 2025, Curiocity: Hawkerscapes invites you to explore
 Singapore’s rich heritage through an engaging digital story, interactive
 story maps and insightful content videos on local food history. Discover
