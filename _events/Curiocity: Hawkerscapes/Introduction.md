@@ -42,10 +42,9 @@ out the digital content and watch the videos below now!</p>
 explore local history and uncover insights about Singapore’s hawker cuisines
 and places. Fun and educational, this quiz gives you the chance to redeem
 a token while enhancing your appreciation for Singapore’s heritage!</p>
-<p>&lt;add image to link to quiz&gt;</p>
 <p><strong>Step 1: Explore &amp; Find Answers</strong>
 </p>
-<p>Browse Curiocity’s digital story, story maps and cvideos to uncover clues
+<p>Browse Curiocity’s digital story, story maps and videos to uncover clues
 for the quiz.</p>
 <p><strong>Step 2:</strong>  <strong>Take the Quiz</strong>
 </p>
