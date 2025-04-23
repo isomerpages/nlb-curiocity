@@ -56,7 +56,7 @@ Long Bar in Raffles Hotel was among the oldest food establishments in the Bras B
 ----
 
 <details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Interested to know what is inside the Singapore Sling? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal the answer below. (Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_21_2005-01-11.html" target="_blank">Infopedia</a>)</span></summary>
+<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Interested to know what is inside the Singapore Sling? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal the answer below. (Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a671de5e-c8f0-49a8-9569-4a71fd0d8408" target="_blank">Infopedia</a>)</span></summary>
 <br>
 <span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044"> Recipe:
 <br>30 ml gin
