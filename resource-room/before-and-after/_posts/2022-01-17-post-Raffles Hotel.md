@@ -4,6 +4,7 @@ permalink: /resource-room/before-and-after/raffles-hotel/
 date: 2022-01-17
 layout: post
 description: ""
+variant: markdown
 ---
 [![Alt text for image on Isomer site](/images/before-after-image-raffles-hotel.jpg)](https://go.gov.sg/iyjja0){:target="_blank"}
 
