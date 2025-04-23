@@ -49,7 +49,7 @@ for the quiz.</p>
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
-<p>Get all answers correct and redeem an <strong>Old Chang Kee $10 voucher*</strong>!
+<p>Get all answers correct and redeem a<strong> $10</strong>  <strong>Old Chang Kee voucher*</strong>!
 Show your quiz completion page with the full score (6/6) to qualify.</p>
 <p></p>
 <p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
@@ -59,8 +59,8 @@ Show your quiz completion page with the full score (6/6) to qualify.</p>
 <br>National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
 <p></p>
-<p><em>*While stocks last.</em>
-</p>
+<p>*Terms and Conditions apply. While stocks last.</p>
+<p>Please refer to the Terms &amp; Conditions here.</p>
 <p></p>
 <h4><strong>Acknowledgements</strong></h4>
 <p>Prizes sponsored by Old Chang Kee.</p>
