@@ -3,7 +3,6 @@ title: Introduction
 permalink: /curiocity-hawkerscapes/introduction/
 variant: tiptap
 description: ""
-third_nav_title: "Curiocity: Hawkerscapes"
 ---
 <h2>Curiocity: Hawkerscapes</h2>
 <p></p>
