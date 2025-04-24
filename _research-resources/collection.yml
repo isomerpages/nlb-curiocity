@@ -1,6 +1,0 @@
-collections:
-  research-resources:
-    output: true
-    order:
-      - picturesg.md
-      - spatial-discovery.md

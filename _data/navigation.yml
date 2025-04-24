@@ -1,4 +1,4 @@
-logo: /images/logo-curiocity-new-1.png
+logo: /images/logo_curio_nlb_new.png
 links:
   - title: Story Maps
     url: /story-maps/explore
@@ -14,6 +14,8 @@ links:
   - title: Digital Stories
     url: /digital-stories/introduction
     sublinks:
+      - title: Our Hawkers Through Time
+        url: /digital-stories/our-hawkers-through-time/introduction/
       - title: Jurong
         url: /digital-stories/jurong/intro/
       - title: Fort Canning Hill
@@ -30,6 +32,8 @@ links:
   - title: Events
     url: /events/overview
     sublinks:
+      - title: "Curiocity: Hawkerscapes"
+        url: /curiocity-hawkerscapes/introduction/
       - title: "Glue: Curiocity"
         url: /events/glue-curiocity/introduction/
       - title: "Curiocity Encounters: SNF 2022"

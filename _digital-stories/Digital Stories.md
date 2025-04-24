@@ -8,6 +8,11 @@ Step into a world of captivating storytelling with our digital stories that brin
 
 Follow us on a journey through time and space, as we explore the cultural, social, and architectural transformations of iconic places in Singapore. With our digital stories, you can discover the hidden narratives and untold stories that have shaped the vibrant city we know today.
 
+| **<font size="5">Our Hawkers</font>** |  | 
+| -------- | -------- | 
+| [<img src="/images/Hawkersdigital/post_independence_12.jpg" alt="singapore-hawkers" style="width:500px;">](/digital-stories/our-hawkers-through-time/introduction/)   | Food is a big part of life in Singapore. The city state is known for its wide variety of food selections especially in its hawker centres. Explore the story of Singapore's hawkers in this [digital story](/digital-stories/our-hawkers-through-time/introduction/){:target="_blank"} .
+|
+
 | **<font size="5">Jurong</font>** |  | 
 | -------- | -------- | 
 | [<img src="/images/Jurongdigital/jtc_building_1.jpg" alt="singapore-revisualised-virtual-showcase" style="width:500px;">](/digital-stories/jurong/intro/)   | Jurong was once an undeveloped region but has now evolved into a thriving metropolis, blending innovation and sustainable living. Explore the transformation in this [digital story](/digital-stories/jurong/intro/){:target="_blank"} .

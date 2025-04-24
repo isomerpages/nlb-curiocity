@@ -3,8 +3,10 @@ collections:
     output: true
     order:
       - Events.md
-      - "Glue: Curiocity/Introduction.md"
+      - "Curiocity: Hawkerscapes/Introduction.md"
+      - "Curiocity: Hawkerscapes/.keep"
       - "Glue: Curiocity/.keep"
+      - "Glue: Curiocity/Introduction.md"
       - "Curiocity Encounters: SNF 2022/.keep"
       - "Curiocity Encounters: SNF 2022/Introduction.md"
       - "Curiocity Encounters: SNF 2022/Installations & Display.md"

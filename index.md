@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Curiocity
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/Jurongdigital/jurong_banner_1.jpg
+      background: /images/Hawkersdigital/hawkers_banner_1_1.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -22,6 +22,15 @@ sections:
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
       variant: center
+  - infopic:
+      title: Our Hawkers Through Time
+      subtitle: Digital Story
+      id: infopic
+      description: Explore the story of Singapore's hawkers in this digital story.
+      button: Start the Journey
+      alt: Bukit Canberra
+      url: /digital-stories/our-hawkers-through-time/introduction/
+      image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
   - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
