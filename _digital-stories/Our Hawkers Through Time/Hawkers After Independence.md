@@ -96,7 +96,7 @@ _______
 
 |   | 
 |:--------:| 
-| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_9.jpg)|
+| ![Alt text for image on Isomer site](/images/Hawkersdigital/post_independence_8.jpg)|
 | In 1998, a grading system was introduced to indicate the cleanliness of hawker stalls. Under this system, stalls are graded from "A" for excellence in cleanliness and food hygiene to "D" for below-average standards. The grading is based on various criteria, including cleanliness, food hygiene, and the personal hygiene habits of the hawkers. Stallholders are required to display their grades prominently, allowing the public to be informed about their cleanliness levels. This initiative encouraged hawkers to maintain or improve their grades to attract customers. Today, this letter-based grading system has been replaced by the current Safety Assurance for Food Establishments (SAFE) framework. Introduced in 2023, the new system awards food establishment with a Bronze, Silver or Gold grading based on their track records and observation of food safety assurance. Shown above is a poster from the early 2000s reminding both hawkers and diners to maintain good hygiene practices in hawker centres. (Image Credit: [All rights reserved. Ministry of the Environment](https://www.nas.gov.sg/archivesonline/posters/record-details/a6744aed-b57e-11e3-927b-0050568939ad){:target="_blank"}) |
 
 ----
