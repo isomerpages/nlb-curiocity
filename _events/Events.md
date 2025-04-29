@@ -4,7 +4,7 @@ permalink: /events/overview/
 description: ""
 variant: markdown
 ---
-| [**<font size="5"> Curiocity: Hawkerscapes </font>**](/events/glue-curiocity/introduction/){:target="_blank"}  |  | 
+| [**<font size="5"> Curiocity: Hawkerscapes </font>**](/events/curiocity-hawkerscapes/introduction/){:target="_blank"}  |  | 
 | -------- | -------- | 
 | [<img src="/images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png" alt="curiocity:hawkerscapes" style="width:650px">](/events/glue-curiocity/introduction/)   |Discover Singapore’s rich heritage through a curated digital story, interactive story maps and content videos on local food history. Click [here](/events/curiocity-hawkerscapes/introduction/){:target="_blank"} to find out more.
 |
