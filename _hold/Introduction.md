@@ -61,8 +61,8 @@ Show your quiz completion page with the full score (6/6) to qualify.</p>
 <br>National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
 <p></p>
-<p>*Terms and Conditions apply. While stocks last.</p>
-<p>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>*Terms and Conditions apply. While stocks last.
+<br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>Acknowledgements</strong></h4>
 <p>Prizes sponsored by Old Chang Kee.</p>
