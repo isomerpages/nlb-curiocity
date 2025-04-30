@@ -52,11 +52,12 @@ see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
 <p>Get all answers correct and redeem a<strong> $10</strong>  <strong>Old Chang Kee voucher*</strong>!
-Show your quiz completion page with the full score (6/6) to qualify.</p>
+Show your quiz completion page with the full score (6/6) at the counter
+to qualify.</p>
 <p></p>
 <p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
 <br>10 am to 9 pm daily (closed on Public Holidays)
-<br><strong>Location:</strong>
+<br><strong>Redemption Location:</strong>
 <br>Level 1 Information Counter
 <br>National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
