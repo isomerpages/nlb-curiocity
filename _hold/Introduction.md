@@ -47,7 +47,7 @@ a token while enhancing your appreciation for Singapore’s heritage!</p>
 for the quiz.</p>
 <p><strong>Step 2:</strong>  <strong>Take the Quiz</strong>
 </p>
-<p>Challenge your foodie knowledge at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/curiocityquiz</a> and
+<p>Challenge your foodie knowledge at <a href="https://go.gov.sg/hawkerscapesquiz" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/hawkerscapesquiz</a> and
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
