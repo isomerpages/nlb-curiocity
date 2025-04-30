@@ -52,7 +52,7 @@ see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
 <p>Get all answers correct and redeem a<strong> $10</strong>  <strong>Old Chang Kee voucher*</strong>!
-Show your quiz completion page with the full score (6/6) at the counter
+Show your quiz completion page with the full score (6/6) at the NLB counter
 to qualify.</p>
 <p></p>
 <p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
