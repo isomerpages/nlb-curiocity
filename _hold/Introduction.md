@@ -65,6 +65,4 @@ to qualify.</p>
 <p>*Terms and Conditions apply. While stocks last.
 <br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<h4><strong>Acknowledgements</strong></h4>
-<p>Prizes sponsored by Old Chang Kee.</p>
 <p></p>
