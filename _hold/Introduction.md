@@ -28,9 +28,9 @@ generation of hawkers shaping the future of our food culture.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.dllyafjx115aj.amplifyapp.com/digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-hawkers-story-map/index.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/ourhawkerscentres"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png"></a>
 </th>
 </tr>
 </tbody>
