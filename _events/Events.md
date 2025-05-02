@@ -6,12 +6,12 @@ variant: markdown
 ---
 | [**<font size="5"> Curiocity: Hawkerscapes </font>**](/events/curiocity-hawkerscapes/introduction/){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png" alt="curiocity:hawkerscapes" style="width:650px">](/events/glue-curiocity/introduction/)   |Discover Singapore’s rich heritage through a curated digital story, interactive story maps and content videos on local food history. Click [here](/events/curiocity-hawkerscapes/introduction/){:target="_blank"} to find out more.
+| [<img src="/images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png" alt="curiocity:hawkerscapes" style="width:650px">](/events/glue-curiocity/introduction/)   |Discover Singapore’s rich heritage through a thematic digital story, story maps and content videos on local food history. Click [here](/events/curiocity-hawkerscapes/introduction/){:target="_blank"} to find out more.
 |
 
 | [**<font size="5"> Glue: Curiocity </font>**](/events/glue-curiocity/introduction/){:target="_blank"}  |  | 
 | -------- | -------- | 
-| [<img src="/images/Events/glue_website_annoucement_1.png" alt="glue:curiocity" style="width:650px">](/events/glue-curiocity/introduction/)   | Explore and discover hidden gems of history, stories, and even good eats of Jurong and Harbourfront with&nbsp;Glue: Curiocity. Click [here](/events/glue-curiocity/introduction/){:target="_blank"} to find out more.
+| [<img src="/images/Events/glue_website_annoucement_1.png" alt="glue:curiocity" style="width:650px">](/events/glue-curiocity/introduction/)   | Explore hidden gems of history, stories, and even good eats of Jurong and Harbourfront with&nbsp;Glue: Curiocity. Click [here](/events/glue-curiocity/introduction/){:target="_blank"} to find out more.
 |
 
 
