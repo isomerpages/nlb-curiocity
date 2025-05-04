@@ -32,6 +32,8 @@ links:
   - title: Events
     url: /events/overview
     sublinks:
+      - title: "Curiocity: Hawkerscapes"
+        url: /events/curiocity-hawkerscapes/introduction
       - title: "Glue: Curiocity"
         url: /events/glue-curiocity/introduction/
       - title: "Curiocity Encounters: SNF 2022"
@@ -40,8 +42,6 @@ links:
         url: /events/curiocity-showcase-2022
       - title: Curiocity Treasure Hunt
         url: /events/curiocity-treasure-hunt/introduction
-      - title: "Curiocity: Hawkerscapes"
-        url: /events/curiocity-hawkerscapes/introduction
   - title: Research Resources
     url: /research-resources/
   - title: About Us
