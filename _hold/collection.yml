@@ -1,5 +1,4 @@
 collections:
   hold:
     output: true
-    order:
-      - Introduction.md
+    order: []
