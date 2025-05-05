@@ -20,7 +20,7 @@ culture in a dynamic way.</p>
 resources, exploring hawkers from the colonial era, their evolution after
 independence, efforts to document their legacy, and the rise of the next
 generation of hawkers shaping the future of our food culture.</p>
-<p><strong>Delve into the flavours and stories that shape our local hawker culture—check out the digital content and watch the videos below now!</strong>
+<p><strong>Delve into the flavours and stories that shape our local hawker culture—check out the digital content below now!</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -74,13 +74,13 @@ to qualify.</p>
 <p>Do you have snapshots of your favourite local dishes? Share the images
 now on the Singapore Memories portal and contribute to our rich tapestry
 of Singapore stories!</p>
-<p><a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=12" rel="noopener nofollow" target="_blank">Submit here</a>
+<p><strong><a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=12" rel="noopener nofollow" target="_blank">Submit here</a></strong>
 </p>
 <p></p>
 <h4><strong>Acknowledgement</strong></h4>
 <p>Prizes sponsored by:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
+<img style="width: 25%;" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
 </div>
 <p></p>
