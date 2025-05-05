@@ -72,6 +72,10 @@ Below is a photo gallery that showcases some of the vanishing hawker food that r
 
 ---
 
+### **Perspectives on the Essential Changes in Hawker Culture**
+
+Singapore's cherished hawker culture, a UNESCO-recognised symbol of multiculturalism and community, is adapting to modern challenges. Check out this [page](https://www.nlb.gov.sg/main/site/read-to-be-sure/what-is-rtbs/Volume-4-Issue-3-Hawker-Culture){:target="_blank"} to learn more and explore different perspectives: 
+
 ##### **References**
 
 Click the following PDF icon to view and download the reference list used for this page: [Next Generation Hawkers References](/files/Next_Generation_Hawkers_References.pdf)
