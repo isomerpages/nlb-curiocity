@@ -79,27 +79,8 @@ of Singapore stories!</p>
 <p></p>
 <h4><strong>Acknowledgement</strong></h4>
 <p>Prizes sponsored by:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
+<img style="width: 30%;" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
