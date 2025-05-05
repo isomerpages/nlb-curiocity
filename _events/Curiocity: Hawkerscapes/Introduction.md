@@ -37,7 +37,11 @@ generation of hawkers shaping the future of our food culture.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <h4><strong>Learn, Play &amp; Redeem a Treat!</strong></h4>
+<p>Cra<strong>Learn, Play &amp; Redeem a Treat!</strong>
+</p>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
 explore local history and uncover insights about Singapore’s hawker cuisines
 and places. Fun and educational, this quiz gives you the chance to redeem
@@ -65,3 +69,48 @@ to qualify.</p>
 <p></p>
 <p>*Terms and Conditions apply. While stocks last.
 <br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<h4><strong>Singapore Memories</strong></h4>
+<p>Do you have snapshots of your favourite local dishes? Share the images
+now on the Singapore Memories portal and contribute to our rich tapestry
+of Singapore stories!</p>
+<p><a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=12" rel="noopener nofollow" target="_blank">Submit here</a>
+</p>
+<p></p>
+<h4><strong>Acknowledgement</strong></h4>
+<p>Prizes sponsored by:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
