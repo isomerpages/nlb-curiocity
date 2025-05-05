@@ -1,8 +1,9 @@
 ---
 title: Introduction
-permalink: /curiocity-hawkerscapes/introduction/
+permalink: /events/curiocity-hawkerscapes/introduction/
 variant: tiptap
 description: ""
+third_nav_title: "Curiocity: Hawkerscapes"
 ---
 <h2>Curiocity: Hawkerscapes</h2>
 <p></p>
@@ -19,8 +20,8 @@ culture in a dynamic way.</p>
 resources, exploring hawkers from the colonial era, their evolution after
 independence, efforts to document their legacy, and the rise of the next
 generation of hawkers shaping the future of our food culture.</p>
-<p>Delve into the flavours and stories that shape our local hawker culture—check
-out the digital content and watch the videos below now!</p>
+<p><strong>Delve into the flavours and stories that shape our local hawker culture—check out the digital content and watch the videos below now!</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -28,9 +29,9 @@ out the digital content and watch the videos below now!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://staging-lite.dllyafjx115aj.amplifyapp.com/digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/introduction/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_dg_icon_1.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/our-hawkers-story-map/index.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/ourhawkerscentres"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hawkersdigital/hawkers_map_icon_1_2.png"></a>
 </th>
 </tr>
 </tbody>
@@ -47,23 +48,20 @@ a token while enhancing your appreciation for Singapore’s heritage!</p>
 for the quiz.</p>
 <p><strong>Step 2:</strong>  <strong>Take the Quiz</strong>
 </p>
-<p>Challenge your foodie knowledge at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/curiocityquiz</a> and
+<p>Challenge your foodie knowledge at <a href="https://go.gov.sg/hawkerscapesquiz" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/hawkerscapesquiz</a> and
 see if you can get them all right!</p>
 <p><strong>Step 3: Redeem Your Reward</strong>
 </p>
 <p>Get all answers correct and redeem a<strong> $10</strong>  <strong>Old Chang Kee voucher*</strong>!
-Show your quiz completion page with the full score (6/6) to qualify.</p>
+<br>Show your quiz completion page with the full score (6/6) at the NLB counter
+to qualify.</p>
 <p></p>
 <p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
 <br>10 am to 9 pm daily (closed on Public Holidays)
-<br><strong>Location:</strong>
+<br><strong>Redemption Location:</strong>
 <br>Level 1 Information Counter
 <br>National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
 <p></p>
-<p>*Terms and Conditions apply. While stocks last.</p>
-<p>Please refer to the Terms &amp; Conditions here.</p>
-<p></p>
-<h4><strong>Acknowledgements</strong></h4>
-<p>Prizes sponsored by Old Chang Kee.</p>
-<p></p>
+<p>*Terms and Conditions apply. While stocks last.
+<br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
