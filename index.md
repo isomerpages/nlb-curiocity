@@ -26,8 +26,9 @@ sections:
       title: "Curiocity: Hawkerscapes"
       subtitle: Event
       id: infopic
-      description: "Explore and discover hidden gems of history, stories, and even
-        good eats of Jurong and Harbourfront with Glue: Curiocity."
+      description: "Test your knowledge on our hawker culture! From 5 May to 30 June
+        2025, Curiocity: Hawkerscapes invites you to participate in a quiz to
+        win prizes."
       button: Click here to find out more
       url: /events/curiocity-hawkerscapes/introduction/
       image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
