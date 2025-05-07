@@ -26,9 +26,8 @@ sections:
       title: "Curiocity: Hawkerscapes"
       subtitle: Event
       id: infopic
-      description: "Test your knowledge on our hawker culture! From 5 May to 30 June
-        2025, Curiocity: Hawkerscapes invites you to participate in a quiz to
-        win prizes."
+      description: "Test your hawker knowledge! Win prizes in the Curiocity:
+        Hawkerscapes quiz, May 5 - June 30, 2025."
       button: Click here to find out more
       url: /events/curiocity-hawkerscapes/introduction/
       image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
