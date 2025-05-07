@@ -103,7 +103,7 @@ _______
 
 ### **From Streets to Stalls: Evolution of Singapore’s Hawker Culture**
 
-From makeshift roadside stalls to today’s iconic hawker centres, Singapore’s hawker culture has come a long way! This video takes you on a bite-sized journey through time — from the chaotic hustle of early street hawkers to the creation of hawker shelters and the clean, bustling hawker centres we love today. Hear personal stories from veteran hawkers who lived the change, revisit historic markets and discover how food, policy and community came together to shape our nation’s vibrant hawker culture.
+From makeshift roadside stalls to today’s iconic hawker centres, Singapore’s hawker culture has come a long way! The video below takes you on a bite-sized journey through time — from the chaotic hustle of early street hawkers to the creation of hawker shelters and the clean, bustling hawker centres we love today. Hear personal stories from veteran hawkers who lived the change, revisit historic markets and discover how food, policy and community came together to shape our nation’s vibrant hawker culture.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=iNsSwO2SiDnvI41O" height="315" width="560"></iframe>
 
