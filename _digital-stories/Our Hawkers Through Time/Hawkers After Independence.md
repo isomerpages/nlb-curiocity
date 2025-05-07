@@ -105,8 +105,14 @@ _______
 
 From makeshift roadside stalls to today’s iconic hawker centres, Singapore’s hawker culture has come a long way! The video below takes you on a bite-sized journey through time — from the chaotic hustle of early street hawkers to the creation of hawker shelters and the clean, bustling hawker centres we love today. Hear personal stories from veteran hawkers who lived the change, revisit historic markets and discover how food, policy and community came together to shape our nation’s vibrant hawker culture.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=iNsSwO2SiDnvI41O" height="315" width="560"></iframe>
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
 
+<div class="google-slides-container"> 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=iNsSwO2SiDnvI41O" height="315" width="560"></iframe>
+</div>
 ---
 
 
@@ -138,8 +144,9 @@ _______
 
 Watch the video to hear from participants Ken Chew and Steven Goh as they share their journey through the programme and their experiences moving on to manage their own stalls!
 
+<div class="google-slides-container"> 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Hq13TRxKce0?si=UP_N7oMvTDwHmFe5" height="315" width="560"></iframe>
-
+</div>
 ---
 
 ### **Hawker Centres for the Next Generation**
