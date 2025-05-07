@@ -97,9 +97,11 @@ The pinnacle of the evolving hawker scene in Singapore arrived when the country�
 
 ---
 
-### **Types of Hawker Food**
+### **A Taste of Singapore: Stories Behind Our Favourite Dishes**
 
-Singapore's hawker centers are a vibrant tapestry of flavors, reflecting the nation's diverse cultural heritage.  From the comforting warmth of Hainanese chicken rice to the rich spices of nasi lemak and the fiery depths of fish head curry, these culinary gems offer a tantalising glimpse into Singapore's multicultural identity.  While much has been said about the vibrant hawker culture itself, the true heart of the matter lies in the incredible food. So what are some of the typical Chinese, Malay and Indian hawker food that can be found in our hawker centres? Below is our take.
+Singapore’s hawker food is a living story of culture, community and identity. From humble street stalls to UNESCO recognition, the video and the photo gallery below dive into how our hawker culture evolved with each generation. Hear from passionate hawkers, witness traditions in action, and discover how every dish — be it chicken rice or roti prata — carries the flavours of migration, memory and home.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qdVR7sBt918?si=YV2XNXKMoqspz2eZ" height="315" width="560"></iframe>
 
 #### **Chinese Food**
 
