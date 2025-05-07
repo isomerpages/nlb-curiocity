@@ -28,7 +28,14 @@ The heart of Singapore’s hawker culture is being reinvigorated by a dynamic wa
 
 A new wave of hawkers is redefining Singapore’s iconic food heritage. Join us in the video below as we explore how young hawkers are reimagining beloved recipes, blending tradition with innovation, and introducing fresh energy to hawker centres across the island. Some are embracing new techniques and global flavours, while others are keeping time-honoured recipes alive, ensuring that our culinary history continues to thrive for generations to come.
 
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=ePgNN2Y5naFD-FxL" height="315" width="560"></iframe>
+</div>
 
 ---
 
@@ -66,7 +73,9 @@ As Singapore solidifies its position as a global culinary destination, its hawke
 
 **Want to take a tour of Urban Hawker? Check out this YouTube video tour.**
 
+<div class="google-slides-container"> 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qI5MM4ym3v4?si=X-7q1k2pyfUiLzvt" height="315" width="560"></iframe>
+</div>
 
 ---
 
@@ -76,7 +85,9 @@ The rise of next-gen hawkers could be seen as a natural continuation of Singapor
 
 Below is a photo gallery that showcases some of the vanishing hawker food that reflects this ongoing culinary shift.
 
+<div class="google-slides-container"> 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0UOnzzZDoGrExpHOFSR9sCCUJ8hRIrJKu4Yi7VUKZb1JWzo1Q61NSm-BnXakyINvKnP4dSCXOGI_q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 
 ---
 
