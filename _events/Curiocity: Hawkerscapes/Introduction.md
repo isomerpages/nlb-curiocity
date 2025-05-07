@@ -38,17 +38,20 @@ generation of hawkers shaping the future of our food culture.</p>
 </table>
 <p></p>
 <p></p>
-<p>From Streets to Stalls: Evolution of Singapore’s Hawker Culture</p>
+<p><strong>From Streets to Stalls: Evolution of Singapore’s Hawker Culture</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=OwwXSSRCUo1zoU7y"></iframe>
 </div>
 <p></p>
-<p>A Taste of Singapore: Stories Behind Our Favourite Dishes</p>
+<p><strong>A Taste of Singapore: Stories Behind Our Favourite Dishes</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdVR7sBt918?si=FDQLAtgWdP6UAZUY"></iframe>
 </div>
 <p></p>
-<p>Hawker Culture: Next Generation</p>
+<p><strong>Hawker Culture: Next Generation</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=ub7By5zFRFll2Ib4"></iframe>
 </div>
