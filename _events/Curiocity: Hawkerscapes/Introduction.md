@@ -20,7 +20,7 @@ culture in a dynamic way.</p>
 resources, exploring hawkers from the colonial era, their evolution after
 independence, efforts to document their legacy, and the rise of the next
 generation of hawkers shaping the future of our food culture.</p>
-<p><strong>Delve into the flavours and stories that shape our local hawker culture—check out the digital content and watch the videos below now!</strong>
+<p><strong>Delve into the flavours and stories that shape our local hawker culture—check out the digital content below now!</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -36,6 +36,25 @@ generation of hawkers shaping the future of our food culture.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p><strong>From Streets to Stalls: Evolution of Singapore’s Hawker Culture</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=OwwXSSRCUo1zoU7y"></iframe>
+</div>
+<p></p>
+<p><strong>A Taste of Singapore: Stories Behind Our Favourite Dishes</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdVR7sBt918?si=FDQLAtgWdP6UAZUY"></iframe>
+</div>
+<p></p>
+<p><strong>Hawker Culture: Next Generation</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=ub7By5zFRFll2Ib4"></iframe>
+</div>
 <p></p>
 <h4><strong>Learn, Play &amp; Redeem a Treat!</strong></h4>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
@@ -65,3 +84,18 @@ to qualify.</p>
 <p></p>
 <p>*Terms and Conditions apply. While stocks last.
 <br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<h4><strong>Singapore Memories</strong></h4>
+<p>Do you have snapshots of your favourite local dishes? Share the images
+now on the Singapore Memories portal and contribute to our rich tapestry
+of Singapore stories!</p>
+<p><strong><a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=12" rel="noopener nofollow" target="_blank">Submit here</a></strong>
+</p>
+<p></p>
+<h4><strong>Acknowledgement</strong></h4>
+<p>Prizes sponsored by:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="OCK" src="/images/Events/OCK_Vertical_logo_lo_res.png">
+</div>
+<p></p>

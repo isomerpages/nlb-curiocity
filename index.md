@@ -23,6 +23,16 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
+      title: "Curiocity: Hawkerscapes"
+      subtitle: Event
+      id: infopic
+      description: Discover local hawker heritage through Curiocity's digital content
+        and test your knowledge with a quiz!
+      button: Click here to find out more
+      url: /events/curiocity-hawkerscapes/introduction/
+      image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
+      alt: Image alt text
+  - infopic:
       title: Our Hawkers Through Time
       subtitle: Digital Story
       id: infopic
@@ -51,16 +61,6 @@ sections:
       url: /digital-stories/jurong/intro/
       image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
       alt: Chinese Garden Aerial
-  - infopic:
-      title: "Glue: Curiocity"
-      subtitle: Event
-      id: infopic
-      description: "Explore and discover hidden gems of history, stories, and even
-        good eats of Jurong and Harbourfront with Glue: Curiocity."
-      button: Click here to find out more
-      url: /events/glue-curiocity/introduction/
-      image: /images/Events/Glue_Website_Annoucement.png
-      alt: Image alt text
   - infopic:
       title: HarbourFront
       subtitle: Story Map
