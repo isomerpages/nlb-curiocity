@@ -24,6 +24,14 @@ The heart of Singapore’s hawker culture is being reinvigorated by a dynamic wa
 
 ----
 
+### **Hawker Culture: Next Generation**
+
+A new wave of hawkers is redefining Singapore’s iconic food heritage. Join us in the video below as we explore how young hawkers are reimagining beloved recipes, blending tradition with innovation, and introducing fresh energy to hawker centres across the island. Some are embracing new techniques and global flavours, while others are keeping time-honoured recipes alive, ensuring that our culinary history continues to thrive for generations to come.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=ePgNN2Y5naFD-FxL" height="315" width="560"></iframe>
+
+---
+
 ### **Evolution of Flavours**
 
 In retrospect, Singapore's hawker scene has always been a melting pot of flavours - Chinese, Malay, Indian, Eurasian, western and eastern, you name it. But the next generation is taking this to new heights. By creatively blending traditional recipes with modern techniques and international influences, they are crafting exciting and innovative dishes that redefine the hawker experience.
