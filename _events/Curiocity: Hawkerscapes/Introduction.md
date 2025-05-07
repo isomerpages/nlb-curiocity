@@ -36,9 +36,8 @@ generation of hawkers shaping the future of our food culture.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -50,10 +49,6 @@ generation of hawkers shaping the future of our food culture.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A Taste of Singapore: Stories Behind Our Favourite Dishes</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Hawker Culture: Next Generation</strong>
 </p>
 </td>
 </tr>
@@ -68,11 +63,26 @@ generation of hawkers shaping the future of our food culture.</p>
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdVR7sBt918?si=ooeTiARf5e1_SyLC"></iframe>
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hawker Culture: Next Generation</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=0U9_ZCWmaruHgupQ"></iframe>
 </div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
