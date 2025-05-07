@@ -36,12 +36,48 @@ generation of hawkers shaping the future of our food culture.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From Streets to Stalls: Evolution of Singapore’s Hawker Culture</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>A Taste of Singapore: Stories Behind Our Favourite Dishes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hawker Culture: Next Generation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5pwK87Sq2z4?si=sT3_njt-RYSO0Cce"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdVR7sBt918?si=ooeTiARf5e1_SyLC"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u4tdSuZLPq8?si=0U9_ZCWmaruHgupQ"></iframe>
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>Learn, Play &amp; Redeem a Treat!</strong></h4>
-<p>Cra<strong>Learn, Play &amp; Redeem a Treat!</strong>
-</p>
 <p>Craving more? Take the <strong>Curiocity quiz</strong> to test your knowledge,
 explore local history and uncover insights about Singapore’s hawker cuisines
 and places. Fun and educational, this quiz gives you the chance to redeem
