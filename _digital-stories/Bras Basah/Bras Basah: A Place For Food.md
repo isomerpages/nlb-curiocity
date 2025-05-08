@@ -26,7 +26,16 @@ The premises of today’s Hotel Rendezvous at the corner of Bras Basah Road and 
 
 **Watch this video by Singapore Best Food on the Rendezvous (or Hock Lock Kee) Nasi Padang Restaurant.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUHgSkfDVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
 
 ------
 <details>
@@ -51,7 +60,11 @@ Long Bar in Raffles Hotel was among the oldest food establishments in the Bras B
 
 **In 2015, the Singapore Sling celebrates its 100th anniversary. Watch the video below by Raffles Hotel explaining the history of the iconic made-in-Singapore drink.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cMFOB2sSJLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMFOB2sSJLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
+
 
 ----
 
@@ -107,7 +120,11 @@ You can also watch this video to see how prominent local food consultant and fou
 
 **SG50 Deliciously Singaporean: Chicken Rice**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPjAcyowB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
 
 ----
 
@@ -185,7 +202,9 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 **"Flavours of Waterloo Street - Indian Rojak" by Our Grandfather's Story**
 
+<div class="google-slides-container"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1zt1_fi2pA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
 |  |
 |:---:|

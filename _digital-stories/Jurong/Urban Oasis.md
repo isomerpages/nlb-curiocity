@@ -121,7 +121,16 @@ The growth of Jurong Town was not an instant success, as initially, not many peo
 
 **Want to find out where you can eat in Jurong? Check out this food guide by [SETHLUI.com](https://www.youtube.com/@Sethluifoodtravel) below.**
 
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pyCUi3E55BQ?si=KPCdr6AsSTiEL8fR" height="315" width="560"></iframe>
+</div>
+
+
 
 ----
 
