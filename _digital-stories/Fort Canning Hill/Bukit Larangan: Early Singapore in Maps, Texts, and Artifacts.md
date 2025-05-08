@@ -130,8 +130,19 @@ At the inception of a British settlement in Singapore in 1819, Sir Stamford Raff
 
 Primary school history lessons teach that Sir Stamford Raffles founded modern Singapore in 1819. However, archaeological excavations at Fort Canning, led by Professor John Miksic from the National University of Singapore, and other archaeologists over the years, have shown that there was already a large and diverse community thriving on the island more than 700 years ago. So who is Professor John Miksic? Find out more in this video by the National Trades Union Congress (NTUC) Singapore.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5aVKLnfmL2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5aVKLnfmL2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
 
 In addition, the National Museum of Singapore has a short video showcasing the key archaeological finds on Fort Canning Hill. Watch it here and learn what they are and their significance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAVuE2Ehtp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAVuE2Ehtp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
