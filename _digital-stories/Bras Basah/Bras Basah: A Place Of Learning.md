@@ -179,7 +179,16 @@ Towards the end of the 1970s, many bookstores along Bras Basah and North Bridge 
 
 **Watch this short video by students from the Nanyang Academy of Fine Arts and National Museum of Singapore on the significance of Bras Bash Complex.**
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVwV_zsZmZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
 
 ------
 
@@ -248,7 +257,10 @@ The former National Library Building was located at 91 Stamford Road. It officia
 Though the old National Library was demolished in 2004, it will live on forever in the memories of countless Singaporeans who frequented it over the decades. Local animation studio Robot Playground immortalised the National Library on Stamford Road in a 15-minute animated short titled Little Red Bricks. It pays tribute not only to the building but also the people through the life and times of a boy and a girl. Watch the breath-taking video below.
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR6Sj3a0BLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
 
 ------
 
