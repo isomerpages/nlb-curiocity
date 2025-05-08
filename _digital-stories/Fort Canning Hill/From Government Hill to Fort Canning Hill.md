@@ -117,7 +117,16 @@ Although Fort Canning was demolished in 1926, British military presence continue
 
 One of the most iconic buildings on Fort Canning Hill is the underground bunker of the Malaya Command. Known today as “The Battlebox”, the bunker is where the British made the decision to surrender Singapore to the invading Japanese forces on 15 February 1942. Get a glimpse of what is inside the bunker and how it functioned as a self-sufficient military headquarters during the war in this video by *Today* newspaper.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28A6AFsy_8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<title>Responsive iframe</title>
+  <style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  </style>
+
+<div class="google-slides-container"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28A6AFsy_8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</div>
+
 
 ______
 
