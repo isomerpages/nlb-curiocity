@@ -219,7 +219,10 @@ Besides Mosbergen's account, independent filmmakers including digital video publ
 
 **"Hawker Culture in Singapore – What it Means to Singaporeans" by the National Heritage Board**
 
+<div class="google-slides-container"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjQu6gl0c4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
 
 ______
 
