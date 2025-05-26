@@ -81,7 +81,7 @@ see if you can get them all right!</p>
 </p>
 <p></p>
 <p><strong>Update: Redemption is Closed!</strong>
-<br><strong>Thank you for your enthusiastic participation. All available vouchers have been fully redeemed. While the redemption period has ended, you can still enjoy our quiz and explore more on our website. </strong>
+<br><strong>Thank you for your enthusiastic participation. All available vouchers have been fully redeemed. While the redemption period has ended, you can still enjoy our quiz and explore more on our website.</strong>
 </p>
 <p></p>
 <p></p>
