@@ -69,21 +69,22 @@ for the quiz.</p>
 </p>
 <p>Challenge your foodie knowledge at <a href="https://go.gov.sg/hawkerscapesquiz" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/hawkerscapesquiz</a> and
 see if you can get them all right!</p>
-<p><strong>Step 3: Redeem Your Reward</strong>
+<p><strong><s>Step 3: Redeem Your Reward</s></strong>
 </p>
-<p>Get all answers correct and redeem a<strong> $10</strong>  <strong>Old Chang Kee voucher*</strong>!
-<br>Show your quiz completion page with the full score (6/6) at the NLB counter
-to qualify.</p>
+<p><s>Get all answers correct and redeem a</s><strong><s> $10</s></strong><s> </s><strong><s>Old Chang Kee voucher*</s></strong><s>! <br>Show your quiz completion page with the full score (6/6) at the NLB counter to qualify.</s>
+</p>
 <p></p>
-<p><strong>Redemption Period:</strong>  <strong><br>5 May – 30 Jun 2025</strong>
-<br>10 am to 9 pm daily (closed on Public Holidays)
-<br><strong>Redemption Location:</strong>
-<br>Level 1 Information Counter
-<br>National Library Building
-<br>100 Victoria Street, Singapore 188064</p>
+<p><strong><s>Redemption Period:</s></strong><s> </s><strong><s><br>5 May – 30 Jun 2025</s></strong><s><br>10 am to 9 pm daily (closed on Public Holidays) <br></s><strong><s>Redemption Location:</s></strong><s><br>Level 1 Information Counter <br>National Library Building <br>100 Victoria Street, Singapore 188064</s>
+</p>
 <p></p>
-<p>*Terms and Conditions apply. While stocks last.
-<br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><s>*Terms and Conditions apply. While stocks last. <br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</s>
+</p>
+<p></p>
+<p><strong>Update: Redemption is Closed</strong>
+<br>Thank you for your enthusiastic participation! All available vouchers
+have been fully redeemed. While the redemption period has ended, you can
+still enjoy our quiz and explore more on our website.</p>
+<p></p>
 <p></p>
 <h4><strong>Singapore Memories</strong></h4>
 <p>Do you have snapshots of your favourite local dishes? Share the images
