@@ -80,8 +80,8 @@ see if you can get them all right!</p>
 <p><s>*Terms and Conditions apply. While stocks last. <br>Please refer to the Terms &amp; Conditions <a href="/files/T_Cs___Curiocity_Hawkerscapes_Quiz_Redemption_final.pdf" rel="noopener nofollow" target="_blank">here</a>.</s>
 </p>
 <p></p>
-<p><strong>Update: Redemption is Closed</strong>
-<br><strong>Thank you for your enthusiastic participation! All available vouchers have been fully redeemed. While the redemption period has ended, you can still enjoy our quiz and explore more on our website.</strong>
+<p><strong>Update: Redemption is Closed!</strong>
+<br><strong>Thank you for your enthusiastic participation. All available vouchers have been fully redeemed. While the redemption period has ended, you can still enjoy our quiz and explore more on our website. </strong>
 </p>
 <p></p>
 <p></p>
