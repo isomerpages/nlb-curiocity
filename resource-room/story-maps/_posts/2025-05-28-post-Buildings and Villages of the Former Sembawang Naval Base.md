@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-[![Alt text for image on Isomer site](/images/storymap-image-sembawangnavalbase.jpg)](https://go.gov.sg/navalbasestorymap)
+[![Alt text for image on Isomer site](/images/storymap_image_sembawangnavalbase.jpg)](https://go.gov.sg/navalbasestorymap)
 
 Embark on a journey into Sembawang's fascinating past, focusing on the former Sembawang Naval Base. Beyond its strategic military importance, this area was a vibrant community. Imagine grand colonial homes coexisting with humble kampongs and lively commercial streets. Through this story map’s historical buildings and places, you will explore the lives of naval personnel, dockyard workers, rubber tappers, and villagers who shaped this unique community, while witnessing Sembawang's transformation from a quiet rubber estate into a bustling town.
 
