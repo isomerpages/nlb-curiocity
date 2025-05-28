@@ -23,6 +23,16 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
+      title: Buildings and Villages of the Former Sembawang Naval Base
+      subtitle: STORY MAP
+      id: infopic
+      description: Embark on a journey into Sembawang's fascinating past, focusing on
+        the former Sembawang Naval Base.
+      button: View the Story Map
+      url: https://curiocity.nlb.gov.sg/buildings-and-villages-of-the-former-sembawang-naval-base/
+      alt: Image alt text
+      image: /images/navalbase1200x.jpg
+  - infopic:
       title: Our Hawkers Through Time
       subtitle: Digital Story
       id: infopic
@@ -113,14 +123,6 @@ sections:
       button: View the Story Map
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      url: https://curiocity.nlb.gov.sg/buildings-and-villages-of-the-former-sembawang-naval-base/
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg
