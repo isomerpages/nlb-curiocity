@@ -1,6 +1,7 @@
 ---
 title: The Heartland
 permalink: /story-maps/heartland/
+variant: markdown
 ---
 'Heartland' refers to areas beyond the city centre, outside of the Central Area. Populated mostly by public housing, they are self-sufficient housing estates completed with amenities ranging from schools, shops, markets, cinemas, stadiums, shopping malls and places of worship. Beyond their functionalities, these housing estates are also rich in social memories thus allowing us obtain an invaluable part of Singapore history less seen in the mainstream historical narrative.
 
@@ -11,6 +12,8 @@ Learn more about the housing estates in our heartland through the story maps bel
 [![Alt text for image on Isomer site](/images/storymap-image-ang-mo-kio.jpg)](/resource-room/story-maps/ang-mo-kio)
 
 [![Alt text for image on Isomer site](/images/storymap-image-cck-lck-1.png)](/resource-room/story-maps/choa-chu-kang-lim-chu-kang)
+
+[![Sembawang Naval Base Story Map](/images/storymap_image_sembawangnavalbase1.jpg)](/buildings-and-villages-of-the-former-sembawang-naval-base/)
 
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 

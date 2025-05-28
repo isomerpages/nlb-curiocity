@@ -23,15 +23,15 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
-      title: "Curiocity: Hawkerscapes"
-      subtitle: Event
+      title: Buildings and Villages of the Former Sembawang Naval Base
+      subtitle: STORY MAP
       id: infopic
-      description: Discover local hawker heritage through Curiocity's digital content
-        and test your knowledge with a quiz!
-      button: Click here to find out more
-      url: /events/curiocity-hawkerscapes/introduction/
-      image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
+      description: Embark on a journey into Sembawang's fascinating past, focusing on
+        the former Sembawang Naval Base.
+      button: View the Story Map
+      url: https://curiocity.nlb.gov.sg/buildings-and-villages-of-the-former-sembawang-naval-base/
       alt: Image alt text
+      image: /images/navalbase1200x.jpg
   - infopic:
       title: Our Hawkers Through Time
       subtitle: Digital Story
@@ -41,6 +41,16 @@ sections:
       alt: Bukit Canberra
       url: /digital-stories/our-hawkers-through-time/introduction/
       image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
+  - infopic:
+      title: "Curiocity: Hawkerscapes"
+      subtitle: Event
+      id: infopic
+      description: Discover local hawker heritage through Curiocity's digital content
+        and test your knowledge with a quiz!
+      button: Click here to find out more
+      url: /events/curiocity-hawkerscapes/introduction/
+      image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
+      alt: Image alt text
   - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
