@@ -16,7 +16,7 @@ View the story map in [full screen](https://go.gov.sg/navalbasestorymap){:target
 <img src="/images/qr-code-storymap-sembawangnavalbase.jpg" alt="qr-code-storymap-sembawangnavalbase" style="width:200px;">
 
 Notes:
-1. This story map does not show a comprehensive coverage of the buildings and landmarks of Jurong.
+1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Sembawang.
 
 2. The title of the base map used in this story map is the [Singapore Topographical Map]( https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb66894d-115c-11e3-83d5-0050568939ad) (1987).
 
