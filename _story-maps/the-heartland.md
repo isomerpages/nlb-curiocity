@@ -13,7 +13,7 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Alt text for image on Isomer site](/images/storymap-image-cck-lck-1.png)](/resource-room/story-maps/choa-chu-kang-lim-chu-kang)
 
-[![Sembawang Naval Base Story Map](/images/storymap-image-yishun.jpg)](/buildings-and-villages-of-the-former-sembawang-naval-base/)
+[![Sembawang Naval Base Story Map](/images/storymap_image_sembawangnavalbase.jpg)](/buildings-and-villages-of-the-former-sembawang-naval-base/)
 
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
