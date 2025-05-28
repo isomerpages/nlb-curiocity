@@ -13,7 +13,7 @@ Embark on a journey into Sembawang's fascinating past, focusing on the former Se
 
 View the story map in [full screen](https://go.gov.sg/navalbasestorymap){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/qr-code-storymap-sembawangnavalbase.jpg" alt="qr-code-storymap-sembawangnavalbase" style="width:200px;">
+<img src="/images/qr_code_storymap_sembawangnavalbase.jpg" alt="qr-code-storymap-sembawangnavalbase" style="width:200px;">
 
 Notes:
 1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Sembawang.
