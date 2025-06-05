@@ -2,13 +2,12 @@
 title: Singapore Conference Hall
 permalink: /time-photographs/conference-hall/
 description: ""
+variant: markdown
 ---
-
 ![](/images/singapore-conference-hall-1.jpg)
 
 ![](/images/singapore-conference-hall-2.jpg)
 
-![](/images/singapore-conference-hall-3.jpg)
 
 ![](/images/singapore-conference-hall-4.jpg)
 
