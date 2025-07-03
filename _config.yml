@@ -33,19 +33,19 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: "#f43c18"
-  secondary-color: "#eb7044"
+  primary-color: "#0a48b2"
+  secondary-color: "#2671f3"
   media-colors:
     - title: media-color-one
-      color: "#db3615"
+      color: "#5691f6"
     - title: media-color-two
-      color: "#c33013"
+      color: "#86b0f8"
     - title: media-color-three
-      color: "#aa2a10"
+      color: "#b7d0fb"
     - title: media-color-four
-      color: "#92240e"
+      color: "#b7d0fb"
     - title: media-color-five
-      color: "#791e0c"
+      color: "#b7d0fb"
 staging: https://staging.d12jjk4dxc46e9.amplifyapp.com/
 prod: https://master.d12jjk4dxc46e9.amplifyapp.com/
 plugins:
