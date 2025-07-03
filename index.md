@@ -42,16 +42,6 @@ sections:
       url: /digital-stories/our-hawkers-through-time/introduction/
       image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
   - infopic:
-      title: "Curiocity: Hawkerscapes"
-      subtitle: Event
-      id: infopic
-      description: Discover local hawker heritage through Curiocity's digital content
-        and test your knowledge with a quiz!
-      button: Click here to find out more
-      url: /events/curiocity-hawkerscapes/introduction/
-      image: /images/Events/Curiocity_Hawkerscapes___website_banner_SMALL.png
-      alt: Image alt text
-  - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
       id: infopic
