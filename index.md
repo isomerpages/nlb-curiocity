@@ -7,7 +7,7 @@ description: Curiocity is a National Library Board (NLB) website that uses
 permalink: /
 sections:
   - hero:
-      title: Curiocity
+      title: CURIOCITY
       subtitle: Discover and rediscover Singapore through maps and photographs
       background: /images/Hawkersdigital/hawkers_banner_1_1.jpg
       url: /resource-room/
