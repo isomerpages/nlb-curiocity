@@ -114,6 +114,7 @@ sections:
       url: /resource-room/story-maps/civic-district
       image: /images/landing-civic-district.jpg
       alt: Image alt text
-notification: ""
+notification: We're experiencing technical difficulties with our Story Maps, but
+  our team is working to get them back online as soon as possible.
 image: /images/isomer-logo.svg
 ---
