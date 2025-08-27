@@ -20,6 +20,6 @@ Notes:
 
 1. This story map does not show a comprehensive coverage of the places of interest in Tampines.
 
-2. The title of the base map used in this story map is [“Singapore. Tampines”](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb73b6c5-115c-11e3-83d5-0050568939ad) (1992).
+2. The base map used in this story map is the Singapore Land Authority's [OneMap](https://www.onemap.gov.sg/docs/maps/).
 
 3. This story map used related Infopedia articles and other NLB digitised resources in [NL Online](https://www.nlb.gov.sg/main/nlonline), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018), [Tampines: Heritage Trail](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203136712) (2017), [Ray Tyers’ Singapore: Then &amp; Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988), and [Singapore: A Pictorial History 1819-2000](http://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (1999).
