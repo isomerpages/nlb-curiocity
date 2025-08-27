@@ -20,7 +20,7 @@ Notes:
 
 1. This story map does not show a comprehensive coverage of the historical buildings and landmarks in Queenstown.
 
-2. The title of the base map used in this story map is the [“Singapore Road Map - South West”](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0d2de4-115c-11e3-83d5-0050568939ad) (1984).
+2. The base map used in this story map is the Singapore Land Authority's [OneMap](https://www.onemap.gov.sg/docs/maps/).
 
 3. This story map used related Infopedia articles and other NLB digitised resources in [NL Online](https://www.nlb.gov.sg/main/nlonline), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following books: [Singapore Street Names: A Study of Toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850) (2013), [What’s in the Name?: How the Streets and Villages in Singapore Got Their Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202924449) (2018), [Ray Tyers’ Singapore: Then &amp; Now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203784837) (2018), [Singapore: A Guide to Buildings, Streets, Places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298) (1988), [My Queenstown Heritage Trail](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202271668) (2015), [10-stories: Queenstown through the Years](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12949048) (2007), and [Queenstown: A Heritage Trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13203462) (2008).
 4. This story map was made by Serene Koh and Megan Wee.

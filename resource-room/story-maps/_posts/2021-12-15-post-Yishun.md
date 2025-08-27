@@ -19,7 +19,7 @@ View the story map in [full screen](https://go.gov.sg/cnfwpm){:target="_blank"} 
 Notes:
 
 1. This story map does not show a comprehensive coverage of the buildings and landmarks of Yishun.
-2. The title of the base map used in this story map is Open Street Maps.
+2. The base map used in this story map is the Singapore Land Authority's [OneMap](https://www.onemap.gov.sg/docs/maps/).
 3. This story map used related Infopedia articles and other NLB digitised resources in [NL Online](https://www.nlb.gov.sg/main/nlonline), [BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), and [Roots](https://www.roots.sg/) as references. It also consulted the following sources: *[A pictorial history of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding.aspx?bid=200063229)* (1987), *[The Development of Nee Soon Community](https://eresources.nlb.gov.sg/printheritage/detail/42d4dfc3-9cbc-4f38-b8ee-5ca1346f4eb7.aspx 
    )* (1987), and *[Yishun Sembawang: A Heritage Trail](http://eservice.nlb.gov.sg/item_holding.aspx?bid=14311322
    )* (2010).
