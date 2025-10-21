@@ -105,20 +105,9 @@ A ubiquitous sight in hawker centres across Singapore, the Hainanese chicken ric
 
 ------
 
-<details>
-<summary><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#f43c18">Want to learn more about the Hainanese Chicken Rice? Click or tap <span style="font-weight: 700; text-decoration:underline; color:#4372d6">HERE</span> to reveal below a concise history of this beloved dish written by the Singapore Tourism Board. (Source: <a href="https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/hainanese-chicken-rice/" target="_blank">Visit Singapore Official Site</a>)</span></summary>
-<br>
-<span style="font-weight: 400; font-size: 20px; font-style: normal; color:#eb7044">"The recipe for the dish is adapted from early Chinese immigrants from Hainan Island, off the southern coast of China. Back in Hainan, locals call the dish "Wenchang chicken". They use a particular fowl that is bony and fibrous, and serve the chicken with oily rice. A ground green chilli dip rounds off the dish.
-<br>
-<br>[In Singapore], [t]he cooking method hails back to its Hainanese roots, with a few uniquely [local] twists. The chicken is steeped in boiling water or blanched till it is fully cooked, before soaking it in cold water to ensure the meat remains tender. In a local twist, the chicken can also be roasted or braised in soya sauce for a different taste...It is, however, the rice and chilli sauce that can make or break the dish. The rice, cooked in chicken stock with ginger and pandan leaves, should have just the right amount of oiliness, while the chilli must possess the right blend of both spiciness and sourness."</span>
-	
-</details>
+**Watch this video to see how prominent local food consultant and founder of Makansutra KF Seetoh prepares the dish.**
 
-----
-
-You can also watch this video to see how prominent local food consultant and founder of Makansutra KF Seetoh prepares the dish.
-
-**SG50 Deliciously Singaporean: Chicken Rice**
+##### **SG50 Deliciously Singaporean: Chicken Rice**
 
 
 <div class="google-slides-container"> 
