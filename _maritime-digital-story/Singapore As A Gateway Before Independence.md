@@ -31,8 +31,10 @@ Archaeological finds at sites like Fort Canning and the Singapore River ranging 
 
 ### **A Colonial Maritime Gateway**
 
-The Singapore River was the bustling heart of the island’s economy and the primary stage for its maritime success. Far from just a waterway, it was a crowded, chaotic corridor where the world’s goods, from Chinese silk to Javanese spices, were hauled ashore to be traded. This three-kilometer stretch of water served as the original "Main Street" for a burgeoning colonial port, defining the lives of the merchants, laborers and sailors who built up Singapore as a colonial maritime gateway.
+
 
 ---
 
 #### **Singapore River**
+
+The Singapore River was the bustling heart of the island’s economy and the primary stage for its maritime success. Far from just a waterway, it was a crowded, chaotic corridor where the world’s goods, from Chinese silk to Javanese spices, were hauled ashore to be traded. This three-kilometer stretch of water served as the original "Main Street" for a burgeoning colonial port, defining the lives of the merchants, laborers and sailors who built up Singapore as a colonial maritime gateway.
