@@ -12,3 +12,13 @@ Strategically perched at the southern tip of the Malay Peninsula, Singapore has 
 
 The existence of Singapore as a pre-colonial maritime gateway is no longer a matter of myth but a reality etched into historical sources including texts, maps and archaeological findings. These sources reveal Singapore then was busy multicultural port where traders from Southeast Asia, China, India and the Middle East did not just “pass through” but sought out the island as a port-of-call. Singapore then was called Temasek, which means “sea port” in Old Javanese. Founded in the late 13th century, it flourished in the following century.
 
+#### **Pre-Colonial Singapore in Selected Publications**
+
+For a long time, early Singapore was shrouded in legend, but its status as a vibrant pre-colonial gateway is now firmly grounded in the country’s historical narrative. Rigorous research in recent publications, most notably the landmark Seven Hundred Years: A History of Singapore, has meticulously pieced together this era using historical sources. Some of these titles are shown below.
+
+---
+
+#### **Pre-Colonial Singapore in Selected Historical Sources**
+
+Archaeological finds at sites like Fort Canning and the Singapore River ranging from delicate Chinese porcelain to local earthenware confirm that Singapore was a place of high commerce from as far back as the 14th century. This is backed by other historical sources including maps and historical text. Below, we have featured some of these key sources to provide clear evidence of a thriving, pre-1819 Singapore.
+
