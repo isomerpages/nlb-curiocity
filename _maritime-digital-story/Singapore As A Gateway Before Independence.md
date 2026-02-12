@@ -25,3 +25,7 @@ Archaeological finds at sites like Fort Canning and the Singapore River ranging 
 ---
 
 ### **A Colonial Maritime Gateway**
+
+Early colonial Singapore’s maritime activities were primarily concentrated around the Singapore River and Boat Quay, which served as main contact points for trading ships. The turning point came when Sir Stamford Raffles established Singapore as a free port in 1819 thus allowing goods to be traded freely without anyone having to pay heavy fees. This led to a rapid influx of merchants and immigrants from China, India, the Malay Archipelago and beyond as well as Singapore’s trade volume. 
+
+---
