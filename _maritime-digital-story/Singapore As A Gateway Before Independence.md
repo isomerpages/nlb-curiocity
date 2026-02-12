@@ -16,6 +16,12 @@ The existence of Singapore as a pre-colonial maritime gateway is no longer a mat
 
 For a long time, early Singapore was shrouded in legend, but its status as a vibrant pre-colonial gateway is now firmly grounded in the country’s historical narrative. Rigorous research in recent publications, most notably the landmark Seven Hundred Years: A History of Singapore, has meticulously pieced together this era using historical sources. Some of these titles are shown below.
 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScjSjotXxCQzCbz8mtQkSPY6o8JdNASdfr8rWZ78fRAGKmbuLdSr-Vhwdcg8jj6INNQekXcNJ5Rzxt/pubembed?start=false&amp;loop=false&amp;delayms=3000">
+  </iframe>
+</div>
+
+
 ---
 
 #### **Pre-Colonial Singapore in Selected Historical Sources**
