@@ -11,3 +11,4 @@ Strategically perched at the southern tip of the Malay Peninsula, Singapore has 
 ### **A Pre-Colonial Maritime Gateway**
 
 The existence of Singapore as a pre-colonial maritime gateway is no longer a matter of myth but a reality etched into historical sources including texts, maps and archaeological findings. These sources reveal Singapore then was busy multicultural port where traders from Southeast Asia, China, India and the Middle East did not just “pass through” but sought out the island as a port-of-call. Singapore then was called Temasek, which means “sea port” in Old Javanese. Founded in the late 13th century, it flourished in the following century.
+
