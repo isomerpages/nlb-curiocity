@@ -23,3 +23,5 @@ For a long time, early Singapore was shrouded in legend, but its status as a vib
 Archaeological finds at sites like Fort Canning and the Singapore River ranging from delicate Chinese porcelain to local earthenware confirm that Singapore was a place of high commerce from as far back as the 14th century. This is backed by other historical sources including maps and historical text. Below, we have featured some of these key sources to provide clear evidence of a thriving, pre-1819 Singapore.
 
 ---
+
+### **A Colonial Maritime Gateway**
