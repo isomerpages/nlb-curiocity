@@ -43,3 +43,10 @@ Archaeological finds at sites like Fort Canning and the Singapore River ranging 
 #### **Singapore River**
 
 The Singapore River was the bustling heart of the island’s economy and the primary stage for its maritime success. Far from just a waterway, it was a crowded, chaotic corridor where the world’s goods, from Chinese silk to Javanese spices, were hauled ashore to be traded. This three-kilometer stretch of water served as the original "Main Street" for a burgeoning colonial port, defining the lives of the merchants, laborers and sailors who built up Singapore as a colonial maritime gateway.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTybquKRawu8QAuZwKKT0aFIcYbK5MkmaS_VwjHOptANDZ4MpPiRCw7jvN2uFyMz-AzUjq6tOEvolpO/pubembed?start=false&amp;loop=false&amp;delayms=5000">
+  </iframe>
+</div>
+
+#### **New Harbour (later Keppel Harbour)**
