@@ -50,3 +50,5 @@ The Singapore River was the bustling heart of the island’s economy and the pri
 </div>
 
 #### **New Harbour (later Keppel Harbour)**
+
+With the rise of maritime trade, Singapore’s harbour infrastructure evolved alongside to support the growing maritime commerce activities. The founding of New Harbour in 1848, later renamed as Keppel Harbour in 1913, was a pivotal moment that pushed Singapore’s maritime boundaries beyond the Singapore River.
