@@ -52,3 +52,8 @@ The Singapore River was the bustling heart of the island’s economy and the pri
 #### **New Harbour (later Keppel Harbour)**
 
 With the rise of maritime trade, Singapore’s harbour infrastructure evolved alongside to support the growing maritime commerce activities. A pivotal turning point occurred with the survey of New Harbour off Tanjong Pagar coast in 1848 by Captain Henry Keppel. This development marked a crucial transition, as it eventually led to the expansion of Singapore’s maritime boundaries beyond the shallow, congested banks of the Singapore River to Tanjong Pagar.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpm07dTZHCz1rPVe0v6UF0Eytoqroi_2jzzJHJV2JtNQx3f_kXc9LpISQC6jKcQUKLavpaWoOT8-Qk/pubembed?start=true&amp;loop=true&amp;delayms=5000">
+  </iframe>
+</div>
