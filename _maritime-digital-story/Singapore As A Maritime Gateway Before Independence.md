@@ -60,4 +60,4 @@ With the rise of maritime trade, Singapore’s harbour infrastructure evolved al
 
 #### **Kallang Basin**
 
-While the Singapore River functioned as a commercial hub, Kallang Basin was a centre for maritime-related workshops and industries during the colonial period. Situated at the confluence of the Kallang, Rochor, and Geylang rivers, the area was initially inhibited by the various ethnic groups of Orang Laut including the Orang Kallang before it started supporting a range of activities from shipbuilding and repair to timber and gas production.
+While the Singapore River functioned as a commercial hub, Kallang Basin was a centre for workshops and industries during the colonial period. Situated at the confluence of the Kallang, Rochor, and Geylang rivers, the area was initially inhibited by the various ethnic groups of Orang Laut including the Orang Kallang before it started supporting a range of activities from timber and gas production to shipbuilding and repair.
