@@ -66,3 +66,8 @@ While the Singapore River functioned as a commercial hub, Kallang Basin was a ce
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlQDtBm6UjlrYoOaW86kXvKnXUkYEW0UYwtfJI2yZ5YvfxMrw7OXttXvLNT-eZaJkSm3h1Amkes07Y/pubembed?start=true&amp;loop=true&amp;delayms=10000">
   </iframe>
 </div>
+
+----
+
+## **Infrastructure Boom**
+
