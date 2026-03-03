@@ -36,7 +36,7 @@ Archaeological finds at sites like Fort Canning and the Singapore River ranging 
 
 ### **A Colonial Maritime Gateway**
 
-
+Singapore’s maritime identity during the colonial period can be defined by three distinct coastal zones, each serving a specific role in the colony’s development. The Singapore River functioned as the historical wharf where lighters loaded and unloaded goods from larger ships anchored off the coast to facilitate the entrepôt trade. The development New Harbour (Keppel Harbour) in Tanjong Pagar marked a shift to deep-water berths and dry docks that were more suitable for bigger vessels including steam-powered ships. In contrast, the Kallang Basin emerged as an industrial frontier with shipyards, sawmills, brick kilns and gas production. Together, these locations illustrate Singapore’s transition from an indigenous maritime settlement into a colonial industrial port.
 
 ---
 
