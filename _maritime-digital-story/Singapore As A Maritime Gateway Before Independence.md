@@ -72,3 +72,10 @@ While the Singapore River functioned as a commercial hub, Kallang Basin was a ce
 ## **Infrastructure Boom**
 
 During the colonial period, the rapid growth of Singapore as a maritime gateway triggered a massive infrastructure boom that reshaped the island’s topography. The colonial administration realised that an efficient port would require equally sophisticated inland support. This led to the development of a complex network of railways, roads, and piers designed to bridge the gap between deep-water berths and the commercial town. These projects were not merely local improvements but strategic links that connected the Malayan hinterland’s resources such as rubber and tin to global shipping lanes.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYfY2_H187Wjq10nfqbLIKKxeFSUX2AMTHYaA6Jm9-TRwU-pkV9IO516WYvQ3WgNkaFhwjCQX1b0NU/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+  </iframe>
+</div>
+
+----
