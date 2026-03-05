@@ -2,4 +2,5 @@ collections:
   maritime-digital-story:
     output: true
     order:
+      - Singapore As A Maritime Gateway After Independence.md
       - Singapore As A Maritime Gateway Before Independence.md
