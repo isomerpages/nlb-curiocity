@@ -19,4 +19,7 @@ Singapore’s maritime industry has long been the backbone of its economic growt
 
 Singapore’s geography at the intersection of major global shipping routes has led to the development of diverse maritime gateways, each serving a specific role in the nation’s economy. These gateways are not limited to cargo alone; they encompass a sophisticated network of terminals designed for industrial raw materials, energy products, and international passenger travel. From the historic container berths near the city center to specialized industrial piers and modern cruise hubs, these facilities act as the critical entry and exit points that connect Singapore to the global supply chain and the regional archipelago. As the maritime industry evolves, these gateways continue to adapt through technological integration and physical expansion to maintain Singapore’s status as a premier global hub.
 
-Photo gallery on the cargo and passenger terminals
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQanBIbOX-yjplJGFbLraqmulnjkS0VECAEg7LXwDMAcLbYp8XVT9un0luQiVygCxxoqX1cJtB_P9U4/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
