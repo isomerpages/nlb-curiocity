@@ -2,5 +2,6 @@ collections:
   maritime-digital-story:
     output: true
     order:
+      - "The Lifeline of a Nation: Singapore’s Maritime Odyssey.md"
       - Singapore As A Maritime Gateway Before Independence.md
       - Singapore As A Maritime Gateway After Independence.md
