@@ -32,3 +32,7 @@ The story of Singapore’s maritime development is reflected in the diverse arra
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjQt_cJbsYLmw3whkCmXjt2KAWYijr0jvPQv-cqQljb2UEiWfXXLW83ZeHIpmPDS549WNQeYLj_b9t/pubembed?start=true&amp;loop=true&amp;delayms=10000">
     </iframe>
 </div>
+
+### **Guiding the Global Fleet: The Heritage Legacy of Singapore’s Lighthouses**
+
+The continual growth of Singapore’s maritime sector during the post-independence era was built upon a foundation of safety and reliability. But unbeknownst to many, a quiet contributor to this mission is the collection of lighthouses scattered across the Singapore Strait and its offshore islands. These landmarks serve as a bridge between the colonial past and the technological present, standing as physical reminders of Singapore's enduring maritime heritage stretching back to the colonial period. By mapping these vital navigational beacons, we see a story of a young nation taking full command of its waters and ensuring that, despite the rapid pace of modernisation, the legacy of safe seafaring remains a constant.
