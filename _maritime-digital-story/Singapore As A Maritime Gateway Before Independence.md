@@ -79,3 +79,7 @@ During the colonial period, the rapid growth of Singapore as a maritime gateway 
 </div>
 
 ----
+
+### **Anchoring a District: How the Port Built Tanjong Pagar**
+
+Tanjong Pagar’s unique identity as a vibrant heritage district is inseparable from its maritime roots. As the 19th-century transition from sail to steam necessitated deeper waters, the heart of Singapore’s commerce shifted from the shallow Singapore River to the New Harbour (now Keppel Harbour). This relocation triggered an unprecedented infrastructure boom, transforming a landscape of fishing villages and nutmeg plantations into a massive industrial hub. From the pioneering construction of the Victoria and Albert Docks to the sprawling network of warehouses and shophouses that rose to support a burgeoning workforce, the port acted as the primary architect of the area. This story map explores the colonial-era developments that anchored Tanjong Pagar’s status as a vital node in global trade and shaped the urban character the district retains today.
