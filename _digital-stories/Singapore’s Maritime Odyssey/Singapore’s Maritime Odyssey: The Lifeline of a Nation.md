@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Singapore’s Maritime Odyssey
 ---
-[![maritime_digitalstory](/images/Maritime%20Digital%20Story/Port_of_Singapore.jpg)](https://curiocity.nlb.gov.sg/singapore-as-a-gateway-before-independence/)
+[![maritime_digitalstory](/images/Maritime%20Digital%20Story/Port_of_Singapore.jpg)](/digital-stories/singapore-maritime/singapore-maritime-gateway-before-independence)
 
 For over two centuries, the sea has been the primary architect of Singapore’s identity. What began as a strategic entrepôt at the mouth of a river has evolved into one of the most sophisticated maritime hubs in the world. This digital story traces that remarkable journey — from the wooden junks that navigated by the monsoon winds to the automated "mega-vessels" that define modern global logistics.
 
