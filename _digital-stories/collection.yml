@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Digital Stories.md
-      - Singapore’s Maritime Odyssey/Singapore As A Maritime Gateway After
-        Independence.md
-      - Singapore’s Maritime Odyssey/Singapore As A Maritime Gateway Before
-        Independence.md
+      - Singapore’s Maritime Odyssey/.keep
       - "Singapore’s Maritime Odyssey/Singapore’s Maritime Odyssey: The Lifeline
         of a Nation.md"
-      - Singapore’s Maritime Odyssey/.keep
+      - Singapore’s Maritime Odyssey/Singapore As A Maritime Gateway Before
+        Independence.md
+      - Singapore’s Maritime Odyssey/Singapore As A Maritime Gateway After
+        Independence.md
       - Our Hawkers Through Time/.keep
       - Our Hawkers Through Time/Our Hawkers Through Time.md
       - Our Hawkers Through Time/Hawkers During The Colonial Period.md
