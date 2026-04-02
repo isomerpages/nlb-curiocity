@@ -30,7 +30,8 @@ sections:
         digital story
       button: Start the Journey
       url: /digital-stories/singapore-maritime/singapore-maritime-introduction/
-      alt: Image alt text
+      alt: Tanjong_Pagar_Container_Port
+      image: /images/Maritime Digital Story/tanjongpagarport.jpg
   - infopic:
       title: Buildings and Villages of the Former Sembawang Naval Base
       subtitle: STORY MAP
