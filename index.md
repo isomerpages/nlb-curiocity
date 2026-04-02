@@ -23,6 +23,15 @@ sections:
           url: /archichronicles/introduction/
       variant: center
   - infopic:
+      title: Singapore's Maritime Odyssey
+      subtitle: Digital Story
+      id: infopic
+      description: Explore the maritime heritage that anchored a nation in this
+        digital story
+      button: Start the Journey
+      url: /digital-stories/singapore-maritime/singapore-maritime-introduction/
+      alt: Image alt text
+  - infopic:
       title: Buildings and Villages of the Former Sembawang Naval Base
       subtitle: STORY MAP
       id: infopic
