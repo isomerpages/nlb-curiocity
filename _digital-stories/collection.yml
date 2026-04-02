@@ -2,6 +2,7 @@ collections:
   digital-stories:
     output: true
     order:
+      - Singapore’s Maritime Odyssey/.keep
       - Digital Stories.md
       - Our Hawkers Through Time/.keep
       - Our Hawkers Through Time/Our Hawkers Through Time.md
