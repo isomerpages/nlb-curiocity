@@ -8,6 +8,11 @@ Step into a world of captivating storytelling with our digital stories that brin
 
 Follow us on a journey through time and space, as we explore the cultural, social, and architectural transformations of iconic places in Singapore. With our digital stories, you can discover the hidden narratives and untold stories that have shaped the vibrant city we know today.
 
+| **<font size="5">Maritime Gateway</font>** |  | 
+| -------- | -------- | 
+| [<img src="/images/Maritime%20Digital%20Story/Port_of_Singapore.jpg" alt="singapore-hawkers" style="width:500px;">](/digital-stories/singapore-maritime/singapore-maritime-introduction/)   | The sea is a vital part of life in Singapore. The country is known for its status as a global hub, shaped by its deep-water ports and busy shipping lanes. Explore the story of Singapore’s maritime heritage in this [digital story](/digital-stories/singapore-maritime/singapore-maritime-introduction/){:target="_blank"} .
+|
+
 | **<font size="5">Our Hawkers</font>** |  | 
 | -------- | -------- | 
 | [<img src="/images/Hawkersdigital/post_independence_12.jpg" alt="singapore-hawkers" style="width:500px;">](/digital-stories/our-hawkers-through-time/introduction/)   | Food is a big part of life in Singapore. The city state is known for its wide variety of food selections especially in its hawker centres. Explore the story of Singapore's hawkers in this [digital story](/digital-stories/our-hawkers-through-time/introduction/){:target="_blank"} .
