@@ -9,7 +9,7 @@ sections:
   - hero:
       title: CURIOCITY
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/Hawkersdigital/hawkers_banner_1_1.jpg
+      background: /images/Maritime Digital Story/Port_of_Singapore.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
