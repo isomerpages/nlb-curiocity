@@ -5,13 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Singapore’s Maritime Odyssey
 ---
-Strategically perched at the southern tip of the Malay Peninsula, Singapore has served as a vital maritime crossroads since at least the 14th century, long before the first colonial ships arrived. Recognised by navigators as the essential gateway between the Indian Ocean and the South China Sea, the island thrived as a bustling entrepot where porcelain, spices, and stories were exchanged between traders from the East and West. Although Singapore’s maritime narrative experienced cycles of rise and decline due to shifting geopolitical developments, its role as a trade gateway persisted and continued after the arrival of the British.
+Strategically perched at the southern tip of the Malay Peninsula, Singapore has served as a vital maritime gateway since at least the 14th century, long before the first colonial ships arrived. Recognised by navigators as an essential port of call between the Indian Ocean and the South China Sea, the island thrived as a bustling entrepot where porcelain, spices, and stories were exchanged between traders from the East and West. Although Singapore’s maritime narrative experienced cycles of rise and decline due to shifting geopolitical developments, its role as a trade gateway persisted and continued after the arrival of the British.
 
 ----
 
 ### **A Pre-Colonial Maritime Gateway**
 
-The existence of Singapore as a pre-colonial maritime gateway is no longer a matter of myth but a reality etched into historical sources including texts, maps and archaeological findings. These sources reveal Singapore then was busy multicultural port where traders from Southeast Asia, China, India and the Middle East did not just “pass through” but sought out the island as a port-of-call. Singapore then was called Temasek, which means “sea port” in Old Javanese. Founded in the late 13th century, it flourished in the following century.
+The existence of Singapore as a pre-colonial maritime gateway is no longer a matter of myth but a reality etched into historical sources including texts, maps, navigational charts and archaeological findings. These sources reveal Singapore then was busy multicultural port where traders from Southeast Asia, China, India and the Middle East did not just “pass through” but sought out the island as a port of call. Singapore then was called Temasek, which means “sea port” in Old Javanese. Founded in the late 13th century, it flourished in the following century.
 
 #### **Pre-Colonial Singapore in Selected Publications**
 
