@@ -9,7 +9,7 @@ sections:
   - hero:
       title: CURIOCITY
       subtitle: Discover and rediscover Singapore through maps and photographs
-      background: /images/Hawkersdigital/hawkers_banner_1_1.jpg
+      background: /images/Maritime Digital Story/Port_of_Singapore.jpg
       url: /resource-room/
       key_highlights:
         - title: Explore our story maps
@@ -22,6 +22,16 @@ sections:
           description: Uncover stories of buildings
           url: /archichronicles/introduction/
       variant: center
+  - infopic:
+      title: Singapore's Maritime Odyssey
+      subtitle: Digital Story
+      id: infopic
+      description: Explore the maritime heritage that anchored a nation in this
+        digital story
+      button: Start the Journey
+      url: /digital-stories/singapore-maritime/singapore-maritime-introduction/
+      alt: Tanjong_Pagar_Container_Port
+      image: /images/Maritime Digital Story/maritime_digitalstory_cover_dg.jpg
   - infopic:
       title: Buildings and Villages of the Former Sembawang Naval Base
       subtitle: STORY MAP
