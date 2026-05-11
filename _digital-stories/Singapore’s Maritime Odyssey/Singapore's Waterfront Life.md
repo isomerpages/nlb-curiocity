@@ -13,6 +13,11 @@ Singapore’s economic identity has always been written in its waters. Yet, beyo
 
 Before the era of skyscrapers and reclaimed coastlines, Singapore’s identity was defined by an intimate, daily connection to the sea. During the colonial years, the waterfront was already a shared stage for both work and play. In this gallery, we look back at a time when the shoreline was already the heart of community life. You will see the competitive energy of the New Year’s Day Regattas, the unique experience of swimming in bathing pagars, and the simple joy of picnic parties held by the sea. These images capture a time when the water was not just a resource, but a space where Singaporeans from all walks of life came together.
 
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoF82v8JJGsaa9v0PZyE_hNXIjXcm3fW-gRfEuKmBReQ_RVrXgda9aUXs-yvjP_S1WMI6vB6UT1MjN/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
+
 ---
 
 ### **The Turning Point: Rivers in Distress**
