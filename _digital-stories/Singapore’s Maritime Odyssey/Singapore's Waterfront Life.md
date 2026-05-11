@@ -34,3 +34,8 @@ As Singapore became an independent nation, the very waterways that had fueled ou
 ### **The Blueprint for Change**
 
 As our rivers and waterbodies reached a breaking point, Singapore began a bold mission to fix them. This transformation was a decades-long journey that fundamentally changed the coast of our nation. This gallery explores that transformative journey which included massive reclamation projects, a reimagination of how our land should be used, the beautification of our nation and a decade-long clean-up of our rivers. Together, these efforts laid the foundation for the world-class water culture we enjoy today.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmEuMjTJMZPDLBW_XsNReaveMw9_BGz7qklHXy03p58NXeWcaMsQQaGGN8xEvRFST8plO7Cgnj8NWB/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
