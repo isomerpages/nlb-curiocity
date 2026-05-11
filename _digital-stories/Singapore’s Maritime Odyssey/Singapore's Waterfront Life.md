@@ -12,3 +12,9 @@ Singapore’s economic identity has always been written in its waters. Yet, beyo
 ### **Living by the Sea during Colonial Times**
 
 Before the era of skyscrapers and reclaimed coastlines, Singapore’s identity was defined by an intimate, daily connection to the sea. During the colonial years, the waterfront was already a shared stage for both work and play. In this gallery, we look back at a time when the shoreline was already the heart of community life. You will see the competitive energy of the New Year’s Day Regattas, the unique experience of swimming in bathing pagars, and the simple joy of picnic parties held by the sea. These images capture a time when the water was not just a resource, but a space where Singaporeans from all walks of life came together.
+
+---
+
+### **The Turning Point: Rivers in Distress**
+
+As Singapore became an independent nation, the very waterways that had fueled our early growth began to falter under the weight of their own success. Decades of unrestricted maritime trade and industrial expansion had left a heavy mark. This gallery documents the "National Eyesores" of the mid-20th century. Here, you will see the Singapore River and Kallang Basin at their most congested—choked with bumboats, debris, and industrial waste. These were not the recreational spaces we know today, but waterways overwhelmed by pollution and urban overcrowding. These images serve as a stark reminder of the environmental concerns that finally triggered the transformation of our coast into the one we know today.
