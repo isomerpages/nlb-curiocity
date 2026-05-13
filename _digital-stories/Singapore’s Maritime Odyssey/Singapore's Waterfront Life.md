@@ -20,6 +20,14 @@ Before the era of skyscrapers and reclaimed coastlines, Singapore’s identity w
 
 ---
 
+### **Recreation Spaces before Independence**
+
+Tanjong Pagar’s unique identity as a vibrant heritage district is inseparable from its maritime roots. As the 19th-century transition from sail to steam necessitated deeper waters, the heart of Singapore’s commerce shifted from the shallow Singapore River to the New Harbour (now Keppel Harbour). This relocation triggered an unprecedented infrastructure boom, transforming a landscape of fishing villages and nutmeg plantations into a massive industrial hub. From the pioneering construction of the Victoria and Albert Docks to the sprawling network of warehouses and shophouses that rose to support a burgeoning workforce, the port acted as the primary architect of the area. This story map explores the colonial-era developments that anchored Tanjong Pagar’s status as a vital node in global trade and shaped the urban character the district retains today.
+
+[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/tanjongpagar.jpg)](https://go.gov.sg/tanjongpagarstorymap){:target="_blank"}
+
+---
+
 ### **The Turning Point: Rivers in Distress**
 
 As Singapore became an independent nation, the very waterways that had fueled our early growth began to falter under the weight of their own success. Decades of unrestricted maritime trade and industrial expansion had left a heavy mark. This gallery documents the "National Eyesores" of the mid-20th century. Here, you will see the Singapore River and Kallang Basin at their most congested—choked with bumboats, debris, and industrial waste. These were not the recreational spaces we know today, but waterways overwhelmed by pollution and urban overcrowding. These images serve as a stark reminder of the environmental concerns that finally triggered the transformation of our coast into the one we know today.
@@ -42,6 +50,14 @@ As our rivers and waterbodies reached a breaking point, Singapore began a bold m
 
 ---
 
+### **Transformation of Kallang**
+
+Tanjong Pagar’s unique identity as a vibrant heritage district is inseparable from its maritime roots. As the 19th-century transition from sail to steam necessitated deeper waters, the heart of Singapore’s commerce shifted from the shallow Singapore River to the New Harbour (now Keppel Harbour). This relocation triggered an unprecedented infrastructure boom, transforming a landscape of fishing villages and nutmeg plantations into a massive industrial hub. From the pioneering construction of the Victoria and Albert Docks to the sprawling network of warehouses and shophouses that rose to support a burgeoning workforce, the port acted as the primary architect of the area. This story map explores the colonial-era developments that anchored Tanjong Pagar’s status as a vital node in global trade and shaped the urban character the district retains today.
+
+[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/tanjongpagar.jpg)](https://go.gov.sg/tanjongpagarstorymap){:target="_blank"}
+
+----
+
 ### **Life on the Water**
 
 While the transformation of our coastline began with a need for land and infrastructure, it ultimately gave us something much more personal: a new way to live, play, and connect with the water. Today, Singapore’s southern shores and reservoirs have become a vibrant blue playground for everyone. From the rhythmic beat of dragon boat drums to the quiet glide of a kayak, our waterways are no longer polluted or just resources to be managed but active spaces that bring people together. This gallery celebrates the diverse water activities that have become a core part of our modern lifestyle.
@@ -50,3 +66,13 @@ While the transformation of our coastline began with a need for land and infrast
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSv5zdk2vug13SFpN0zmUNJ2tRXMhnXA5YDjC0FasxHlay3OIzxi2aNT_ijrImYO2fDV2hBBBKsAq-w/pubembed?start=true&amp;loop=true&amp;delayms=10000">
     </iframe>
 </div>
+
+---
+
+### **Our Blue and Green Spaces Today**
+
+Tanjong Pagar’s unique identity as a vibrant heritage district is inseparable from its maritime roots. As the 19th-century transition from sail to steam necessitated deeper waters, the heart of Singapore’s commerce shifted from the shallow Singapore River to the New Harbour (now Keppel Harbour). This relocation triggered an unprecedented infrastructure boom, transforming a landscape of fishing villages and nutmeg plantations into a massive industrial hub. From the pioneering construction of the Victoria and Albert Docks to the sprawling network of warehouses and shophouses that rose to support a burgeoning workforce, the port acted as the primary architect of the area. This story map explores the colonial-era developments that anchored Tanjong Pagar’s status as a vital node in global trade and shaped the urban character the district retains today.
+
+[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/tanjongpagar.jpg)](https://go.gov.sg/tanjongpagarstorymap){:target="_blank"}
+
+----
