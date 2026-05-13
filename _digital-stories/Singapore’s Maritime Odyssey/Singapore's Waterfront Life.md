@@ -49,6 +49,6 @@ While the transformation of our coastline began with a need for land and infrast
 From the rhythmic beat of dragon boat drums to the quiet glide of a kayak, our waterways are no longer just resources to be managed—they are active spaces that bring people together. This gallery celebrates the diverse water activities that have become a core part of our modern lifestyle, showcasing how we have reclaimed not just the land, but a deep-rooted passion for the sea.
 
 <div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmEuMjTJMZPDLBW_XsNReaveMw9_BGz7qklHXy03p58NXeWcaMsQQaGGN8xEvRFST8plO7Cgnj8NWB/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSv5zdk2vug13SFpN0zmUNJ2tRXMhnXA5YDjC0FasxHlay3OIzxi2aNT_ijrImYO2fDV2hBBBKsAq-w/pubembed?start=true&amp;loop=true&amp;delayms=10000">
     </iframe>
 </div>
