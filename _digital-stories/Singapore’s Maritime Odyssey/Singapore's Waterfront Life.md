@@ -48,12 +48,6 @@ As our rivers and waterbodies reached a breaking point, Singapore began a bold m
     </iframe>
 </div>
 
----
-
-### **Transformation of Kallang**
-
-[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/kallangtoday.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/kallang-water-bodies-parks-and-bridges/index.html){:target="_blank"}
-
 ----
 
 ### **Life on the Water**
@@ -68,6 +62,8 @@ While the transformation of our coastline began with a need for land and infrast
 ---
 
 ### **Our Blue and Green Spaces Today**
+
+While much of our landscape has been shaped by urban growth and reclamation, Singapore remains deeply committed to protecting its natural heritage. Today, our island is home to four main nature reserves — Bukit Timah, Central Catchment, Sungei Buloh Wetland and Labradour alongside over 400 parks. These spaces serve not only as vital sanctuaries for biodiversity, but also offer a peaceful escape from city life. Discover the diverse wildlife and lush habitats that lie within these nature reserves and nature areas of Singapore in this story map.
 
 [![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/natureareas.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"}
 
