@@ -22,6 +22,8 @@ Before the era of skyscrapers and reclaimed coastlines, Singapore’s identity w
 
 ### **Recreation Spaces before Independence**
 
+As seen above, the sea was already a part of life in colonial Singapore. But what other recreational options did the people have besides the sea and beaches? This story map explores the various leisure spots created during the colonial period. By looking at these spaces, we gain a better understanding of how people spent their time back then, and how the island's recreational landscape first began to grow.
+
 [![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/recreationstorymap.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/green-spaces-before-independence/index.html){:target="_blank"}
 
 ---
