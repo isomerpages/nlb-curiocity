@@ -39,3 +39,16 @@ As our rivers and waterbodies reached a breaking point, Singapore began a bold m
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmEuMjTJMZPDLBW_XsNReaveMw9_BGz7qklHXy03p58NXeWcaMsQQaGGN8xEvRFST8plO7Cgnj8NWB/pubembed?start=true&amp;loop=true&amp;delayms=10000">
     </iframe>
 </div>
+
+---
+
+### **Life on the Water**
+
+While the transformation of our coastline began with a need for land and infrastructure, it ultimately gave us something much more personal: a new way to live, play, and connect with the water. Today, Singapore’s southern shores and reservoirs have become a vibrant blue playground for everyone.
+
+From the rhythmic beat of dragon boat drums to the quiet glide of a kayak, our waterways are no longer just resources to be managed—they are active spaces that bring people together. This gallery celebrates the diverse water activities that have become a core part of our modern lifestyle, showcasing how we have reclaimed not just the land, but a deep-rooted passion for the sea.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmEuMjTJMZPDLBW_XsNReaveMw9_BGz7qklHXy03p58NXeWcaMsQQaGGN8xEvRFST8plO7Cgnj8NWB/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
