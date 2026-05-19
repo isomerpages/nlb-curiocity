@@ -1,0 +1,70 @@
+---
+title: Singapore's Waterfront Life
+permalink: /digital-stories/singapore-maritime/singapore-waterfront-life/
+variant: markdown
+description: ""
+third_nav_title: Singapore’s Maritime Odyssey
+---
+Singapore’s economic identity has always been written in its waters. Yet, beyond trade, our shores were once alive with recreation exemplified by the spirits of regattas, bathing pagars and even simple picnics by the sea. As the nation grew, the availability of these blue spaces was threatened. The legacy of colonial maritime commerce had left our waterways congested with bumboats, overcrowding, and industrial pollution. To address this, our waterways underwent an extraordinary rebirth. Through massive reclamation, proper land-use, the bold "Green and Blue" plans and the Garden City vision, we didn't just clean our rivers but reimagined our entire coast and relationship with the sea. This is the story of how we transformed those congested shores into the vibrant, world-class water culture we know today.
+
+----
+
+### **Living by the Sea during Colonial Times**
+
+Before the era of skyscrapers and reclaimed coastlines, Singapore’s identity was defined by an intimate, daily connection to the sea. During the colonial years, the waterfront was already a shared stage for both work and play. In this gallery, we look back at a time when the shoreline was already the heart of community life. These images capture a time when the water was not just a resource, but a space where Singaporeans from all walks of life came together.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7Q7-WzX7dWaSyTPttSGVVq1k-_hu8EpNUJU4UujKmshOkrqY04DOACFcQdzXud13YaC8iKP3b7Rwi/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
+
+---
+
+### **Recreation Spaces before Independence**
+
+As seen above, the sea was already a part of life in colonial Singapore. But what other recreational options did the people have besides the sea and beaches? This story map explores the various leisure spots created during the colonial period. By looking at these spaces, we gain a better understanding of how people spent their time back then, and how the island's recreational landscape first began to grow.
+
+[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/recreationstorymap.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/green-spaces-before-independence/index.html){:target="_blank"}
+
+---
+
+### **The Turning Point: Rivers in Distress**
+
+As Singapore became an independent nation, the very waterways that had fueled our early growth began to falter under the weight of their own success. Decades of unrestricted maritime trade and industrial expansion had left a heavy mark. This gallery documents the "National Eyesores" of the mid-20th century. Here, you will see the Singapore River and Kallang Basin at their most congested—choked with bumboats, debris, and industrial waste. These were not the recreational spaces we know today, but waterways overwhelmed by pollution and urban overcrowding. These images serve as a stark reminder of the environmental concerns that finally triggered the transformation of our coast into the one we know today.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLtmnUcTCMxNiaCD47q8rVs5_bTntz-xO0MNjqyJijkWFbBHJp-33ZXgGv9CDOZNB-_W66-2FdeM3V/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
+
+---
+
+### **The Blueprint for Change**
+
+As our rivers and waterbodies reached a breaking point, Singapore began a bold mission to fix them. This transformation was a decades-long journey that fundamentally changed the coast of our nation. This gallery explores that transformative journey which included massive reclamation projects, a reimagination of how our land should be used, the beautification of our nation and a decade-long clean-up of our rivers. Together, these efforts laid the foundation for the world-class water culture we enjoy today.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmEuMjTJMZPDLBW_XsNReaveMw9_BGz7qklHXy03p58NXeWcaMsQQaGGN8xEvRFST8plO7Cgnj8NWB/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
+
+----
+
+### **Life on the Water**
+
+While the transformation of our coastline began with a need for land and infrastructure, it ultimately gave us something much more personal: a new way to live, play, and connect with the water. Today, Singapore’s southern shores and reservoirs have become a vibrant blue playground for everyone. From the rhythmic beat of dragon boat drums to the quiet glide of a kayak, our waterways are no longer polluted or just resources to be managed but active spaces that bring people together. This gallery celebrates the diverse water activities that have become a core part of our modern lifestyle.
+
+<div style="position: relative; width: 100%; padding-bottom: 61.85%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSv5zdk2vug13SFpN0zmUNJ2tRXMhnXA5YDjC0FasxHlay3OIzxi2aNT_ijrImYO2fDV2hBBBKsAq-w/pubembed?start=true&amp;loop=true&amp;delayms=10000">
+    </iframe>
+</div>
+
+---
+
+### **Our Blue and Green Spaces Today**
+
+While much of our landscape has been shaped by urban growth and reclamation, Singapore remains deeply committed to protecting its natural heritage. Today, our island is home to four main nature reserves — Bukit Timah, Central Catchment, Sungei Buloh Wetland and Labradour alongside over 400 parks. These spaces serve not only as vital sanctuaries for biodiversity, but also offer a peaceful escape from city life. Discover the diverse wildlife and lush habitats that lie within these nature reserves and nature areas of Singapore in this story map.
+
+[![tanjongpagar_storymap](/images/Maritime%20Digital%20Story/natureareas.jpg)](https://uploads.knightlab.com/storymapjs/04f5c05311b7e48aadefd0cdd269c308/nature-reserves-and-nature-areas-of-singapore/index.html){:target="_blank"}
+
+----
