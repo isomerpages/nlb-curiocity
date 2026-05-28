@@ -36,8 +36,7 @@ sections:
       title: Joo Chiat and Katong
       subtitle: Story Map
       id: infopic
-      description: Learn about Jurong's transformation from an undeveloped region to
-        an innovative and sustainable metropolis in this digital story.
+      description: Explore the gems of Joo Chiat and Katong in this story map.
       button: Start the Journey
       url: /resource-room/story-maps/joo-chiat-katong
       image: /images/Storymaps/joo_chiat_banner.jpg
@@ -45,8 +44,7 @@ sections:
   - infopic:
       title: Woodlands
       subtitle: Story Map
-      description: Trace the history of the bridges spanning the Singapore River that
-        have ties to the colonial period.
+      description: Explore Woodlands in this story map.
       button: View the story map
       url: /resource-room/story-maps/woodlands/
       alt: Woodlands
