@@ -31,7 +31,7 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Yishun Story Map](/images/storymap-image-yishun.jpg)](/resource-room/story-maps/yishun)
 
-[![Woodlands Story Map](/images/Storymaps/storymap_image_woodlands.jpg)](/resource-room/story-maps/woodlands)
+[![Woodlands Story Map](/images/Storymaps/storymap_image_woodlands.jpg)](/resource-room/story-maps/woodlands/)
 
 _______
 
