@@ -9,7 +9,7 @@ variant: markdown
 ---
 [![Alt text for image on Isomer site](/images/Storymaps/storymap_image_woodlands.jpg)](https://go.gov.sg/woodlands-storymap)
 
-Embark on a journey into Sembawang's fascinating past, focusing on the former Sembawang Naval Base. Beyond its strategic military importance, this area was a vibrant community. Imagine grand colonial homes coexisting with humble kampongs and lively commercial streets. Through this story map’s historical buildings and places, you will explore the lives of naval personnel, dockyard workers, rubber tappers, and villagers who shaped this unique community, while witnessing Sembawang's transformation from a quiet rubber estate into a bustling town.
+Once a 19th-century landscape of plantation estates, Woodlands quickly evolved into a vital gateway into Johor with the opening of the historic Johor-Singapore Causeway in 1924. Today, Woodlands continues to serve this important role into the Malaysian state, but has also become a vibrant regional centre featuring bustling housing estates, parks, and commercial activities. Dive into our story map on Woodlands to explore its incredible transformation.
 
 View the story map in [full screen](https://go.gov.sg/woodlands-storymap){:target="_blank"} or on your mobile device by scanning the QR code below.
 
