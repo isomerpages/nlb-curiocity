@@ -47,6 +47,8 @@ _______
 <br>7. Tiong Bahru photo by Choo Yut Shing via Flickr
 <br>8. Toa Payoh photo by Bob T [CC BY-SA 4.0]
 <br>9. Yishun photo by KTPH [CC BY-SA 4.0]
+<br>10. Woodlands photo by Wzhkevin [CC BY-SA 4.0]
+<br>11. Joo Chiat and Katong photo by Kate Branch [CC BY-SA 4.0]
 </span>
 	
 </details>
