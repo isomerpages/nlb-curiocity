@@ -9,7 +9,7 @@ variant: markdown
 ---
 [![Alt text for image on Isomer site](/images/Storymaps/storymap_image_joo_chiat.jpg)](https://go.gov.sg/joochiat-katong-storymap)
 
-Embark on a journey into Sembawang's fascinating past, focusing on the former Sembawang Naval Base. Beyond its strategic military importance, this area was a vibrant community. Imagine grand colonial homes coexisting with humble kampongs and lively commercial streets. Through this story map’s historical buildings and places, you will explore the lives of naval personnel, dockyard workers, rubber tappers, and villagers who shaped this unique community, while witnessing Sembawang's transformation from a quiet rubber estate into a bustling town.
+Once a 19th-century landscape of plantations and seaside bungalows, the Joo Chiat and Katong area has quickly evolved into a vibrant residential hub rich in Eurasian and Peranakan heritage, as well as beautifully conserved colonial shophouses. It is also dotted with nostalgic 1970s-style kopitiams together with trendy cafes and independent boutiques. Dive into our story map on the Joo Chiat and Katong area to explore its incredible transformation and unique blend of old and new.
 
 View the story map in [full screen](https://go.gov.sg/joochiat-katong-storymap){:target="_blank"} or on your mobile device by scanning the QR code below.
 
