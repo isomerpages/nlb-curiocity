@@ -16,7 +16,7 @@ View the story map in [full screen](https://go.gov.sg/joochiat-katong-storymap){
 <img src="/images/Storymaps/joo_chiat_katong_storymap_qr.png" alt="qr-code-storymap-joo-chiat-katong" style="width:300px;">
 
 Notes:
-1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Sembawang.
+1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Joo Chiat and Katong.
 
 2. The base map used in this story map is the Singapore Land Authority's [OneMap](https://www.onemap.gov.sg/docs/maps/).
 
