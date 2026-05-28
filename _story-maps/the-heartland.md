@@ -15,7 +15,7 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Sembawang Naval Base Story Map](/images/storymap_image_sembawangnavalbase1.jpg)](/buildings-and-villages-of-the-former-sembawang-naval-base/)
 
-[![Joo Chiat and Katong Story Map](/images/storymap-image-joochiat.jpg)](/resource-room/story-maps/joo-chiat)
+[![Joo Chiat and Katong Story Map](/images/Storymaps/storymap_image_joo_chiat.jpg)](/resource-room/story-maps/joo-chiat)
 
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
@@ -31,7 +31,7 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Yishun Story Map](/images/storymap-image-yishun.jpg)](/resource-room/story-maps/yishun)
 
-[![Woodlands Story Map](/images/storymap-image-woodlands.jpg)](/resource-room/story-maps/woodlands)
+[![Woodlands Story Map](/images/Storymaps/storymap_image_woodlands.jpg)](/resource-room/story-maps/woodlands)
 
 _______
 
