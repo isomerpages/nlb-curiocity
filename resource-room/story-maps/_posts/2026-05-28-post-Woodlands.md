@@ -16,7 +16,7 @@ View the story map in [full screen](https://go.gov.sg/navalbasestorymap){:target
 <img src="/images/Storymaps/woodlands_storymap_qr.png" alt="qr-code-storymap-sembawangnavalbase" style="width:300px;">
 
 Notes:
-1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Sembawang.
+1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Woodlands.
 
 2. The base map used in this story map is the Singapore Land Authority's [OneMap](https://www.onemap.gov.sg/docs/maps/).
 
