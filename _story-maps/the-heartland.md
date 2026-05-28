@@ -15,6 +15,8 @@ Learn more about the housing estates in our heartland through the story maps bel
 
 [![Sembawang Naval Base Story Map](/images/storymap_image_sembawangnavalbase1.jpg)](/buildings-and-villages-of-the-former-sembawang-naval-base/)
 
+[![Joo Chiat and Katong Story Map](/images/Storymaps/storymap_image_joo_chiat.jpg)](/resource-room/story-maps/joo-chiat-katong/)
+
 [![Alt text for image on Isomer site](/images/storymap-image-jurong.jpg)](/resource-room/story-maps/jurong)
 
 [![Punggol Story Map](/images/storymap-image-punggol.png)](/resource-room/story-maps/punggol) 
@@ -28,6 +30,8 @@ Learn more about the housing estates in our heartland through the story maps bel
 [![Toa Payoh Story Map](/images/storymap-image-toa-payoh.png)](/resource-room/story-maps/toa-payoh)
 
 [![Yishun Story Map](/images/storymap-image-yishun.jpg)](/resource-room/story-maps/yishun)
+
+[![Woodlands Story Map](/images/Storymaps/storymap_image_woodlands.jpg)](/resource-room/story-maps/woodlands/)
 
 _______
 
@@ -43,6 +47,8 @@ _______
 <br>7. Tiong Bahru photo by Choo Yut Shing via Flickr
 <br>8. Toa Payoh photo by Bob T [CC BY-SA 4.0]
 <br>9. Yishun photo by KTPH [CC BY-SA 4.0]
+<br>10. Woodlands photo by Wzhkevin [CC BY-SA 4.0]
+<br>11. Joo Chiat and Katong photo by Kate Branch [CC BY-SA 4.0]
 </span>
 	
 </details>

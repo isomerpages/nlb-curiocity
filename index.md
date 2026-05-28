@@ -33,24 +33,22 @@ sections:
       alt: Tanjong_Pagar_Container_Port
       image: /images/Maritime Digital Story/maritime_digitalstory_cover_dg.jpg
   - infopic:
-      title: Buildings and Villages of the Former Sembawang Naval Base
-      subtitle: STORY MAP
+      title: Joo Chiat and Katong
+      subtitle: Story Map
       id: infopic
-      description: Embark on a journey into Sembawang's fascinating past, focusing on
-        the former Sembawang Naval Base.
-      button: View the Story Map
-      url: https://curiocity.nlb.gov.sg/buildings-and-villages-of-the-former-sembawang-naval-base/
-      alt: Image alt text
-      image: /images/navalbase1200x.jpg
-  - infopic:
-      title: Our Hawkers Through Time
-      subtitle: Digital Story
-      id: infopic
-      description: Explore the story of Singapore's hawkers in this digital story.
+      description: Explore the gems of Joo Chiat and Katong in this story map.
       button: Start the Journey
-      alt: Bukit Canberra
-      url: /digital-stories/our-hawkers-through-time/introduction/
-      image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
+      url: /resource-room/story-maps/joo-chiat-katong
+      image: /images/Storymaps/joo_chiat_banner.jpg
+      alt: Joo Chiat
+  - infopic:
+      title: Woodlands
+      subtitle: Story Map
+      description: Explore Woodlands in this story map.
+      button: View the story map
+      url: /resource-room/story-maps/woodlands/
+      alt: Woodlands
+      image: /images/Storymaps/woodlands_banner.jpg
   - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
@@ -62,15 +60,24 @@ sections:
       image: /images/Storymaps/Middleroad/middle_road_2.jpg
       alt: Image alt text
   - infopic:
-      title: Swampland to Tech Metropolis
+      title: Our Hawkers Through Time
       subtitle: Digital Story
       id: infopic
-      description: Learn about Jurong's transformation from an undeveloped region to
-        an innovative and sustainable metropolis in this digital story.
+      description: Explore the story of Singapore's hawkers in this digital story.
       button: Start the Journey
-      url: /digital-stories/jurong/intro/
-      image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
-      alt: Chinese Garden Aerial
+      alt: Bukit Canberra
+      url: /digital-stories/our-hawkers-through-time/introduction/
+      image: /images/Hawkersdigital/hawkers_digitalstory_cover_dg_2.jpg
+  - infopic:
+      title: Buildings and Villages of the Former Sembawang Naval Base
+      subtitle: STORY MAP
+      id: infopic
+      description: Embark on a journey into Sembawang's fascinating past, focusing on
+        the former Sembawang Naval Base.
+      button: View the Story Map
+      url: https://curiocity.nlb.gov.sg/buildings-and-villages-of-the-former-sembawang-naval-base/
+      alt: Image alt text
+      image: /images/navalbase1200x.jpg
   - infopic:
       title: HarbourFront
       subtitle: Story Map
@@ -97,15 +104,6 @@ sections:
       url: /resource-room/timelines/golden-mile-complex
       image: /images/golden-mile-complex-photo-1-1.jpg
       alt: Image alt text
-  - infopic:
-      title: Heritage Bridges of Singapore River
-      subtitle: Story Map
-      description: Trace the history of the bridges spanning the Singapore River that
-        have ties to the colonial period.
-      button: View the story map
-      url: /resource-room/story-maps/bridges-singapore-river
-      alt: Image alt text
-      image: /images/landing-bridge.jpg
   - infopic:
       title: Bras Basah Through Time
       subtitle: Digital Story
