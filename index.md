@@ -39,18 +39,18 @@ sections:
       description: Learn about Jurong's transformation from an undeveloped region to
         an innovative and sustainable metropolis in this digital story.
       button: Start the Journey
-      url: /digital-stories/jurong/intro/
-      image: /images/Jurongdigital/jurong_dgstory_cover_1.jpg
-      alt: Chinese Garden Aerial
+      url: /resource-room/story-maps/joo-chiat-katong
+      image: /images/Storymaps/joo_chiat_banner.jpg
+      alt: Joo Chiat
   - infopic:
       title: Woodlands
       subtitle: Story Map
       description: Trace the history of the bridges spanning the Singapore River that
         have ties to the colonial period.
       button: View the story map
-      url: /resource-room/story-maps/bridges-singapore-river
-      alt: Image alt text
-      image: /images/landing-bridge.jpg
+      url: /resource-room/story-maps/woodlands/
+      alt: Woodlands
+      image: /images/Storymaps/woodlands_banner.jpg
   - infopic:
       title: "Mapping Middle Road: Prewar Japanese Community in Singapore"
       subtitle: Story Map
