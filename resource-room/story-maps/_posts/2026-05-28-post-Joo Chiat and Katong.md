@@ -11,7 +11,7 @@ variant: markdown
 
 Embark on a journey into Sembawang's fascinating past, focusing on the former Sembawang Naval Base. Beyond its strategic military importance, this area was a vibrant community. Imagine grand colonial homes coexisting with humble kampongs and lively commercial streets. Through this story map’s historical buildings and places, you will explore the lives of naval personnel, dockyard workers, rubber tappers, and villagers who shaped this unique community, while witnessing Sembawang's transformation from a quiet rubber estate into a bustling town.
 
-View the story map in [full screen](https://go.gov.sg/navalbasestorymap){:target="_blank"} or on your mobile device by scanning the QR code below.
+View the story map in [full screen](https://go.gov.sg/joochiat-katong-storymap){:target="_blank"} or on your mobile device by scanning the QR code below.
 
 <img src="/images/Storymaps/joo_chiat_katong_storymap_qr.png" alt="qr-code-storymap-sembawangnavalbase" style="width:300px;">
 
