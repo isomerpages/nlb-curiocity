@@ -13,7 +13,7 @@ Embark on a journey into Sembawang's fascinating past, focusing on the former Se
 
 View the story map in [full screen](https://go.gov.sg/joochiat-katong-storymap){:target="_blank"} or on your mobile device by scanning the QR code below.
 
-<img src="/images/Storymaps/joo_chiat_katong_storymap_qr.png" alt="qr-code-storymap-sembawangnavalbase" style="width:300px;">
+<img src="/images/Storymaps/joo_chiat_katong_storymap_qr.png" alt="qr-code-storymap-joo-chiat-katong" style="width:300px;">
 
 Notes:
 1. This story map does not show a comprehensive coverage of the buildings, landmarks and villages of Sembawang.
